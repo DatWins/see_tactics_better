@@ -1,0 +1,36 @@
+baseURL = "/"
+
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+defaultContentLanguage = "en"
+
+theme = "hugo-scroll"
+
+title = "See Tactics Better"
+
+enableGitInfo = true
+enableEmoji = true
+
+[params]
+    favicon = "images/favicon.png"
+    title_guard = true
+    title = "See Tactics Better"
+    description = "Lichess puzzle flashcards — fork, pin, mate in N, and more. Flip the card to see the solution."
+    language_menu = false
+    show_current_lang = false
+    hidedesignbyline = false
+    invertSectionColors = false
+    combine_page_and_site_title = false
+
+    [params.footer]
+    showContactIcons = true
+    showFooterLinks = false
+
+[languages]
+  [languages.en]
+    weight = 10
+    languageName = "English"
+    contentDir = "content/en"
+
+[markup.goldmark.renderer]
+  unsafe = true
