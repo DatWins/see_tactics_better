@@ -4408,7 +4408,18 @@
       "solution": [
         "Qxh2#"
       ]
-    }
+    },
+    "contextFen": "3q1rk1/pb3pbp/4p1p1/1P1p4/r7/N1PQBP2/P5PP/4RR1K w - - 5 27",
+    "contextMoves": [
+      "c4",
+      "Qe7",
+      "c5",
+      "Ba8",
+      "Qb3",
+      "Rh4",
+      "Nc2",
+      "Qc7"
+    ]
   },
   {
     "site": "https://lichess.org/training/018b0",
