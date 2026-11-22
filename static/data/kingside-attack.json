@@ -9,7 +9,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "5rk1/p5p1/3bq2p/1Pp5/3p4/1P1Q1P2/P3KP2/4R3 w - - 0 26",
+      "fen": "5rk1/p5p1/3bRr1p/1Pp4q/3p4/1P1Q1N2/P4PPP/4R1K1 b - - 0 22",
       "solution": [
         "Rxf3",
         "gxf3",
@@ -42,7 +42,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2kr1b1r/p1p2pp1/2p1N3/7p/6n1/2NPB3/PPP2PPq/R2Q1RK1 w - - 0 14",
+      "fen": "2kr1b1r/p1p2pp1/2pqN3/7p/6n1/2NPB3/PPP2PPP/R2Q1RK1 b - - 0 13",
       "solution": [
         "Qxh2#"
       ]
@@ -69,7 +69,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "8/2R3kr/4p1p1/1p1q1pP1/p2P1P2/P6R/4bB2/6K1 b - - 2 37",
+      "fen": "2r3k1/2r4p/4p1p1/1p1q1pP1/p2P1P1Q/P6R/4bB2/2R3K1 w - - 6 35",
       "solution": [
         "Qxh7+",
         "Rxh7",
@@ -100,7 +100,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/pp3ppp/3p4/P1P1p3/2B5/2B2q2/2P2P1P/R4R1K w - - 0 18",
+      "fen": "r4rk1/pp3ppp/3p1q2/P1P1p3/2B5/2B2n2/2P2P1P/R2Q1R1K b - - 1 16",
       "solution": [
         "Qf4",
         "Qxf3",
@@ -129,7 +129,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1bqrk1Q/pp1nbpp1/2p5/3n2P1/2BP4/P7/1P1NNPP1/R3K2R b KQ - 4 15",
+      "fen": "r1bqr1k1/pp1nbpp1/2p5/3n2P1/2BP4/P7/1PQNNPP1/R3K2R w KQ - 1 14",
       "solution": [
         "Qh7+",
         "Kf8",
@@ -158,7 +158,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r6k/q1p4p/1b2bPpQ/p2pP3/3p2p1/4B3/PP3RPP/3R2K1 b - - 1 28",
+      "fen": "r6k/q1p2p1p/1b2bPr1/p1ppP2Q/3P2p1/4B3/PP2NRPP/3R2K1 w - - 2 26",
       "solution": [
         "Nf4",
         "cxd4",
@@ -189,7 +189,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2r2rk1/5ppQ/bq2p3/p2pP1N1/Pb1p2P1/1P2P2P/3N4/2R1K2R b K - 0 19",
+      "fen": "2r2rk1/5ppp/bq2p3/p2pP1N1/Pb1p2P1/1P2P2P/2QN4/2R1K2R w K - 0 19",
       "solution": [
         "Qxh7#"
       ]
@@ -216,7 +216,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "7k/pp6/2n5/3pp2p/3p4/2P2Prq/PP4NB/R5RK w - - 0 31",
+      "fen": "6rk/pp6/2n5/3ppn1p/3p4/2P2P1q/PP3QNB/R5RK b - - 3 29",
       "solution": [
         "Ng3+",
         "Qxg3",
@@ -245,7 +245,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2k5/1bp4n/1pq1p2p/p1P5/1P3B2/P6P/4KR2/RB1r4 w - - 0 30",
+      "fen": "2kr2r1/1bp4n/1pq1p2p/p1P5/1P3B2/P6P/5RP1/RB3QK1 b - - 4 26",
       "solution": [
         "Rd1",
         "Qxd1",
@@ -278,7 +278,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r2r2k1/2q1bpQ1/3p3p/1ppn4/1P1BP3/P7/4RPPP/R5K1 b - - 0 21",
+      "fen": "r2r2k1/2q1bpp1/3p3p/1ppn4/1P1BP3/P5Q1/4RPPP/R5K1 w - - 0 21",
       "solution": [
         "Qxg7#"
       ]
@@ -305,7 +305,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "5r1k/p1Qn2pp/3p4/8/8/2P5/PP4PP/RN3rK1 w - - 0 19",
+      "fen": "4rr1k/p1Qn2pp/3p1q2/8/8/2P5/PP3PPP/RN3RK1 b - - 0 16",
       "solution": [
         "Qxf2+",
         "Rxf2",
@@ -336,7 +336,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/1bp2ppp/p3pn2/2P1N3/8/3B4/P1P1QPqP/R4RK1 w - - 0 17",
+      "fen": "r4rk1/1bp2ppp/p1q1pn2/2P1N3/8/3B4/P1P1QPPP/R4RK1 b - - 1 16",
       "solution": [
         "Qxg2#"
       ]
@@ -363,7 +363,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "5rk1/p7/1p4p1/3pB1N1/3P1Pn1/4nQP1/PP5q/4R1K1 w - - 0 37",
+      "fen": "5rk1/p7/1p4p1/3pB1Nq/3P1Pn1/4nQP1/PP5P/4R1K1 b - - 3 36",
       "solution": [
         "Qxh2#"
       ]
@@ -390,7 +390,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3r2k/1pp2Qp1/1b4np/pP2P3/P7/B4N1P/4qPP1/R5K1 w - - 0 23",
+      "fen": "r2qr2k/1pp2Qp1/1b4np/pP2P3/P4n2/B1N2N1P/5PP1/R3R1K1 b - - 0 20",
       "solution": [
         "Qd3",
         "Ne2",
@@ -421,7 +421,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "3q1nk1/1bN2rpp/pp1P4/8/3N4/8/PPP2nPP/R1BQ2K1 w - - 0 18",
+      "fen": "3q1nk1/1bN2rpp/pp1P4/8/3Nn2b/8/PPP2PPP/R1BQ1RK1 b - - 2 16",
       "solution": [
         "Bxf2+",
         "Rxf2",
@@ -450,7 +450,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "3r1n2/1bp1bkpp/p4n2/1p6/3P4/P1N3B1/1PP1QPqP/R3R1K1 w - - 0 19",
+      "fen": "3r1n2/1bp1bkpp/p1q2n2/1p6/3P4/P1N3B1/1PP1QPPP/R3R1K1 b - - 6 18",
       "solution": [
         "Qxg2#"
       ]
@@ -477,7 +477,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r2q1rk1/2p3Qn/2pbp2p/p2p1p2/P4P2/1P1PP3/1BPN2PP/4RR1K b - - 0 16",
+      "fen": "r2q1rk1/2p3pn/2pbp2p/p2p1p2/P4PQ1/1P1PP3/1BPN2PP/4RR1K w - - 0 16",
       "solution": [
         "Qxg7#"
       ]
@@ -504,7 +504,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/2q2pQp/3pp3/4Pb1N/1p6/1p6/PPP3PP/1K1RR3 b - - 0 22",
+      "fen": "r4rk1/2q2ppp/3pp3/4Pb1N/1p6/1p4Q1/PPP3PP/1K1RR3 w - - 0 22",
       "solution": [
         "Qxg7#"
       ]
@@ -531,7 +531,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r6k/5rp1/b3B1n1/p1pp4/1p3P1q/3P1Q2/PPP2PK1/R6R b - - 0 28",
+      "fen": "r4r1k/6p1/b3p1nN/p1pp4/1p3P1q/3P1Q1B/PPP2PK1/R6R w - - 1 27",
       "solution": [
         "Nf7+",
         "Rxf7",
@@ -560,7 +560,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r5k1/1p1R1p2/p3ppp1/2q5/8/1Q5P/PP3PP1/4R1K1 b - - 0 26",
+      "fen": "r5k1/1p1r1pp1/p3pnp1/2qN4/8/1Q5P/PP3PP1/3RR1K1 w - - 0 25",
       "solution": [
         "Nxf6+",
         "gxf6",
@@ -589,7 +589,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "5rk1/q5pp/p3Qb2/3nN3/P2P4/8/1r4PP/1R3RK1 b - - 3 27",
+      "fen": "5rk1/q4ppp/p3Pb2/3nN3/P2P4/7Q/1r4PP/1R3RK1 w - - 0 25",
       "solution": [
         "exf7+",
         "Rxf7",
@@ -620,7 +620,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4k1r/pp3pp1/4p3/3pP1n1/6B1/1PP5/P5Pq/RN1Q1RK1 w - - 0 16",
+      "fen": "r4k1r/pp3pp1/4p3/3pP1np/6Pq/1PP5/P3B1PP/RN1Q1RK1 b - - 0 14",
       "solution": [
         "hxg4",
         "Bxg4",
@@ -649,7 +649,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2rq1rk1/1p3p1p/p1pn2p1/P1Np4/1P1P1P2/4P3/5nBP/R1Q3RK w - - 0 23",
+      "fen": "2rq1rk1/1p3p1p/p1pn2p1/P1Np4/1P1PnP2/4P3/5PBP/R1Q3RK b - - 3 22",
       "solution": [
         "Nxf2#"
       ]
@@ -676,7 +676,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/3p1pQp/p2Np1p1/1p1R4/8/P7/1P3PPP/3R2K1 b - - 0 25",
+      "fen": "r4rk1/3p1p1p/p2NpQpq/1p1b4/3R4/P7/1P3PPP/3R2K1 w - - 10 24",
       "solution": [
         "Rxd5",
         "Qg7",
@@ -705,7 +705,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "7k/pb4p1/1p3n1p/2p1RP2/2P5/2P1Q1BP/P2r1K2/5B1q w - - 0 40",
+      "fen": "7k/pb1r2p1/1pq2n1p/2p1RP2/2P5/1NP1Q1BP/P7/5BK1 b - - 2 37",
       "solution": [
         "Qh1+",
         "Kf2",
@@ -736,7 +736,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "8/pp2kb2/3p1p1r/1N1Pp3/3bP3/P2B2P1/1P4PK/8 w - - 0 31",
+      "fen": "r6r/pp2kb2/3p1p2/1N1Pp3/3bP3/P2B2P1/1P1Q2PP/7K b - - 7 28",
       "solution": [
         "Rxh2+",
         "Kxh2",
@@ -767,7 +767,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3kbnr/pp4pp/2p2p2/4n3/2BqP3/2N2P2/PPP1Q2P/R1B2RK1 w kq - 1 12",
+      "fen": "r2qkbnr/pp4pp/2p2p2/4n2b/2B1P3/2N2N2/PPP1Q1PP/R1B2RK1 b kq - 1 10",
       "solution": [
         "Bxf3",
         "gxf3",
@@ -796,7 +796,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "rn5k/pp4pp/1b2B3/4N3/8/2p5/PP4PP/RN3q1K w - - 0 18",
+      "fen": "rn1q3k/pp4pp/1b2B3/4N3/5Q2/2p5/PP4PP/RN5K b - - 0 16",
       "solution": [
         "Qd1+",
         "Qf1",
@@ -825,7 +825,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b1qrk1/1pp3pQ/3ppb2/p5N1/2Pn4/6P1/PP3PBP/R1B2RK1 b - - 0 13",
+      "fen": "r1b1qrk1/1pp3pp/3ppb2/p5N1/2Pn4/6P1/PPQ2PBP/R1B2RK1 w - - 0 13",
       "solution": [
         "Qxh7#"
       ]
@@ -852,7 +852,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "5r1k/bpp3Rp/p1npb3/4p1N1/1P3r2/P1PP3q/1B1QBP2/2K3R1 b - - 2 23",
+      "fen": "5rk1/bpp3pp/p1npb3/4p3/1P2Nr2/P1PP3q/1B1QBPR1/2K3R1 w - - 0 22",
       "solution": [
         "Rxg7+",
         "Kh8",
@@ -881,7 +881,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2k4r/pp3pp1/4pn2/2np2p1/8/1B1P1P2/PPPN3q/R2Q3K w - - 0 21",
+      "fen": "2k4r/pp3pp1/4pn2/2np2p1/8/1B1P1Pq1/PPPN3R/R2Q3K b - - 7 20",
       "solution": [
         "Qxh2#"
       ]
@@ -908,7 +908,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r2q1rk1/1b3ppQ/p2p1b2/1p1Pn3/1P6/P1NB3P/1B3PP1/R4RK1 b - - 0 18",
+      "fen": "r2q1rk1/1b3ppp/p2p1b2/1p1Pn3/1P2Q3/P1NB3P/1B3PP1/R4RK1 w - - 3 18",
       "solution": [
         "Qxh7#"
       ]
@@ -935,7 +935,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "b4b1r/3k1ppp/p2p4/1p2p3/3P4/N3B3/PP3PqP/R2Q1RK1 w - - 0 17",
+      "fen": "b4b1r/3k1ppp/p2p4/1p2p3/3Pq3/N3B3/PP3PPP/R2Q1RK1 b - - 0 16",
       "solution": [
         "Qxg2#"
       ]
@@ -962,7 +962,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3kb1r/p4pp1/b1p4p/n3pQ2/4N3/2N5/PP1P1PPP/R1B2qK1 w kq - 0 15",
+      "fen": "r3kb1r/p4pp1/b1p4p/n3pQ2/4N3/2Nq4/PP1P1PPP/R1B2RK1 b kq - 1 14",
       "solution": [
         "Qxf1#"
       ]
@@ -989,7 +989,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b2r2/4bppk/p1n5/3Q4/Pp6/5N2/1B3PPP/R4RK1 b - - 0 19",
+      "fen": "r1b2rk1/4bppp/p1n5/3q4/Pp6/3B1N2/1B3PPP/R2Q1RK1 w - - 0 18",
       "solution": [
         "Bxh7+",
         "Kxh7",
@@ -1018,7 +1018,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1bk3r/ppp1np1p/3P2pP/1N6/2BP1n2/8/PPP3q1/R1BQ2KR w - - 0 15",
+      "fen": "r1bk3r/ppp1np1p/3P2pP/1N4q1/2BP1n2/8/PPP3P1/R1BQ2KR b - - 0 14",
       "solution": [
         "Qxg2#"
       ]
@@ -1045,7 +1045,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/pb3ppp/1p2p3/8/3N4/2P4P/PPQ2Pq1/R4RK1 w - - 0 19",
+      "fen": "r4rk1/pb3ppp/1p2p3/3q4/3N4/2P4P/PPQ2PP1/R4RK1 b - - 2 18",
       "solution": [
         "Qxg2#"
       ]
@@ -1072,7 +1072,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2rqrb1k/pp3Npp/8/3p4/3NnnQ1/2P4P/PP3PP1/R4RK1 b - - 0 24",
+      "fen": "2rqrbk1/pp3ppp/8/3p1N2/3NnnQ1/2P4P/PP3PP1/R4RK1 w - - 0 23",
       "solution": [
         "Nh6+",
         "Kh8",
@@ -1101,7 +1101,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2k2bn1/ppp2Nrp/2b1p3/6BQ/8/2N5/PP3PqP/R4RK1 w - - 0 19",
+      "fen": "2k2bn1/ppp2Nrp/2b1p3/3q2BQ/8/2N5/PP3PPP/R4RK1 b - - 6 18",
       "solution": [
         "Qxg2#"
       ]
@@ -1128,7 +1128,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r2q1rk1/ppp2ppQ/2n5/3p2N1/3P4/1B5P/P4PP1/R1B2bK1 b - - 0 17",
+      "fen": "r2q1rk1/ppp2ppp/2n5/3p2N1/3P4/1B5P/P1Q2PP1/R1B2bK1 w - - 0 17",
       "solution": [
         "Qxh7#"
       ]
@@ -1155,7 +1155,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b1r2k/p1p4p/2q1NB2/7p/8/b1NP4/PP3P1P/R3K1R1 b Q - 0 20",
+      "fen": "r1b1r2k/p1p2p1p/2q1N3/7p/8/b1NPB3/PP3P1P/R3K1R1 w Q - 2 19",
       "solution": [
         "Bd4+",
         "f6",
@@ -1184,7 +1184,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "1r3rk1/2p1qppQ/p2n4/1p2p1Pp/5n1P/2P1N3/PPB2P1K/3R2R1 b - - 0 29",
+      "fen": "1r3rk1/2p1qppb/p2n4/1p2p1Pp/4Qn1P/2P1N3/PPB2P1K/3R2R1 w - - 0 29",
       "solution": [
         "Qxh7#"
       ]
@@ -1211,7 +1211,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b2rk1/ppb5/2p4p/2Pp1pp1/1P6/2NBP3/P4PPq/2RQ1RK1 w - - 0 17",
+      "fen": "r1b2rk1/ppb5/2p4p/2Ppqpp1/1P6/2NBP3/P4PPP/2RQ1RK1 b - - 1 16",
       "solution": [
         "Qxh2#"
       ]
@@ -1238,7 +1238,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "1n4Q1/7k/p2q1r1p/1ppB4/8/3P4/PPP1rPQ1/2K5 b - - 0 28",
+      "fen": "1n5k/6p1/p2q1rPp/1ppB4/8/3P4/PPP1rPQ1/2K4R w - - 0 26",
       "solution": [
         "Rxh6+",
         "gxh6",
@@ -1269,7 +1269,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4R1k1/pp3ppp/2p3b1/2n3P1/2B2q1P/5N2/PPP2P2/6K1 b - - 0 25",
+      "fen": "3r2k1/pp3ppp/2p3b1/2n3P1/2B2q1P/5N2/PPP1QP2/4R1K1 w - - 0 24",
       "solution": [
         "Qe8+",
         "Rxe8",
@@ -1298,7 +1298,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "1r4k1/r5q1/p2p1pP1/3Bpb2/2p4Q/2P3K1/P6R/2R5 b - - 1 37",
+      "fen": "1r4k1/r5q1/p2p1pP1/4pn2/2p1P2Q/2Pb1BK1/P6R/2R5 w - - 0 36",
       "solution": [
         "exf5",
         "Bxf5",
@@ -1327,7 +1327,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "8/2p1r1kp/5pp1/3P4/4P3/2N1QbP1/PPP2R2/5RKr w - - 1 25",
+      "fen": "8/2p1r1kp/5pp1/3P3r/4P3/2N1QbPq/PPP2R1P/5RK1 b - - 4 23",
       "solution": [
         "Qxg3+",
         "hxg3",
@@ -1356,7 +1356,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1q3rk/pp3p2/1np1p2Q/8/3P3P/2N2PR1/PP4P1/2KR4 b - - 0 25",
+      "fen": "r1qr3k/pp3pb1/1np1p3/8/3P3P/2N2PR1/PP1Q2P1/2KR4 w - - 0 23",
       "solution": [
         "Qg5",
         "Rg8",
@@ -1387,7 +1387,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4k1Q/pp2q1p1/2p1p1Bp/3nP1pP/3P2P1/2P2r2/PP6/R5K1 b - - 5 26",
+      "fen": "r5k1/pp2q1p1/2p1p2p/3nP1pP/3P2P1/2PQ1r2/PPB5/R5K1 w - - 0 24",
       "solution": [
         "Qh7+",
         "Kf7",
@@ -1418,7 +1418,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/p1p1qppp/2pp4/4p3/6P1/2PP3P/P1P2PK1/R1BQ1R2 b - - 0 14",
+      "fen": "r2q1rk1/p1p1bppp/2pp2b1/4p3/4n1PN/2NP3P/PPP2PK1/R1BQ1R2 w - - 0 12",
       "solution": [
         "Nxg6",
         "Nxc3",
@@ -1449,7 +1449,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "3r2k1/2r2p2/4p3/4N1Q1/1p3P2/4P3/n4P1P/1qq2BRK b - - 0 34",
+      "fen": "3r2k1/2r2p2/4p2p/4N1pQ/1p3P2/4P3/np3P1P/2q2BRK w - - 2 33",
       "solution": [
         "Qxh6",
         "b1=Q",
@@ -1478,7 +1478,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b2k1r/pp4p1/2p3p1/3p4/3Q4/1N6/PPP2PPq/R4RK1 w - - 0 18",
+      "fen": "r1b2k1r/pp4p1/2pq2p1/3p4/3Q4/1N6/PPP2PPP/R4RK1 b - - 0 17",
       "solution": [
         "Qxh2#"
       ]
@@ -1505,7 +1505,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4R1k1/5p1p/p5pb/2q5/p2n4/P2Q2B1/r2N1PPP/3K3R b - - 0 29",
+      "fen": "1r4k1/4Pp1p/p5pb/2q5/p2n4/P2Q2B1/r2N1PPP/3KR2R w - - 1 28",
       "solution": [
         "e8=Q+",
         "Rxe8",
@@ -1534,7 +1534,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4Q1k1/pbp2ppp/6q1/3p4/3p3r/2P3P1/PP3P1P/R5K1 b - - 0 22",
+      "fen": "r5k1/pbp2ppp/6q1/3p4/3p3r/2P1R1P1/PP2QP1P/R5K1 w - - 0 21",
       "solution": [
         "Re8+",
         "Rxe8",
@@ -1563,7 +1563,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "3q1r1k/p3r1p1/1p1b1pp1/2p5/3p3R/1QPn2P1/PP1B1P1P/R5K1 b - - 1 23",
+      "fen": "3q1r1k/p3r1pp/1p1b1p2/2p5/3pR2N/1QPn2P1/PP1B1P1P/R5K1 w - - 0 22",
       "solution": [
         "Ng6+",
         "hxg6",
@@ -1592,7 +1592,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3r1k1/6b1/p2Nn2p/1P1Qp3/6n1/2P3P1/1PB2q2/R1B1RK2 w - - 0 32",
+      "fen": "r3r1k1/6b1/p2Nn2p/1P1Qp3/6nq/2P3P1/1PB2P2/R1B1R1K1 b - - 0 30",
       "solution": [
         "Qh2+",
         "Kf1",
@@ -1621,7 +1621,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "6k1/1p6/p1p5/3p1p2/PP1P1P1p/6pP/5PP1/4r1K1 w - - 0 41",
+      "fen": "4r1k1/1p2r3/p1p5/3p1p2/PP1P1P1p/2Q3pP/5PP1/4R1K1 b - - 0 39",
       "solution": [
         "Rxe1+",
         "Qxe1",
@@ -1650,7 +1650,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "rn2qrk1/ppp2N2/3pPpQ1/3n4/6b1/8/P2N1PPP/R4RK1 b - - 0 19",
+      "fen": "rn2qrk1/ppp2N2/3pPpp1/3n4/6b1/8/P1QN1PPP/R4RK1 w - - 0 19",
       "solution": [
         "Qxg6#"
       ]
@@ -1677,7 +1677,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r2n1Qk1/1bq3pp/1p6/3P4/p7/B3P3/PP3PPP/3R2K1 b - - 0 22",
+      "fen": "r2n2k1/1bq2rpp/1p6/3P4/p3Q3/B3P3/PP3PPP/3R2K1 w - - 0 21",
       "solution": [
         "Qe8+",
         "Rf8",
@@ -1706,7 +1706,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b1RRk1/p5pp/2p5/6q1/6P1/3p3P/PPP5/1K6 b - - 0 20",
+      "fen": "r1b2rk1/p4ppp/2p5/6q1/6P1/3p1Q1P/PPP5/1K2RR2 w - - 0 18",
       "solution": [
         "Qxf7+",
         "Rxf7",
@@ -1737,7 +1737,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b2rk1/3p1pqp/p1n1pBp1/1p6/8/3B1Q2/P1P2PPP/R3R1K1 b - - 0 19",
+      "fen": "r1b2rk1/3p1pqp/p1n1p1p1/1p1n2B1/4N3/3B1Q2/P1P2PPP/R3R1K1 w - - 2 18",
       "solution": [
         "Nf6+",
         "Nxf6",
@@ -1766,7 +1766,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/pbp1n1pQ/1p1p4/3Pp1N1/2B4P/2P5/PP4q1/R2K3R b - - 0 18",
+      "fen": "r4rk1/pbp1n1pp/1p1p4/3Pp1N1/2B4P/2PQ4/PP4q1/R2K3R w - - 0 18",
       "solution": [
         "Qxh7#"
       ]
@@ -1793,7 +1793,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "b3Q3/qn3rk1/1p3ppB/1P1p4/3Pn3/P3P3/4BPPP/5RK1 b - - 0 31",
+      "fen": "b4rk1/qn2r3/1p3ppp/1P1p4/1Q1PnB2/P3P3/4BPPP/5RK1 w - - 0 29",
       "solution": [
         "Qxe7",
         "Rf7",
@@ -1824,7 +1824,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "1r4k1/p4ppp/4p3/p7/4P3/1P3nP1/QB3N1q/R6K w - - 0 32",
+      "fen": "1r4k1/p4ppp/4p3/p5n1/4P3/1P3PPq/QB3N1P/R5K1 b - - 0 30",
       "solution": [
         "Nxf3+",
         "Kh1",
@@ -1853,7 +1853,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3r3/pp1R1kB1/2q3pp/8/8/P7/BP3PPP/1b4K1 b - - 1 25",
+      "fen": "r3r1k1/pp3pB1/2q3pp/3R4/8/P4Q2/BP3PPP/1b4K1 w - - 0 24",
       "solution": [
         "Qxf7+",
         "Kxf7",
@@ -1882,7 +1882,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "3q1r1k/1b3pQp/p3p3/7N/1p2p3/4b3/PPr2PPP/R3R1K1 b - - 0 24",
+      "fen": "3q1r1k/1b3ppp/p3p3/7N/1p2p3/4b1Q1/PPr2PPP/R3R1K1 w - - 0 24",
       "solution": [
         "Qxg7#"
       ]
@@ -1909,7 +1909,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r5k1/6pp/1p1Bp3/p7/P1PP4/4n1P1/Q2R3P/5rK1 w - - 0 27",
+      "fen": "r4rk1/6pp/1p1Bp3/p7/P1PP4/4nqP1/Q2R3P/4R1K1 b - - 2 25",
       "solution": [
         "Qf1+",
         "Rxf1",
@@ -1938,7 +1938,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b4k/pp4bQ/n1pqpr2/4p3/2P2PP1/P2B4/1P6/R1B1K3 b Q - 1 21",
+      "fen": "r1b3k1/pp4b1/n1pqprQ1/4p3/2P2PP1/P2B4/1P6/R1B1K2R w KQ - 2 20",
       "solution": [
         "Rh8+",
         "Kxh8",
@@ -1967,7 +1967,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "3r1r1k/p3R1Qp/2p2p2/1pP5/1n1P1P2/1q4P1/1B5P/2K1R3 b - - 7 34",
+      "fen": "3r1rk1/p3R2p/2p2p2/1pP5/1n1P1P2/1q4P1/1B2Q2P/2K1R3 w - - 4 33",
       "solution": [
         "Qg4+",
         "Kh8",
@@ -1996,7 +1996,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "rnb2rk1/5ppp/p7/1p1P4/2pN2n1/2N5/PP2BPPq/R2Q1RK1 w - - 0 15",
+      "fen": "rnb2rk1/5ppp/p2q4/1p1P4/2pN2n1/2N5/PP2BPPP/R2Q1RK1 b - - 1 14",
       "solution": [
         "Qxh2#"
       ]
@@ -2023,7 +2023,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2k4B/ppp2p1p/2np4/8/4P1r1/2NB1b2/PPP2P1P/R4R1K w - - 2 15",
+      "fen": "2k3rB/ppp2p1p/2np4/8/4P3/2NB1b2/PPP2PPP/R4RK1 b - - 0 13",
       "solution": [
         "Rxg2+",
         "Kh1",
@@ -2052,7 +2052,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3kb1r/4ppp1/6p1/p2p4/Pp1PN3/8/1PP1QPP1/R1B1RK1q w kq - 2 19",
+      "fen": "r3kb1r/4ppp1/3q2p1/p2p4/Pp1PN3/8/1PP1QPPP/R1B1R1K1 b kq - 0 17",
       "solution": [
         "Qxh2+",
         "Kf1",
@@ -2081,7 +2081,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r7/pp4kp/6p1/2P4q/1PBb1p2/P4PP1/3B2P1/2Q1R2K w - - 1 30",
+      "fen": "r7/pp4kp/6p1/2P2q1n/1PBb1p2/P4P2/3B2PP/2Q1R2K b - - 2 28",
       "solution": [
         "Ng3+",
         "hxg3",
@@ -2110,7 +2110,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3kb1r/ppp2pp1/3p4/1P2p3/2P3q1/2N1PN2/PB1P1P2/R4RK1 w kq - 0 17",
+      "fen": "r3kb1r/ppp2pp1/3p4/1P2p3/2P3Qn/2N1P2q/PB1P1P1N/R4RK1 b kq - 0 15",
       "solution": [
         "Nf3+",
         "Nxf3",
@@ -2139,7 +2139,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r2q1rk1/pp2bp1Q/2p1bp1p/4P3/3P1n2/1P5P/P4BP1/1BR2RK1 b - - 1 27",
+      "fen": "r2q1rk1/pp2bpp1/2p1b2p/4P3/3PNn2/1P1Q3P/P4BP1/1BR2RK1 w - - 5 26",
       "solution": [
         "Nf6+",
         "gxf6",
@@ -2168,7 +2168,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2kr3r/ppp2p2/2nb1n1p/6p1/Q1N5/2P1B3/PP2NPPq/R4RK1 w - - 0 14",
+      "fen": "2kr3r/ppp2p2/2nb1n1p/4q1p1/Q1N5/2P1B3/PP2NPPP/R4RK1 b - - 3 13",
       "solution": [
         "Qxh2#"
       ]
@@ -2195,7 +2195,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b2Q1k/1pp3p1/1b1p3p/1p6/P1P1Bp2/3P4/6PP/5R1K b - - 0 25",
+      "fen": "r1b4k/1pp3p1/1b1p1q1p/1p5Q/P1P1Bp2/3P4/6PP/5R1K w - - 2 24",
       "solution": [
         "Qe8+",
         "Qf8",
@@ -2224,7 +2224,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4k2r/1b3pb1/4p3/1p4p1/2pN4/R7/1P2BPPq/3Q1RK1 w k - 0 18",
+      "fen": "4k2r/1bq2pb1/4p3/1p4p1/2pN4/R7/1P2BPPP/3Q1RK1 b k - 0 17",
       "solution": [
         "Qxh2#"
       ]
@@ -2251,7 +2251,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "1kr5/1pp4p/p2b2p1/3N1p2/P7/3P1Q1P/2R2PP1/4r1K1 w - - 0 28",
+      "fen": "1kr1r3/1pp4p/p2b2p1/3N1p2/P7/3P1Q1P/2R2PP1/4R1K1 b - - 0 27",
       "solution": [
         "Rxe1#"
       ]
@@ -2278,7 +2278,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/pb1Q2pp/1p2p3/2b5/2P5/P1N1B2P/1P2BPq1/R4RK1 w - - 0 19",
+      "fen": "r4rk1/pb1Q2pp/1p2p1q1/2b5/2P5/P1N1B2P/1P2BPP1/R4RK1 b - - 0 18",
       "solution": [
         "Qxg2#"
       ]
@@ -2305,7 +2305,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4rr1k/ppp3pQ/3b1p2/6q1/8/1PBB3P/P1P3P1/5RK1 b - - 0 27",
+      "fen": "4rr1k/ppp3pp/3b1p2/6qQ/8/1PBB3P/P1P3P1/5RK1 w - - 14 27",
       "solution": [
         "Qxh7#"
       ]
@@ -2332,7 +2332,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2r3k1/6Qp/p1q2r2/1pn2p2/1B1pPP2/3Pn2B/1PP2R1P/6RK b - - 0 25",
+      "fen": "2r3k1/6pp/p1q2r2/1pn2p2/1B1pPP2/3Pn1QB/1PP2R1P/6RK w - - 4 25",
       "solution": [
         "Qxg7#"
       ]
@@ -2359,7 +2359,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b3k1/pp3p1p/8/2pp4/8/P1P1P1PP/1P4P1/RN3r1K w - - 0 21",
+      "fen": "r1b3k1/pp3p1p/6q1/2pp1r2/8/P1P1P1QP/1P3PP1/RN3R1K b - - 8 19",
       "solution": [
         "Qxg3",
         "fxg3",
@@ -2388,7 +2388,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3k1nr/pbpp1pbp/1p2p1p1/3P2q1/2P1P3/3B1Q2/PP3PPP/RN3RK1 w kq - 0 10",
+      "fen": "r2qk1nr/pbpp1pbp/1p2p1p1/3Pn1B1/2P1P3/3B1N2/PP3PPP/RN1Q1RK1 b kq - 1 8",
       "solution": [
         "Nxf3+",
         "Qxf3",
@@ -2417,7 +2417,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "1br2rk1/pp1n2pp/4p3/1P6/P3B3/8/1B3PPq/2RQ1RK1 w - - 0 19",
+      "fen": "1br2rk1/ppqn2pp/4p3/1P6/P3B3/8/1B3PPP/2RQ1RK1 b - - 2 18",
       "solution": [
         "Qxh2#"
       ]
@@ -2444,7 +2444,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "6k1/p1p2ppp/2p5/3q4/P2B4/1P1P4/2Q2PPP/4r1K1 w - - 0 23",
+      "fen": "4r1k1/p1p2ppp/2p1r3/3q4/P2B4/1P1P4/2Q2PPP/2R1R1K1 b - - 0 21",
       "solution": [
         "Rxe1+",
         "Rxe1",
@@ -2473,7 +2473,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2r2k1r/1pq3p1/p1n1Q1P1/3p1pR1/3P3p/P7/1PP1N3/1K5R b - - 0 28",
+      "fen": "2r3kr/1pq3p1/p1n1p1P1/3p1pb1/3P3p/P3Q3/1PP1N3/1K4RR w - - 0 27",
       "solution": [
         "Qxe6+",
         "Kf8",
@@ -2502,7 +2502,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r5k1/1b1pn1p1/1p5p/p2PN2B/4P3/P6Q/6PP/5q1K w - - 0 27",
+      "fen": "r5k1/1b1pn1p1/1p5p/pq1PN2B/4P3/P6Q/6PP/5R1K b - - 0 26",
       "solution": [
         "Qxf1#"
       ]
@@ -2529,7 +2529,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2r1r1k1/1bpn1ppp/p4n2/1p6/1P1N4/P3P3/1BB1QPqP/3R1RK1 w - - 0 19",
+      "fen": "2r1r1k1/1bpn1ppp/p4n2/1p6/1P1N2q1/P3P3/1BB1QPPP/3R1RK1 b - - 7 18",
       "solution": [
         "Qxg2#"
       ]
@@ -2556,7 +2556,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r2q2kr/1p2b1pp/p2pB3/4p3/4P3/5Q2/PP3PPP/2RR2K1 b - - 0 18",
+      "fen": "r2q2kr/1p2b1pp/p2pb3/4p3/2B1P3/5Q2/PP3PPP/2RR2K1 w - - 0 18",
       "solution": [
         "Bxe6#"
       ]
@@ -2583,7 +2583,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4Q1k1/pp3p1p/2pq1Bp1/3p4/8/2P5/PP3PPP/6K1 b - - 0 22",
+      "fen": "4r1k1/ppqb1p1p/2p2Bp1/3p4/8/2P2Q2/PP3PPP/4R1K1 w - - 1 20",
       "solution": [
         "Rxe8+",
         "Bxe8",
@@ -2614,7 +2614,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "7r/pkp5/1pN3r1/3Q1n2/3P4/2P1b1PN/PP3RBP/3q2K1 w - - 3 27",
+      "fen": "7r/pkp5/1pN3rb/3Q1n1q/3P4/2P3PN/PP4BP/5RK1 b - - 0 25",
       "solution": [
         "Be3+",
         "Rf2",
@@ -2643,7 +2643,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "5rk1/p1p3p1/bp2p2p/5p2/R2PB3/2P5/2Q2PPP/5qK1 w - - 0 25",
+      "fen": "5rk1/p1p3p1/bp2p2p/5p2/R1qPB3/2P5/2Q2PPP/5RK1 b - - 1 24",
       "solution": [
         "Qxf1#"
       ]
@@ -2670,7 +2670,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2kr3r/1p3pp1/p1p1b3/B6p/Q2P2n1/8/PP3PPq/2R1RBK1 w - - 0 22",
+      "fen": "2kr3r/1pq2pp1/p1pbb3/B6p/Q2P2n1/5N2/PP3PPP/2R1RBK1 b - - 2 20",
       "solution": [
         "Bxh2+",
         "Nxh2",
@@ -2699,7 +2699,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4r1k1/3p1pb1/p2q1P1p/1p4p1/3p4/P6Q/BPP3PP/5RK1 b - - 0 25",
+      "fen": "1r2r1k1/3p1pb1/p2q3p/1p3Pp1/3p4/P6Q/BPP3PP/4RRK1 w - - 0 24",
       "solution": [
         "Rxe8+",
         "Rxe8",
@@ -2728,7 +2728,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b5/1p5k/2Pp2pp/p2Bb3/2Pp4/P2P2P1/3B1K1q/1R1QR3 w - - 0 29",
+      "fen": "r1b2r2/1p5k/2Pp2pp/p2Bb3/2Pp1p2/P2P2Pq/3B1P1P/1R1QR1K1 b - - 0 26",
       "solution": [
         "fxg3",
         "fxg3",
@@ -2759,7 +2759,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4r1k/6Q1/1q2pn1P/p2p4/1ppP4/2P1P3/PP1N1P2/2K4R b - - 2 23",
+      "fen": "r4rk1/8/1q2pnpP/p2p4/1ppP4/2P1P3/PPQN1P2/2K4R w - - 0 22",
       "solution": [
         "Qxg6+",
         "Kh8",
@@ -2788,7 +2788,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4R1Q1/pp4pk/3p2rp/6q1/5p2/1P3P1b/PBP3P1/6K1 b - - 2 27",
+      "fen": "r6k/pp4p1/3p2rp/6q1/2Q2p2/1P3P1b/PBP1R1P1/4R1K1 w - - 0 25",
       "solution": [
         "Re8+",
         "Rxe8",
@@ -2819,7 +2819,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "5R1k/p6p/2pp1b2/2p5/5P2/3P2R1/PqPB2PP/5K2 b - - 0 23",
+      "fen": "4r2k/p4r1p/2pp1b2/2p5/5P2/3P2R1/PqPB2PP/4RK2 w - - 0 22",
       "solution": [
         "Rxe8+",
         "Rf8",
@@ -2848,7 +2848,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2r5/p7/4N2k/3p4/4p1np/2P1P2P/PP4P1/5K2 w - - 0 31",
+      "fen": "2r2r2/p4N1k/4q3/3pn1p1/4p1RQ/2P1P2P/PP4P1/5RK1 b - - 0 27",
       "solution": [
         "gxh4",
         "Ng5+",
@@ -2881,7 +2881,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r2N2r1/p2P1p2/1p1Q1p1k/7p/5R2/P2B3P/1P3Pq1/6K1 w - - 0 29",
+      "fen": "r2N2r1/p2P1p2/1p1Q1p1k/6qp/5R2/P2B3P/1P3PP1/6K1 b - - 0 28",
       "solution": [
         "Qxg2#"
       ]
@@ -2908,7 +2908,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "7k/pb3Bpp/1p6/5pQ1/N3q2b/P2n3P/1P4P1/3R3K w - - 2 30",
+      "fen": "7k/pb3Bpp/1p6/2b2p2/N2q4/P2n3P/1P1Q1PP1/3R2K1 b - - 6 27",
       "solution": [
         "Qe4",
         "Qg5",
@@ -2939,7 +2939,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r2q3k/ppp3Qp/3pPp2/2n1n3/4P2P/1B3P2/PPP5/2K3RR b - - 0 24",
+      "fen": "r2q3k/ppp3bp/3pPp2/2n1n3/4P2P/1B3P2/PPP3Q1/2K3RR w - - 0 24",
       "solution": [
         "Qxg7#"
       ]
@@ -2966,7 +2966,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "5Q1k/2q4r/2p5/p5P1/1p1Pp1P1/2P1N2P/PP6/4b1K1 b - - 0 30",
+      "fen": "4r2k/2q4r/2p4Q/p5P1/1p1Pp1P1/2P1N2P/PP6/4bRK1 w - - 1 29",
       "solution": [
         "Rf8+",
         "Rxf8",
@@ -2995,7 +2995,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b5/pp1nkpr1/4p3/8/3N4/3B4/P1P2PqP/R2Q1RK1 w - - 0 19",
+      "fen": "r1b5/pp1nkpr1/2q1p3/8/3N4/3B4/P1P2PPP/R2Q1RK1 b - - 4 18",
       "solution": [
         "Qxg2#"
       ]
@@ -3022,7 +3022,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "R3rk2/p3Np2/1pp5/8/P1Q1P1pq/2P2P2/1P3bP1/3R3K w - - 0 35",
+      "fen": "R3rk1q/p3Np2/1pp5/8/P1Q1P1pP/2P2P2/1P3bP1/3R3K b - - 0 34",
       "solution": [
         "Qxh4#"
       ]
@@ -3049,7 +3049,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r2q2rk/4NNbp/p2p2p1/2p5/Pp4P1/7P/1P1n1P2/5RK1 b - - 1 23",
+      "fen": "r2q1r1k/4N1bp/p2p2p1/2p3N1/Pp4P1/1Q5P/1P1n1P2/5RK1 w - - 1 22",
       "solution": [
         "Qg8+",
         "Rxg8",
@@ -3078,7 +3078,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r6k/4qp1Q/p4Nr1/1p2p3/3pP3/1P1P3P/1PP3P1/5RK1 b - - 0 24",
+      "fen": "r6k/4qp1p/p4NrQ/1p2p3/3pP3/1P1P3P/1PP3P1/5RK1 w - - 3 24",
       "solution": [
         "Qxh7#"
       ]
@@ -3105,7 +3105,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "1k1r3r/pp1n2p1/2p1p1p1/8/1B1PQ3/2P5/PP3PPq/R4RK1 w - - 0 19",
+      "fen": "1k1r3r/ppqn2p1/2p1p1p1/8/1B1PQ3/2P5/PP3PPP/R4RK1 b - - 2 18",
       "solution": [
         "Qxh2#"
       ]
@@ -3132,7 +3132,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "1n1q2rk/p3b3/1pr1p2R/2p1P3/4N3/2PP1N1P/P3B2K/6R1 b - - 0 29",
+      "fen": "1n1q2rk/p3b3/1pr1p1Rp/2p1P3/4N3/2PP1N1P/P3B2K/6R1 w - - 0 29",
       "solution": [
         "Rxh6#"
       ]
@@ -3159,7 +3159,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2rq1rk1/pb2bppQ/np2p3/3pP3/3P4/P1n1B3/1P1N1PPP/1BR2RK1 b - - 0 17",
+      "fen": "2rq1rk1/pb2bppp/np2p3/3pP3/3P4/P1nQB3/1P1N1PPP/1BR2RK1 w - - 0 17",
       "solution": [
         "Qxh7#"
       ]
@@ -3186,7 +3186,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r2q1rk1/2p1nppQ/pbn5/1p1pP3/3P4/2N2b2/PPB2PPP/R1B2RK1 b - - 0 13",
+      "fen": "r2q1rk1/2p1nppp/pbn5/1p1pP3/3P4/2NQ1b2/PPB2PPP/R1B2RK1 w - - 0 13",
       "solution": [
         "Qxh7#"
       ]
@@ -3213,7 +3213,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b1R1k1/1p3rpp/2p5/pq6/3b4/1BP5/PP3PPP/R5K1 b - - 1 19",
+      "fen": "r1b2rk1/1p3ppp/2p5/pq6/3b4/1BP2Q2/PP3PPP/R3R1K1 w - - 0 18",
       "solution": [
         "Qxf7+",
         "Rxf7",
@@ -3242,7 +3242,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4rBk1/pb4pp/1p3p2/4p3/2Pb4/3P3P/P3QPqN/1R2R1K1 w - - 0 25",
+      "fen": "4rBk1/pb4pp/1pq2p2/4p3/2Pb4/3P3P/P3QPPN/1R2R1K1 b - - 0 24",
       "solution": [
         "Qxg2#"
       ]
@@ -3269,7 +3269,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2r3rk/5N1n/p6q/1p1n1b2/7P/3P4/PPP2P2/1K4RR b - - 1 32",
+      "fen": "2r2r1k/7n/p6q/1p1nNb2/7P/3P2Q1/PPP2P2/1K4RR w - - 1 31",
       "solution": [
         "Qg8+",
         "Rxg8",
@@ -3298,7 +3298,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "5k2/2p5/N1PpQp2/1p2p3/1P2P1p1/4b1Pq/8/R2R2K1 w - - 1 39",
+      "fen": "5k2/2p5/N1PpQp2/1p2p1b1/1P2P1p1/r5Pq/5P2/R2R2K1 b - - 0 37",
       "solution": [
         "Rxg3+",
         "fxg3",
@@ -3327,7 +3327,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1bqr1k1/p4QPp/2p1p3/2bp4/8/2Nn4/PPP3PP/R1B2R1K b - - 0 16",
+      "fen": "r1bqr1k1/p4pPp/2p1p3/2bp3Q/8/2Nn4/PPP3PP/R1B2R1K w - - 0 16",
       "solution": [
         "Qxf7#"
       ]
@@ -3354,7 +3354,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "3r2k1/1p3pp1/p2b3p/3P4/P7/3Q1N2/1r4qP/1R1R3K w - - 0 25",
+      "fen": "3r2k1/1p3pp1/pq1b3p/3P4/P7/3Q1N2/1r3PPP/1R1R2K1 b - - 1 23",
       "solution": [
         "Qxf2+",
         "Kh1",
@@ -3383,7 +3383,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r2q1rk1/pp1n3p/2p3pN/8/2P1p3/1P2P1P1/PB3PBP/R2R2K1 b - - 0 20",
+      "fen": "r2q1rk1/pp1n3p/2p3pb/5N2/2P1p3/1P2P1P1/PB3PBP/R2R2K1 w - - 0 20",
       "solution": [
         "Nxh6#"
       ]
@@ -3410,7 +3410,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r2qk2r/1p3ppp/2P5/4Pn2/1pP5/5bP1/PP3PBP/RN3RK1 w kq - 0 16",
+      "fen": "r2qk2r/1p3ppp/2P5/4Pn2/1pPn2b1/3Q1NP1/PP3PBP/RN3RK1 b kq - 0 14",
       "solution": [
         "Nxf3+",
         "Qxf3",
@@ -3439,7 +3439,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4r1k/pbppN1pQ/1p5p/4n3/3q1N2/3B4/PP3PPP/5RK1 b - - 9 22",
+      "fen": "r4rk1/pbpp2p1/1p4Qp/3Nn3/3q1N2/3B4/PP3PPP/5RK1 w - - 6 21",
       "solution": [
         "Ne7+",
         "Kh8",
@@ -3468,7 +3468,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1q5/1pb3pp/p1b1kN2/2Np1pBQ/8/8/PPP2PPP/2K5 b - - 5 24",
+      "fen": "r1q3k1/1pb3pp/p1b5/3p1pB1/4N1NQ/8/PPP2PPP/2K5 w - - 0 22",
       "solution": [
         "Ngf6+",
         "Kf7",
@@ -3499,7 +3499,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "rn2R1k1/pb3p1p/1p1p2pB/3P3n/8/2bB1N1P/PP3PP1/6K1 b - - 0 19",
+      "fen": "rn2q1k1/pb3p1p/1p1p2pB/3P3n/8/2bB1N1P/PP3PP1/4R1K1 w - - 0 19",
       "solution": [
         "Rxe8#"
       ]
@@ -3526,7 +3526,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b2rk1/ppp2ppp/8/1B1p4/3b4/8/PPP2nPP/RNBQR1NK w - - 1 14",
+      "fen": "r1b2rk1/ppp2ppp/8/1B1p4/3bn3/5N2/PPP2qPP/RNBQR2K b - - 1 12",
       "solution": [
         "Qg1+",
         "Nxg1",
@@ -3555,7 +3555,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "3rqrk1/1p1bp2p/1N1p4/pP4p1/Q1PbPp2/P4B2/6PP/2R2RK1 w - - 0 23",
+      "fen": "3rqrk1/1p1bp1bp/1N1p4/pP2n1p1/Q1PBPp2/P4P2/4B1PP/2R2RK1 b - - 6 21",
       "solution": [
         "Nxf3+",
         "Bxf3",
@@ -3584,7 +3584,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/pb2qpQp/1pn1p3/2p5/1nP5/1P2PN2/PB2BPPP/R4RK1 b - - 0 14",
+      "fen": "r4rk1/pb2qppp/1pn1p3/2p5/1nP5/1PQ1PN2/PB2BPPP/R4RK1 w - - 5 14",
       "solution": [
         "Qxg7#"
       ]
@@ -3611,7 +3611,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/ppp1nppp/8/1B6/3qP3/2N2P2/PPP2P1K/R1B2R2 w - - 0 12",
+      "fen": "r2q1rk1/ppp1nppp/3b4/1B6/3QP3/2N2P2/PPP2P1P/R1B2RK1 b - - 0 10",
       "solution": [
         "Bxh2+",
         "Kxh2",
@@ -3640,7 +3640,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/1pqnb3/p3ppQ1/2pp4/5P2/1P1PP3/PBPN2PP/R5K1 b - - 0 18",
+      "fen": "r3brk1/1pqnb2p/p3ppp1/2ppN2Q/5P2/1P1PP1R1/PBPN2PP/R5K1 w - - 0 16",
       "solution": [
         "Nxg6",
         "Bxg6",
@@ -3671,7 +3671,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "rnb1qrk1/pp4pQ/4p3/3pNp2/2pPn3/2PBP1P1/PP1N1PP1/R3K2R b KQ - 0 12",
+      "fen": "rnb1qrk1/pp4pp/4p3/3pNp1Q/2pPn3/2PBP1P1/PP1N1PP1/R3K2R w KQ - 2 12",
       "solution": [
         "Qxh7#"
       ]
@@ -3698,7 +3698,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/4qppQ/b3p3/p2pP3/1p1P4/8/PPB2PPP/R4RK1 b - - 0 18",
+      "fen": "r4rk1/4qppp/b3p3/p2pP3/1p1P4/3Q4/PPB2PPP/R4RK1 w - - 0 18",
       "solution": [
         "Qxh7#"
       ]
@@ -3725,7 +3725,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r2q1rk1/1pp2p1Q/5p2/p2pn3/P7/3Bb3/1P3PPP/R4RK1 b - - 0 19",
+      "fen": "r2q1rk1/1pp2ppp/8/p2pn3/P3N3/3Bb2Q/1P3PPP/R4RK1 w - - 0 18",
       "solution": [
         "Nf6+",
         "gxf6",
@@ -3754,7 +3754,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3R1k1/pp3pp1/2p2n1p/8/3P4/3Q1b1P/PPB2PP1/6K1 b - - 0 25",
+      "fen": "r2qr1k1/pp3pp1/2p2n1p/4R3/3P4/3Q1b1P/PPB2PP1/4R1K1 w - - 0 24",
       "solution": [
         "Rxe8+",
         "Qxe8",
@@ -3783,7 +3783,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3qrk1/p6R/1p2p1p1/3p4/6Q1/P7/1b3P2/1B4KR b - - 0 30",
+      "fen": "r3qrk1/p6p/1p2pbp1/3p4/3Q2n1/P6R/1B3P2/1B4KR w - - 0 29",
       "solution": [
         "Qxg4",
         "Bxb2",
@@ -3812,7 +3812,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "1r1r3k/p3R1Qp/b1p5/2pq4/8/2PPR2P/PP3PP1/6K1 b - - 0 27",
+      "fen": "1r1r3k/p3R1pp/b1p5/2pq2Q1/8/2PPR2P/PP3PP1/6K1 w - - 3 27",
       "solution": [
         "Qxg7#"
       ]
@@ -3839,7 +3839,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1q2rk1/1p1b1pQp/p2p4/2p2N2/P3Pn2/2NP3P/1PP3BK/R7 b - - 0 21",
+      "fen": "r1q2rk1/1p1b1pbp/p2p4/2p2N2/P3Pn2/2NP2QP/1PP3BK/R7 w - - 0 21",
       "solution": [
         "Qxg7#"
       ]
@@ -3866,7 +3866,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4k1Q/pp3pp1/2pq4/3b4/3P2n1/2P5/PPB2PPP/4R1K1 b - - 2 24",
+      "fen": "r5k1/pp3ppp/2pq4/3b4/3P2n1/2PQ4/PPB2PPP/4R1K1 w - - 0 23",
       "solution": [
         "Qxh7+",
         "Kf8",
@@ -3895,7 +3895,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3k1r1/2pq1p2/p2p1R2/4p2p/P1B1P1bP/2NPP3/2P3P1/R3nK2 w q - 0 21",
+      "fen": "r3k1r1/2pq1p2/p2p1R2/4p1np/P1B1P1bP/2NPP3/2P3P1/R3Q1K1 b q - 0 19",
       "solution": [
         "Nf3+",
         "Kf1",
@@ -3924,7 +3924,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3r1k1/ppp2ppp/1b1p4/8/1PN1Pn2/P4P2/1BP1BPqP/R2Q3K w - - 0 19",
+      "fen": "r3r1k1/ppp2ppp/1b1p4/6q1/1PN1Pn2/P4P1b/1BP1BP1P/R2Q2RK b - - 8 17",
       "solution": [
         "Bg2+",
         "Rxg2",
@@ -3953,7 +3953,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r5k1/1pn2p1p/p2p2p1/2pP3P/P1Pb4/3B3q/1P2QP2/R4R1K w - - 2 23",
+      "fen": "r5k1/1pn2p1p/p2p2p1/2pP3P/P1Pb2q1/3B2B1/1P2QP2/R4RK1 b - - 0 21",
       "solution": [
         "Qxg3+",
         "Kh1",
@@ -3982,7 +3982,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "rb4k1/6pp/P3pp2/3p4/1Q1P4/3NP3/2P1KPP1/q7 w - - 0 29",
+      "fen": "rb4k1/2q3pp/P3pp2/3p4/1Q1P4/3NP3/2P2PPP/R5K1 b - - 3 26",
       "solution": [
         "Qxh2+",
         "Kf1",
@@ -4013,7 +4013,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "rb3rk1/1p1n1ppp/2p2n2/p1Pp1p2/3P4/PPN1P3/1B2BPPq/R2Q1RK1 w - - 0 14",
+      "fen": "rb3rk1/1pqn1ppp/2p2n2/p1Pp1p2/3P4/PPN1P3/1B2BPPP/R2Q1RK1 b - - 1 13",
       "solution": [
         "Qxh2#"
       ]
@@ -4040,7 +4040,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/pbpn1p1n/1p1bpN1Q/8/8/1B1P1N2/PPP2PPP/R3K2R b KQ - 0 14",
+      "fen": "r2q1rk1/pbpn1p1n/1p1bp2Q/8/8/1B1P1NN1/PPP2PPP/R3K2R w KQ - 1 13",
       "solution": [
         "Nh5",
         "Qf6",
@@ -4069,7 +4069,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3kb1r/1p3ppp/p1n5/2p5/B3P1n1/2NP4/PP2N1Pq/R1BQ1RK1 w kq - 0 14",
+      "fen": "r3kb1r/1p3ppp/p1n5/2p1q3/B3P1n1/2NP4/PP2N1PP/R1BQ1RK1 b kq - 1 13",
       "solution": [
         "Qxh2#"
       ]
@@ -4096,7 +4096,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "5rk1/1pp3pp/2np4/p3p3/8/1P2P1N1/PBP3Bq/R2Q1K2 w - - 1 22",
+      "fen": "r5k1/1pp3pp/2np3q/p3p3/6n1/1P2P1N1/PBP2PBN/R2Q2K1 b - - 0 19",
       "solution": [
         "Qxh2+",
         "Kf1",
@@ -4127,7 +4127,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2k5/ppp3p1/3b2p1/3Q4/1P2NPn1/P1P5/6Pq/R1B2RK1 w - - 3 24",
+      "fen": "2k4r/ppp1q1p1/3b2p1/3Q4/1P2NPn1/P1P5/6P1/R1B2RKN b - - 0 21",
       "solution": [
         "Rxh1+",
         "Kxh1",
@@ -4158,7 +4158,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3k2r/1p2ppb1/2p3p1/p1N5/3PP3/6Pp/1B2qP1P/RR4KB w kq - 0 27",
+      "fen": "r3k2r/1p2ppb1/2p3p1/p1N5/2qPP3/2n3Pp/1BQ2P1P/RR4KB b kq - 1 25",
       "solution": [
         "Ne2+",
         "Qxe2",
@@ -4187,7 +4187,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "q4r2/5pkp/2bp2p1/8/p7/2Q2B2/P4PPP/4R1K1 b - - 1 26",
+      "fen": "q4r1k/5pbp/2Np1np1/3b2B1/pQ6/5B2/P4PPP/4R1K1 w - - 0 24",
       "solution": [
         "Bxf6",
         "Bxc6",
@@ -4218,7 +4218,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4R3/1p3pk1/p3p1p1/3b4/8/1P1P1P2/2r3PP/4NK1R b - - 0 28",
+      "fen": "4r1k1/1p3p1p/p3p1pQ/3b4/7R/1P1P1P2/2r3PP/q3NK1R w - - 0 25",
       "solution": [
         "Qxh7+",
         "Kf8",
@@ -4251,7 +4251,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3k3/ppp3pp/8/3Bp3/7q/3P4/PPP1b1PP/RNB3K1 w q - 0 18",
+      "fen": "r3k3/ppp3pp/8/3Bp3/3n2bq/3P4/PPP3PP/RNB2QK1 b q - 2 16",
       "solution": [
         "Ne2+",
         "Qxe2",
@@ -4280,7 +4280,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r7/p4kp1/1p5p/2p5/P1Pp4/8/1P3PKP/3RR3 b - - 0 34",
+      "fen": "r5k1/p2Q1pp1/1p2P2p/2p5/P1Pp4/5q2/1P3PrP/3RRK2 w - - 1 32",
       "solution": [
         "Qxf7+",
         "Qxf7",
@@ -4311,7 +4311,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r6Q/pppbk1p1/1bnp1q2/3N2N1/8/6B1/PP4PP/7K b - - 5 22",
+      "fen": "r5k1/pppb2p1/1bnp1q2/6N1/8/2NQ2B1/PP4PP/7K w - - 0 20",
       "solution": [
         "Qh7+",
         "Kf8",
@@ -4342,7 +4342,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4Q1k1/p4pp1/1p1q3p/2pn4/8/5N1P/PP3PP1/4R1K1 b - - 0 23",
+      "fen": "3rr1k1/p4pp1/1p1q3p/2pnR3/8/5N1P/PP2QPP1/4R1K1 w - - 0 22",
       "solution": [
         "Rxe8+",
         "Rxe8",
@@ -4371,7 +4371,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r2q1Bk1/5ppp/p3bn2/1p6/8/2N5/PP3PPP/R2QR1K1 b - - 0 23",
+      "fen": "r2q1rk1/4bppp/p3bn2/1p2N3/5B2/2N5/PP3PPP/R2QR1K1 w - - 2 20",
       "solution": [
         "Nc6",
         "Qe8",
@@ -4404,7 +4404,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "b4rk1/p4pbp/4p1p1/1PPp4/7r/1Q3P2/P1N2BPq/4RR1K w - - 0 32",
+      "fen": "b4rk1/p1q2pbp/4p1p1/1PPp4/7r/1Q3P2/P1N2BPP/4RR1K b - - 6 31",
       "solution": [
         "Qxh2#"
       ]
@@ -4431,7 +4431,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4r1k/1ppqn1Q1/1p1p1n1p/4pN2/4P3/3PB2P/PPP2RP1/R5K1 b - - 0 19",
+      "fen": "r4r1k/1ppqn1p1/1p1p1nQp/4pN2/4P3/3PB2P/PPP2RP1/R5K1 w - - 12 19",
       "solution": [
         "Qxg7#"
       ]
@@ -4458,7 +4458,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3qrk1/1p2b3/4p2Q/2ppP3/p4P2/2P1P1P1/PP4P1/1K5R b - - 2 23",
+      "fen": "r3qr1k/1p2b1p1/4p1Qp/2ppP3/p4P2/2P1P1P1/PP4P1/1K1R3R w - - 1 21",
       "solution": [
         "Rxh6+",
         "gxh6",
@@ -4489,7 +4489,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/ppp2ppp/8/8/1P1P4/P1B1n2P/4q1PN/R5QK w - - 0 21",
+      "fen": "r4rk1/ppp2ppp/8/8/1P1P2nq/P1B1P2P/4NRPN/R2Q2K1 b - - 0 18",
       "solution": [
         "Qxf2+",
         "Kh1",
@@ -4520,7 +4520,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1r3k1/1b3ppp/4p3/p7/1p1N4/3P3P/2PN1Pq1/R2QR1K1 w - - 0 21",
+      "fen": "r1r3k1/1b3ppp/4p3/p2q4/1p1N4/3P3P/2PN1PP1/R2QR1K1 b - - 0 20",
       "solution": [
         "Qxg2#"
       ]
@@ -4547,7 +4547,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b2r2/3n1pp1/p2pp1k1/q5P1/2P4Q/2N5/PP4PR/3K2N1 b - - 2 19",
+      "fen": "r1b2rk1/3n1ppp/p2pp3/q5b1/2PQ3P/2NB4/PP4PR/3K2N1 w - - 0 17",
       "solution": [
         "Bxh7+",
         "Kxh7",
@@ -4578,7 +4578,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1bq1rk1/pp2bpQp/2n1p3/3p3N/1P6/2P5/PB2BPPP/R4RK1 b - - 0 17",
+      "fen": "r1bq1rk1/pp2bppp/2n1p3/3p3N/1P1Q4/2P5/PB2BPPP/R4RK1 w - - 6 17",
       "solution": [
         "Qxg7#"
       ]
@@ -4605,7 +4605,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "6k1/p1r3b1/1p1p1R2/8/3P1p2/2P5/PP2qPNP/R6K w - - 0 27",
+      "fen": "5rk1/p1r3b1/1p1pRN2/3b1n1q/3P1p2/2P2N2/PP2BPQP/R6K b - - 6 23",
       "solution": [
         "Rxf6",
         "Rxf6",
@@ -4638,7 +4638,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4Q1k1/3r1ppp/b4p2/1N4q1/Pp3n2/5B2/5PPP/1R4K1 b - - 0 30",
+      "fen": "3r2k1/3r1ppp/b4p2/1N4q1/Pp3n2/4RB2/4QPPP/1R4K1 w - - 6 29",
       "solution": [
         "Re8+",
         "Rxe8",
@@ -4667,7 +4667,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1bq1rk1/pp1nb3/4ppQ1/3pP3/2pP4/2P1P3/PP1N2PP/R1B2RK1 b - - 0 14",
+      "fen": "r1bq1rk1/pp1nb2p/4ppp1/3pP2Q/2pP4/2P1P3/PPBN2PP/R1B2RK1 w - - 0 13",
       "solution": [
         "Bxg6",
         "hxg6",
@@ -4696,7 +4696,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4Q1k1/1bq1n1pp/p3p3/1pp2pP1/8/8/PPP4P/1K1R1R2 b - - 0 30",
+      "fen": "3r2k1/1bqPn1pp/p3p3/1pp2pPQ/8/8/PPP4P/1K1R1R2 w - - 0 29",
       "solution": [
         "Qe8+",
         "Rxe8",
@@ -4725,7 +4725,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3r1k1/p1p2p2/1p3Qpp/3b4/3N4/3B4/PPP2KqP/3R1R2 w - - 5 26",
+      "fen": "r1q1r1k1/p1p2p2/1p3Qpp/3b4/3N4/3B4/PPP4P/3R1RK1 b - - 2 24",
       "solution": [
         "Qg4+",
         "Kf2",
@@ -4754,7 +4754,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r7/3nq1pk/3pBp2/2p1nP2/1p5R/1P5P/r5P1/2B1R1K1 b - - 1 33",
+      "fen": "r6k/3nq1pp/3pBp2/2p1nP2/1p2R2Q/1P5P/r5P1/2B1R1K1 w - - 7 32",
       "solution": [
         "Qxh7+",
         "Kxh7",
@@ -4783,7 +4783,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "rnb4k/pp3p1Q/3p1Np1/4r3/2P5/3BPN2/Pq1b2PP/3K3n b - - 0 18",
+      "fen": "rnb3k1/pp3p1p/3p2pQ/3Nr3/2P5/3BPN2/Pq1b2PP/3K3n w - - 0 17",
       "solution": [
         "Nf6+",
         "Kh8",
@@ -4812,7 +4812,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "5Nk1/1p1b3p/p2p4/2pP4/2P3np/1P4P1/P5B1/4Q2K b - - 0 32",
+      "fen": "5rk1/1p1b3p/p2pN2q/2pP4/2P3np/1P4P1/P5B1/4QR1K w - - 0 31",
       "solution": [
         "Rxf8+",
         "Qxf8",
@@ -4841,7 +4841,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "1nr2rk1/pbb2p1p/1p2pRp1/8/1P1P4/P2BP2R/2Q1N1PP/6K1 b - - 0 22",
+      "fen": "1nr2rk1/pbb1qp1p/1p2p1p1/8/1P1PN3/P2BP2R/2Q1N1PP/5RK1 w - - 4 21",
       "solution": [
         "Nf6+",
         "Qxf6",
@@ -4870,7 +4870,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/pb2bpp1/4pn1p/2p1N3/3p4/3P2BP/PPP1NPq1/1R1Q1RK1 w - - 0 16",
+      "fen": "r4rk1/pb2bpp1/4pn1p/2pqN3/3p4/3P2BP/PPP1NPP1/1R1Q1RK1 b - - 3 15",
       "solution": [
         "Qxg2#"
       ]
@@ -4897,7 +4897,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2k2b1r/ppp1ppp1/2n4p/8/6q1/2NPB3/PPP2PB1/R3R1K1 w - - 0 17",
+      "fen": "2k2b1r/ppp1ppp1/2n4p/8/3r2Nq/2NPB3/PPP2P2/R2QRBK1 b - - 0 14",
       "solution": [
         "Rxg4+",
         "Bg2",
@@ -4928,7 +4928,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "rn1q1rkn/pbppb1Qp/1p2p2B/4Pp1P/3P4/3B1N2/PPP2PP1/RN2K2R b KQ - 0 10",
+      "fen": "rn1q1rkn/pbppb1pp/1p2p2B/4Pp1P/3P2Q1/3B1N2/PPP2PP1/RN2K2R w KQ f6 0 10",
       "solution": [
         "Qxg7#"
       ]
@@ -4955,7 +4955,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2k2n1r/prp3pp/8/2RP4/2N1P3/P7/1P3PPP/4q1K1 w - - 0 30",
+      "fen": "2k2n1r/prp3pp/8/Q1RP4/2N1Pq2/P7/1P3PPP/2R3K1 b - - 4 28",
       "solution": [
         "Qxc1+",
         "Qe1",
@@ -4984,7 +4984,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b2rk1/pp3pp1/3b3p/3B4/P7/2P2P1P/1P2NP1q/RN1Q1RK1 w - - 1 19",
+      "fen": "r1b2rk1/pp3pp1/3b3p/3Bn3/P4q2/2P4P/1P2NPP1/RN1Q1RK1 b - - 2 17",
       "solution": [
         "Nf3+",
         "gxf3",
@@ -5013,7 +5013,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4k1nr/r1pp1pp1/1p2p3/2b5/2P1PP2/pPNP1QP1/P2B1N1q/R4RKB w k - 0 22",
+      "fen": "4k1nr/r1pp1ppq/1p2p3/2b5/2P1PP2/pPNP1QP1/P2B1N1P/R4RKB b k - 0 21",
       "solution": [
         "Qxh2#"
       ]
@@ -5040,7 +5040,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1k4r/pp3Qp1/2Bb3p/8/4N3/8/PP3PPq/R4RK1 w - - 0 19",
+      "fen": "r1k4r/pp3Qp1/2Bb3p/4q3/4N3/8/PP3PPP/R4RK1 b - - 0 18",
       "solution": [
         "Qxh2#"
       ]
@@ -5067,7 +5067,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2r2rk1/1b3p2/4pQ2/pn1p3P/1p1P4/8/PP3PB1/R3R1K1 b - - 0 27",
+      "fen": "2r2rk1/1b1n1p2/4p2Q/pn1pP2P/1p1P2Nq/8/PP3PB1/R3R1K1 w - - 0 25",
       "solution": [
         "Nf6+",
         "Nxf6",
@@ -5098,7 +5098,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r2r1k1Q/p3qpp1/1pb1p2p/2p1P1N1/5n2/2P2N2/PP3PPP/R4RK1 b - - 3 18",
+      "fen": "r2r2k1/p3qpp1/1pb1p2p/2p1P1N1/5n2/2P2N2/PPQ2PPP/R4RK1 w - - 0 17",
       "solution": [
         "Qh7+",
         "Kf8",
@@ -5127,7 +5127,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "8/1bN3k1/6p1/3Np2p/2P1P3/pP5P/P3R1PK/5rb1 w - - 2 37",
+      "fen": "5r2/1bN3k1/5rp1/3Np2p/2PbP3/pP5P/P3R1P1/3R3K b - - 1 34",
       "solution": [
         "Rf1+",
         "Rxf1",
@@ -5158,7 +5158,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "rnb2rk1/pp1p1ppp/4p3/4P3/3b1Pn1/2N3P1/PPPNB2q/R1BQ1R1K w - - 0 13",
+      "fen": "rnb2rk1/pp1p1ppp/4p3/4P3/3b1Pnq/2N3P1/PPPNB2P/R1BQ1R1K b - - 0 12",
       "solution": [
         "Qxh2#"
       ]
@@ -5185,7 +5185,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r6r/ppp1kBp1/2np4/4p3/4P1q1/P2P4/1PPN1P2/R4RK1 w - - 0 18",
+      "fen": "r6r/ppp1kBp1/2np4/4p3/4P1Q1/P2P3q/1PPN1P2/R4RK1 b - - 0 17",
       "solution": [
         "Qxg4#"
       ]
@@ -5212,7 +5212,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2k5/pp2b3/2p1p2p/4N3/2P1Pp2/1BN5/PP3r2/7K w - - 0 29",
+      "fen": "2k5/pp2b3/2p1p2p/4N3/2P1Pp2/1BN4n/PP1r1P2/5R1K b - - 2 27",
       "solution": [
         "Nxf2+",
         "Rxf2",
@@ -5241,7 +5241,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "6rk/8/3p3p/3P2pQ/1P2P3/3P3P/P1r2qpB/1R4K1 w - - 0 31",
+      "fen": "6rk/5R2/3p1q1p/3P2pQ/1P2P3/3P1p1P/P1r3PB/1R5K b - - 1 28",
       "solution": [
         "fxg2+",
         "Kg1",
@@ -5272,7 +5272,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4rrk1/ppp1qp1Q/5p1p/6N1/6P1/b6P/P4P2/1R4K1 b - - 1 26",
+      "fen": "4rrk1/ppp1qpp1/7p/6N1/4N1P1/b2Q3P/P4P2/1R4K1 w - - 0 25",
       "solution": [
         "Nf6+",
         "gxf6",
@@ -5301,7 +5301,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4R1k1/2q2pp1/bpn2b1p/p2p2P1/3p3P/P1P2N2/1PBN1P2/3R2K1 b - - 0 23",
+      "fen": "2r1r1k1/2q2pp1/bpn2b1p/p2p2P1/3p3P/P1P1QN2/1PBN1P2/3RR1K1 w - - 0 22",
       "solution": [
         "Qxe8+",
         "Rxe8",
@@ -5330,7 +5330,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4r2/pppbq1pk/1b3p2/3Bp2Q/3P4/2P3P1/PP3P1P/R1B3K1 b - - 1 18",
+      "fen": "r4r1k/pppbq1pp/1b3p2/3Bp2R/3P4/2P3P1/PP3P1P/R1BQ2K1 w - - 1 17",
       "solution": [
         "Rxh7+",
         "Kxh7",
@@ -5359,7 +5359,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "3r2k1/p4pp1/1p1q1N1p/2p1p3/2P1P2Q/5P1P/PP4P1/3R2K1 b - - 0 28",
+      "fen": "3r2k1/p4pp1/1p1q3p/2pNp2n/2P1P3/5P1P/PP3QP1/3R2K1 w - - 1 27",
       "solution": [
         "Qh4",
         "Nf6",
@@ -5388,7 +5388,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "6k1/2p2pp1/3b3p/pP1p4/P2P4/7P/2Q2PP1/4r1K1 w - - 0 35",
+      "fen": "4r1k1/2p1qpp1/3b3p/pP1p4/P2P4/7P/2QB1PP1/4R1K1 b - - 0 33",
       "solution": [
         "Qxe1+",
         "Bxe1",
@@ -5417,7 +5417,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/ppp3bp/6p1/2nQ2P1/8/2P1P3/P1P1KP2/R6R b - - 0 20",
+      "fen": "r2q1rk1/ppp3bp/3p2p1/2n3P1/8/2PBPQ2/P1P1KP2/R6R w - - 1 18",
       "solution": [
         "Bc4+",
         "d5",
@@ -5448,7 +5448,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/pbq2p1Q/1pnbp1p1/6N1/3Pn3/P7/1PB2PPP/R1B2RK1 b - - 0 17",
+      "fen": "r4rk1/pbq2p1p/1pnbp1p1/6N1/3Pn3/P6Q/1PB2PPP/R1B2RK1 w - - 0 17",
       "solution": [
         "Qxh7#"
       ]
@@ -5475,7 +5475,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r5k1/ppq5/2pb1p1p/8/3PQP1B/2P4P/PP4P1/R5K1 b - - 0 21",
+      "fen": "r3r1k1/ppqN2p1/2pb1p1p/8/3PbP1B/2P4P/PPQN2P1/R5K1 w - - 0 19",
       "solution": [
         "Nxf6+",
         "gxf6",
@@ -5506,7 +5506,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2r1r2k/pp2b1Qp/1q6/4B3/4n3/1P6/P5PP/3R1R1K b - - 0 20",
+      "fen": "2r1r1k1/pp2bppp/1q6/4B3/4n3/1P3Q2/P5PP/3R1R1K w - - 0 19",
       "solution": [
         "Qxf7+",
         "Kh8",
@@ -5535,7 +5535,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r1b2rk1/1p2bppp/p1np4/3Np3/2B1PP2/PN6/1PP2nPP/R1BQ2RK w - - 1 16",
+      "fen": "r1b2rk1/1p2bppp/pqnp4/3Np3/2B1PP2/PN6/1PP2nPP/R1BQ1RK1 b - - 6 13",
       "solution": [
         "Nh3+",
         "Kh1",
@@ -5566,7 +5566,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r4rk1/pb3ppp/5B2/4p3/8/2PB4/P1Q2PqP/R2R2K1 w - - 0 17",
+      "fen": "r4rk1/pb3ppp/2q2B2/4p3/8/2PB4/P1Q2PPP/R2R2K1 b - - 0 16",
       "solution": [
         "Qxg2#"
       ]
@@ -5593,7 +5593,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3k2r/pN3pp1/2p1pn2/6p1/2P5/8/PPP1QPPq/R4RK1 w kq - 0 16",
+      "fen": "r3k2r/pN3pp1/2pqpn2/6p1/2P5/8/PPP1QPPP/R4RK1 b kq - 0 15",
       "solution": [
         "Qxh2#"
       ]
@@ -5620,7 +5620,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3k2r/pp3pp1/4p3/3P1np1/PP6/8/4NPPq/R2Q1RK1 w kq - 0 22",
+      "fen": "r3k2r/pp3pp1/4p3/3Pqnp1/PP6/8/4NPPP/R2Q1RK1 b kq - 0 21",
       "solution": [
         "Qxh2#"
       ]
@@ -5647,7 +5647,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2k5/pp4pp/4p3/2qp3r/8/2PN2P1/PP4P1/R4R1K w - - 0 23",
+      "fen": "2k5/pp4pp/4pr2/2qp1n2/8/2PN2P1/PP4PP/R2Q1R1K b - - 3 20",
       "solution": [
         "Nxg3+",
         "hxg3",
@@ -5678,7 +5678,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "2r1r2k/4bQ1p/p2p2pP/1p4P1/4P3/PNN1pP2/KPP4R/5q2 b - - 1 28",
+      "fen": "2r1r1k1/4b1pp/p2pp3/1p4PP/4P1Q1/PNN1pP2/KPP4R/5q2 w - - 3 26",
       "solution": [
         "Qxe6+",
         "Kh8",
@@ -5709,7 +5709,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "r3r1k1/1pp2pp1/p1bb3p/8/2P2P2/1P2P2P/PBQN2q1/R4RK1 w - - 0 17",
+      "fen": "r3r1k1/1pp2pp1/p1bb3p/6q1/2P2P2/1P2P2P/PBQN2P1/R4RK1 b - - 0 16",
       "solution": [
         "Qxg2#"
       ]
@@ -5736,7 +5736,7 @@
     ],
     "puzzle": {
       "prompt": "Launch the kingside attack.",
-      "fen": "4rbk1/5p1p/2p2nP1/3p4/1p1P4/3BP2q/1PQ1NP2/6RK w - - 0 25",
+      "fen": "2q1rbk1/5p1p/2p2nP1/3p4/1p1P4/3BP2P/1PQ1NP2/6RK b - - 0 24",
       "solution": [
         "Qxh3#"
       ]
