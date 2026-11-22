@@ -48,50 +48,57 @@ import chess
 
 CONTEXT_PLIES = 8   # how many half-moves before the puzzle start to show
 
-def fetch_game_moves(game_url: str) -> list[str]:
+def fetch_game_san_moves(game_url: str) -> list[str]:
     """
-    Fetch the full list of UCI moves for a Lichess game.
+    Fetch the full list of SAN moves for a Lichess game via the PGN export API.
     game_url is like https://lichess.org/game/AbCd1234 or .../black#44
 
     Returns [] on any error.
     """
+    import re
     try:
-        game_id = game_url.split("/")[-1].split("#")[0].split("/")[-1]
-        # strip colour suffix if present (e.g. .../AbCd/black)
+        parts = game_url.rstrip("/").split("/")
+        game_id = parts[-1].split("#")[0]
         if game_id in ("white", "black"):
-            parts = game_url.rstrip("/").split("/")
-            game_id = parts[-2]
+            game_id = parts[-2].split("#")[0]
         api_url = f"https://lichess.org/game/export/{game_id}?moves=true&tags=false&clocks=false&evals=false&opening=false&literate=false"
-        req = urllib.request.Request(api_url, headers={"Accept": "application/json"})
+        req = urllib.request.Request(api_url, headers={"Accept": "application/x-chess-pgn"})
         with urllib.request.urlopen(req, timeout=10) as resp:
-            data = json.loads(resp.read().decode())
-        moves_str = data.get("moves", "")
-        return moves_str.split() if moves_str else []
+            pgn_text = resp.read().decode()
+        # Remove PGN tag lines and result tokens, extract move tokens
+        # Tokens look like: e4, Nf3, O-O, Qxd5+, e8=Q#, etc.
+        # Strip move numbers (e.g. "1." "12.") and results
+        pgn_moves_text = re.sub(r'\[.*?\]', '', pgn_text)   # remove tags
+        pgn_moves_text = re.sub(r'\d+\.+', '', pgn_moves_text)  # remove move numbers
+        pgn_moves_text = re.sub(r'\{[^}]*\}', '', pgn_moves_text)  # remove comments
+        tokens = pgn_moves_text.split()
+        # Filter out result tokens
+        result_tokens = {'1-0', '0-1', '1/2-1/2', '*'}
+        return [t for t in tokens if t not in result_tokens]
     except Exception:
         return []
 
 def context_from_game(game_url: str, start_fen: str) -> tuple[str, list[str]]:
     """
     Given a Lichess game URL and the puzzle's startFen (position just before
-    the lead-in move), try to find that position in the game and go back
+    the lead-in move), fetch the game's SAN moves, find that position, go back
     CONTEXT_PLIES half-moves, returning (contextFen, contextSanMoves).
     Returns ("", []) if the game can't be fetched or position not found.
     """
-    uci_moves = fetch_game_moves(game_url)
-    if not uci_moves:
+    san_moves = fetch_game_san_moves(game_url)
+    if not san_moves:
         return "", []
 
     board = chess.Board()
-    # Find the ply index where the board matches start_fen
     target_fen_key = " ".join(start_fen.split()[:4])  # ignore clocks
     match_ply = None
-    for i, uci in enumerate(uci_moves):
+    for i, san in enumerate(san_moves):
         cur_key = " ".join(board.fen().split()[:4])
         if cur_key == target_fen_key:
             match_ply = i
             break
         try:
-            board.push_uci(uci)
+            board.push_san(san)
         except Exception:
             break
 
@@ -101,22 +108,20 @@ def context_from_game(game_url: str, start_fen: str) -> tuple[str, list[str]]:
     # Go back CONTEXT_PLIES from match_ply
     context_ply = max(0, match_ply - CONTEXT_PLIES)
 
-    # Replay from start to get contextFen
+    # Replay from start to get contextFen and collect the SANs
     board2 = chess.Board()
-    for uci in uci_moves[:context_ply]:
+    for san in san_moves[:context_ply]:
         try:
-            board2.push_uci(uci)
+            board2.push_san(san)
         except Exception:
             return "", []
     context_fen = board2.fen()
 
-    # Collect SANs from context_ply to match_ply
     context_sans = []
-    for uci in uci_moves[context_ply:match_ply]:
+    for san in san_moves[context_ply:match_ply]:
         try:
-            san = board2.san(chess.Move.from_uci(uci))
+            board2.push_san(san)
             context_sans.append(san)
-            board2.push_uci(uci)
         except Exception:
             break
 
