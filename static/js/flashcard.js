@@ -171,9 +171,9 @@
     var startMoveNo = parseInt(startParts[5], 10) || 1;
 
     /* ---- FRONT ---- */
-    // Static board at startFen (before the lead-in move, same as Lichess shows)
+    // Static board at puzzle.fen (after lead-in — the position the solver sees)
     var h = buildBoard(document.getElementById(deckId + "-frontboard"));
-    var game = new Chess(startFen);
+    var game = new Chess(puzzle.fen);
     renderPieces(h, game);
 
     // Turn pill reflects the solver's side (from puzzle.fen, after lead-in)
@@ -184,11 +184,11 @@
     var themeEl = document.getElementById(deckId + "-theme");
     themeEl.textContent = entry.theme || "";
 
-    // Lead-in move list (shown above board as context)
+    // Lead-in move list (shown below board as "Last move" context)
     var leadinEl = document.getElementById(deckId + "-leadinmoves");
     if (leadin.length) {
-      leadinEl.innerHTML = '<span class="fc-leadin-label">Lead-in: </span>' +
-        formatMoves(leadin, startColor, startMoveNo);
+      leadinEl.innerHTML = '<span class="fc-leadin-label">Last move: </span>' +
+        '<span class="fc-leadin-move">' + formatMoves(leadin, startColor, startMoveNo) + '</span>';
     } else {
       leadinEl.textContent = "";
     }
