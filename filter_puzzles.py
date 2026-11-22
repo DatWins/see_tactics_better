@@ -43,8 +43,84 @@ using python-chess so the front end can display them nicely.
 Requirements: python-chess   (pip install chess)
 """
 
-import argparse, csv, json, os, sys
+import argparse, csv, json, os, sys, time, urllib.request
 import chess
+
+CONTEXT_PLIES = 8   # how many half-moves before the puzzle start to show
+
+def fetch_game_moves(game_url: str) -> list[str]:
+    """
+    Fetch the full list of UCI moves for a Lichess game.
+    game_url is like https://lichess.org/game/AbCd1234 or .../black#44
+
+    Returns [] on any error.
+    """
+    try:
+        game_id = game_url.split("/")[-1].split("#")[0].split("/")[-1]
+        # strip colour suffix if present (e.g. .../AbCd/black)
+        if game_id in ("white", "black"):
+            parts = game_url.rstrip("/").split("/")
+            game_id = parts[-2]
+        api_url = f"https://lichess.org/game/export/{game_id}?moves=true&tags=false&clocks=false&evals=false&opening=false&literate=false"
+        req = urllib.request.Request(api_url, headers={"Accept": "application/json"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.loads(resp.read().decode())
+        moves_str = data.get("moves", "")
+        return moves_str.split() if moves_str else []
+    except Exception:
+        return []
+
+def context_from_game(game_url: str, start_fen: str) -> tuple[str, list[str]]:
+    """
+    Given a Lichess game URL and the puzzle's startFen (position just before
+    the lead-in move), try to find that position in the game and go back
+    CONTEXT_PLIES half-moves, returning (contextFen, contextSanMoves).
+    Returns ("", []) if the game can't be fetched or position not found.
+    """
+    uci_moves = fetch_game_moves(game_url)
+    if not uci_moves:
+        return "", []
+
+    board = chess.Board()
+    # Find the ply index where the board matches start_fen
+    target_fen_key = " ".join(start_fen.split()[:4])  # ignore clocks
+    match_ply = None
+    for i, uci in enumerate(uci_moves):
+        cur_key = " ".join(board.fen().split()[:4])
+        if cur_key == target_fen_key:
+            match_ply = i
+            break
+        try:
+            board.push_uci(uci)
+        except Exception:
+            break
+
+    if match_ply is None:
+        return "", []
+
+    # Go back CONTEXT_PLIES from match_ply
+    context_ply = max(0, match_ply - CONTEXT_PLIES)
+
+    # Replay from start to get contextFen
+    board2 = chess.Board()
+    for uci in uci_moves[:context_ply]:
+        try:
+            board2.push_uci(uci)
+        except Exception:
+            return "", []
+    context_fen = board2.fen()
+
+    # Collect SANs from context_ply to match_ply
+    context_sans = []
+    for uci in uci_moves[context_ply:match_ply]:
+        try:
+            san = board2.san(chess.Move.from_uci(uci))
+            context_sans.append(san)
+            board2.push_uci(uci)
+        except Exception:
+            break
+
+    return context_fen, context_sans
 
 # ---------------------------------------------------------------------------
 # Map: short slug (used as filename and data-category) → Lichess theme tag
@@ -159,10 +235,11 @@ def process_row(row) -> dict | None:
 
 def main():
     ap = argparse.ArgumentParser(description="Filter Lichess puzzles CSV into per-theme JSON.")
-    ap.add_argument("--csv",   required=True, help="Path to lichess_db_puzzle.csv")
-    ap.add_argument("--out",   default="static/data", help="Output directory (default: static/data)")
-    ap.add_argument("--max",   type=int, default=200, help="Max puzzles per theme (default: 200)")
-    ap.add_argument("--theme", default="", help="Only process this slug, e.g. mate-in-4 (default: all)")
+    ap.add_argument("--csv",     required=True, help="Path to lichess_db_puzzle.csv")
+    ap.add_argument("--out",     default="static/data", help="Output directory (default: static/data)")
+    ap.add_argument("--max",     type=int, default=200, help="Max puzzles per theme (default: 200)")
+    ap.add_argument("--theme",   default="", help="Only process this slug, e.g. mate-in-4 (default: all)")
+    ap.add_argument("--context", action="store_true", help="Fetch game context (8 moves back) from Lichess API (slow)")
     args = ap.parse_args()
 
     os.makedirs(args.out, exist_ok=True)
@@ -211,6 +288,12 @@ def main():
                     e = dict(entry)
                     e["puzzle"] = dict(entry["puzzle"])
                     e["puzzle"]["prompt"] = PROMPT_MAP.get(slug, "Find the best move.")
+                    if args.context and e.get("gameUrl"):
+                        ctx_fen, ctx_sans = context_from_game(e["gameUrl"], e["startFen"])
+                        if ctx_fen and ctx_sans:
+                            e["contextFen"]   = ctx_fen
+                            e["contextMoves"] = ctx_sans
+                        time.sleep(0.5)   # be polite to Lichess API
                     buckets[slug].append(e)
                     if len(buckets[slug]) >= args.max:
                         filled_slugs.add(slug)
