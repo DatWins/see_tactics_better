@@ -289,10 +289,15 @@ def main():
                     e["puzzle"] = dict(entry["puzzle"])
                     e["puzzle"]["prompt"] = PROMPT_MAP.get(slug, "Find the best move.")
                     if args.context and e.get("gameUrl"):
+                        n = len(buckets[slug]) + 1
+                        print(f"  [{n}/{args.max}] fetching {e['gameUrl']} …", end=" ", flush=True)
                         ctx_fen, ctx_sans = context_from_game(e["gameUrl"], e["startFen"])
                         if ctx_fen and ctx_sans:
                             e["contextFen"]   = ctx_fen
                             e["contextMoves"] = ctx_sans
+                            print(f"ok ({len(ctx_sans)} moves)")
+                        else:
+                            print("no context")
                         time.sleep(0.5)   # be polite to Lichess API
                     buckets[slug].append(e)
                     if len(buckets[slug]) >= args.max:
