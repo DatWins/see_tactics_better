@@ -118,8 +118,18 @@ def enrich_entry(entry: dict, plies: int) -> bool:
     context_fen   = context_nodes[0][0]   # board FEN at start of context window
     context_moves = [san for (_fen, san) in context_nodes]
 
+    # Derive the solver's FEN by replaying contextMoves from contextFen.
+    # This gives the correct side-to-move and move number, which puzzle.fen
+    # may not have (Lichess sometimes stores puzzle.fen deep in the solution).
+    solver_board = chess.Board(context_fen)
+    for _fen, san in context_nodes:
+        move = solver_board.parse_san(san)
+        solver_board.push(move)
+    solver_fen = solver_board.fen()
+
     entry["contextFen"]   = context_fen
     entry["contextMoves"] = context_moves
+    entry["solverFen"]    = solver_fen   # position where solver starts (correct color + move no.)
     return True
 
 
@@ -129,6 +139,7 @@ def main():
     ap.add_argument("--plies", type=int, default=8, help="Context plies to fetch (default: 8)")
     ap.add_argument("--delay", type=float, default=1.5, help="Delay between API requests in seconds")
     ap.add_argument("--limit", type=int, default=0, help="Only process first N entries (0=all)")
+    ap.add_argument("--force", action="store_true", help="Re-process already-enriched entries")
     args = ap.parse_args()
 
     with open(args.json, encoding="utf-8") as fh:
@@ -142,7 +153,7 @@ def main():
         puzzle_id = entry.get("site", "").split("/")[-1]
         print(f"  [{i+1}/{total}] {puzzle_id} … ", end="", flush=True)
 
-        if "contextFen" in entry and "contextMoves" in entry:
+        if not args.force and "contextFen" in entry and "contextMoves" in entry and "solverFen" in entry:
             print("already done, skipping")
             ok += 1
             continue

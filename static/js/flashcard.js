@@ -181,8 +181,10 @@
     var game = new Chess(boardFen);
     renderPieces(h, game);
 
-    // Turn pill: solver's side (from puzzle.fen)
-    var puzzleColor = puzzle.fen.split(" ")[1] === "b" ? "Black" : "White";
+    // Turn pill: solver's side — use solverFen when available (correct color + move no.),
+    // fall back to puzzle.fen
+    var solverFen   = entry.solverFen || puzzle.fen;
+    var puzzleColor = solverFen.split(" ")[1] === "b" ? "Black" : "White";
     document.getElementById(deckId + "-turnpill").textContent = puzzleColor + " to move";
 
     // Theme tag (top-left)
@@ -200,8 +202,8 @@
     document.getElementById(deckId + "-prompt").textContent = puzzle.prompt || "";
 
     /* ---- BACK ---- */
-    // Solution move list
-    var puzzleMoveNo = parseInt(puzzle.fen.split(" ")[5], 10) || 1;
+    // Solution move list — use solverFen for correct move number
+    var puzzleMoveNo = parseInt(solverFen.split(" ")[5], 10) || 1;
     var solEl = document.getElementById(deckId + "-solution");
     solEl.textContent = formatMoves(puzzle.solution || [], puzzleColor, puzzleMoveNo);
 
