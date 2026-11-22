@@ -49,7 +49,7 @@
     svg.appendChild(t);
   }
 
-  function buildBoard(container){
+  function buildBoard(container, flipped){
     var svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
     svg.setAttribute("viewBox", "0 0 " + VB + " " + VB);
     svg.setAttribute("class", "fc-board-svg");
@@ -66,8 +66,16 @@
         svg.appendChild(mkRect(x, y, SQ, SQ, light ? COLORS.light : COLORS.dark));
       }
     }
-    for (var f2 = 0; f2 < 8; f2++) addLabel(svg, MARGIN + f2*SQ + SQ/2, VB - MARGIN/2, FILES[f2]);
-    for (var r2 = 0; r2 < 8; r2++) addLabel(svg, MARGIN/2, MARGIN + r2*SQ + SQ/2, String(8-r2));
+    // File labels (a-h or h-a when flipped)
+    for (var f2 = 0; f2 < 8; f2++){
+      var fileChar = flipped ? FILES[7-f2] : FILES[f2];
+      addLabel(svg, MARGIN + f2*SQ + SQ/2, VB - MARGIN/2, fileChar);
+    }
+    // Rank labels (8-1 or 1-8 when flipped)
+    for (var r2 = 0; r2 < 8; r2++){
+      var rankNum = flipped ? String(r2+1) : String(8-r2);
+      addLabel(svg, MARGIN/2, MARGIN + r2*SQ + SQ/2, rankNum);
+    }
 
     var pieceLayer = document.createElementNS("http://www.w3.org/2000/svg", "g");
     pieceLayer.setAttribute("transform", "translate(" + MARGIN + "," + MARGIN + ")");
@@ -78,7 +86,7 @@
     return {svg: svg, pieceLayer: pieceLayer};
   }
 
-  function renderPieces(h, game){
+  function renderPieces(h, game, flipped){
     h.pieceLayer.innerHTML = "";
     var board = game.board();
     for (var row = 0; row < 8; row++){
@@ -89,7 +97,9 @@
         var use = document.createElementNS("http://www.w3.org/2000/svg", "use");
         use.setAttributeNS("http://www.w3.org/1999/xlink", "href", "#pc-" + ch);
         use.setAttribute("href", "#pc-" + ch);
-        use.setAttribute("x", col*SQ); use.setAttribute("y", row*SQ);
+        var drawCol = flipped ? (7 - col) : col;
+        var drawRow = flipped ? (7 - row) : row;
+        use.setAttribute("x", drawCol*SQ); use.setAttribute("y", drawRow*SQ);
         use.setAttribute("width", SQ); use.setAttribute("height", SQ);
         h.pieceLayer.appendChild(use);
       }
@@ -175,16 +185,18 @@
     var boardColor  = boardParts[1] === "b" ? "Black" : "White";
     var boardMoveNo = parseInt(boardParts[5], 10) || 1;
 
-    /* ---- FRONT ---- */
-    // Board shows context start position (8 plies back from puzzle, or startFen)
-    var h = buildBoard(document.getElementById(deckId + "-frontboard"));
-    var game = new Chess(boardFen);
-    renderPieces(h, game);
-
     // Turn pill: solver's side — use solverFen when available (correct color + move no.),
     // fall back to puzzle.fen
     var solverFen   = entry.solverFen || puzzle.fen;
     var puzzleColor = solverFen.split(" ")[1] === "b" ? "Black" : "White";
+    var flipped     = (puzzleColor === "Black");  // Black to move → Black at bottom
+
+    /* ---- FRONT ---- */
+    // Board shows context start position (8 plies back from puzzle, or startFen)
+    var h = buildBoard(document.getElementById(deckId + "-frontboard"), flipped);
+    var game = new Chess(boardFen);
+    renderPieces(h, game, flipped);
+
     document.getElementById(deckId + "-turnpill").textContent = puzzleColor + " to move";
 
     // Theme tag (top-left)
