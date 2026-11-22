@@ -147,6 +147,7 @@ THEME_MAP = {
     "clearance":        "clearance",
     "interference":     "interference",
     "kingside-attack":  "kingsideAttack",
+    "middlegame":       "middlegame",
 }
 
 # Human-readable prompt per theme
@@ -167,6 +168,7 @@ PROMPT_MAP = {
     "clearance":        "Find the clearance.",
     "interference":     "Find the interference.",
     "kingside-attack":  "Launch the kingside attack.",
+    "middlegame":       "Find the best move.",
 }
 
 def uci_to_san(board: chess.Board, uci: str) -> str:
