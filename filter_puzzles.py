@@ -144,6 +144,7 @@ def process_row(row) -> dict | None:
 
     return {
         "site":     "https://lichess.org/training/" + puzzle_id,
+        "gameUrl":  game_url,
         "theme":    ", ".join(themes),
         "startFen": start_fen,
         "moves":    [lead_in_san],   # one lead-in move shown as text
@@ -156,19 +157,27 @@ def process_row(row) -> dict | None:
 
 def main():
     ap = argparse.ArgumentParser(description="Filter Lichess puzzles CSV into per-theme JSON.")
-    ap.add_argument("--csv",  required=True, help="Path to lichess_db_puzzle.csv")
-    ap.add_argument("--out",  default="static/data", help="Output directory (default: static/data)")
-    ap.add_argument("--max",  type=int, default=200, help="Max puzzles per theme (default: 200)")
+    ap.add_argument("--csv",   required=True, help="Path to lichess_db_puzzle.csv")
+    ap.add_argument("--out",   default="static/data", help="Output directory (default: static/data)")
+    ap.add_argument("--max",   type=int, default=200, help="Max puzzles per theme (default: 200)")
+    ap.add_argument("--theme", default="", help="Only process this slug, e.g. mate-in-4 (default: all)")
     args = ap.parse_args()
 
     os.makedirs(args.out, exist_ok=True)
 
+    # Optionally restrict to one theme
+    active_map = {k: v for k, v in THEME_MAP.items()
+                  if not args.theme or k == args.theme}
+    if args.theme and not active_map:
+        print(f"Unknown theme slug '{args.theme}'. Valid slugs: {list(THEME_MAP)}")
+        return
+
     # Build reverse map: lichess tag → list of slugs
     tag_to_slugs: dict[str, list[str]] = {}
-    for slug, tag in THEME_MAP.items():
+    for slug, tag in active_map.items():
         tag_to_slugs.setdefault(tag, []).append(slug)
 
-    buckets: dict[str, list] = {slug: [] for slug in THEME_MAP}
+    buckets: dict[str, list] = {slug: [] for slug in active_map}
     filled_slugs: set[str] = set()
 
     print(f"Reading {args.csv} …")
@@ -178,7 +187,7 @@ def main():
             if lineno % 100_000 == 0:
                 filled = sum(1 for s in THEME_MAP if len(buckets[s]) >= args.max)
                 print(f"  line {lineno:,} — {filled}/{len(THEME_MAP)} themes full")
-            if len(filled_slugs) == len(THEME_MAP):
+            if len(filled_slugs) == len(active_map):
                 break  # all themes full
 
             themes_col = row[7].strip().split() if len(row) > 7 else []
