@@ -50,8 +50,8 @@ def fetch_pgn(game_id: str) -> str | None:
 
 def game_id_from_url(url: str) -> str | None:
     """Extract the 8-char Lichess game ID from a URL like
-    https://lichess.org/xXxXxXxX#29  or  https://lichess.org/xXxXxXxX/black#29"""
-    m = re.search(r"lichess\.org/([A-Za-z0-9]{8})", url)
+    https://lichess.org/game/xXxXxXxX#29  or  https://lichess.org/game/xXxXxXxX/black#29"""
+    m = re.search(r"lichess\.org/game/([A-Za-z0-9]{8})", url)
     return m.group(1) if m else None
 
 def enrich_entry(entry: dict, plies: int) -> bool:
