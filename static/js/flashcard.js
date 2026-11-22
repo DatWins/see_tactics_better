@@ -66,12 +66,12 @@
         svg.appendChild(mkRect(x, y, SQ, SQ, light ? COLORS.light : COLORS.dark));
       }
     }
-    // File labels (a-h or h-a when flipped)
+    // File labels: a-h left-to-right when white at bottom; h-a when black at bottom
     for (var f2 = 0; f2 < 8; f2++){
       var fileChar = flipped ? FILES[7-f2] : FILES[f2];
       addLabel(svg, MARGIN + f2*SQ + SQ/2, VB - MARGIN/2, fileChar);
     }
-    // Rank labels (8-1 or 1-8 when flipped)
+    // Rank labels: 8 at top, 1 at bottom when white at bottom; reversed when black at bottom
     for (var r2 = 0; r2 < 8; r2++){
       var rankNum = flipped ? String(r2+1) : String(8-r2);
       addLabel(svg, MARGIN/2, MARGIN + r2*SQ + SQ/2, rankNum);
@@ -87,6 +87,10 @@
   }
 
   function renderPieces(h, game, flipped){
+    // chess.js board(): row 0 = rank 8 (black's back rank), row 7 = rank 1 (white's back rank)
+    // Normal (white at bottom): rank 8 draws at SVG top → row 0 → drawRow = row (no change needed,
+    //   but we must FLIP the chess.js rows so rank 1 is at bottom: drawRow = 7 - row)
+    // Flipped (black at bottom): rank 1 draws at SVG bottom → drawRow = row (chess.js natural order)
     h.pieceLayer.innerHTML = "";
     var board = game.board();
     for (var row = 0; row < 8; row++){
@@ -97,8 +101,10 @@
         var use = document.createElementNS("http://www.w3.org/2000/svg", "use");
         use.setAttributeNS("http://www.w3.org/1999/xlink", "href", "#pc-" + ch);
         use.setAttribute("href", "#pc-" + ch);
+        // flipped=false (White to move): white at bottom → rank 1 at bottom → invert rows
+        // flipped=true  (Black to move): black at bottom → rank 8 at bottom → keep rows
+        var drawRow = flipped ? row : (7 - row);
         var drawCol = flipped ? (7 - col) : col;
-        var drawRow = flipped ? (7 - row) : row;
         use.setAttribute("x", drawCol*SQ); use.setAttribute("y", drawRow*SQ);
         use.setAttribute("width", SQ); use.setAttribute("height", SQ);
         h.pieceLayer.appendChild(use);
