@@ -171,29 +171,34 @@
     var startMoveNo = parseInt(startParts[5], 10) || 1;
 
     /* ---- FRONT ---- */
-    // Static board at startFen (before lead-in moves)
+    // Static board at puzzle.fen (after lead-in — the position the solver sees)
     var h = buildBoard(document.getElementById(deckId + "-frontboard"));
-    var game = new Chess(startFen);
+    var game = new Chess(puzzle.fen);
     renderPieces(h, game);
 
-    document.getElementById(deckId + "-turnpill").textContent = startColor + " to move";
+    // Turn pill reflects whose move it is in the puzzle (solver's side)
+    var puzzleColor  = puzzle.fen.split(" ")[1] === "b" ? "Black" : "White";
+    document.getElementById(deckId + "-turnpill").textContent = puzzleColor + " to move";
 
     // Theme tag (top-left)
     var themeEl = document.getElementById(deckId + "-theme");
     themeEl.textContent = entry.theme || "";
 
-    // Lead-in move list
+    // Lead-in move list (shown above board as context)
     var leadinEl = document.getElementById(deckId + "-leadinmoves");
-    leadinEl.textContent = formatMoves(leadin, startColor, startMoveNo);
+    if (leadin.length) {
+      leadinEl.innerHTML = '<span class="fc-leadin-label">Lead-in: </span>' +
+        formatMoves(leadin, startColor, startMoveNo);
+    } else {
+      leadinEl.textContent = "";
+    }
 
     // Puzzle prompt ("Black to move. Mate in 4.")
     document.getElementById(deckId + "-prompt").textContent = puzzle.prompt || "";
 
     /* ---- BACK ---- */
-    // Solution move list (colour + move number taken from puzzle.fen)
-    var puzzleParts = puzzle.fen.split(" ");
-    var puzzleColor  = puzzleParts[1] === "b" ? "Black" : "White";
-    var puzzleMoveNo = parseInt(puzzleParts[5], 10) || 1;
+    // Solution move list
+    var puzzleMoveNo = parseInt(puzzle.fen.split(" ")[5], 10) || 1;
     var solEl = document.getElementById(deckId + "-solution");
     solEl.textContent = formatMoves(puzzle.solution || [], puzzleColor, puzzleMoveNo);
 
