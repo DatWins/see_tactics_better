@@ -171,13 +171,13 @@
     var startMoveNo = parseInt(startParts[5], 10) || 1;
 
     /* ---- FRONT ---- */
-    // Static board at puzzle.fen (after lead-in — the position the solver sees)
+    // Static board at startFen (before the lead-in move, same as Lichess shows)
     var h = buildBoard(document.getElementById(deckId + "-frontboard"));
-    var game = new Chess(puzzle.fen);
+    var game = new Chess(startFen);
     renderPieces(h, game);
 
-    // Turn pill reflects whose move it is in the puzzle (solver's side)
-    var puzzleColor  = puzzle.fen.split(" ")[1] === "b" ? "Black" : "White";
+    // Turn pill reflects the solver's side (from puzzle.fen, after lead-in)
+    var puzzleColor = puzzle.fen.split(" ")[1] === "b" ? "Black" : "White";
     document.getElementById(deckId + "-turnpill").textContent = puzzleColor + " to move";
 
     // Theme tag (top-left)
