@@ -206,16 +206,20 @@ def process_row(row) -> dict | None:
 
     # Convert all moves to SAN (modifies board in place)
     all_sans = []
+    puzzle_fen = None
     try:
-        for uci in moves_uci:
+        for i, uci in enumerate(moves_uci):
             all_sans.append(uci_to_san(board, uci))
+            if i == 0:
+                puzzle_fen = board.fen()   # position after lead-in move only
     except Exception:
         return None
 
+    if puzzle_fen is None:
+        return None
+
     # Lead-in = first SAN (the opponent's move before the puzzle starts)
-    # Puzzle FEN = position after that first move
     lead_in_san = all_sans[0]
-    puzzle_fen  = board.fen()   # board already has the lead-in move pushed
     solution_sans = all_sans[1:]
 
     # startFen colour/move-number for display on the front card
