@@ -164,36 +164,39 @@
     container.innerHTML = buildCardMarkup(deckId);
 
     var puzzle  = entry.puzzle;
-    var leadin  = entry.moves || [];   // SAN list of lead-in moves (shown as text)
-    var startFen = entry.startFen;
-    var startParts = startFen.split(" ");
-    var startColor  = startParts[1] === "b" ? "Black" : "White";
-    var startMoveNo = parseInt(startParts[5], 10) || 1;
+
+    // Use contextFen/contextMoves when available (enriched with game context),
+    // otherwise fall back to startFen + single lead-in move.
+    var hasContext = entry.contextFen && entry.contextMoves && entry.contextMoves.length;
+    var boardFen   = hasContext ? entry.contextFen : entry.startFen;
+    var contextMoves = hasContext ? entry.contextMoves : (entry.moves || []);
+
+    var boardParts  = boardFen.split(" ");
+    var boardColor  = boardParts[1] === "b" ? "Black" : "White";
+    var boardMoveNo = parseInt(boardParts[5], 10) || 1;
 
     /* ---- FRONT ---- */
-    // Static board at puzzle.fen (after lead-in — the position the solver sees)
+    // Board shows context start position (8 plies back from puzzle, or startFen)
     var h = buildBoard(document.getElementById(deckId + "-frontboard"));
-    var game = new Chess(puzzle.fen);
+    var game = new Chess(boardFen);
     renderPieces(h, game);
 
-    // Turn pill reflects the solver's side (from puzzle.fen, after lead-in)
+    // Turn pill: solver's side (from puzzle.fen)
     var puzzleColor = puzzle.fen.split(" ")[1] === "b" ? "Black" : "White";
     document.getElementById(deckId + "-turnpill").textContent = puzzleColor + " to move";
 
     // Theme tag (top-left)
-    var themeEl = document.getElementById(deckId + "-theme");
-    themeEl.textContent = entry.theme || "";
+    document.getElementById(deckId + "-theme").textContent = entry.theme || "";
 
-    // Lead-in move list (shown below board as "Last move" context)
+    // Context move list (8 plies shown as text above prompt)
     var leadinEl = document.getElementById(deckId + "-leadinmoves");
-    if (leadin.length) {
-      leadinEl.innerHTML = '<span class="fc-leadin-label">Last move: </span>' +
-        '<span class="fc-leadin-move">' + formatMoves(leadin, startColor, startMoveNo) + '</span>';
+    if (contextMoves.length) {
+      leadinEl.textContent = formatMoves(contextMoves, boardColor, boardMoveNo);
     } else {
       leadinEl.textContent = "";
     }
 
-    // Puzzle prompt ("Black to move. Mate in 4.")
+    // Puzzle prompt
     document.getElementById(deckId + "-prompt").textContent = puzzle.prompt || "";
 
     /* ---- BACK ---- */
