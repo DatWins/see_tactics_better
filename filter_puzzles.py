@@ -152,6 +152,7 @@ THEME_MAP = {
     "rook-endgame":     "rookEndgame",
     "pawn-endgame":     "pawnEndgame",
     "intermezzo":       "intermezzo",
+    "opening":          "opening",
 }
 
 # Human-readable prompt per theme
@@ -177,6 +178,7 @@ PROMPT_MAP = {
     "rook-endgame":     "Find the best move.",
     "pawn-endgame":     "Find the best move.",
     "intermezzo":       "Find the intermezzo (in-between move).",
+    "opening":          "Find the best move.",
 }
 
 def uci_to_san(board: chess.Board, uci: str) -> str:
