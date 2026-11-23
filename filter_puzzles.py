@@ -156,6 +156,7 @@ THEME_MAP = {
     "bishop-endgame":   "bishopEndgame",
     "knight-endgame":   "knightEndgame",
     "defensive-move":   "defensiveMove",
+    "quiet-move":       "quietMove",
 }
 
 # Human-readable prompt per theme
@@ -185,6 +186,7 @@ PROMPT_MAP = {
     "bishop-endgame":   "Find the best move.",
     "knight-endgame":   "Find the best move.",
     "defensive-move":   "Find the defensive move.",
+    "quiet-move":       "Find the quiet move.",
 }
 
 def uci_to_san(board: chess.Board, uci: str) -> str:
