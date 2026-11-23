@@ -1,0 +1,5980 @@
+[
+  {
+    "site": "https://lichess.org/training/008nF",
+    "gameUrl": "https://lichess.org/game/tYO5rrIU#61",
+    "theme": "crushing, master, middlegame, short, trappedPiece",
+    "startFen": "2rq1rk1/7p/1n4pb/1R2p3/pPpP1P2/P1B5/3NQ1PP/2R3K1 w - - 0 31",
+    "moves": [
+      "Qxe5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "2rq1rk1/7p/1n4pb/1R2Q3/pPpP1P2/P1B5/3N2PP/2R3K1 b - - 0 31",
+      "solution": [
+        "Re8",
+        "Qxe8+",
+        "Qxe8"
+      ]
+    },
+    "contextFen": "2r2rk1/5p1p/1n2p1pb/1p1qP3/pPpPR3/P1B5/3N1PPP/2RQ2K1 w - - 5 27",
+    "contextMoves": [
+      "f4",
+      "f6",
+      "Qe2",
+      "fxe5",
+      "Rxe5",
+      "Qd8",
+      "Rxb5",
+      "e5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/009FP",
+    "gameUrl": "https://lichess.org/game/2ndCtdd9/black#18",
+    "theme": "advantage, opening, short, trappedPiece",
+    "startFen": "r1b1k1nr/ppp2pbp/3ppqp1/8/2BnP3/N2P2QP/PPP2PP1/R1B1K2R b KQkq - 4 9",
+    "moves": [
+      "e5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b1k1nr/ppp2pbp/3p1qp1/4p3/2BnP3/N2P2QP/PPP2PP1/R1B1K2R w KQkq - 0 10",
+      "solution": [
+        "Bg5",
+        "Qxg5",
+        "Qxg5"
+      ]
+    },
+    "contextFen": "r1bqk1nr/ppp1ppbp/2np2p1/6N1/2B1P3/7P/PPPP1PP1/RNBQK2R b KQkq - 4 5",
+    "contextMoves": [
+      "e6",
+      "Qf3",
+      "Qxg5",
+      "d3",
+      "Qf6",
+      "Qg3",
+      "Nd4",
+      "Na3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00AhO",
+    "gameUrl": "https://lichess.org/game/9PjjgfVE#39",
+    "theme": "advantage, clearance, long, master, middlegame, trappedPiece",
+    "startFen": "r1b2rk1/2q2p1p/1p2pbp1/pP6/2P1Q3/P2B1N2/5PPP/3R1RK1 w - - 0 20",
+    "moves": [
+      "Qxa8"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "Q1b2rk1/2q2p1p/1p2pbp1/pP6/2P5/P2B1N2/5PPP/3R1RK1 b - - 0 20",
+      "solution": [
+        "Bb7",
+        "Qa7",
+        "Ra8",
+        "Qxa8+",
+        "Bxa8"
+      ]
+    },
+    "contextFen": "r1b2rk1/1pqnbppp/4pn2/pP6/2P1N3/P2B1N2/1B2QPPP/R4RK1 w - - 5 16",
+    "contextMoves": [
+      "Rad1",
+      "b6",
+      "Nxf6+",
+      "Nxf6",
+      "Bxf6",
+      "Bxf6",
+      "Qe4",
+      "g6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00BM8",
+    "gameUrl": "https://lichess.org/game/IBbaWSo7/black#32",
+    "theme": "advantage, master, middlegame, short, trappedPiece",
+    "startFen": "r4rk1/pp2bppp/2ppnn2/8/N1P1P3/q1P4P/P2N2PB/R2Q1R1K b - - 0 16",
+    "moves": [
+      "Rad8"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "3r1rk1/pp2bppp/2ppnn2/8/N1P1P3/q1P4P/P2N2PB/R2Q1R1K w - - 1 17",
+      "solution": [
+        "Nb1",
+        "Qxa4",
+        "Qxa4"
+      ]
+    },
+    "contextFen": "r2q1rk1/pp2bppp/2pp1n2/2n5/2P1PB2/2N4P/PPPN2P1/R2Q1RK1 b - - 0 12",
+    "contextMoves": [
+      "Ne6",
+      "Bh2",
+      "Qb6+",
+      "Kh1",
+      "Qxb2",
+      "Na4",
+      "Qa3",
+      "c3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00DdW",
+    "gameUrl": "https://lichess.org/game/bT7kcwFH/black#46",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "5rk1/4bppp/4b3/1p1pPpPP/2pP4/2P5/rqNQKP2/2RRN3 b - - 5 23",
+    "moves": [
+      "Ba3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "5rk1/5ppp/4b3/1p1pPpPP/2pP4/b1P5/rqNQKP2/2RRN3 w - - 6 24",
+      "solution": [
+        "Rb1",
+        "Qb3",
+        "Rxb3"
+      ]
+    },
+    "contextFen": "r3k2r/1p2bppp/p3b3/3pPpPP/P1pP4/2P2N2/1qNQ1P2/2R1K2R b Kkq - 1 19",
+    "contextMoves": [
+      "b5",
+      "axb5",
+      "axb5",
+      "Ke2",
+      "Ra2",
+      "Rhd1",
+      "O-O",
+      "Nfe1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Ksa",
+    "gameUrl": "https://lichess.org/game/WynrZVil/black#92",
+    "theme": "crushing, endgame, rookEndgame, short, trappedPiece",
+    "startFen": "8/5p2/5pk1/8/4PP2/6r1/5K2/7R b - - 2 46",
+    "moves": [
+      "Rg4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/5p2/5pk1/8/4PPr1/8/5K2/7R w - - 3 47",
+      "solution": [
+        "Kf3",
+        "Rg5",
+        "fxg5"
+      ]
+    },
+    "contextFen": "8/5p2/5p1k/7r/4PK2/5P2/8/6R1 b - - 3 42",
+    "contextMoves": [
+      "Re5",
+      "Ke3",
+      "Rg5",
+      "Rh1+",
+      "Kg6",
+      "f4",
+      "Rg3+",
+      "Kf2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00YeV",
+    "gameUrl": "https://lichess.org/game/wqxB0iyn/black#22",
+    "theme": "crushing, long, middlegame, trappedPiece",
+    "startFen": "r2qr1k1/ppp2ppp/2nbp3/5b2/3P4/2P1BN2/P1PQBPPP/3R1RK1 b - - 7 11",
+    "moves": [
+      "Qf6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3r1k1/ppp2ppp/2nbpq2/5b2/3P4/2P1BN2/P1PQBPPP/3R1RK1 w - - 8 12",
+      "solution": [
+        "Bg5",
+        "Qg6",
+        "Nh4",
+        "h6",
+        "Nxg6"
+      ]
+    },
+    "contextFen": "r2qkb1r/ppp1pppp/2n5/5b2/3P4/2P2N2/P1P1BPPP/R1BQK2R b KQkq - 0 7",
+    "contextMoves": [
+      "e6",
+      "O-O",
+      "Bd6",
+      "Be3",
+      "O-O",
+      "Qd2",
+      "Re8",
+      "Rad1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00ZWf",
+    "gameUrl": "https://lichess.org/game/bFAkQOCQ#21",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "r1b2bnr/ppQp3p/2n2q1k/6pP/2B1P3/3P4/PPP2PP1/RNB1K2R w KQ - 1 11",
+    "moves": [
+      "c3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b2bnr/ppQp3p/2n2q1k/6pP/2B1P3/2PP4/PP3PP1/RNB1K2R b KQ - 0 11",
+      "solution": [
+        "Bd6",
+        "Qxd6",
+        "Qxd6"
+      ]
+    },
+    "contextFen": "rnbq1bnr/pppp2pp/6k1/4Q3/2B1P3/8/PPPP1PPP/RNB1K2R w KQ - 3 7",
+    "contextMoves": [
+      "h4",
+      "Qf6",
+      "h5+",
+      "Kh6",
+      "d3+",
+      "g5",
+      "Qxc7",
+      "Nc6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00e63",
+    "gameUrl": "https://lichess.org/game/9lp8nVz7/black#32",
+    "theme": "advantage, discoveredAttack, middlegame, short, trappedPiece",
+    "startFen": "r4r1k/pp4pp/1qpp1b2/4p3/N3P3/3Q4/PPP2PPP/3RR1K1 b - - 3 16",
+    "moves": [
+      "Qd4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r4r1k/pp4pp/2pp1b2/4p3/N2qP3/3Q4/PPP2PPP/3RR1K1 w - - 4 17",
+      "solution": [
+        "Qb3",
+        "b5",
+        "Rxd4"
+      ]
+    },
+    "contextFen": "r2q1rk1/ppp1b1pp/3p1n2/4p1B1/2Q1P3/2N5/PPP2PPP/R3R1K1 b - - 1 12",
+    "contextMoves": [
+      "Kh8",
+      "Bxf6",
+      "Bxf6",
+      "Rad1",
+      "c6",
+      "Qd3",
+      "Qb6",
+      "Na4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00kSx",
+    "gameUrl": "https://lichess.org/game/cOCnU5Ub#21",
+    "theme": "advantage, opening, short, trappedPiece",
+    "startFen": "r1bq3k/pppnp2r/5nQb/3p4/8/3B1N2/PPPP1PPP/RNB1K2R w KQ - 2 11",
+    "moves": [
+      "Ng5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1bq3k/pppnp2r/5nQb/3p2N1/8/3B4/PPPP1PPP/RNB1K2R b KQ - 3 11",
+      "solution": [
+        "Ne5",
+        "Qxh6",
+        "Rxh6"
+      ]
+    },
+    "contextFen": "rnbq1bnk/ppppp2r/8/6Q1/8/8/PPPP1PPP/RNB1KBNR w KQ - 2 7",
+    "contextMoves": [
+      "Bd3",
+      "Bh6",
+      "Qf5",
+      "Nf6",
+      "Nf3",
+      "d5",
+      "Qg6",
+      "Nbd7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Bmi",
+    "gameUrl": "https://lichess.org/game/cUrVP72f#19",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "rn1qk2r/ppp2ppp/5b2/3P4/4P3/5b1P/PPP1QPP1/RN2KB1R w KQkq - 0 10",
+    "moves": [
+      "Qxf3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "rn1qk2r/ppp2ppp/5b2/3P4/4P3/5Q1P/PPP2PP1/RN2KB1R b KQkq - 0 10",
+      "solution": [
+        "Bxb2",
+        "Qb3",
+        "Bxa1"
+      ]
+    },
+    "contextFen": "rn1qkb1r/ppp2ppp/5n2/3P1b2/4p3/3P1N2/PPP1QPPP/RNB1KB1R w KQkq - 1 6",
+    "contextMoves": [
+      "dxe4",
+      "Bg4",
+      "Bg5",
+      "Be7",
+      "Bxf6",
+      "Bxf6",
+      "h3",
+      "Bxf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01BrE",
+    "gameUrl": "https://lichess.org/game/gOM7Eh5H#49",
+    "theme": "advantage, middlegame, trappedPiece, veryLong",
+    "startFen": "3r3r/Qbk5/1p1p3p/1P1qpp2/6p1/2P2NP1/3N1PP1/R4RK1 w - - 1 25",
+    "moves": [
+      "Ra6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "3r3r/Qbk5/Rp1p3p/1P1qpp2/6p1/2P2NP1/3N1PP1/5RK1 b - - 2 25",
+      "solution": [
+        "Qxb5",
+        "Ra4",
+        "Ra8",
+        "Rc4+",
+        "Qxc4",
+        "Qxb7+",
+        "Kxb7"
+      ]
+    },
+    "contextFen": "1k1r3r/pbp2q2/1p1p3p/1P1Pppp1/P1Q5/2P2NP1/3N1PP1/R4RK1 w - - 1 21",
+    "contextMoves": [
+      "a5",
+      "Qxd5",
+      "axb6",
+      "cxb6",
+      "Qa4",
+      "g4",
+      "Qxa7+",
+      "Kc7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01G5k",
+    "gameUrl": "https://lichess.org/game/1wwwMKcH/black#98",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, quietMove, trappedPiece, veryLong, zugzwang",
+    "startFen": "8/b6p/P1K2k2/2p3p1/6P1/8/1P3P2/8 b - - 1 49",
+    "moves": [
+      "Ke5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/b6p/P1K5/2p1k1p1/6P1/8/1P3P2/8 w - - 2 50",
+      "solution": [
+        "Kb7",
+        "Kd6",
+        "Kxa7",
+        "Kc7",
+        "b3",
+        "h6",
+        "f3"
+      ]
+    },
+    "contextFen": "1b4k1/6pp/P7/2p5/6P1/8/1P1K1P2/8 b - - 0 45",
+    "contextMoves": [
+      "Kf7",
+      "Kc3",
+      "Kf6",
+      "Kc4",
+      "Ba7",
+      "Kb5",
+      "g5",
+      "Kc6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01HgH",
+    "gameUrl": "https://lichess.org/game/yEhL5ybm#21",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "r3k2r/pppqbppp/2n1b3/3p2PQ/1P1Pp2P/2P1P3/P4PB1/RNB1K1NR w KQkq - 1 11",
+    "moves": [
+      "a4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3k2r/pppqbppp/2n1b3/3p2PQ/PP1Pp2P/2P1P3/5PB1/RNB1K1NR b KQkq - 0 11",
+      "solution": [
+        "Bg4",
+        "Bh3",
+        "Bxh5",
+        "Bxd7+",
+        "Kxd7"
+      ]
+    },
+    "contextFen": "r1bqkb1r/ppp2ppp/2n5/3p2Pn/3Pp3/2P4P/PP2PPB1/RNBQK1NR w KQkq - 1 7",
+    "contextMoves": [
+      "e3",
+      "Be7",
+      "Qxh5",
+      "Be6",
+      "h4",
+      "Qd6",
+      "b4",
+      "Qd7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Lo7",
+    "gameUrl": "https://lichess.org/game/jwV6XI0r#57",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "r2qb2r/6k1/p2p1p2/1ppN1Pp1/4P1Q1/2PP3P/P5P1/3R1RK1 w - - 6 29",
+    "moves": [
+      "g3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2qb2r/6k1/p2p1p2/1ppN1Pp1/4P1Q1/2PP2PP/P7/3R1RK1 b - - 0 29",
+      "solution": [
+        "Bh5",
+        "Qxh5",
+        "Rxh5"
+      ]
+    },
+    "contextFen": "r2q1r2/3b2k1/p2p1pp1/1ppN4/4PP2/2PP3P/P2Q2P1/3R1RK1 w - - 2 25",
+    "contextMoves": [
+      "f5",
+      "g5",
+      "Qe2",
+      "Bc6",
+      "Qh5",
+      "Be8",
+      "Qg4",
+      "Rh8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01RQj",
+    "gameUrl": "https://lichess.org/game/NkBUHRME/black#64",
+    "theme": "crushing, endgame, long, trappedPiece",
+    "startFen": "k7/5n2/1Qpp4/2r1pq1p/2P5/3P1P2/PP4rP/2KR2R1 b - - 1 32",
+    "moves": [
+      "Rxg1"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "k7/5n2/1Qpp4/2r1pq1p/2P5/3P1P2/PP5P/2KR2r1 w - - 0 33",
+      "solution": [
+        "Rxg1",
+        "Qc8",
+        "b4",
+        "Rxc4+",
+        "dxc4"
+      ]
+    },
+    "contextFen": "8/Np1k1n2/1N1p4/Q1r1pq1p/2P5/3P1P2/PP4rP/2KR3R b - - 2 28",
+    "contextMoves": [
+      "Kc7",
+      "Na8+",
+      "Kb8",
+      "Nc6+",
+      "bxc6",
+      "Qb6+",
+      "Kxa8",
+      "Rhg1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01V4g",
+    "gameUrl": "https://lichess.org/game/ezL0g2ue/black#30",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "3r1rk1/p2nppbp/2p2np1/qpPp4/N2P1B2/PP1BP2P/5PP1/R2Q1RK1 b - - 0 15",
+    "moves": [
+      "bxa4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "3r1rk1/p2nppbp/2p2np1/q1Pp4/p2P1B2/PP1BP2P/5PP1/R2Q1RK1 w - - 0 16",
+      "solution": [
+        "b4",
+        "Qb5",
+        "Bxb5"
+      ]
+    },
+    "contextFen": "r4rk1/pp1nppbp/1qp2np1/3p4/2PP1B2/1PNBPQ1P/P4PP1/R4RK1 b - - 0 11",
+    "contextMoves": [
+      "Rad8",
+      "Na4",
+      "Qb4",
+      "Qd1",
+      "b5",
+      "a3",
+      "Qa5",
+      "c5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01ctt",
+    "gameUrl": "https://lichess.org/game/PpkgBgMQ/black#46",
+    "theme": "crushing, endgame, long, trappedPiece",
+    "startFen": "8/ppp1kpp1/3b3p/3pn2b/3P1B2/2P4P/PPBN1PP1/5K2 b - - 0 23",
+    "moves": [
+      "Ng6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/ppp1kpp1/3b2np/3p3b/3P1B2/2P4P/PPBN1PP1/5K2 w - - 1 24",
+      "solution": [
+        "Bxd6+",
+        "Kxd6",
+        "g4",
+        "Nf4",
+        "gxh5"
+      ]
+    },
+    "contextFen": "8/pppnkpp1/3b3p/3p4/3P1nb1/5NBP/PPPN1PP1/3B1K2 b - - 0 19",
+    "contextMoves": [
+      "Bh5",
+      "c3",
+      "Nf6",
+      "Bc2",
+      "Nd7",
+      "Ne5",
+      "Nxe5",
+      "Bxf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01gjE",
+    "gameUrl": "https://lichess.org/game/VupKq5vL#41",
+    "theme": "equality, long, middlegame, trappedPiece",
+    "startFen": "1Q2n1kr/r4ppp/q7/bbB5/4p3/2P1P3/P3NPPP/RN2K2R w KQ - 8 21",
+    "moves": [
+      "Bxa7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "1Q2n1kr/B4ppp/q7/bb6/4p3/2P1P3/P3NPPP/RN2K2R b KQ - 0 21",
+      "solution": [
+        "Bc7",
+        "Qa8",
+        "Bc6",
+        "Qxc6",
+        "Qxc6"
+      ]
+    },
+    "contextFen": "5k1r/r2b1ppp/1q3n2/b3Q3/4p3/2P1P3/P4PPP/RNB1K1NR w KQ - 0 17",
+    "contextMoves": [
+      "Ne2",
+      "Bb5",
+      "Ba3+",
+      "Kg8",
+      "Bc5",
+      "Qa6",
+      "Qb8+",
+      "Ne8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01iqw",
+    "gameUrl": "https://lichess.org/game/4rnErNBz/black#32",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "r3kb1r/1p3pp1/p1p1b3/4p1Bp/4P3/2NQ1PP1/PPP2qBP/R6K b kq - 1 16",
+    "moves": [
+      "f6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3kb1r/1p4p1/p1p1bp2/4p1Bp/4P3/2NQ1PP1/PPP2qBP/R6K w kq - 0 17",
+      "solution": [
+        "Be3",
+        "Bc4",
+        "Bxf2",
+        "Bxd3",
+        "cxd3"
+      ]
+    },
+    "contextFen": "r1b1kb1r/1pq2pp1/p1p5/4p1Bp/4P1n1/2N3P1/PPP2PBP/R2Q1RK1 b kq - 1 12",
+    "contextMoves": [
+      "Be6",
+      "f3",
+      "Qb6+",
+      "Kh1",
+      "Nf2+",
+      "Rxf2",
+      "Qxf2",
+      "Qd3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01jyS",
+    "gameUrl": "https://lichess.org/game/d6ofDb8G/black#36",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r1b2rk1/pp3ppp/5n2/1N1p4/B7/q6P/P4PP1/2RQR1K1 b - - 3 18",
+    "moves": [
+      "Qxa2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b2rk1/pp3ppp/5n2/1N1p4/B7/7P/q4PP1/2RQR1K1 w - - 0 19",
+      "solution": [
+        "Re2",
+        "Qxe2",
+        "Qxe2"
+      ]
+    },
+    "contextFen": "r1b2rk1/pp3ppp/1q3n2/2bp4/B2B4/5N1P/P1P2PP1/R2QR1K1 b - - 2 14",
+    "contextMoves": [
+      "Bxd4",
+      "Nxd4",
+      "Qb4",
+      "c3",
+      "Qxc3",
+      "Rc1",
+      "Qa3",
+      "Nb5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01q0R",
+    "gameUrl": "https://lichess.org/game/kPHFbMCc/black#36",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "r3k2r/pp1n1pp1/4p1p1/2ppP3/3Pq3/1P3N1P/P1P2KP1/R1Q4R b kq - 3 18",
+    "moves": [
+      "cxd4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3k2r/pp1n1pp1/4p1p1/3pP3/3pq3/1P3N1P/P1P2KP1/R1Q4R w kq - 0 19",
+      "solution": [
+        "Re1",
+        "Qf5",
+        "g4",
+        "Qxf3+",
+        "Kxf3"
+      ]
+    },
+    "contextFen": "r3k2r/pp1n1pp1/2p1p1p1/2bpP3/3B1P1q/1P2P2P/P1PN2P1/R2Q1K1R b kq - 4 14",
+    "contextMoves": [
+      "Bxd4",
+      "exd4",
+      "Qxf4+",
+      "Nf3",
+      "c5",
+      "Qc1",
+      "Qe4",
+      "Kf2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01rBE",
+    "gameUrl": "https://lichess.org/game/evdwQ8hm/black#22",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "r1bqr3/ppppk1pp/1b3n2/nP2p1NP/4P3/2PP4/P4PP1/RNBQK2R b KQ - 0 11",
+    "moves": [
+      "d5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1bqr3/ppp1k1pp/1b3n2/nP1pp1NP/4P3/2PP4/P4PP1/RNBQK2R w KQ - 0 12",
+      "solution": [
+        "Ba3+",
+        "Kd7",
+        "Nf7",
+        "Qe7",
+        "Bxe7"
+      ]
+    },
+    "contextFen": "r1bqk2r/pppp1ppp/1bn2n2/1P2p3/2B1P3/2PP1N2/P4PPP/RNBQK2R b KQkq - 0 7",
+    "contextMoves": [
+      "Na5",
+      "Bxf7+",
+      "Kxf7",
+      "Ng5+",
+      "Ke7",
+      "h4",
+      "Re8",
+      "h5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01sqg",
+    "gameUrl": "https://lichess.org/game/6y7s342f/black#40",
+    "theme": "crushing, long, master, middlegame, trappedPiece",
+    "startFen": "4rr1k/pp4pp/2p1Bn2/2b1pP1q/8/2NP1R2/PPPB2QP/4K3 b - - 6 20",
+    "moves": [
+      "Nd5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "4rr1k/pp4pp/2p1B3/2bnpP1q/8/2NP1R2/PPPB2QP/4K3 w - - 7 21",
+      "solution": [
+        "Rh3",
+        "Bf2+",
+        "Kxf2",
+        "Qxh3",
+        "Qxh3"
+      ]
+    },
+    "contextFen": "rn3r1k/pp3ppp/2p5/2b1p2q/4P3/1BNP4/PPPB3P/4KR1Q b - - 6 16",
+    "contextMoves": [
+      "f5",
+      "exf5",
+      "Nd7",
+      "Be6",
+      "Nf6",
+      "Qg2",
+      "Rae8",
+      "Rf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01vxD",
+    "gameUrl": "https://lichess.org/game/daIHjPA3#33",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "rn1q1r1k/pbN5/1pp1Qp1p/2Pp2p1/3Pn3/P7/1P2PPPP/R3KBNR w KQ - 1 17",
+    "moves": [
+      "Nxa8"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "Nn1q1r1k/pb6/1pp1Qp1p/2Pp2p1/3Pn3/P7/1P2PPPP/R3KBNR b KQ - 0 17",
+      "solution": [
+        "Bc8",
+        "Qxc8",
+        "Qxc8"
+      ]
+    },
+    "contextFen": "rn1q1rk1/pb3pp1/1pp1pn1p/1NPp4/3P4/P5Q1/1P2PPPP/R3KBNR w KQ - 0 13",
+    "contextMoves": [
+      "Nc7",
+      "Ne4",
+      "Qf4",
+      "g5",
+      "Qe5",
+      "f6",
+      "Qxe6+",
+      "Kh8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01xk5",
+    "gameUrl": "https://lichess.org/game/yHqZWJsM/black#38",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r3k2r/pp1n1pp1/4p3/3pPnPp/2pP1Q1P/2B2N2/qPPK1P2/3R3R b kq - 5 19",
+    "moves": [
+      "g6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3k2r/pp1n1p2/4p1p1/3pPnPp/2pP1Q1P/2B2N2/qPPK1P2/3R3R w kq - 0 20",
+      "solution": [
+        "Ra1",
+        "Qxa1",
+        "Rxa1"
+      ]
+    },
+    "contextFen": "r3k1nr/pp1n1pp1/4p3/q2pP1Pp/1bpP3P/2N1Q3/PPPB1P2/2KR2NR b kq - 5 15",
+    "contextMoves": [
+      "Bxc3",
+      "Bxc3",
+      "Qxa2",
+      "Kd2",
+      "Ne7",
+      "Nf3",
+      "Nf5",
+      "Qf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01zU8",
+    "gameUrl": "https://lichess.org/game/O9lWuwI8#37",
+    "theme": "advantage, endgame, long, trappedPiece",
+    "startFen": "6k1/3bnppp/p4n2/1pp5/8/1BNP1N2/PPP2PPP/6K1 w - - 0 19",
+    "moves": [
+      "Ne4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "6k1/3bnppp/p4n2/1pp5/4N3/1B1P1N2/PPP2PPP/6K1 b - - 1 19",
+      "solution": [
+        "Nxe4",
+        "dxe4",
+        "c4",
+        "Bxc4",
+        "bxc4"
+      ]
+    },
+    "contextFen": "4r1k1/1p1b1ppp/p1nq1n2/2p5/2B5/2NP1N2/PPPQ1PPP/R5K1 w - - 0 15",
+    "contextMoves": [
+      "Re1",
+      "b5",
+      "Bb3",
+      "Rxe1+",
+      "Qxe1",
+      "Qe7",
+      "Qxe7",
+      "Nxe7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/025gx",
+    "gameUrl": "https://lichess.org/game/SNi97eZr#51",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "5r1k/2b1Npp1/1p2p2p/1qn5/3Q4/P7/3R1PPP/3R2K1 w - - 0 26",
+    "moves": [
+      "Rb2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "5r1k/2b1Npp1/1p2p2p/1qn5/3Q4/P7/1R3PPP/3R2K1 b - - 1 26",
+      "solution": [
+        "Qe8",
+        "Nd5",
+        "exd5"
+      ]
+    },
+    "contextFen": "q4rk1/2b2ppp/1pN1p3/1pn5/2P5/P3Q3/3R1PPP/5RK1 w - - 0 22",
+    "contextMoves": [
+      "cxb5",
+      "Qa4",
+      "Rfd1",
+      "Qxb5",
+      "Ne7+",
+      "Kh8",
+      "Qd4",
+      "h6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/026Br",
+    "gameUrl": "https://lichess.org/game/5nmXyKwm/black#48",
+    "theme": "crushing, master, middlegame, short, trappedPiece",
+    "startFen": "3r2k1/p3pp1p/2Q3pb/q2rP3/N4P2/P5P1/7P/2R2R1K b - - 0 24",
+    "moves": [
+      "Rd2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "3r2k1/p3pp1p/2Q3pb/q3P3/N4P2/P5P1/3r3P/2R2R1K w - - 1 25",
+      "solution": [
+        "Rc5",
+        "Rd1",
+        "Rxa5"
+      ]
+    },
+    "contextFen": "r4rk1/p3ppbp/2p3p1/q2bP3/N4P2/P4B2/6PP/2RQ1R1K b - - 4 20",
+    "contextMoves": [
+      "Rfd8",
+      "Bxd5",
+      "Rxd5",
+      "Qc2",
+      "Rad8",
+      "Qxc6",
+      "Bh6",
+      "g3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02A3t",
+    "gameUrl": "https://lichess.org/game/c57wHyeI#59",
+    "theme": "advantage, endgame, short, trappedPiece",
+    "startFen": "2q2bk1/4Q2p/p5p1/1p3pB1/8/5N1P/PP3PP1/6K1 w - - 1 30",
+    "moves": [
+      "Qa7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "2q2bk1/Q6p/p5p1/1p3pB1/8/5N1P/PP3PP1/6K1 b - - 2 30",
+      "solution": [
+        "Bc5",
+        "Qxc5",
+        "Qxc5"
+      ]
+    },
+    "contextFen": "6r1/1q3kbp/p5p1/1p3pB1/8/5N2/PP1Q1PPP/2R3K1 w - - 2 26",
+    "contextMoves": [
+      "Qd6",
+      "Rc8",
+      "Rxc8",
+      "Qxc8",
+      "Qe7+",
+      "Kg8",
+      "h3",
+      "Bf8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02E9M",
+    "gameUrl": "https://lichess.org/game/a808BYGC#23",
+    "theme": "advantage, clearance, long, master, middlegame, trappedPiece",
+    "startFen": "r2qk2r/p1p2ppp/2pb1n2/3p4/2P2Qb1/1PN1P3/PB3PPP/R3KB1R w KQkq - 4 12",
+    "moves": [
+      "Qg5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2qk2r/p1p2ppp/2pb1n2/3p2Q1/2P3b1/1PN1P3/PB3PPP/R3KB1R b KQkq - 5 12",
+      "solution": [
+        "h6",
+        "Qxg7",
+        "Rh7",
+        "Qxh7",
+        "Nxh7"
+      ]
+    },
+    "contextFen": "r1bqk2r/ppp1bppp/2np1n2/3P4/2P5/1P2Pp2/PB3PPP/RN1QKB1R w KQkq - 0 8",
+    "contextMoves": [
+      "dxc6",
+      "bxc6",
+      "Qxf3",
+      "d5",
+      "Nc3",
+      "Bg4",
+      "Qf4",
+      "Bd6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02FSn",
+    "gameUrl": "https://lichess.org/game/Yc1JzevW#25",
+    "theme": "crushing, master, middlegame, short, trappedPiece",
+    "startFen": "r2qk2r/1pp3p1/p1nbbn1p/3p1p2/3P4/PQN1PN1P/1PPB1P2/R3KB1R w KQkq - 0 13",
+    "moves": [
+      "Qxb7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2qk2r/1Qp3p1/p1nbbn1p/3p1p2/3P4/P1N1PN1P/1PPB1P2/R3KB1R b KQkq - 0 13",
+      "solution": [
+        "Na5",
+        "Qxa8",
+        "Qxa8"
+      ]
+    },
+    "contextFen": "r1bqkb1r/ppp3pp/2n2n2/3p1p2/3P4/PQ3N1P/1PP1PP2/RNB1KB1R w KQkq - 0 9",
+    "contextMoves": [
+      "Nc3",
+      "h6",
+      "Bf4",
+      "Bd6",
+      "Bd2",
+      "Be6",
+      "e3",
+      "a6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02Hq5",
+    "gameUrl": "https://lichess.org/game/VpTLyxMo#35",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "r2qk2r/2p1n1pp/1bP2p2/pP2p3/Q2pP3/B1Pb4/P2N1PPP/RN2R1K1 w kq - 0 18",
+    "moves": [
+      "cxd4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2qk2r/2p1n1pp/1bP2p2/pP2p3/Q2PP3/B2b4/P2N1PPP/RN2R1K1 b kq - 0 18",
+      "solution": [
+        "Qxd4",
+        "Qxd4",
+        "Bxd4",
+        "Nb3",
+        "Bxa1"
+      ]
+    },
+    "contextFen": "r1bqk2r/2p1n1pp/1bP2p2/pP1pp3/2Q1P3/2P2N2/P4PPP/RNB2RK1 w kq - 0 14",
+    "contextMoves": [
+      "Qa4",
+      "Bg4",
+      "Nfd2",
+      "Be2",
+      "Re1",
+      "Bd3",
+      "Ba3",
+      "d4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02K3C",
+    "gameUrl": "https://lichess.org/game/rSiFHwLh/black#22",
+    "theme": "crushing, long, opening, trappedPiece",
+    "startFen": "r1b1kb1r/pp2pppp/2n2n2/3P4/2B5/q4N2/P2B1PPP/1R1QK2R b Kkq - 2 11",
+    "moves": [
+      "Bg4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3kb1r/pp2pppp/2n2n2/3P4/2B3b1/q4N2/P2B1PPP/1R1QK2R w Kkq - 3 12",
+      "solution": [
+        "dxc6",
+        "bxc6",
+        "Bb4",
+        "Qxb4+",
+        "Rxb4"
+      ]
+    },
+    "contextFen": "r1b1kbnr/pp2pppp/2n5/3q4/3P4/2N2N2/P4PPP/R1BQKB1R b KQkq - 0 7",
+    "contextMoves": [
+      "Qa5",
+      "Rb1",
+      "Qxc3+",
+      "Bd2",
+      "Qa3",
+      "d5",
+      "Nf6",
+      "Bc4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02Nzx",
+    "gameUrl": "https://lichess.org/game/IlE1ZcIO#29",
+    "theme": "advantage, defensiveMove, long, middlegame, trappedPiece",
+    "startFen": "r3r3/2pbkp1p/2p2p2/1pb1P3/p7/1BN5/PPP2PPP/2KRR3 w - - 0 15",
+    "moves": [
+      "exf6+"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3r3/2pbkp1p/2p2P2/1pb5/p7/1BN5/PPP2PPP/2KRR3 b - - 0 15",
+      "solution": [
+        "Kf8",
+        "Rxe8+",
+        "Bxe8",
+        "Bxa4",
+        "bxa4"
+      ]
+    },
+    "contextFen": "r2kr3/pppb1p1p/2p2p2/2b5/4P3/2N5/PPP2PPP/2KR1B1R w - - 0 11",
+    "contextMoves": [
+      "Bc4",
+      "Ke7",
+      "Rhe1",
+      "b5",
+      "Bb3",
+      "a5",
+      "e5",
+      "a4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02Wga",
+    "gameUrl": "https://lichess.org/game/k5PrFjHd#55",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "5r1k/2r3p1/pp1N3p/2p4n/5p2/1B3P1P/PPP4B/R5K1 w - - 2 28",
+    "moves": [
+      "Ne4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "5r1k/2r3p1/pp5p/2p4n/4Np2/1B3P1P/PPP4B/R5K1 b - - 3 28",
+      "solution": [
+        "c4",
+        "Ba4",
+        "b5",
+        "Bxb5",
+        "axb5"
+      ]
+    },
+    "contextFen": "r4r1k/p5p1/1p5p/1Np2p1n/5B2/1B3P1P/PPP5/R5K1 w - - 1 24",
+    "contextMoves": [
+      "Bh2",
+      "f4",
+      "Nc7",
+      "Rac8",
+      "Nb5",
+      "a6",
+      "Nd6",
+      "Rc7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02cdm",
+    "gameUrl": "https://lichess.org/game/qvK8ZwZ2/black#18",
+    "theme": "crushing, long, opening, pin, trappedPiece",
+    "startFen": "r2qk1nr/p2b1ppp/2pbp3/2ppN3/5P2/1P2P2P/PBPP2P1/RN1QK2R b KQkq - 2 9",
+    "moves": [
+      "f6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2qk1nr/p2b2pp/2pbpp2/2ppN3/5P2/1P2P2P/PBPP2P1/RN1QK2R w KQkq - 0 10",
+      "solution": [
+        "Qh5+",
+        "g6",
+        "Nxg6",
+        "hxg6",
+        "Qxh8"
+      ]
+    },
+    "contextFen": "r2qkbnr/pp2pppp/2B5/2pp4/5Pb1/4PN2/PPPP2PP/RNBQK2R b KQkq - 0 5",
+    "contextMoves": [
+      "bxc6",
+      "h3",
+      "Bd7",
+      "Ne5",
+      "e6",
+      "b3",
+      "Bd6",
+      "Bb2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02f60",
+    "gameUrl": "https://lichess.org/game/E7TaUw5q/black#78",
+    "theme": "crushing, deflection, middlegame, trappedPiece, veryLong",
+    "startFen": "5rk1/3b4/3bpr1p/3p2pP/2pP1qP1/2P2B2/2Q1RRP1/5NK1 b - - 17 39",
+    "moves": [
+      "Kg7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "5r2/3b2k1/3bpr1p/3p2pP/2pP1qP1/2P2B2/2Q1RRP1/5NK1 w - - 18 40",
+      "solution": [
+        "g3",
+        "Qxf3",
+        "Rxf3",
+        "Rxf3",
+        "Qg6+",
+        "Kh8",
+        "Qxh6+"
+      ]
+    },
+    "contextFen": "1r3bk1/3b4/3qpr1p/3p2pP/2pP2P1/2P2B2/Q2NR1P1/4R1K1 b - - 9 35",
+    "contextMoves": [
+      "Qg3",
+      "Qc2",
+      "Bd6",
+      "Nf1",
+      "Qf4",
+      "Rf2",
+      "Rbf8",
+      "Ree2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02gtK",
+    "gameUrl": "https://lichess.org/game/Jwn3DneJ/black#62",
+    "theme": "advantage, defensiveMove, long, middlegame, trappedPiece",
+    "startFen": "3r1r2/p3p1kb/1p3p2/3B1Pp1/3Rp1Pp/1QP5/PP4RK/4q3 b - - 5 31",
+    "moves": [
+      "e3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "3r1r2/p3p1kb/1p3p2/3B1Pp1/3R2Pp/1QP1p3/PP4RK/4q3 w - - 0 32",
+      "solution": [
+        "Rd1",
+        "Qxd1",
+        "Qxd1",
+        "Bg8",
+        "c4"
+      ]
+    },
+    "contextFen": "3r1r2/p3p1kb/1p3p2/3B1Pp1/3Rp1Pp/1QP1P1qP/PP6/5R1K b - - 3 27",
+    "contextMoves": [
+      "Qxh3+",
+      "Kg1",
+      "Qxe3+",
+      "Rf2",
+      "Qg3+",
+      "Rg2",
+      "Qe1+",
+      "Kh2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02itv",
+    "gameUrl": "https://lichess.org/game/oHhgr635/black#36",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "rn3rk1/pp3ppp/2p1p1b1/8/2Pq4/P4N1P/2P1BPP1/R1Q2RK1 b - - 3 18",
+    "moves": [
+      "Qe4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "rn3rk1/pp3ppp/2p1p1b1/8/2P1q3/P4N1P/2P1BPP1/R1Q2RK1 w - - 4 19",
+      "solution": [
+        "Bd3",
+        "Qxf3",
+        "gxf3"
+      ]
+    },
+    "contextFen": "rn2k2r/pp3ppp/2p1p1b1/q7/2PPn3/P4N1P/2PBBPP1/R2QK2R b KQkq - 0 14",
+    "contextMoves": [
+      "Nxd2",
+      "Nxd2",
+      "Qc3",
+      "O-O",
+      "Qxd4",
+      "Qc1",
+      "O-O",
+      "Nf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02nYL",
+    "gameUrl": "https://lichess.org/game/AfePgsY0#25",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "r2qk2r/1p2bp1p/p1n1b3/3pPpp1/3P4/PQN2N2/1P3PPP/R1B2RK1 w kq - 0 13",
+    "moves": [
+      "Qxb7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2qk2r/1Q2bp1p/p1n1b3/3pPpp1/3P4/P1N2N2/1P3PPP/R1B2RK1 b kq - 0 13",
+      "solution": [
+        "Na5",
+        "Qxa8",
+        "Qxa8"
+      ]
+    },
+    "contextFen": "r1bqkb1r/pp3ppp/2n5/3pPp2/3P4/5N2/PP3PPP/RNBQK2R w KQkq - 0 9",
+    "contextMoves": [
+      "O-O",
+      "Be6",
+      "a3",
+      "Be7",
+      "Nc3",
+      "g5",
+      "Qb3",
+      "a6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02na8",
+    "gameUrl": "https://lichess.org/game/hTpQ7L6w/black#18",
+    "theme": "advantage, defensiveMove, long, middlegame, trappedPiece",
+    "startFen": "r3kbnr/ppp1p1pp/2n2p2/8/4QB2/1N6/PqP2PPP/RN2K2R b KQkq - 1 9",
+    "moves": [
+      "e5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3kbnr/ppp3pp/2n2p2/4p3/4QB2/1N6/PqP2PPP/RN2K2R w KQkq - 0 10",
+      "solution": [
+        "Bc1",
+        "Bb4+",
+        "Kf1",
+        "Qxa1",
+        "Nxa1"
+      ]
+    },
+    "contextFen": "r2qkbnr/ppp1p1pp/2n2p2/3p4/3PPBb1/5N2/PPP1BPPP/RN1QK2R b KQkq - 2 5",
+    "contextMoves": [
+      "dxe4",
+      "Nfd2",
+      "Bxe2",
+      "Qxe2",
+      "Qxd4",
+      "Qxe4",
+      "Qxb2",
+      "Nb3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02r6y",
+    "gameUrl": "https://lichess.org/game/lJyRrGS8/black#18",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "rnbq1rk1/pppp1ppp/4p3/8/3P4/3B1N2/P1PB1PPP/Q4RK1 b - - 2 9",
+    "moves": [
+      "Qf6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "rnb2rk1/pppp1ppp/4pq2/8/3P4/3B1N2/P1PB1PPP/Q4RK1 w - - 3 10",
+      "solution": [
+        "Bg5",
+        "Qg6",
+        "Bxg6"
+      ]
+    },
+    "contextFen": "rnbqk2r/pppp1ppp/4p3/8/1b1Pn3/2NB1N2/PPP2PPP/R1BQK2R b KQkq - 1 5",
+    "contextMoves": [
+      "Nxc3",
+      "bxc3",
+      "Bxc3+",
+      "Bd2",
+      "Bxa1",
+      "Qxa1",
+      "O-O",
+      "O-O"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02utb",
+    "gameUrl": "https://lichess.org/game/bxHS9TZU/black#78",
+    "theme": "advantage, endgame, short, trappedPiece",
+    "startFen": "8/3b2r1/k6p/p4p2/4pr2/P5R1/1R3P1N/7K b - - 3 39",
+    "moves": [
+      "Rxg3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/3b4/k6p/p4p2/4pr2/P5r1/1R3P1N/7K w - - 0 40",
+      "solution": [
+        "fxg3",
+        "Rf3",
+        "Nxf3"
+      ]
+    },
+    "contextFen": "6r1/3b1r2/k6p/p4p2/4pP1P/P3R3/3N1P2/1R5K b - - 0 35",
+    "contextMoves": [
+      "Rg4",
+      "Nf1",
+      "Rxh4+",
+      "Nh2",
+      "Rxf4",
+      "Rb2",
+      "Rg7",
+      "Rg3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03150",
+    "gameUrl": "https://lichess.org/game/wI9ahusI/black#74",
+    "theme": "crushing, endgame, pin, quietMove, trappedPiece, veryLong",
+    "startFen": "2r2r1k/1p3p2/p4P1p/2q5/P7/2P4Q/5RP1/4R1K1 b - - 7 37",
+    "moves": [
+      "Qg5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "2r2r1k/1p3p2/p4P1p/6q1/P7/2P4Q/5RP1/4R1K1 w - - 8 38",
+      "solution": [
+        "Re5",
+        "Qg6",
+        "Rh5",
+        "Kh7",
+        "Rff5",
+        "Rc6",
+        "Rhg5",
+        "Qxf6",
+        "Rxf6"
+      ]
+    },
+    "contextFen": "2r2rk1/1p3p2/p4P1p/6P1/P7/2P3Q1/3q2P1/4RR1K b - - 0 33",
+    "contextMoves": [
+      "Qxg5",
+      "Qd3",
+      "Qh5+",
+      "Kg1",
+      "Qc5+",
+      "Rf2",
+      "Kh8",
+      "Qh3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/035Y0",
+    "gameUrl": "https://lichess.org/game/gyt9Cqnm/black#34",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r4rk1/pp1b1p1p/3p1n2/2p1pp2/4P2q/3P1B1P/PPP1Q2K/R1B3R1 b - - 1 17",
+    "moves": [
+      "Kh8"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r4r1k/pp1b1p1p/3p1n2/2p1pp2/4P2q/3P1B1P/PPP1Q2K/R1B3R1 w - - 2 18",
+      "solution": [
+        "Bg5",
+        "Qxg5",
+        "Rxg5"
+      ]
+    },
+    "contextFen": "r1b2rk1/pp3ppp/3p1n2/2p1pP2/3nP2q/3P3P/PPP1N1B1/R1BQ1RK1 b - - 2 13",
+    "contextMoves": [
+      "Nxe2+",
+      "Qxe2",
+      "Bd7",
+      "Kh2",
+      "g6",
+      "Bf3",
+      "gxf5",
+      "Rg1+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/038q1",
+    "gameUrl": "https://lichess.org/game/RriReXLu#89",
+    "theme": "crushing, endgame, short, trappedPiece",
+    "startFen": "8/8/3k4/p1b1p2p/P1R3pP/2P5/6K1/8 w - - 4 45",
+    "moves": [
+      "Kg3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/8/3k4/p1b1p2p/P1R3pP/2P3K1/8/8 b - - 5 45",
+      "solution": [
+        "Kd5",
+        "Rxg4",
+        "hxg4"
+      ]
+    },
+    "contextFen": "8/b2k4/8/p3pppp/P1R5/2P2P1P/6K1/8 w - - 8 41",
+    "contextMoves": [
+      "h4",
+      "g4",
+      "fxg4",
+      "fxg4",
+      "Re4",
+      "Kd6",
+      "Rc4",
+      "Bc5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03Cdz",
+    "gameUrl": "https://lichess.org/game/TTUYdZJy/black#36",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "r1b1rnk1/pp1n1p1p/4p1pP/3pP3/3Q1P2/2N3q1/PPPKB1P1/R6R b - - 2 18",
+    "moves": [
+      "b6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b1rnk1/p2n1p1p/1p2p1pP/3pP3/3Q1P2/2N3q1/PPPKB1P1/R6R w - - 0 19",
+      "solution": [
+        "Bf3",
+        "Ba6",
+        "Rh3",
+        "Qxh3",
+        "gxh3"
+      ]
+    },
+    "contextFen": "r1b1rnk1/pp1nqp1p/2p1p1pP/3pP1N1/3P4/2NB4/PPPQ1PP1/R3K2R b KQ - 1 14",
+    "contextMoves": [
+      "c5",
+      "Be2",
+      "cxd4",
+      "Qxd4",
+      "Qxg5",
+      "f4",
+      "Qg3+",
+      "Kd2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03JIS",
+    "gameUrl": "https://lichess.org/game/0GfQsmp7/black#80",
+    "theme": "crushing, endgame, short, trappedPiece",
+    "startFen": "8/8/4pkp1/p2p3p/1b1P3P/PK1N2P1/2p2P2/8 b - - 1 40",
+    "moves": [
+      "Be1"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/8/4pkp1/p2p3p/3P3P/PK1N2P1/2p2P2/4b3 w - - 2 41",
+      "solution": [
+        "Kxc2",
+        "Bxf2",
+        "Nxf2"
+      ]
+    },
+    "contextFen": "8/5k2/4ppp1/p2pP2p/1bpP3P/5NP1/PK3P2/8 b - - 3 36",
+    "contextMoves": [
+      "c3+",
+      "Kb3",
+      "fxe5",
+      "Nxe5+",
+      "Kf6",
+      "a3",
+      "c2",
+      "Nd3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03KFS",
+    "gameUrl": "https://lichess.org/game/ULK38JQc/black#26",
+    "theme": "advantage, hangingPiece, middlegame, short, trappedPiece",
+    "startFen": "r3k2r/1bpn1ppp/1p2p3/p2pN3/3P1P1q/2PBPNn1/PP2Q2P/R3K2R b KQkq - 1 13",
+    "moves": [
+      "Nxe2+"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3k2r/1bpn1ppp/1p2p3/p2pN3/3P1P1q/2PBPN2/PP2n2P/R3K2R w KQkq - 0 14",
+      "solution": [
+        "Nxh4",
+        "Nxf4",
+        "exf4"
+      ]
+    },
+    "contextFen": "r2qk2r/1bpnbppp/1p2pn2/p2pN1B1/3P4/2PBP3/PP1NQPPP/R3K2R b KQkq - 1 9",
+    "contextMoves": [
+      "Ne4",
+      "Bxe7",
+      "Qxe7",
+      "f4",
+      "Qh4+",
+      "g3",
+      "Nxg3",
+      "Ndf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03NcI",
+    "gameUrl": "https://lichess.org/game/aINZmSqb#35",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "2r2r1k/pbq1Q1pp/1p1p1n2/8/3P1B2/2P5/PP1n1PPP/1BR1R1K1 w - - 0 18",
+    "moves": [
+      "Bxd2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "2r2r1k/pbq1Q1pp/1p1p1n2/8/3P4/2P5/PP1B1PPP/1BR1R1K1 b - - 0 18",
+      "solution": [
+        "Qc6",
+        "f3",
+        "Rce8",
+        "Qxf8+",
+        "Rxf8"
+      ]
+    },
+    "contextFen": "2r2rk1/pbq1bppp/1p1ppn2/n7/3P1B2/2P2N2/PP1NQPPP/1BR1R1K1 w - - 3 14",
+    "contextMoves": [
+      "Ng5",
+      "Nc4",
+      "Nxe6",
+      "fxe6",
+      "Qxe6+",
+      "Kh8",
+      "Qxe7",
+      "Nxd2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03Qgf",
+    "gameUrl": "https://lichess.org/game/GLhv9UcT#51",
+    "theme": "advantage, middlegame, pin, sacrifice, trappedPiece, veryLong",
+    "startFen": "r4r2/p4kbQ/1p4N1/2p2pP1/3p2n1/2PP4/PP1KPq2/R1B4R w - - 0 26",
+    "moves": [
+      "Kc2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r4r2/p4kbQ/1p4N1/2p2pP1/3p2n1/2PP4/PPK1Pq2/R1B4R b - - 1 26",
+      "solution": [
+        "Rh8",
+        "Nxh8+",
+        "Rxh8",
+        "g6+",
+        "Kf8",
+        "Qxh8+",
+        "Bxh8",
+        "Rxh8+",
+        "Kg7"
+      ]
+    },
+    "contextFen": "r4rk1/pb1q2bp/1p4p1/2p2pP1/3p2nN/2PP3Q/PP2PPB1/R1B1K2R w Q - 0 22",
+    "contextMoves": [
+      "Nxg6",
+      "Kf7",
+      "Bxb7",
+      "Qxb7",
+      "Qxh7",
+      "Qg2",
+      "Kd2",
+      "Qxf2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03TNb",
+    "gameUrl": "https://lichess.org/game/EMVfvTig#57",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "5k1r/pN3p2/2n1pQp1/3p2Pq/3P4/2P1K2r/PP3P2/R4R2 w - - 7 29",
+    "moves": [
+      "Kd2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "5k1r/pN3p2/2n1pQp1/3p2Pq/3P4/2P4r/PP1K1P2/R4R2 b - - 8 29",
+      "solution": [
+        "Rf3",
+        "Rh1",
+        "Rxf6",
+        "Rxh5",
+        "Rxf2+"
+      ]
+    },
+    "contextFen": "5k1r/pp3p2/2nqpQp1/2Np2P1/3P4/2P5/PP3P1r/R4RK1 w - - 5 25",
+    "contextMoves": [
+      "Nxb7",
+      "Rh1+",
+      "Kg2",
+      "Qh2+",
+      "Kf3",
+      "Qh5+",
+      "Ke3",
+      "Rh3+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03TkB",
+    "gameUrl": "https://lichess.org/game/yZhAzMjs/black#54",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "4r1k1/1p2rpb1/p2p2p1/2pPP2p/2q5/2N2Q1P/PP2R1P1/5R1K b - - 0 27",
+    "moves": [
+      "dxe5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "4r1k1/1p2rpb1/p5p1/2pPp2p/2q5/2N2Q1P/PP2R1P1/5R1K w - - 0 28",
+      "solution": [
+        "Re4",
+        "Qxf1+",
+        "Qxf1"
+      ]
+    },
+    "contextFen": "2r3k1/1p2rpb1/p2p2p1/2pP2qp/2P1P3/2N2Q2/PP4PP/1R3R1K b - - 0 23",
+    "contextMoves": [
+      "Rce8",
+      "Rbe1",
+      "Qd2",
+      "Re2",
+      "Qd4",
+      "h3",
+      "Qxc4",
+      "e5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03dkw",
+    "gameUrl": "https://lichess.org/game/LdIOWRgE/black#40",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r1bq2rk/2p2p1p/pb1p2nB/1p1PpN1Q/4Pp2/PB6/1PP1RPPP/R5K1 b - - 5 20",
+    "moves": [
+      "Qf6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b3rk/2p2p1p/pb1p1qnB/1p1PpN1Q/4Pp2/PB6/1PP1RPPP/R5K1 w - - 6 21",
+      "solution": [
+        "Bg5",
+        "Qxg5",
+        "Qxg5"
+      ]
+    },
+    "contextFen": "r2q2rk/1bp1np1p/pb1p1p1B/1p1Pp3/4P2N/PB6/1PP1RPPP/R2Q2K1 b - - 4 16",
+    "contextMoves": [
+      "f5",
+      "Qd3",
+      "f4",
+      "Qh3",
+      "Ng6",
+      "Nf5",
+      "Bc8",
+      "Qh5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03hDc",
+    "gameUrl": "https://lichess.org/game/NIx5r1KZ#89",
+    "theme": "advantage, defensiveMove, endgame, master, short, trappedPiece",
+    "startFen": "8/2kb4/8/R1pB4/2P2P2/p5P1/r5P1/6K1 w - - 0 45",
+    "moves": [
+      "Rxc5+"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/2kb4/8/2RB4/2P2P2/p5P1/r5P1/6K1 b - - 0 45",
+      "solution": [
+        "Kb6",
+        "Rb5+",
+        "Bxb5"
+      ]
+    },
+    "contextFen": "8/2kb4/6R1/p1pB4/2P2P2/6P1/r5P1/6K1 w - - 2 41",
+    "contextMoves": [
+      "Ra6",
+      "a4",
+      "Ra7+",
+      "Kd6",
+      "Ra6+",
+      "Kc7",
+      "Ra5",
+      "a3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03mqP",
+    "gameUrl": "https://lichess.org/game/1FQlBZ3N#53",
+    "theme": "advantage, master, middlegame, short, trappedPiece",
+    "startFen": "4k1r1/p3p2p/1q3b2/3P1N2/2p1N1pP/P2nP1Q1/1r4P1/R4RK1 w - - 1 27",
+    "moves": [
+      "d6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "4k1r1/p3p2p/1q1P1b2/5N2/2p1N1pP/P2nP1Q1/1r4P1/R4RK1 b - - 0 27",
+      "solution": [
+        "Be5",
+        "Qxe5",
+        "Nxe5"
+      ]
+    },
+    "contextFen": "3qk1r1/p3p2p/8/2pPnNb1/4p1p1/P1N1P3/1r4PP/R2Q1RK1 w - - 0 23",
+    "contextMoves": [
+      "Nxe4",
+      "Qb6",
+      "Qe1",
+      "c4",
+      "Qg3",
+      "Nd3",
+      "h4",
+      "Bf6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04779",
+    "gameUrl": "https://lichess.org/game/cQcxf3xH/black#24",
+    "theme": "advantage, opening, short, trappedPiece",
+    "startFen": "r1b2rk1/pp3pp1/1qn1pn1p/1N1p4/3P1B2/8/PPP1BPPP/R2Q1RK1 b - - 3 12",
+    "moves": [
+      "a6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b2rk1/1p3pp1/pqn1pn1p/1N1p4/3P1B2/8/PPP1BPPP/R2Q1RK1 w - - 0 13",
+      "solution": [
+        "Bc7",
+        "Qxb5",
+        "Bxb5"
+      ]
+    },
+    "contextFen": "r1bqk2r/pp3ppp/2nppn2/8/3P4/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 8",
+    "contextMoves": [
+      "d5",
+      "Be2",
+      "O-O",
+      "O-O",
+      "h6",
+      "Bf4",
+      "Qb6",
+      "Nb5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/047JD",
+    "gameUrl": "https://lichess.org/game/31G12QyK#69",
+    "theme": "advantage, endgame, short, trappedPiece",
+    "startFen": "5r2/p5k1/3p4/2pP2pQ/2Pb1q2/4N3/P4PPP/5R1K w - - 1 35",
+    "moves": [
+      "Ng4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "5r2/p5k1/3p4/2pP2pQ/2Pb1qN1/8/P4PPP/5R1K b - - 2 35",
+      "solution": [
+        "Rh8",
+        "Qxh8+",
+        "Kxh8"
+      ]
+    },
+    "contextFen": "5rk1/p5q1/3p4/2pP2pp/2Pb2N1/8/P4PPP/1Q3R1K w - - 0 31",
+    "contextMoves": [
+      "Ne3",
+      "Qf7",
+      "Qd3",
+      "Qf4",
+      "Qg6+",
+      "Kh8",
+      "Qxh5+",
+      "Kg7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/048VU",
+    "gameUrl": "https://lichess.org/game/dkqRE4rk/black#26",
+    "theme": "advantage, opening, short, trappedPiece",
+    "startFen": "rbb2rk1/1p3ppp/pqn2n2/3p4/3Pp3/P1N1B2P/1PP1BPPN/R2QK2R b KQ - 3 13",
+    "moves": [
+      "Qxb2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "rbb2rk1/1p3ppp/p1n2n2/3p4/3Pp3/P1N1B2P/1qP1BPPN/R2QK2R w KQ - 0 14",
+      "solution": [
+        "Na4",
+        "Qxa1",
+        "Qxa1"
+      ]
+    },
+    "contextFen": "rbbq1rk1/pp3ppp/2n2n2/1Nppp3/3P4/P3PN1P/1PP1BPP1/R1BQK2R b KQ - 0 9",
+    "contextMoves": [
+      "a6",
+      "Nc3",
+      "cxd4",
+      "exd4",
+      "e4",
+      "Nh2",
+      "Qb6",
+      "Be3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04DEQ",
+    "gameUrl": "https://lichess.org/game/zbSceQBp#41",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "5rk1/1bq1bppp/2p1pn2/4N3/3P4/3B3P/1BP2PP1/QR4K1 w - - 4 21",
+    "moves": [
+      "Qa7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "5rk1/Qbq1bppp/2p1pn2/4N3/3P4/3B3P/1BP2PP1/1R4K1 b - - 5 21",
+      "solution": [
+        "Ra8",
+        "Qxa8+",
+        "Bxa8"
+      ]
+    },
+    "contextFen": "3q1rk1/1b2bppp/2p1pn2/r7/1p1P4/P2B1N1P/1BP2PP1/R2QR1K1 w - - 0 17",
+    "contextMoves": [
+      "axb4",
+      "Rxa1",
+      "Qxa1",
+      "Bxb4",
+      "Rb1",
+      "Be7",
+      "Ne5",
+      "Qc7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04FGP",
+    "gameUrl": "https://lichess.org/game/9bmMoUdB#29",
+    "theme": "crushing, opening, short, trappedPiece",
+    "startFen": "r2q1rk1/pppbb1p1/3p3n/3Ppp1Q/8/3PPNPP/PP3PB1/R1B2RK1 w - - 0 15",
+    "moves": [
+      "e4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2q1rk1/pppbb1p1/3p3n/3Ppp1Q/4P3/3P1NPP/PP3PB1/R1B2RK1 b - - 0 15",
+      "solution": [
+        "Be8",
+        "Qxh6",
+        "gxh6"
+      ]
+    },
+    "contextFen": "r2q1rk1/pppbbpp1/2np4/3np2p/2P5/3P2PP/PP1NPPB1/R1BQ1RK1 w - - 0 11",
+    "contextMoves": [
+      "cxd5",
+      "Nd4",
+      "e3",
+      "Nf5",
+      "Qxh5",
+      "Nh6",
+      "Nf3",
+      "f5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04Izo",
+    "gameUrl": "https://lichess.org/game/NPUKWwTZ/black#48",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "r1bb1rk1/5ppp/3p2q1/2pP2P1/ppP1PP1P/6Q1/PP1N4/1K1R3R b - - 0 24",
+    "moves": [
+      "b3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1bb1rk1/5ppp/3p2q1/2pP2P1/p1P1PP1P/1p4Q1/PP1N4/1K1R3R w - - 0 25",
+      "solution": [
+        "h5",
+        "Qxe4+",
+        "Nxe4"
+      ]
+    },
+    "contextFen": "r1bb1rk1/5ppp/3p4/p1pP2q1/1pP1P1P1/5Q1P/PP1N1P2/1K1R3R b - - 0 20",
+    "contextMoves": [
+      "a4",
+      "Qg3",
+      "Qe5",
+      "f4",
+      "Qf6",
+      "g5",
+      "Qg6",
+      "h4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04LdT",
+    "gameUrl": "https://lichess.org/game/0Ur7Z3dO#73",
+    "theme": "crushing, endgame, rookEndgame, short, trappedPiece",
+    "startFen": "5r2/4r3/pp1k2pp/4p3/1PR3PP/2PP4/3KR3/8 w - - 1 37",
+    "moves": [
+      "d4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "5r2/4r3/pp1k2pp/4p3/1PRP2PP/2P5/3KR3/8 b - - 0 37",
+      "solution": [
+        "Kd5",
+        "Rc7",
+        "Rxc7"
+      ]
+    },
+    "contextFen": "4r3/1p2r1p1/p2k3p/2R1p3/1P1p4/2PP3P/1P1KR1P1/8 w - - 3 33",
+    "contextMoves": [
+      "g4",
+      "b6",
+      "Rc4",
+      "g6",
+      "h4",
+      "dxc3+",
+      "bxc3",
+      "Rf8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04Lp0",
+    "gameUrl": "https://lichess.org/game/7Mu9CGyH/black#24",
+    "theme": "crushing, long, middlegame, trappedPiece",
+    "startFen": "r1br2k1/ppp2ppp/2n1p3/3q4/3P4/2Q2N2/PPP1BPPP/3R1RK1 b - - 0 12",
+    "moves": [
+      "Qxa2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1br2k1/ppp2ppp/2n1p3/8/3P4/2Q2N2/qPP1BPPP/3R1RK1 w - - 0 13",
+      "solution": [
+        "d5",
+        "exd5",
+        "Ra1",
+        "Qxa1",
+        "Rxa1"
+      ]
+    },
+    "contextFen": "rnb1k2r/ppp2ppp/4p3/3q4/3Pn3/2BQ1N2/PPP2PPP/R3KB1R b KQkq - 2 8",
+    "contextMoves": [
+      "O-O",
+      "Be2",
+      "Nc6",
+      "O-O",
+      "Rd8",
+      "Rad1",
+      "Nxc3",
+      "Qxc3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04QKP",
+    "gameUrl": "https://lichess.org/game/bxUOkqCq/black#18",
+    "theme": "crushing, long, opening, pin, trappedPiece",
+    "startFen": "r2qk1nr/1p1bbppp/p3p3/3pN3/3P4/2N2Q2/PPP2PPP/R1B1K2R b KQkq - 1 9",
+    "moves": [
+      "f6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2qk1nr/1p1bb1pp/p3pp2/3pN3/3P4/2N2Q2/PPP2PPP/R1B1K2R w KQkq - 0 10",
+      "solution": [
+        "Qh5+",
+        "g6",
+        "Nxg6",
+        "hxg6",
+        "Qxh8"
+      ]
+    },
+    "contextFen": "rnbqkbnr/pp3ppp/4p3/3p4/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 5",
+    "contextMoves": [
+      "Be7",
+      "Ne5",
+      "Nd7",
+      "Bb5",
+      "a6",
+      "Bxd7+",
+      "Bxd7",
+      "Qf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04XTY",
+    "gameUrl": "https://lichess.org/game/fljEvUxF/black#42",
+    "theme": "advantage, middlegame, pin, trappedPiece, veryLong",
+    "startFen": "1nkr3r/1p2n1pp/2pb4/p2pp1PP/5P2/PP1P2R1/1BP1QP2/R3KN1q b Q - 3 21",
+    "moves": [
+      "exf4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "1nkr3r/1p2n1pp/2pb4/p2p2PP/5p2/PP1P2R1/1BP1QP2/R3KN1q w Q - 0 22",
+      "solution": [
+        "Qg4+",
+        "Nf5",
+        "Rh3",
+        "Rhe8+",
+        "Kd2",
+        "Qxh3",
+        "Qxh3"
+      ]
+    },
+    "contextFen": "2kr3r/1p1nn1pp/2pbq3/p2pppPP/8/PP1PP2N/1BPNQP2/R3K1R1 b Q - 2 17",
+    "contextMoves": [
+      "Nb8",
+      "Rg2",
+      "f4",
+      "exf4",
+      "Qxh3",
+      "Rg3",
+      "Qh1+",
+      "Nf1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04YaR",
+    "gameUrl": "https://lichess.org/game/r6YVEbxx#63",
+    "theme": "crushing, hangingPiece, middlegame, short, trappedPiece",
+    "startFen": "5rk1/7p/p1p5/3pB1q1/3P2p1/2PB1rQb/PP2RPpP/4R1K1 w - - 4 32",
+    "moves": [
+      "Bxh7+"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "5rk1/7B/p1p5/3pB1q1/3P2p1/2P2rQb/PP2RPpP/4R1K1 b - - 0 32",
+      "solution": [
+        "Kxh7",
+        "Bd6",
+        "Rxg3"
+      ]
+    },
+    "contextFen": "r5k1/5r1p/p1p4q/3pB1p1/3P4/2P3Qb/PPB2PpP/2R1R1K1 w - - 2 28",
+    "contextMoves": [
+      "Re3",
+      "Raf8",
+      "Re2",
+      "g4",
+      "Rce1",
+      "Qg5",
+      "Bd3",
+      "Rf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04aK0",
+    "gameUrl": "https://lichess.org/game/tPwwtaKz/black#22",
+    "theme": "advantage, master, middlegame, short, trappedPiece",
+    "startFen": "rBb1qrk1/pp2bppp/4p3/8/2B5/1QP5/PP3PPP/3RK1NR b K - 0 11",
+    "moves": [
+      "Rxb8"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "1rb1qrk1/pp2bppp/4p3/8/2B5/1QP5/PP3PPP/3RK1NR w K - 0 12",
+      "solution": [
+        "Bb5",
+        "Qd8",
+        "Rxd8"
+      ]
+    },
+    "contextFen": "rnbqkb1r/pp2pppp/8/8/2B5/1Qn5/PP1P1PPP/R1B1K1NR b KQkq - 1 7",
+    "contextMoves": [
+      "e6",
+      "dxc3",
+      "Be7",
+      "Bf4",
+      "O-O",
+      "Rd1",
+      "Qe8",
+      "Bxb8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04mZc",
+    "gameUrl": "https://lichess.org/game/aiOdVccM/black#18",
+    "theme": "advantage, opening, short, trappedPiece",
+    "startFen": "r1b2rk1/pp1p1pbp/1qn1pnp1/2p3B1/2B1P3/P1NP1N2/1PP2PPP/R2QK2R b KQ - 0 9",
+    "moves": [
+      "Qxb2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b2rk1/pp1p1pbp/2n1pnp1/2p3B1/2B1P3/P1NP1N2/1qP2PPP/R2QK2R w KQ - 0 10",
+      "solution": [
+        "Na4",
+        "Qxa1",
+        "Qxa1"
+      ]
+    },
+    "contextFen": "r1bqk1nr/pp1pppbp/2n3p1/2p3N1/2B1P3/2N5/PPPP1PPP/R1BQK2R b KQkq - 5 5",
+    "contextMoves": [
+      "e6",
+      "d3",
+      "Nf6",
+      "Nf3",
+      "O-O",
+      "Bg5",
+      "Qb6",
+      "a3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04ovF",
+    "gameUrl": "https://lichess.org/game/uWmaKqAi#87",
+    "theme": "crushing, endgame, master, short, trappedPiece",
+    "startFen": "8/p5k1/1p6/1Rb3P1/2P5/1P4K1/b6P/8 w - - 3 44",
+    "moves": [
+      "h4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/p5k1/1p6/1Rb3P1/2P4P/1P4K1/b7/8 b - - 0 44",
+      "solution": [
+        "a6",
+        "Rxc5",
+        "bxc5"
+      ]
+    },
+    "contextFen": "8/pp4k1/8/3p2b1/2P3P1/1P6/b4K1P/3R4 w - - 0 40",
+    "contextMoves": [
+      "Rxd5",
+      "Bf6",
+      "Rb5",
+      "b6",
+      "g5",
+      "Bd4+",
+      "Kg3",
+      "Bc5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04phO",
+    "gameUrl": "https://lichess.org/game/XxMZ1mwc#69",
+    "theme": "advantage, endgame, short, trappedPiece",
+    "startFen": "3r4/p2q4/5kpp/1pQ2p2/4b3/P3R3/1P4PP/4R1K1 w - - 0 35",
+    "moves": [
+      "b4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "3r4/p2q4/5kpp/1pQ2p2/1P2b3/P3R3/6PP/4R1K1 b - - 0 35",
+      "solution": [
+        "Rc8",
+        "Qxc8",
+        "Qxc8"
+      ]
+    },
+    "contextFen": "r7/pb6/3P1kpp/1pp2p2/2q5/P3R3/1P1Q2PP/3R2K1 w - - 2 31",
+    "contextMoves": [
+      "Rde1",
+      "Be4",
+      "d7",
+      "Rd8",
+      "Qd6+",
+      "Qe6",
+      "Qxc5",
+      "Qxd7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0598v",
+    "gameUrl": "https://lichess.org/game/DyW4BLlK/black#32",
+    "theme": "advantage, fork, master, middlegame, short, trappedPiece",
+    "startFen": "r1r3k1/1q1n1ppp/p2bpnb1/8/P1pN3P/2N1P3/3PBPP1/B1RQK2R b K - 2 16",
+    "moves": [
+      "Qxg2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1r3k1/3n1ppp/p2bpnb1/8/P1pN3P/2N1P3/3PBPq1/B1RQK2R w K - 0 17",
+      "solution": [
+        "Bf3",
+        "Qxh1+",
+        "Bxh1"
+      ]
+    },
+    "contextFen": "r2q1rk1/3n1ppp/p1Nbpnb1/3p4/P1P5/2N1P3/1B1PBPPP/R2QK2R b KQ - 0 12",
+    "contextMoves": [
+      "Qc7",
+      "Nd4",
+      "dxc4",
+      "Rc1",
+      "Rfc8",
+      "h4",
+      "Qb7",
+      "Ba1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05BVq",
+    "gameUrl": "https://lichess.org/game/FBd5FC4X#19",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r1b1kbr1/pppp3p/5qp1/7Q/2P1Pp2/8/PPP2PPP/RNB1K2R w KQq - 0 10",
+    "moves": [
+      "Qxh7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b1kbr1/pppp3Q/5qp1/8/2P1Pp2/8/PPP2PPP/RNB1K2R b KQq - 0 10",
+      "solution": [
+        "Rh8",
+        "Qxh8",
+        "Qxh8"
+      ]
+    },
+    "contextFen": "r1bqkbr1/pppp2pp/8/n3pp2/4P3/3P1N2/PPP2PPP/RNBQK2R w KQq - 0 6",
+    "contextMoves": [
+      "Nxe5",
+      "Qf6",
+      "Nc4",
+      "Nxc4",
+      "dxc4",
+      "f4",
+      "Qh5+",
+      "g6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05EY5",
+    "gameUrl": "https://lichess.org/game/dz1guX5C/black#20",
+    "theme": "advantage, opening, short, trappedPiece",
+    "startFen": "r1b1k2r/1p1p1ppp/p1N1pn2/P1b5/4P3/2N1BP2/1qP3PP/R2QKB1R b KQkq - 0 10",
+    "moves": [
+      "Bxe3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b1k2r/1p1p1ppp/p1N1pn2/P7/4P3/2N1bP2/1qP3PP/R2QKB1R w KQkq - 0 11",
+      "solution": [
+        "Na4",
+        "Qxa1",
+        "Qxa1"
+      ]
+    },
+    "contextFen": "r1bqkbnr/1p1p1ppp/p1n1p3/8/P2NP3/2N5/1PP2PPP/R1BQKB1R b KQkq - 0 6",
+    "contextMoves": [
+      "Nf6",
+      "f3",
+      "Bc5",
+      "Be3",
+      "Qb6",
+      "a5",
+      "Qxb2",
+      "Nxc6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05HRv",
+    "gameUrl": "https://lichess.org/game/eCaw4XDM#23",
+    "theme": "advantage, opening, short, trappedPiece",
+    "startFen": "r2qkb1r/pp3ppp/4bn2/2p1Q3/3pPP2/3P4/PPP1N1PP/RNB2RK1 w kq - 1 12",
+    "moves": [
+      "f5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2qkb1r/pp3ppp/4bn2/2p1QP2/3pP3/3P4/PPP1N1PP/RNB2RK1 b kq - 0 12",
+      "solution": [
+        "Bd6",
+        "Qxd6",
+        "Qxd6"
+      ]
+    },
+    "contextFen": "r1bqkbnr/ppp2ppp/8/4p3/2QpP3/8/PPPPNPPP/RNB2RK1 w kq - 0 8",
+    "contextMoves": [
+      "d3",
+      "Be6",
+      "Qb5+",
+      "c6",
+      "Qxe5",
+      "c5",
+      "f4",
+      "Nf6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05Jem",
+    "gameUrl": "https://lichess.org/game/zUoUhhCN/black#26",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "r3kb1r/ppp2pp1/3pp2p/8/2PPN2q/7P/PP2QPP1/R3K2R b KQkq - 0 13",
+    "moves": [
+      "Be7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3k2r/ppp1bpp1/3pp2p/8/2PPN2q/7P/PP2QPP1/R3K2R w KQkq - 1 14",
+      "solution": [
+        "g3",
+        "Qxe4",
+        "Qxe4"
+      ]
+    },
+    "contextFen": "r2qkb1r/ppp2pp1/3ppn1p/8/2PP2bN/2NQ3P/PP2PPP1/R3KB1R b KQkq - 0 9",
+    "contextMoves": [
+      "Bh5",
+      "e4",
+      "Nxe4",
+      "Nxe4",
+      "Qxh4",
+      "Be2",
+      "Bxe2",
+      "Qxe2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05KTd",
+    "gameUrl": "https://lichess.org/game/nPuovZ5y/black#56",
+    "theme": "advantage, capturingDefender, long, middlegame, trappedPiece",
+    "startFen": "2r3k1/pp3p2/7p/3R1p2/nb6/1N2PB1N/PPq2PPP/K2R4 b - - 5 28",
+    "moves": [
+      "Nc3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "2r3k1/pp3p2/7p/3R1p2/1b6/1Nn1PB1N/PPq2PPP/K2R4 w - - 6 29",
+      "solution": [
+        "R5d2",
+        "Nxd1",
+        "Rxc2",
+        "Rxc2",
+        "Bxd1"
+      ]
+    },
+    "contextFen": "2r2bk1/pp3p2/1q4pp/5Q2/nn6/1NP1P2N/PP1RBPPP/1K1R4 b - - 0 24",
+    "contextMoves": [
+      "gxf5",
+      "cxb4",
+      "Bxb4",
+      "Rd5",
+      "Qc6",
+      "Bf3",
+      "Qc2+",
+      "Ka1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05XHa",
+    "gameUrl": "https://lichess.org/game/EYqBVIFg#35",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "1r1q1rk1/Q3ppbp/1p1pb1p1/1Nn5/P1P1P3/1P3PP1/6BP/1RBR2K1 w - - 1 18",
+    "moves": [
+      "Be3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "1r1q1rk1/Q3ppbp/1p1pb1p1/1Nn5/P1P1P3/1P2BPP1/6BP/1R1R2K1 b - - 2 18",
+      "solution": [
+        "Rb7",
+        "Qxb7",
+        "Nxb7"
+      ]
+    },
+    "contextFen": "1r1q1rk1/Q2nppbp/1p1pb1p1/1N6/2P5/1P4P1/P3PPBP/R1BR2K1 w - - 1 14",
+    "contextMoves": [
+      "Rb1",
+      "Bf5",
+      "e4",
+      "Bg4",
+      "f3",
+      "Be6",
+      "a4",
+      "Nc5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05nKb",
+    "gameUrl": "https://lichess.org/game/lZZDPNUo#35",
+    "theme": "crushing, master, middlegame, short, trappedPiece",
+    "startFen": "r3r2k/6pp/p1n2p2/1pp2b2/2B2P2/2P2N1P/PP3PP1/3R1K1R w - - 0 18",
+    "moves": [
+      "Bb3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3r2k/6pp/p1n2p2/1pp2b2/5P2/1BP2N1P/PP3PP1/3R1K1R b - - 1 18",
+      "solution": [
+        "c4",
+        "Bxc4",
+        "bxc4"
+      ]
+    },
+    "contextFen": "r2r3k/pp4pp/2n2p2/2pn1b2/2B2B2/2P1PN2/PP3PPP/R3K2R w KQ - 4 14",
+    "contextMoves": [
+      "Rd1",
+      "Nxf4",
+      "exf4",
+      "Re8+",
+      "Kf1",
+      "a6",
+      "h3",
+      "b5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05nh4",
+    "gameUrl": "https://lichess.org/game/Erit95FI#31",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "1r3rk1/1ppq1pbp/3p1np1/1P2p3/2P5/2NPPQPb/3B1PBP/1R3RK1 w - - 1 16",
+    "moves": [
+      "Rfe1"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "1r3rk1/1ppq1pbp/3p1np1/1P2p3/2P5/2NPPQPb/3B1PBP/1R2R1K1 b - - 2 16",
+      "solution": [
+        "Bg4",
+        "Qxb7",
+        "Rxb7"
+      ]
+    },
+    "contextFen": "r4rk1/1ppq1pbp/p1np1np1/4p3/PPP5/2NP1NPb/3BPPBP/1R1Q1RK1 w - - 1 12",
+    "contextMoves": [
+      "b5",
+      "axb5",
+      "axb5",
+      "Nd4",
+      "e3",
+      "Nxf3+",
+      "Qxf3",
+      "Rab8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05pk8",
+    "gameUrl": "https://lichess.org/game/ZCZLwnFc#61",
+    "theme": "crushing, middlegame, quietMove, short, trappedPiece",
+    "startFen": "6k1/5rp1/5nQp/1q1p1p2/pp1P1N2/3b1P2/PP1B2PP/K3R3 w - - 0 31",
+    "moves": [
+      "Ne6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "6k1/5rp1/4NnQp/1q1p1p2/pp1P4/3b1P2/PP1B2PP/K3R3 b - - 1 31",
+      "solution": [
+        "f4",
+        "Qxf7+",
+        "Kxf7"
+      ]
+    },
+    "contextFen": "5rk1/r5p1/4Rn1p/pq1p1p2/1pbP1N2/5PQ1/PP1B2PP/1K2R3 w - - 4 27",
+    "contextMoves": [
+      "Qg6",
+      "Bd3+",
+      "Ka1",
+      "Raf7",
+      "Re7",
+      "a4",
+      "Rxf7",
+      "Rxf7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05qws",
+    "gameUrl": "https://lichess.org/game/gfhmCcSE/black#42",
+    "theme": "crushing, endgame, short, trappedPiece",
+    "startFen": "7r/p3kp1B/2nqp1p1/1p6/2pP3Q/2P5/PP1K1PP1/7R b - - 1 21",
+    "moves": [
+      "Kf8"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "5k1r/p4p1B/2nqp1p1/1p6/2pP3Q/2P5/PP1K1PP1/7R w - - 2 22",
+      "solution": [
+        "Qf6",
+        "Ke8",
+        "Qxh8+"
+      ]
+    },
+    "contextFen": "7r/pp2kppB/2nqpn2/3p2N1/2pP4/2P1PQ2/PP1K1PP1/7R b - - 0 17",
+    "contextMoves": [
+      "b5",
+      "e4",
+      "Nxe4+",
+      "Nxe4",
+      "dxe4",
+      "Qxe4",
+      "g6",
+      "Qh4+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/069QP",
+    "gameUrl": "https://lichess.org/game/7drD3ZHT/black#22",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "rnb1k2r/p3ppbp/2pq1np1/3p4/8/1QNBPN2/PP1B1PPP/2R1K2R b Kkq - 3 11",
+    "moves": [
+      "Be6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "rn2k2r/p3ppbp/2pqbnp1/3p4/8/1QNBPN2/PP1B1PPP/2R1K2R w Kkq - 4 12",
+      "solution": [
+        "Qb7",
+        "O-O",
+        "Qxa8"
+      ]
+    },
+    "contextFen": "rnbqk2r/p3ppbp/1pp2np1/2Pp4/3P4/1QNBP3/PP3PPP/R1B1K1NR b KQkq - 1 7",
+    "contextMoves": [
+      "bxc5",
+      "dxc5",
+      "Qa5",
+      "Bd2",
+      "Qxc5",
+      "Rc1",
+      "Qd6",
+      "Nf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06AFP",
+    "gameUrl": "https://lichess.org/game/TJxCIl33/black#38",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "2r2rk1/4pp1p/p2p2p1/1ppP2Pn/4P1QP/1PB5/qPK2P2/3R3R b - - 1 19",
+    "moves": [
+      "b4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "2r2rk1/4pp1p/p2p2p1/2pP2Pn/1p2P1QP/1PB5/qPK2P2/3R3R w - - 0 20",
+      "solution": [
+        "Ra1",
+        "Qxa1",
+        "Rxa1"
+      ]
+    },
+    "contextFen": "2rq1rk1/2p1ppbp/p2p2p1/1p4Pn/3PP1QP/1PN1B3/PP3P2/2KR3R b - - 2 15",
+    "contextMoves": [
+      "c5",
+      "d5",
+      "Qa5",
+      "Bd2",
+      "Bxc3",
+      "Bxc3",
+      "Qxa2",
+      "Kc2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06DqR",
+    "gameUrl": "https://lichess.org/game/WFMTvyki/black#64",
+    "theme": "advantage, fork, middlegame, short, trappedPiece",
+    "startFen": "r5k1/2n5/5r1p/p1pP1N2/PpP2p1q/1P1Q4/3B1R1N/7K b - - 0 32",
+    "moves": [
+      "Qxf2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r5k1/2n5/5r1p/p1pP1N2/PpP2p2/1P1Q4/3B1q1N/7K w - - 0 33",
+      "solution": [
+        "Ng4",
+        "Rxf5",
+        "Nxf2"
+      ]
+    },
+    "contextFen": "r4rk1/2n4n/3p3p/p1pP4/PpP1Np1q/1P1Q3P/3B3N/5RK1 b - - 3 28",
+    "contextMoves": [
+      "Ng5",
+      "Nxd6",
+      "Nxh3+",
+      "Kh1",
+      "Rf6",
+      "Nf5",
+      "Nf2+",
+      "Rxf2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06Eew",
+    "gameUrl": "https://lichess.org/game/T9QEN6nV/black#74",
+    "theme": "advantage, endgame, short, trappedPiece",
+    "startFen": "6k1/1p4r1/p1p2P1p/3pr1qP/1P3RP1/P3p2Q/8/5R1K b - - 0 37",
+    "moves": [
+      "Rf7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "6k1/1p3r2/p1p2P1p/3pr1qP/1P3RP1/P3p2Q/8/5R1K w - - 1 38",
+      "solution": [
+        "Rf5",
+        "e2",
+        "Rxg5+"
+      ]
+    },
+    "contextFen": "5rk1/1p6/p1p2q1p/3prP1P/1P2pR2/P7/4Q1P1/5R1K b - - 2 33",
+    "contextMoves": [
+      "Rf7",
+      "Qg4+",
+      "Rg7",
+      "Qh3",
+      "e3",
+      "g4",
+      "Qg5",
+      "f6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06SZI",
+    "gameUrl": "https://lichess.org/game/RJ6iNIkt#19",
+    "theme": "crushing, opening, quietMove, short, trappedPiece",
+    "startFen": "rnbk1b1N/pppp3p/5qp1/8/8/3P4/PPP1BPPP/RNBKR3 w - - 1 10",
+    "moves": [
+      "Bf3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "rnbk1b1N/pppp3p/5qp1/8/8/3P1B2/PPP2PPP/RNBKR3 b - - 2 10",
+      "solution": [
+        "h6",
+        "Nxg6",
+        "Qxg6"
+      ]
+    },
+    "contextFen": "rnb1kb1N/ppppq1pp/8/8/8/2n5/PPPP1PPP/RNBQKB1R w KQq - 1 6",
+    "contextMoves": [
+      "Be2",
+      "Nxd1",
+      "Kxd1",
+      "g6",
+      "Re1",
+      "Kd8",
+      "d3",
+      "Qf6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06Zoz",
+    "gameUrl": "https://lichess.org/game/XU0EuLbL/black#32",
+    "theme": "advantage, long, middlegame, quietMove, trappedPiece",
+    "startFen": "r3k2r/pp2nppp/1Bb5/8/4PQ2/P1N5/1qP2PPP/R2R2K1 b kq - 0 16",
+    "moves": [
+      "axb6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3k2r/1p2nppp/1pb5/8/4PQ2/P1N5/1qP2PPP/R2R2K1 w kq - 0 17",
+      "solution": [
+        "Qd2",
+        "O-O",
+        "Ra2",
+        "Qxa2",
+        "Nxa2"
+      ]
+    },
+    "contextFen": "r3k1nr/pp1b1ppp/1b6/2q5/4PQ2/2N5/PPP2PPP/R1B2RK1 b kq - 2 12",
+    "contextMoves": [
+      "Ne7",
+      "Rd1",
+      "Bc6",
+      "Be3",
+      "Qb4",
+      "a3",
+      "Qxb2",
+      "Bxb6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06cqX",
+    "gameUrl": "https://lichess.org/game/BYSYVzt5/black#24",
+    "theme": "advantage, master, opening, short, trappedPiece",
+    "startFen": "rn1q1rk1/pb3ppp/1N2p3/8/3P4/3B1N2/PP1b1PPP/R2Q1RK1 b - - 0 12",
+    "moves": [
+      "Bxf3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "rn1q1rk1/p4ppp/1N2p3/8/3P4/3B1b2/PP1b1PPP/R2Q1RK1 w - - 0 13",
+      "solution": [
+        "Qxf3",
+        "Qxb6",
+        "Qxa8"
+      ]
+    },
+    "contextFen": "rn1q1rk1/pb1p1ppp/1p2pn2/2p5/1bPP4/2NBPN2/PP1B1PPP/R2Q1RK1 b - - 3 8",
+    "contextMoves": [
+      "cxd4",
+      "exd4",
+      "d5",
+      "cxd5",
+      "Nxd5",
+      "Nxd5",
+      "Bxd2",
+      "Nxb6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06eBA",
+    "gameUrl": "https://lichess.org/game/8iAXIusG/black#30",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r1b2k1r/p4ppp/4pb2/1Bp1N3/3P4/q1P5/P1R2PPP/3QK2R b K - 0 15",
+    "moves": [
+      "Rb8"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "1rb2k1r/p4ppp/4pb2/1Bp1N3/3P4/q1P5/P1R2PPP/3QK2R w K - 1 16",
+      "solution": [
+        "Nc4",
+        "Qa5",
+        "Nxa5"
+      ]
+    },
+    "contextFen": "r1bq1k1r/pp3ppp/4pb2/1Bp1N3/3P4/2P5/PP3PPP/R2QK2R b KQ - 0 11",
+    "contextMoves": [
+      "Qb6",
+      "Ba4",
+      "Qxb2",
+      "Rc1",
+      "b5",
+      "Rc2",
+      "Qa3",
+      "Bxb5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06llD",
+    "gameUrl": "https://lichess.org/game/rG4bKqTc/black#104",
+    "theme": "crushing, endgame, rookEndgame, short, trappedPiece",
+    "startFen": "8/5k2/p3Rp2/4pPp1/2P4p/rPK4P/6P1/8 b - - 7 52",
+    "moves": [
+      "a5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/5k2/4Rp2/p3pPp1/2P4p/rPK4P/6P1/8 w - - 0 53",
+      "solution": [
+        "Kb2",
+        "Ra2+",
+        "Kxa2"
+      ]
+    },
+    "contextFen": "5k2/8/p4p2/2R1pPp1/2P1K2p/1P5P/P2r2P1/8 b - - 0 48",
+    "contextMoves": [
+      "Rxa2",
+      "Rc6",
+      "Ke7",
+      "Re6+",
+      "Kf7",
+      "Kd3",
+      "Ra3",
+      "Kc3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06loL",
+    "gameUrl": "https://lichess.org/game/isEP5oHu/black#38",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r1b2rk1/4bppp/p2ppq2/1p6/4PP2/P2BB2P/1PPQN1P1/R6K b - - 5 19",
+    "moves": [
+      "Qxb2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b2rk1/4bppp/p2pp3/1p6/4PP2/P2BB2P/1qPQN1P1/R6K w - - 0 20",
+      "solution": [
+        "Bd4",
+        "Qxa1+",
+        "Bxa1"
+      ]
+    },
+    "contextFen": "r1b1k2r/4bppp/p1npp3/1p6/4PP2/P1NB1N1P/1PP2qP1/R1BQ3K b kq - 3 15",
+    "contextMoves": [
+      "Nd4",
+      "Nxd4",
+      "Qxd4",
+      "Ne2",
+      "Qf6",
+      "Be3",
+      "O-O",
+      "Qd2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06mgf",
+    "gameUrl": "https://lichess.org/game/xJfHsVLM#55",
+    "theme": "advantage, endgame, long, trappedPiece",
+    "startFen": "3r4/5ppp/Qpk1n3/3p4/2pPb3/2P5/PP4PP/4R1K1 w - - 1 28",
+    "moves": [
+      "a4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "3r4/5ppp/Qpk1n3/3p4/P1pPb3/2P5/1P4PP/4R1K1 b - - 0 28",
+      "solution": [
+        "Nc7",
+        "Qa7",
+        "Ra8",
+        "Qxa8+",
+        "Nxa8"
+      ]
+    },
+    "contextFen": "r2r1n2/2B2ppp/ppk2n2/3p4/2pP4/Q1P5/PPbN2PP/R5K1 w - - 0 24",
+    "contextMoves": [
+      "Bxd8",
+      "Rxd8",
+      "Re1",
+      "Ne4",
+      "Nxe4",
+      "Bxe4",
+      "Qxa6",
+      "Ne6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06pqG",
+    "gameUrl": "https://lichess.org/game/bGb385s4#77",
+    "theme": "advancedPawn, crushing, endgame, long, trappedPiece",
+    "startFen": "6k1/R6R/2b2rBp/8/8/1pp4P/1P3PP1/6K1 w - - 2 39",
+    "moves": [
+      "Bb1"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "6k1/R6R/2b2r1p/8/8/1pp4P/1P3PP1/1B4K1 b - - 3 39",
+      "solution": [
+        "c2",
+        "Bxc2",
+        "bxc2",
+        "Ra1",
+        "Kxh7"
+      ]
+    },
+    "contextFen": "2r4k/R3R1p1/2b4p/8/2p5/1p5P/1PB2PP1/6K1 w - - 0 35",
+    "contextMoves": [
+      "Bf5",
+      "Rf8",
+      "Bg6",
+      "Rf6",
+      "Rxg7",
+      "c3",
+      "Rh7+",
+      "Kg8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06q4t",
+    "gameUrl": "https://lichess.org/game/0WbfT4jf#35",
+    "theme": "advantage, defensiveMove, long, middlegame, trappedPiece",
+    "startFen": "r4r2/pppqp3/2npb1kP/6N1/4Pp2/P1PPQ3/2P2PB1/R3K2R w KQ - 2 18",
+    "moves": [
+      "Qf3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r4r2/pppqp3/2npb1kP/6N1/4Pp2/P1PP1Q2/2P2PB1/R3K2R b KQ - 3 18",
+      "solution": [
+        "Bg4",
+        "Qh3",
+        "Bxh3",
+        "Bxh3",
+        "Qe8"
+      ]
+    },
+    "contextFen": "r4r2/pppqppbk/2npb2p/6P1/4P3/P1NPnN2/1PPQ1PB1/R3K2R w KQ - 0 14",
+    "contextMoves": [
+      "Qxe3",
+      "f5",
+      "gxh6",
+      "Bxc3+",
+      "bxc3",
+      "f4",
+      "Ng5+",
+      "Kg6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06tOY",
+    "gameUrl": "https://lichess.org/game/yLIbZsUt/black#26",
+    "theme": "crushing, master, middlegame, short, trappedPiece",
+    "startFen": "r1b2rk1/pp4pp/n1p1ppn1/8/2P1q3/2B2NPP/PP2BP2/R2Q1RK1 b - - 0 13",
+    "moves": [
+      "e5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b2rk1/pp4pp/n1p2pn1/4p3/2P1q3/2B2NPP/PP2BP2/R2Q1RK1 w - - 0 14",
+      "solution": [
+        "Bd3",
+        "Qxd3",
+        "Qxd3"
+      ]
+    },
+    "contextFen": "r1b1k1nr/pp3ppp/n1p1p3/8/2P1q3/2B5/PP2BPPP/R2QK1NR b KQkq - 3 9",
+    "contextMoves": [
+      "Ne7",
+      "Nf3",
+      "O-O",
+      "O-O",
+      "Ng6",
+      "g3",
+      "f6",
+      "h3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06tjB",
+    "gameUrl": "https://lichess.org/game/IriqkjfW/black#60",
+    "theme": "advantage, fork, master, middlegame, short, trappedPiece",
+    "startFen": "4r2k/2p2pp1/3b3p/1p1p3q/3P2R1/3Br2P/1PP3P1/R4QK1 b - - 5 30",
+    "moves": [
+      "f6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "4r2k/2p3p1/3b1p1p/1p1p3q/3P2R1/3Br2P/1PP3P1/R4QK1 w - - 0 31",
+      "solution": [
+        "Bg6",
+        "Qxg6",
+        "Rxg6"
+      ]
+    },
+    "contextFen": "4rbk1/2p1rppB/7p/1p1p2q1/3P1R2/3QP2P/1PP3P1/R5K1 b - - 1 26",
+    "contextMoves": [
+      "Kh8",
+      "Bf5",
+      "Rxe3",
+      "Qf1",
+      "Bd6",
+      "Rg4",
+      "Qh5",
+      "Bd3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06tuT",
+    "gameUrl": "https://lichess.org/game/Qn0eXBW4/black#52",
+    "theme": "advantage, long, middlegame, quietMove, trappedPiece",
+    "startFen": "4rr1k/p1p1q1b1/1p6/nQP3p1/5pPp/2P2B2/P2BP3/2R2K1R b - - 0 26",
+    "moves": [
+      "Qxc5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "4rr1k/p1p3b1/1p6/nQq3p1/5pPp/2P2B2/P2BP3/2R2K1R w - - 0 27",
+      "solution": [
+        "Qxc5",
+        "bxc5",
+        "c4",
+        "Nb7",
+        "Bxb7"
+      ]
+    },
+    "contextFen": "4rr1k/ppp1q1b1/2np2p1/8/2PP1pPp/2P2B2/P2BP3/2RQ1K1R b - - 1 22",
+    "contextMoves": [
+      "g5",
+      "Qb3",
+      "Na5",
+      "Qb5",
+      "b6",
+      "c5",
+      "dxc5",
+      "dxc5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06xqS",
+    "gameUrl": "https://lichess.org/game/6BYoWkdO/black#22",
+    "theme": "advantage, long, opening, pin, trappedPiece",
+    "startFen": "r1b1kb1r/pppp1ppp/5n2/1BP5/8/q7/P2B1PPP/1R1QK1NR b Kkq - 0 11",
+    "moves": [
+      "c6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b1kb1r/pp1p1ppp/2p2n2/1BP5/8/q7/P2B1PPP/1R1QK1NR w Kkq - 0 12",
+      "solution": [
+        "Qe2+",
+        "Be7",
+        "Bb4",
+        "Qxb4+",
+        "Rxb4"
+      ]
+    },
+    "contextFen": "r1b1kb1r/pppp1ppp/2n2n2/8/1qPP4/2N5/PP1BBPPP/R2QK1NR b KQkq - 4 7",
+    "contextMoves": [
+      "Qxb2",
+      "Rb1",
+      "Qa3",
+      "c5",
+      "Nxd4",
+      "Nb5",
+      "Nxb5",
+      "Bxb5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/071ju",
+    "gameUrl": "https://lichess.org/game/cQ9hG6bd#17",
+    "theme": "advantage, opening, short, trappedPiece",
+    "startFen": "r2qkbnr/1pp3pp/p1n5/3pp3/5B2/1QP1PP2/PP3P1P/RN2KB1R w KQkq - 0 9",
+    "moves": [
+      "Qxb7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2qkbnr/1Qp3pp/p1n5/3pp3/5B2/2P1PP2/PP3P1P/RN2KB1R b KQkq - 0 9",
+      "solution": [
+        "Na5",
+        "Qxa8",
+        "Qxa8"
+      ]
+    },
+    "contextFen": "r1bqkbnr/1pp1p1pp/p1n2p2/3p4/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 0 5",
+    "contextMoves": [
+      "c3",
+      "Bg4",
+      "Qb3",
+      "e5",
+      "dxe5",
+      "Bxf3",
+      "gxf3",
+      "fxe5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/076jI",
+    "gameUrl": "https://lichess.org/game/1nbx5aLs#33",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "r4rk1/3pnpbp/bp4p1/1Np1P3/5B2/1B6/PPP2PPP/R2R2K1 w - - 2 17",
+    "moves": [
+      "Rxd7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r4rk1/3Rnpbp/bp4p1/1Np1P3/5B2/1B6/PPP2PPP/R5K1 b - - 0 17",
+      "solution": [
+        "Bxb5",
+        "Rxe7",
+        "c4",
+        "Bxc4",
+        "Bxc4"
+      ]
+    },
+    "contextFen": "r1b2rk1/1p1pnpbp/1pp3p1/1N2P3/2B2B2/8/PPP2PPP/R4RK1 w - - 0 13",
+    "contextMoves": [
+      "Nd6",
+      "b5",
+      "Bb3",
+      "c5",
+      "Nxb5",
+      "b6",
+      "Rfd1",
+      "Ba6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07CuT",
+    "gameUrl": "https://lichess.org/game/84uzkFDn#87",
+    "theme": "crushing, defensiveMove, endgame, short, trappedPiece",
+    "startFen": "8/5b2/6p1/p1p2p1p/P6P/2k3P1/5K2/3B2N1 w - - 0 44",
+    "moves": [
+      "Ne2+"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/5b2/6p1/p1p2p1p/P6P/2k3P1/4NK2/3B4 b - - 1 44",
+      "solution": [
+        "Kd2",
+        "Nf4",
+        "Kxd1"
+      ]
+    },
+    "contextFen": "8/5b1p/6p1/p1p2p2/P3p3/2Pk2PP/4NP2/3BK3 w - - 0 40",
+    "contextMoves": [
+      "h4",
+      "h5",
+      "f3",
+      "exf3",
+      "Ng1",
+      "f2+",
+      "Kxf2",
+      "Kxc3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07Fgr",
+    "gameUrl": "https://lichess.org/game/uFWP7kjD/black#46",
+    "theme": "crushing, endgame, short, trappedPiece",
+    "startFen": "2kr3r/2q3pp/p2pR3/1p1P1p2/3P4/NP2Q1P1/P4P2/3K4 b - - 1 23",
+    "moves": [
+      "Qd7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "2kr3r/3q2pp/p2pR3/1p1P1p2/3P4/NP2Q1P1/P4P2/3K4 w - - 2 24",
+      "solution": [
+        "Re7",
+        "Qxe7",
+        "Qxe7"
+      ]
+    },
+    "contextFen": "2kr3r/pp2qppp/3p4/3P4/2NPRQ2/6P1/PP3P2/3K4 b - - 0 19",
+    "contextMoves": [
+      "Qc7",
+      "b3",
+      "b5",
+      "Na3",
+      "a6",
+      "Qe3",
+      "f5",
+      "Re6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07HLm",
+    "gameUrl": "https://lichess.org/game/fxzTyjUl#73",
+    "theme": "advantage, master, middlegame, short, trappedPiece",
+    "startFen": "1q4k1/n3bpp1/P1n1p2p/2NpPb2/Q2P1N2/2P1BP2/1r4PP/R4BK1 w - - 7 37",
+    "moves": [
+      "Nb7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "1q4k1/nN2bpp1/P1n1p2p/3pPb2/Q2P1N2/2P1BP2/1r4PP/R4BK1 b - - 8 37",
+      "solution": [
+        "Bc2",
+        "Qa2",
+        "Rxa2"
+      ]
+    },
+    "contextFen": "qr4k1/n3bpp1/P1n1p2p/3pP3/Q2PbN2/2PN4/3BBPPP/R5K1 w - - 13 33",
+    "contextMoves": [
+      "f3",
+      "Bf5",
+      "Be3",
+      "Rb6",
+      "Nc5",
+      "Rb2",
+      "Bf1",
+      "Qb8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07HMI",
+    "gameUrl": "https://lichess.org/game/zSauv0wF/black#90",
+    "theme": "crushing, defensiveMove, endgame, knightEndgame, short, trappedPiece",
+    "startFen": "8/7p/p1k2p2/1p2pP2/1P2P2P/2nNK3/8/8 b - - 3 45",
+    "moves": [
+      "Nd1+"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/7p/p1k2p2/1p2pP2/1P2P2P/3NK3/8/3n4 w - - 4 46",
+      "solution": [
+        "Kd2",
+        "Ne3",
+        "Kxe3"
+      ]
+    },
+    "contextFen": "8/6pp/p1k2p2/1p2pPP1/PPn1P2P/3K4/2N5/8 b - - 0 41",
+    "contextMoves": [
+      "Nb2+",
+      "Ke3",
+      "Nxa4",
+      "gxf6",
+      "gxf6",
+      "Ne1",
+      "Nc3",
+      "Nd3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07MXx",
+    "gameUrl": "https://lichess.org/game/skF9nUkD#27",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "1k1r3r/Npp1qpbp/p2pbnp1/8/3QPB2/5P2/PPP2P1P/1K1R1B1R w - - 2 14",
+    "moves": [
+      "Be3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "1k1r3r/Npp1qpbp/p2pbnp1/8/3QP3/4BP2/PPP2P1P/1K1R1B1R b - - 3 14",
+      "solution": [
+        "c5",
+        "Nc6+",
+        "bxc6"
+      ]
+    },
+    "contextFen": "2kr1b1r/ppp1qppp/3pbn2/8/4PB2/2N2P2/PPPQ1P1P/2KR1B1R w - - 4 10",
+    "contextMoves": [
+      "Kb1",
+      "g6",
+      "Qd4",
+      "Bg7",
+      "Nb5",
+      "a6",
+      "Na7+",
+      "Kb8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07P3l",
+    "gameUrl": "https://lichess.org/game/5BsOheoE/black#40",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "2k4r/n1p1nb2/p2r1p1p/3p3P/Q2P1q2/2PB1N2/P2N1P2/2KR3R b - - 1 20",
+    "moves": [
+      "Kd8"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "3k3r/n1p1nb2/p2r1p1p/3p3P/Q2P1q2/2PB1N2/P2N1P2/2KR3R w - - 2 21",
+      "solution": [
+        "Rh4",
+        "Qxh4",
+        "Nxh4"
+      ]
+    },
+    "contextFen": "2kr3r/1pp1nb1p/p1n2p2/3p3P/3P1q2/2PB1N2/PPQN1P2/2KR3R b - - 1 16",
+    "contextMoves": [
+      "h6",
+      "b4",
+      "Rd6",
+      "b5",
+      "Na7",
+      "bxa6",
+      "bxa6",
+      "Qa4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07YZu",
+    "gameUrl": "https://lichess.org/game/fXgXY8wF#79",
+    "theme": "crushing, endgame, master, short, trappedPiece",
+    "startFen": "8/4ppk1/3p2p1/3Pb3/5q2/5P1p/6PP/3R2QK w - - 0 40",
+    "moves": [
+      "Rf1"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/4ppk1/3p2p1/3Pb3/5q2/5P1p/6PP/5RQK b - - 1 40",
+      "solution": [
+        "Bd4",
+        "Qxd4+",
+        "Qxd4"
+      ]
+    },
+    "contextFen": "8/2R1pp1k/3p1bp1/3P4/7p/4qP2/6PP/3Q3K w - - 0 36",
+    "contextMoves": [
+      "Rc1",
+      "Qf4",
+      "Rb1",
+      "Be5",
+      "Qg1",
+      "Kg7",
+      "Rd1",
+      "h3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07bjx",
+    "gameUrl": "https://lichess.org/game/jPuePaW6#69",
+    "theme": "crushing, defensiveMove, endgame, knightEndgame, quietMove, trappedPiece, veryLong",
+    "startFen": "8/1p6/8/p2pknN1/8/1PP5/1P1K4/8 w - - 4 35",
+    "moves": [
+      "Nf7+"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/1p3N2/8/p2pkn2/8/1PP5/1P1K4/8 b - - 5 35",
+      "solution": [
+        "Kf6",
+        "Nd8",
+        "Nd6",
+        "Ke3",
+        "Ke7",
+        "Kd4",
+        "Kxd8"
+      ]
+    },
+    "contextFen": "8/1p6/3k1p2/p2ppn2/3P1P2/1PP5/1P1K4/6N1 w - - 0 31",
+    "contextMoves": [
+      "fxe5+",
+      "fxe5",
+      "dxe5+",
+      "Kxe5",
+      "Nf3+",
+      "Ke4",
+      "Ng5+",
+      "Ke5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07dIH",
+    "gameUrl": "https://lichess.org/game/3PCmHq0C/black#48",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r6k/4n2p/2p2p2/pp1p1p2/2n5/1qNRP1P1/4NPBP/K1B4R b - - 1 24",
+    "moves": [
+      "b4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r6k/4n2p/2p2p2/p2p1p2/1pn5/1qNRP1P1/4NPBP/K1B4R w - - 0 25",
+      "solution": [
+        "Nd4",
+        "Qxc3+",
+        "Rxc3"
+      ]
+    },
+    "contextFen": "r6k/p3n2p/2p2p2/qp1p1p2/1bn5/P1N1P1P1/1P1BNPBP/1K1R3R b - - 2 20",
+    "contextMoves": [
+      "Bxa3",
+      "bxa3",
+      "Qxa3",
+      "Bc1",
+      "Qb3+",
+      "Ka1",
+      "a5",
+      "Rd3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07e4t",
+    "gameUrl": "https://lichess.org/game/eSg4HArt/black#24",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "1r1qkbnr/1b1p1ppp/p3p3/4P3/2p5/2NPB1Q1/PPP2PPP/R3K2R b KQk - 1 12",
+    "moves": [
+      "Bb4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "1r1qk1nr/1b1p1ppp/p3p3/4P3/1bp5/2NPB1Q1/PPP2PPP/R3K2R w KQk - 2 13",
+      "solution": [
+        "Qxg7",
+        "Bf8",
+        "Qxh8"
+      ]
+    },
+    "contextFen": "1rbqkbnr/3ppppp/p7/1pp1P3/8/1BN2Q2/PPPP1PPP/R1B1K2R b KQk - 2 8",
+    "contextMoves": [
+      "c4",
+      "Bxc4",
+      "bxc4",
+      "d3",
+      "Bb7",
+      "Qg3",
+      "e6",
+      "Be3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07eU3",
+    "gameUrl": "https://lichess.org/game/XLHLxmmc#71",
+    "theme": "crushing, endgame, master, short, trappedPiece",
+    "startFen": "8/7R/6p1/2k2p2/2B1p2P/1P2P1P1/1q3PK1/8 w - - 1 36",
+    "moves": [
+      "Rh6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/8/6pR/2k2p2/2B1p2P/1P2P1P1/1q3PK1/8 b - - 2 36",
+      "solution": [
+        "Qg7",
+        "Rxg6",
+        "Qxg6"
+      ]
+    },
+    "contextFen": "1R6/6kp/6p1/3B1p2/4p2P/1P2P1P1/1q3PK1/8 w - - 0 32",
+    "contextMoves": [
+      "Bc4",
+      "Kf6",
+      "Rb6+",
+      "Ke7",
+      "Rb7+",
+      "Kd6",
+      "Rxh7",
+      "Kc5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07fpN",
+    "gameUrl": "https://lichess.org/game/BSWMBPqL/black#32",
+    "theme": "equality, middlegame, short, trappedPiece",
+    "startFen": "r3k1r1/p1p2p1p/2p4q/8/8/1PNPPN2/P1b1Q2P/R3K3 b Qq - 0 16",
+    "moves": [
+      "Qh5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3k1r1/p1p2p1p/2p5/7q/8/1PNPPN2/P1b1Q2P/R3K3 w Qq - 1 17",
+      "solution": [
+        "Kd2",
+        "Bxd3",
+        "Kxd3"
+      ]
+    },
+    "contextFen": "r3k1nr/p1p2pRp/2p5/5b2/8/1P2PN1q/P1PP3P/RN1QK3 b Qkq - 0 12",
+    "contextMoves": [
+      "Bg6",
+      "Nc3",
+      "Qh6",
+      "Rxg8+",
+      "Rxg8",
+      "Qe2",
+      "Bxc2",
+      "d3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07qvG",
+    "gameUrl": "https://lichess.org/game/PoTE0IaI/black#30",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r3k2r/p2n1ppp/2pbpn2/1p6/3P2bQ/1PqBBN2/PN4PP/1R3RK1 b kq - 1 15",
+    "moves": [
+      "Rc8"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "2r1k2r/p2n1ppp/2pbpn2/1p6/3P2bQ/1PqBBN2/PN4PP/1R3RK1 w k - 2 16",
+      "solution": [
+        "Bd2",
+        "Qxd3",
+        "Nxd3"
+      ]
+    },
+    "contextFen": "r3k2r/pp1n1ppp/1qpbpn2/8/N2P2bQ/3BBN2/PPP3PP/R4RK1 b kq - 7 11",
+    "contextMoves": [
+      "Qb4",
+      "b3",
+      "b5",
+      "c3",
+      "Qa5",
+      "Nb2",
+      "Qxc3",
+      "Rab1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08BKi",
+    "gameUrl": "https://lichess.org/game/WBU5VSb8/black#54",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "2r3k1/p4pp1/2p2np1/2Np4/3P4/q3PB1P/r4PP1/1R1Q2K1 b - - 9 27",
+    "moves": [
+      "a5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "2r3k1/5pp1/2p2np1/p1Np4/3P4/q3PB1P/r4PP1/1R1Q2K1 w - - 0 28",
+      "solution": [
+        "Rb3",
+        "Qxc5",
+        "dxc5"
+      ]
+    },
+    "contextFen": "r3r1k1/p4pp1/2p2np1/3p4/3P4/q1N1PB1P/5PP1/2RQ2K1 b - - 1 23",
+    "contextMoves": [
+      "Rab8",
+      "Na4",
+      "Rec8",
+      "Nc5",
+      "Rb2",
+      "Ra1",
+      "Ra2",
+      "Rb1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08Erp",
+    "gameUrl": "https://lichess.org/game/OHppLYIU#65",
+    "theme": "advantage, middlegame, trappedPiece, veryLong",
+    "startFen": "4k3/3qb3/2bp4/2P1ppr1/p3Pp1p/PrN2Q1P/1P2BPP1/1R1R2K1 w - - 0 33",
+    "moves": [
+      "cxd6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "4k3/3qb3/2bP4/4ppr1/p3Pp1p/PrN2Q1P/1P2BPP1/1R1R2K1 b - - 0 33",
+      "solution": [
+        "fxe4",
+        "Qh5+",
+        "Rxh5",
+        "Bxh5+",
+        "Kf8",
+        "dxe7+",
+        "Qxe7"
+      ]
+    },
+    "contextFen": "1rq1k3/3bbp2/2pp4/1N1Pp1r1/p1P1Pp1p/P4Q1P/1P2BPP1/1R2R1K1 w - - 0 29",
+    "contextMoves": [
+      "dxc6",
+      "Bxc6",
+      "Red1",
+      "Qd7",
+      "Nc3",
+      "Rb3",
+      "c5",
+      "f5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08IGX",
+    "gameUrl": "https://lichess.org/game/EdWD5WcN#17",
+    "theme": "advantage, fork, opening, trappedPiece, veryLong",
+    "startFen": "r2qk2r/1bppbppp/p1n2n2/1p6/3NP3/1B6/PPP2PPP/RNBQ1RK1 w kq - 1 9",
+    "moves": [
+      "Nc3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2qk2r/1bppbppp/p1n2n2/1p6/3NP3/1BN5/PPP2PPP/R1BQ1RK1 b kq - 2 9",
+      "solution": [
+        "Nxd4",
+        "Qxd4",
+        "c5",
+        "Qd3",
+        "c4",
+        "Bxc4",
+        "bxc4"
+      ]
+    },
+    "contextFen": "r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 5",
+    "contextMoves": [
+      "O-O",
+      "b5",
+      "Bb3",
+      "Be7",
+      "d4",
+      "exd4",
+      "Nxd4",
+      "Bb7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08JrO",
+    "gameUrl": "https://lichess.org/game/2nZqLra0#43",
+    "theme": "crushing, long, middlegame, trappedPiece",
+    "startFen": "3r2k1/ppq1b1pp/4p1r1/2p5/P1N5/1PnPB2P/2P2PP1/3QRRK1 w - - 6 22",
+    "moves": [
+      "Qf3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "3r2k1/ppq1b1pp/4p1r1/2p5/P1N5/1PnPBQ1P/2P2PP1/4RRK1 b - - 7 22",
+      "solution": [
+        "Rf8",
+        "Qh5",
+        "Rf5",
+        "Qxg6",
+        "hxg6"
+      ]
+    },
+    "contextFen": "3r1rk1/ppq1b1pp/4p3/2pn4/PnN5/1PNPB2P/2P2PP1/2RQ1RK1 w - - 1 18",
+    "contextMoves": [
+      "Nxd5",
+      "Nxd5",
+      "Qg4",
+      "Rf6",
+      "Rce1",
+      "Rg6",
+      "Qd1",
+      "Nc3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08Lcw",
+    "gameUrl": "https://lichess.org/game/bMzPykVd/black#50",
+    "theme": "bishopEndgame, crushing, endgame, long, trappedPiece",
+    "startFen": "4b3/1pb3p1/p1p1p2p/2PpP1k1/PP1Pp3/4P3/4B1PP/4B1K1 b - - 5 25",
+    "moves": [
+      "Bh5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/1pb3p1/p1p1p2p/2PpP1kb/PP1Pp3/4P3/4B1PP/4B1K1 w - - 6 26",
+      "solution": [
+        "h4+",
+        "Kg6",
+        "g4",
+        "Bxg4",
+        "Bxg4"
+      ]
+    },
+    "contextFen": "4b1k1/1pb2qpp/p1p1p3/2PpP3/PP1Pp3/4P3/1B3QPP/5BK1 b - - 0 21",
+    "contextMoves": [
+      "h6",
+      "Qxf7+",
+      "Kxf7",
+      "Be2",
+      "Kg6",
+      "Bc3",
+      "Kg5",
+      "Be1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08P8l",
+    "gameUrl": "https://lichess.org/game/0DHkh6XN/black#56",
+    "theme": "advantage, endgame, long, trappedPiece",
+    "startFen": "6k1/b1p3p1/p6p/Pp2r3/1P3p2/2P2N1P/6P1/3R1K2 b - - 1 28",
+    "moves": [
+      "Re3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "6k1/b1p3p1/p6p/Pp6/1P3p2/2P1rN1P/6P1/3R1K2 w - - 2 29",
+      "solution": [
+        "Rd8+",
+        "Kh7",
+        "Ra8",
+        "Rxc3",
+        "Rxa7"
+      ]
+    },
+    "contextFen": "4r1k1/bpp3p1/p1n4p/P3p3/1PN2P2/2P2N1P/4K1P1/3R4 b - - 0 24",
+    "contextMoves": [
+      "exf4+",
+      "Kf1",
+      "b5",
+      "Ncd2",
+      "Ne5",
+      "Nxe5",
+      "Rxe5",
+      "Nf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08V6a",
+    "gameUrl": "https://lichess.org/game/ynJ0RxYs#67",
+    "theme": "advantage, endgame, long, trappedPiece",
+    "startFen": "1r4k1/p5p1/2p1R2p/2PpQ3/2nP4/B3PP1P/P5PK/4q3 w - - 9 34",
+    "moves": [
+      "Re8+"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "1r2R1k1/p5p1/2p4p/2PpQ3/2nP4/B3PP1P/P5PK/4q3 b - - 10 34",
+      "solution": [
+        "Rxe8",
+        "Qxe8+",
+        "Kh7",
+        "Bc1",
+        "Qxc1"
+      ]
+    },
+    "contextFen": "1r4k1/p5p1/2p1R2p/2Pp1Q1n/3P4/B3PP1P/P5P1/4q1K1 w - - 1 30",
+    "contextMoves": [
+      "Kh2",
+      "Ng3",
+      "Qe5",
+      "Nf1+",
+      "Kg1",
+      "Nd2+",
+      "Kh2",
+      "Nc4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08Yg1",
+    "gameUrl": "https://lichess.org/game/OaTIohe4/black#70",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "8/pp1b2p1/2pk3p/3pN3/3PqPPb/1PN5/PK1R4/5R2 b - - 6 35",
+    "moves": [
+      "Qe3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/pp1b2p1/2pk3p/3pN3/3P1PPb/1PN1q3/PK1R4/5R2 w - - 7 36",
+      "solution": [
+        "Rd3",
+        "Qxd3",
+        "Nxd3"
+      ]
+    },
+    "contextFen": "8/pp4p1/2pk1b1p/3pNq1b/3P1P2/1P6/P2RN1P1/K3R3 b - - 1 31",
+    "contextMoves": [
+      "Qe4",
+      "g4",
+      "Be8",
+      "Kb2",
+      "Bh4",
+      "Rf1",
+      "Bd7",
+      "Nc3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08boB",
+    "gameUrl": "https://lichess.org/game/YNSZSzzn#39",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "r2q1r1k/ppp3bp/3p2p1/3Pp3/2Q1n3/2PBR2P/PP3PP1/R5K1 w - - 0 20",
+    "moves": [
+      "Qxe4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2q1r1k/ppp3bp/3p2p1/3Pp3/4Q3/2PBR2P/PP3PP1/R5K1 b - - 0 20",
+      "solution": [
+        "Rf4",
+        "Re2",
+        "Rxe4"
+      ]
+    },
+    "contextFen": "r2qnrk1/ppp3bp/3p2p1/3Ppn2/8/2PBBQ1P/PP1N1PP1/R3R1K1 w - - 0 16",
+    "contextMoves": [
+      "Qg4",
+      "Nf6",
+      "Qc4",
+      "Nxe3",
+      "Rxe3",
+      "Kh8",
+      "Ne4",
+      "Nxe4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08chX",
+    "gameUrl": "https://lichess.org/game/RJlF528u/black#30",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r2q1rk1/ppp2ppp/2n5/3pP3/3PnB2/5P2/P1B2P1P/R2Q1RK1 b - - 0 15",
+    "moves": [
+      "Nc3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2q1rk1/ppp2ppp/2n5/3pP3/3P1B2/2n2P2/P1B2P1P/R2Q1RK1 w - - 1 16",
+      "solution": [
+        "Qd3",
+        "Ne2+",
+        "Qxe2"
+      ]
+    },
+    "contextFen": "r1bq1rk1/pppp1ppp/2n2n2/4P3/2BP4/5N2/P2B1PPP/R2Q1RK1 b - - 0 11",
+    "contextMoves": [
+      "Ne4",
+      "Bf4",
+      "d5",
+      "Bb3",
+      "Bg4",
+      "Bc2",
+      "Bxf3",
+      "gxf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08eSf",
+    "gameUrl": "https://lichess.org/game/C563Wvdr#31",
+    "theme": "advantage, long, middlegame, quietMove, trappedPiece",
+    "startFen": "r1q1kb1r/2Bn1p2/2Q1p3/p2p2p1/3P3p/2N1P3/PPP2PPP/R4RK1 w kq - 0 16",
+    "moves": [
+      "Nb5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1q1kb1r/2Bn1p2/2Q1p3/pN1p2p1/3P3p/4P3/PPP2PPP/R4RK1 b kq - 1 16",
+      "solution": [
+        "Bb4",
+        "c4",
+        "Ra6",
+        "cxd5",
+        "Rxc6"
+      ]
+    },
+    "contextFen": "r2qkb1r/p1p2p2/2p1pn2/1Q1p2p1/3P3p/4P1B1/PPP2PPP/RN2K2R w KQkq - 0 12",
+    "contextMoves": [
+      "Qxc6+",
+      "Nd7",
+      "Bxc7",
+      "Qc8",
+      "Nc3",
+      "a6",
+      "O-O",
+      "a5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08eZR",
+    "gameUrl": "https://lichess.org/game/gslmOLzX#35",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "r4rk1/ppq2ppp/3b2b1/8/3Np3/2P4P/PP2BQP1/R1B2RK1 w - - 2 18",
+    "moves": [
+      "Be3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r4rk1/ppq2ppp/3b2b1/8/3Np3/2P1B2P/PP2BQP1/R4RK1 b - - 3 18",
+      "solution": [
+        "Bg3",
+        "Qxg3",
+        "Qxg3",
+        "Bf4",
+        "Qh4"
+      ]
+    },
+    "contextFen": "r4rk1/ppq2ppp/3b1n2/3p4/6b1/2PB1N2/PP1N1QPP/R1B2RK1 w - - 6 14",
+    "contextMoves": [
+      "h3",
+      "Bh5",
+      "Be2",
+      "Ne4",
+      "Nxe4",
+      "dxe4",
+      "Nd4",
+      "Bg6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08fk2",
+    "gameUrl": "https://lichess.org/game/DCwXeVU2#49",
+    "theme": "crushing, endgame, rookEndgame, short, trappedPiece",
+    "startFen": "r4rk1/1pp3p1/4R2p/1p2P3/8/7P/PP3PP1/R5K1 w - - 1 25",
+    "moves": [
+      "g3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r4rk1/1pp3p1/4R2p/1p2P3/8/6PP/PP3P2/R5K1 b - - 0 25",
+      "solution": [
+        "Kf7",
+        "Rd6",
+        "cxd6"
+      ]
+    },
+    "contextFen": "r4r1k/1ppqb1p1/4p2p/1p6/3P4/1Q4BP/PP2RPP1/R5K1 w - - 2 21",
+    "contextMoves": [
+      "Qxe6",
+      "Qxe6",
+      "Rxe6",
+      "Bf6",
+      "Be5",
+      "Bxe5",
+      "dxe5",
+      "Kg8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08jmb",
+    "gameUrl": "https://lichess.org/game/GhwbkVOG/black#12",
+    "theme": "crushing, opening, short, trappedPiece",
+    "startFen": "rnb1k1nr/pp2ppbp/1qpp2p1/8/3PP3/P1N1B2P/1PP2PP1/R2QKBNR b KQkq - 0 6",
+    "moves": [
+      "Qxb2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "rnb1k1nr/pp2ppbp/2pp2p1/8/3PP3/P1N1B2P/1qP2PP1/R2QKBNR w KQkq - 0 7",
+      "solution": [
+        "Na4",
+        "Qxa1",
+        "Qxa1"
+      ]
+    },
+    "contextFen": "rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2",
+    "contextMoves": [
+      "Bg7",
+      "Nc3",
+      "c6",
+      "h3",
+      "d6",
+      "Be3",
+      "Qb6",
+      "a3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08oZy",
+    "gameUrl": "https://lichess.org/game/0l6bXCIK#39",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "r2r2k1/bb3pNp/p5n1/1p1p4/1P2n1qP/P2QPN2/1B3PP1/RB3RK1 w - - 1 20",
+    "moves": [
+      "Ne5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2r2k1/bb3pNp/p5n1/1p1pN3/1P2n1qP/P2QP3/1B3PP1/RB3RK1 b - - 2 20",
+      "solution": [
+        "Nxe5",
+        "Bxe5",
+        "f6",
+        "Nf5",
+        "Qxf5"
+      ]
+    },
+    "contextFen": "r1br2k1/b3qppp/p4nn1/1p1p4/1P6/P2QPNN1/5PPP/RBB2RK1 w - - 1 16",
+    "contextMoves": [
+      "Bb2",
+      "Bb7",
+      "h4",
+      "Ne4",
+      "Nf5",
+      "Qd7",
+      "Nxg7",
+      "Qg4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08ola",
+    "gameUrl": "https://lichess.org/game/jpO289mc#67",
+    "theme": "advantage, endgame, master, masterVsMaster, short, trappedPiece",
+    "startFen": "r7/1p2Np1k/p2p1Prn/4p1pR/1P4p1/P5R1/2P3PP/6K1 w - - 4 34",
+    "moves": [
+      "Nxg6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r7/1p3p1k/p2p1PNn/4p1pR/1P4p1/P5R1/2P3PP/6K1 b - - 0 34",
+      "solution": [
+        "Kxg6",
+        "Rxh6+",
+        "Kxh6"
+      ]
+    },
+    "contextFen": "r4r2/1p2Np1k/p2p1Ppn/4p1p1/1P6/P6R/2P3PP/3R2K1 w - - 0 30",
+    "contextMoves": [
+      "Rdd3",
+      "g4",
+      "Rh4",
+      "g5",
+      "Rh5",
+      "Rg8",
+      "Rg3",
+      "Rg6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08qww",
+    "gameUrl": "https://lichess.org/game/YbNxj8eV#39",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "3k1b1r/2rb1Qp1/1pn1p2p/p2pP3/3p1P2/8/PPPB2PP/4RRK1 w - - 0 20",
+    "moves": [
+      "f5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "3k1b1r/2rb1Qp1/1pn1p2p/p2pPP2/3p4/8/PPPB2PP/4RRK1 b - - 0 20",
+      "solution": [
+        "Be8",
+        "Qxe6",
+        "Bf7",
+        "Qxf7",
+        "Rxf7"
+      ]
+    },
+    "contextFen": "r2k1b1r/3bnQp1/ppn1p2p/1N1pP3/3p1P2/8/PPP3PP/R1B2RK1 w - - 0 16",
+    "contextMoves": [
+      "Nd6",
+      "Nc8",
+      "Nxc8",
+      "Rxc8",
+      "Bd2",
+      "Rc7",
+      "Rae1",
+      "a5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08rJ8",
+    "gameUrl": "https://lichess.org/game/FYx2WT9o#23",
+    "theme": "advantage, defensiveMove, long, opening, trappedPiece",
+    "startFen": "r1bqk2r/pn2bpp1/1p1p2np/8/4P3/2Q2N2/PPP1BPPP/RNB2RK1 w kq - 4 12",
+    "moves": [
+      "Qxg7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1bqk2r/pn2bpQ1/1p1p2np/8/4P3/5N2/PPP1BPPP/RNB2RK1 b kq - 0 12",
+      "solution": [
+        "Bf6",
+        "Bb5+",
+        "Ke7",
+        "Qxf6+",
+        "Kxf6"
+      ]
+    },
+    "contextFen": "r1bqkb1r/p2pnpp1/1p1p3p/n3p3/4P3/5N2/PPP1BPPP/RNBQK2R w KQkq - 0 8",
+    "contextMoves": [
+      "Qxd6",
+      "Nb7",
+      "Qxe5",
+      "d6",
+      "Qc3",
+      "Ng6",
+      "O-O",
+      "Be7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0918R",
+    "gameUrl": "https://lichess.org/game/zoginFc4#73",
+    "theme": "advancedPawn, crushing, endgame, master, short, trappedPiece",
+    "startFen": "r3r2k/5p1p/p7/2p5/P4P2/3pp1R1/1PR4P/4B1K1 w - - 0 37",
+    "moves": [
+      "Rxc5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3r2k/5p1p/p7/2R5/P4P2/3pp1R1/1P5P/4B1K1 b - - 0 37",
+      "solution": [
+        "d2",
+        "Bxd2",
+        "exd2"
+      ]
+    },
+    "contextFen": "r3r2k/1N3p1p/p4p2/2p5/P2pbP2/6R1/1Pn2B1P/2R3K1 w - - 6 33",
+    "contextMoves": [
+      "Nd6",
+      "f5",
+      "Nxe4",
+      "fxe4",
+      "Rxc2",
+      "e3",
+      "Be1",
+      "d3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/093xe",
+    "gameUrl": "https://lichess.org/game/gyVuKN5E/black#18",
+    "theme": "advantage, opening, short, trappedPiece",
+    "startFen": "r1bqk1nr/3nppbp/p2p2p1/1p1N4/B2NP3/4B3/PPP2PPP/R2QK2R b KQkq - 1 9",
+    "moves": [
+      "bxa4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1bqk1nr/3nppbp/p2p2p1/3N4/p2NP3/4B3/PPP2PPP/R2QK2R w KQkq - 0 10",
+      "solution": [
+        "Nc6",
+        "Bb7",
+        "Nxd8"
+      ]
+    },
+    "contextFen": "rnbqk1nr/pp1pppbp/6p1/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5",
+    "contextMoves": [
+      "d6",
+      "Bb5+",
+      "Nd7",
+      "Be3",
+      "a6",
+      "Ba4",
+      "b5",
+      "Nd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/098gt",
+    "gameUrl": "https://lichess.org/game/mkDZdj4U#33",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "r4rk1/p4pp1/b1p1p2p/q1ppPn1Q/N1P2P2/1P1P3N/P5PP/R4RK1 w - - 3 17",
+    "moves": [
+      "g4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r4rk1/p4pp1/b1p1p2p/q1ppPn1Q/N1P2PP1/1P1P3N/P6P/R4RK1 b - - 0 17",
+      "solution": [
+        "g6",
+        "gxf5",
+        "gxh5"
+      ]
+    },
+    "contextFen": "r1b2rk1/p4ppp/1qp1p3/2ppPnN1/2P5/1PNP4/P4PPP/R2Q1RK1 w - - 1 13",
+    "contextMoves": [
+      "Qh5",
+      "h6",
+      "Nh3",
+      "Qc7",
+      "f4",
+      "Qa5",
+      "Na4",
+      "Ba6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/09CfA",
+    "gameUrl": "https://lichess.org/game/dbHcldC2#33",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r2q1r1k/pppnn1p1/3p3p/1P1Qp3/8/P1N2N1P/5PP1/R1B1R1K1 w - - 1 17",
+    "moves": [
+      "Qxb7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2q1r1k/pQpnn1p1/3p3p/1P2p3/8/P1N2N1P/5PP1/R1B1R1K1 b - - 0 17",
+      "solution": [
+        "Nc5",
+        "Qxa8",
+        "Qxa8"
+      ]
+    },
+    "contextFen": "r2q1rk1/ppp3p1/2npp2p/2n5/8/P1N2N1P/1P3PP1/R1BQ1RK1 w - - 0 13",
+    "contextMoves": [
+      "b4",
+      "Nd7",
+      "Re1",
+      "e5",
+      "Qd5+",
+      "Kh8",
+      "b5",
+      "Ne7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/09IR3",
+    "gameUrl": "https://lichess.org/game/XnoQlz24/black#22",
+    "theme": "advantage, middlegame, quietMove, short, trappedPiece",
+    "startFen": "r1b1k1nr/pppp1ppp/8/4P3/8/2Q5/P1P1KPPP/RNq2B1R b kq - 3 11",
+    "moves": [
+      "Nh6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b1k2r/pppp1ppp/7n/4P3/8/2Q5/P1P1KPPP/RNq2B1R w kq - 4 12",
+      "solution": [
+        "Nd2",
+        "Qxa1",
+        "Qxa1"
+      ]
+    },
+    "contextFen": "r1b1kbnr/pppp1ppp/1q6/4P3/8/3Q4/PPP2PPP/RNB1KB1R b KQkq - 2 7",
+    "contextMoves": [
+      "Bc5",
+      "Be3",
+      "Bxe3",
+      "Qxe3",
+      "Qxb2",
+      "Qc3",
+      "Qc1+",
+      "Ke2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/09JhC",
+    "gameUrl": "https://lichess.org/game/oFr955pe/black#40",
+    "theme": "advantage, master, middlegame, short, trappedPiece",
+    "startFen": "r4rk1/3p1ppp/pp6/1p1QP3/8/2P2KP1/1P5q/RN2R3 b - - 0 20",
+    "moves": [
+      "Qxb2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r4rk1/3p1ppp/pp6/1p1QP3/8/2P2KP1/1q6/RN2R3 w - - 0 21",
+      "solution": [
+        "Ra2",
+        "Qxa2",
+        "Qxa2"
+      ]
+    },
+    "contextFen": "r4rk1/1b1p1ppp/pp6/1p2P3/4n2q/1BP3P1/1P3P1P/RN1QR1K1 b - - 0 16",
+    "contextMoves": [
+      "Qh3",
+      "Bd5",
+      "Nxf2",
+      "Kxf2",
+      "Qxh2+",
+      "Kf3",
+      "Bxd5+",
+      "Qxd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/09Ljh",
+    "gameUrl": "https://lichess.org/game/uMH8oj06#33",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "2rqr1k1/p4ppp/2b5/4pQb1/6P1/2N5/PPPP1PP1/R1B2RK1 w - - 5 17",
+    "moves": [
+      "d3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "2rqr1k1/p4ppp/2b5/4pQb1/6P1/2NP4/PPP2PP1/R1B2RK1 b - - 0 17",
+      "solution": [
+        "Bxc1",
+        "Raxc1",
+        "g6",
+        "Qxc8",
+        "Qxc8"
+      ]
+    },
+    "contextFen": "r2q1rk1/p2bbppp/8/4p1N1/6n1/5Q2/PPPP1PPP/RNB2RK1 w - - 5 13",
+    "contextMoves": [
+      "h3",
+      "Bxg5",
+      "hxg4",
+      "Rc8",
+      "Nc3",
+      "Bc6",
+      "Qf5",
+      "Re8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/09QFu",
+    "gameUrl": "https://lichess.org/game/AOLYOn6u/black#30",
+    "theme": "crushing, opening, short, trappedPiece",
+    "startFen": "2kr2nr/pp1nbppb/2p1p2p/6PP/4NP2/1PBP4/P1P1B3/R3K1NR b KQ - 4 15",
+    "moves": [
+      "f6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "2kr2nr/pp1nb1pb/2p1pp1p/6PP/4NP2/1PBP4/P1P1B3/R3K1NR w KQ - 0 16",
+      "solution": [
+        "g6",
+        "Bxg6",
+        "hxg6"
+      ]
+    },
+    "contextFen": "rn2kbnr/pp3ppb/2p1p2p/6PP/5P2/2NP4/PPP1B3/R1B1K1NR b KQkq - 0 11",
+    "contextMoves": [
+      "Nd7",
+      "Ne4",
+      "O-O-O",
+      "b3",
+      "Bb4+",
+      "Bd2",
+      "Be7",
+      "Bc3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/09SNn",
+    "gameUrl": "https://lichess.org/game/RPb6UtsF/black#72",
+    "theme": "crushing, endgame, short, trappedPiece",
+    "startFen": "6n1/4b2p/3p1k2/2pP4/1pP2BB1/1P3K1P/8/8 b - - 7 36",
+    "moves": [
+      "h6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "6n1/4b3/3p1k1p/2pP4/1pP2BB1/1P3K1P/8/8 w - - 0 37",
+      "solution": [
+        "Be6",
+        "Kg7",
+        "Bxg8"
+      ]
+    },
+    "contextFen": "6nk/6bp/3p1Q2/2pP4/1pP5/1P5P/3BB2K/8 b - - 0 32",
+    "contextMoves": [
+      "Bxf6",
+      "Bf4",
+      "Be7",
+      "Bg4",
+      "Kg7",
+      "Kg2",
+      "Kf6",
+      "Kf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/09awJ",
+    "gameUrl": "https://lichess.org/game/tn4NdP7r/black#26",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r2qnrk1/pp2ppBp/1np3p1/4Pb2/2BP4/2N2N1P/PP1Q1PP1/R3K2R b KQ - 0 13",
+    "moves": [
+      "Nxc4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2qnrk1/pp2ppBp/2p3p1/4Pb2/2nP4/2N2N1P/PP1Q1PP1/R3K2R w KQ - 0 14",
+      "solution": [
+        "Qh6",
+        "g5",
+        "Bxf8"
+      ]
+    },
+    "contextFen": "rn1qnrk1/pp2ppbp/2p3p1/3pP3/2PP1Bb1/2N2N2/PP1QBPPP/R3K2R b KQ - 4 9",
+    "contextMoves": [
+      "dxc4",
+      "h3",
+      "Bf5",
+      "Bxc4",
+      "Nd7",
+      "Bh6",
+      "Nb6",
+      "Bxg7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/09b6c",
+    "gameUrl": "https://lichess.org/game/Ht2lNFky#17",
+    "theme": "crushing, opening, short, trappedPiece",
+    "startFen": "rn1qk2r/ppp1p1bp/3p2p1/5b2/2PPQ3/5N2/PP3PPP/R1B1KB1R w KQkq - 1 9",
+    "moves": [
+      "Qd5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "rn1qk2r/ppp1p1bp/3p2p1/3Q1b2/2PP4/5N2/PP3PPP/R1B1KB1R b KQkq - 2 9",
+      "solution": [
+        "c6",
+        "Qxf5",
+        "gxf5"
+      ]
+    },
+    "contextFen": "rnbqk2r/ppppp1bp/5np1/5p2/2PP4/2N5/PPQ1PPPP/R1B1KBNR w KQkq - 2 5",
+    "contextMoves": [
+      "Nf3",
+      "d6",
+      "e4",
+      "fxe4",
+      "Nxe4",
+      "Nxe4",
+      "Qxe4",
+      "Bf5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/09lyF",
+    "gameUrl": "https://lichess.org/game/U3VeS68Q#45",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r1b3k1/p2r2pp/1p4q1/1QBp4/P1nP4/4P1N1/5PPP/R3R1K1 w - - 0 23",
+    "moves": [
+      "Bb4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b3k1/p2r2pp/1p4q1/1Q1p4/PBnP4/4P1N1/5PPP/R3R1K1 b - - 1 23",
+      "solution": [
+        "a6",
+        "Qxd7",
+        "Bxd7"
+      ]
+    },
+    "contextFen": "r1br2k1/pp4pp/2n3q1/3p4/P2PN3/BQ2P3/5PPP/R3R1K1 w - - 1 19",
+    "contextMoves": [
+      "Ng3",
+      "Na5",
+      "Qb5",
+      "Nc4",
+      "Be7",
+      "Rd7",
+      "Bc5",
+      "b6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/09m48",
+    "gameUrl": "https://lichess.org/game/CFrQNMh8/black#36",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "rn2k2r/1p2ppb1/p1p4p/4P2P/2P1Nqp1/P7/1P2Q1P1/1K1R2NR b kq - 1 18",
+    "moves": [
+      "Bxe5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "rn2k2r/1p2pp2/p1p4p/4b2P/2P1Nqp1/P7/1P2Q1P1/1K1R2NR w kq - 0 19",
+      "solution": [
+        "Rf1",
+        "Qxf1+",
+        "Qxf1"
+      ]
+    },
+    "contextFen": "rn2k2r/1ppqppb1/p6p/3nP2P/5Pp1/P1N5/1PPBQ1P1/2KR2NR b kq - 4 14",
+    "contextMoves": [
+      "c6",
+      "Ne4",
+      "Qf5",
+      "c4",
+      "Nxf4",
+      "Bxf4",
+      "Qxf4+",
+      "Kb1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/09pOa",
+    "gameUrl": "https://lichess.org/game/O4ItsrkB/black#58",
+    "theme": "advantage, master, middlegame, short, trappedPiece",
+    "startFen": "5r2/pp2nr1k/6pp/8/3pBP2/P2Pq3/2Q1N2P/5R1K b - - 1 29",
+    "moves": [
+      "Nf5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "5r2/pp3r1k/6pp/5n2/3pBP2/P2Pq3/2Q1N2P/5R1K w - - 2 30",
+      "solution": [
+        "Rf3",
+        "Qxf3+",
+        "Bxf3"
+      ]
+    },
+    "contextFen": "5r2/pp2nr1k/6pp/2qppn2/5P2/P1PP4/2QBN1BP/5R1K b - - 1 25",
+    "contextMoves": [
+      "Ne3",
+      "Bxe3",
+      "Qxe3",
+      "Bf3",
+      "d4",
+      "cxd4",
+      "exd4",
+      "Be4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/09qHq",
+    "gameUrl": "https://lichess.org/game/93AO8eb2#35",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r6q/pbpnk1n1/1p1pppQp/6p1/1b1PP3/2NB2B1/PPP2PPP/2KR3R w - - 2 18",
+    "moves": [
+      "Nb5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r6q/pbpnk1n1/1p1pppQp/1N4p1/1b1PP3/3B2B1/PPP2PPP/2KR3R b - - 3 18",
+      "solution": [
+        "Nf8",
+        "Qxg7+",
+        "Qxg7"
+      ]
+    },
+    "contextFen": "rn2n2q/pbpp1k2/1p2pp1p/4B1p1/1b1PP3/2NB1Q2/PPP2PPP/R3K2R w KQ - 2 14",
+    "contextMoves": [
+      "Qh5+",
+      "Ke7",
+      "Bg3",
+      "Ng7",
+      "Qg6",
+      "d6",
+      "O-O-O",
+      "Nd7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/09sfJ",
+    "gameUrl": "https://lichess.org/game/cK96qPPq/black#32",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "r4rk1/pnqbppbp/1p1p1np1/3P4/2PN4/2BBPN1P/5PP1/RQ3RK1 b - - 3 16",
+    "moves": [
+      "Nxd5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r4rk1/pnqbppbp/1p1p2p1/3n4/2PN4/2BBPN1P/5PP1/RQ3RK1 w - - 0 17",
+      "solution": [
+        "cxd5",
+        "Qxc3",
+        "Rc1",
+        "Qxc1+",
+        "Qxc1"
+      ]
+    },
+    "contextFen": "r4rk1/ppq1ppbp/2np1np1/8/2PP2b1/3BPN1P/1BN2PP1/R2Q1RK1 b - - 0 12",
+    "contextMoves": [
+      "Bd7",
+      "d5",
+      "Na5",
+      "Ncd4",
+      "b6",
+      "Bc3",
+      "Nb7",
+      "Qb1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/09zmM",
+    "gameUrl": "https://lichess.org/game/tnBlhtPu/black#54",
+    "theme": "clearance, crushing, middlegame, trappedPiece, veryLong",
+    "startFen": "5rk1/4pp1p/6p1/8/4N3/bb2QB2/q4PPP/4R1K1 b - - 7 27",
+    "moves": [
+      "e6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "5rk1/5p1p/4p1p1/8/4N3/bb2QB2/q4PPP/4R1K1 w - - 0 28",
+      "solution": [
+        "Nc3",
+        "Qc2",
+        "Be4",
+        "Qb2",
+        "Rb1",
+        "Rc8",
+        "Rxb2"
+      ]
+    },
+    "contextFen": "5rk1/4pp1p/3bb1p1/8/4N3/4Q3/Pq2BPPP/5RK1 b - - 3 23",
+    "contextMoves": [
+      "Qxa2",
+      "Bf3",
+      "Bc4",
+      "Rd1",
+      "Bb3",
+      "Rc1",
+      "Ba3",
+      "Re1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0A1UD",
+    "gameUrl": "https://lichess.org/game/u5mdFeT5/black#58",
+    "theme": "advantage, endgame, short, trappedPiece",
+    "startFen": "6r1/p2pkp2/1pr4p/2pQP1p1/2P3P1/1R5P/q4P2/1R4K1 b - - 0 29",
+    "moves": [
+      "Qe2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "6r1/p2pkp2/1pr4p/2pQP1p1/2P3P1/1R5P/4qP2/1R4K1 w - - 1 30",
+      "solution": [
+        "R3b2",
+        "Qxb2",
+        "Rxb2"
+      ]
+    },
+    "contextFen": "6r1/pr1pkp2/1p2p2p/q1p1P1p1/3P2P1/1RP2Q1P/P4P2/2R3K1 b - - 1 25",
+    "contextMoves": [
+      "Qxa2",
+      "Rcb1",
+      "Rc7",
+      "d5",
+      "exd5",
+      "Qxd5",
+      "Rc6",
+      "c4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0A2t1",
+    "gameUrl": "https://lichess.org/game/qKD4xnGN/black#28",
+    "theme": "crushing, long, middlegame, trappedPiece",
+    "startFen": "r6r/ppp1kpp1/2p1b2p/4Pn2/8/2N2N2/PPPR1PPP/3R2K1 b - - 1 14",
+    "moves": [
+      "Rad8"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "3r3r/ppp1kpp1/2p1b2p/4Pn2/8/2N2N2/PPPR1PPP/3R2K1 w - - 2 15",
+      "solution": [
+        "g4",
+        "Rxd2",
+        "Rxd2",
+        "Nd6",
+        "exd6+"
+      ]
+    },
+    "contextFen": "r1b1kb1r/ppp2ppp/2p5/4PnB1/8/2N2N2/PPP2PPP/R4RK1 b - - 3 10",
+    "contextMoves": [
+      "Be7",
+      "Rad1",
+      "Be6",
+      "Rd2",
+      "h6",
+      "Bxe7",
+      "Kxe7",
+      "Rfd1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0A4iH",
+    "gameUrl": "https://lichess.org/game/OA53Om9g/black#84",
+    "theme": "crushing, endgame, rookEndgame, short, trappedPiece",
+    "startFen": "8/7k/1p4p1/p1p2p1p/P7/1P1r1P1P/4K1P1/1R6 b - - 1 42",
+    "moves": [
+      "Rc3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/7k/1p4p1/p1p2p1p/P7/1Pr2P1P/4K1P1/1R6 w - - 2 43",
+      "solution": [
+        "Kd2",
+        "Rxf3",
+        "gxf3"
+      ]
+    },
+    "contextFen": "8/5p1k/1p1rq1p1/p1p4p/P7/2Q2P1P/2P3P1/1R4K1 b - - 6 38",
+    "contextMoves": [
+      "Qd5",
+      "Qb3",
+      "Qxb3",
+      "cxb3",
+      "Rd3",
+      "Kf1",
+      "f5",
+      "Ke2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0AEKr",
+    "gameUrl": "https://lichess.org/game/erkf2In5/black#16",
+    "theme": "advantage, opening, short, trappedPiece",
+    "startFen": "r1b1k2r/pp1p1ppp/1qn1pn2/8/4P3/P1N1PN2/1PP3PP/R2QKB1R b KQkq - 0 8",
+    "moves": [
+      "Qxb2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b1k2r/pp1p1ppp/2n1pn2/8/4P3/P1N1PN2/1qP3PP/R2QKB1R w KQkq - 0 9",
+      "solution": [
+        "Na4",
+        "Qxa1",
+        "Qxa1"
+      ]
+    },
+    "contextFen": "rnbqk1nr/pp1p1ppp/4p3/2b5/8/2N2N2/PPP1PPPP/R1BQKB1R b KQkq - 1 4",
+    "contextMoves": [
+      "Nc6",
+      "e4",
+      "Nf6",
+      "a3",
+      "Qb6",
+      "Be3",
+      "Bxe3",
+      "fxe3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0AJz9",
+    "gameUrl": "https://lichess.org/game/tkVEsSlO#167",
+    "theme": "crushing, endgame, long, trappedPiece",
+    "startFen": "8/4k3/2B5/r2p4/3Pp3/4P1P1/5PK1/8 w - - 5 84",
+    "moves": [
+      "Bb7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/1B2k3/8/r2p4/3Pp3/4P1P1/5PK1/8 b - - 6 84",
+      "solution": [
+        "Kd7",
+        "g4",
+        "Kc7",
+        "Kg3",
+        "Kxb7"
+      ]
+    },
+    "contextFen": "8/8/2B2k2/r2p2p1/3Pp3/4P1P1/5PK1/8 w - - 42 80",
+    "contextMoves": [
+      "Bd7",
+      "g4",
+      "Bxg4",
+      "Kg5",
+      "Bd7",
+      "Kf6",
+      "Bc6",
+      "Ke7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0ALii",
+    "gameUrl": "https://lichess.org/game/sUBgAOws#63",
+    "theme": "advantage, master, middlegame, short, trappedPiece",
+    "startFen": "3rrb1k/p5p1/1pnq3p/2p1p2Q/2Pp2NP/P2P2P1/1P1BRP2/4R1K1 w - - 9 32",
+    "moves": [
+      "f4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "3rrb1k/p5p1/1pnq3p/2p1p2Q/2Pp1PNP/P2P2P1/1P1BR3/4R1K1 b - - 0 32",
+      "solution": [
+        "g6",
+        "Nxe5",
+        "gxh5"
+      ]
+    },
+    "contextFen": "3rr2k/p1q1n1p1/1p3b1p/2p1p3/2PpQ2P/P2P2P1/1P1BRP1N/R5K1 w - - 1 28",
+    "contextMoves": [
+      "Rae1",
+      "Nc6",
+      "Ng4",
+      "Qd6",
+      "Qg6",
+      "Be7",
+      "Qh5",
+      "Bf8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0ATQt",
+    "gameUrl": "https://lichess.org/game/6BupeUyP/black#20",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r1b1k2r/pppq1pbp/2n3p1/3pPpB1/3P4/1N3N2/PPP2PPP/R2Q1RK1 b kq - 5 10",
+    "moves": [
+      "h6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b1k2r/pppq1pb1/2n3pp/3pPpB1/3P4/1N3N2/PPP2PPP/R2Q1RK1 w kq - 0 11",
+      "solution": [
+        "Nc5",
+        "hxg5",
+        "Nxd7"
+      ]
+    },
+    "contextFen": "rnbqk2r/ppp1npbp/4p1p1/3pP3/3P4/3B1N2/PPPN1PPP/R1BQK2R b KQkq - 3 6",
+    "contextMoves": [
+      "Nf5",
+      "Bxf5",
+      "exf5",
+      "Nb3",
+      "Nc6",
+      "Bg5",
+      "Qd7",
+      "O-O"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0ATa7",
+    "gameUrl": "https://lichess.org/game/7mGrTTFW#31",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "rnb1k2r/1ppq1npp/p3p3/3pPp1Q/5P1B/2PBP2P/PP1N2P1/R3K2R w KQkq - 5 16",
+    "moves": [
+      "Nf3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "rnb1k2r/1ppq1npp/p3p3/3pPp1Q/5P1B/2PBPN1P/PP4P1/R3K2R b KQkq - 6 16",
+      "solution": [
+        "g6",
+        "Qg5",
+        "Nxg5"
+      ]
+    },
+    "contextFen": "r1bqk2r/1pp3pp/p1n1p3/3pPp2/5Pn1/2PBP1B1/PP1N2PP/R2QK2R w KQkq - 1 12",
+    "contextMoves": [
+      "Qe2",
+      "Nb8",
+      "h3",
+      "Nh6",
+      "Qh5+",
+      "Nf7",
+      "Bh4",
+      "Qd7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0AYeq",
+    "gameUrl": "https://lichess.org/game/rPe1WBe1/black#70",
+    "theme": "crushing, endgame, master, short, trappedPiece",
+    "startFen": "5n2/p4pk1/1p1R2p1/7p/PP2Br1P/5P2/5PK1/8 b - - 4 35",
+    "moves": [
+      "f5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "5n2/p5k1/1p1R2p1/5p1p/PP2Br1P/5P2/5PK1/8 w - - 0 36",
+      "solution": [
+        "Kg3",
+        "Rxe4",
+        "fxe4"
+      ]
+    },
+    "contextFen": "5nk1/p4p1p/1p1R2p1/6r1/PP2B3/5P2/5P1P/7K b - - 0 31",
+    "contextMoves": [
+      "Kg7",
+      "Bd5",
+      "h5",
+      "h4",
+      "Rf5",
+      "Kg2",
+      "Rf4",
+      "Be4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0Adsy",
+    "gameUrl": "https://lichess.org/game/h4RDH2r1#23",
+    "theme": "advantage, opening, short, trappedPiece",
+    "startFen": "r1b1kb1r/ppQ2ppp/1n3q2/3p4/8/1P2P3/P3BPPP/RNB2RK1 w kq - 1 12",
+    "moves": [
+      "Nc3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b1kb1r/ppQ2ppp/1n3q2/3p4/8/1PN1P3/P3BPPP/R1B2RK1 b kq - 2 12",
+      "solution": [
+        "Bd6",
+        "Qxd6",
+        "Qxd6"
+      ]
+    },
+    "contextFen": "r1b1kb1r/pppp1ppp/8/4n3/2P4q/4P3/PP2BPPP/RNBQK2R w KQkq - 2 8",
+    "contextMoves": [
+      "O-O",
+      "Nxc4",
+      "Qc2",
+      "d5",
+      "b3",
+      "Nb6",
+      "Qxc7",
+      "Qf6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0AewS",
+    "gameUrl": "https://lichess.org/game/jC5zurDA#35",
+    "theme": "advantage, master, middlegame, short, trappedPiece",
+    "startFen": "r2q4/1Qpk1pp1/4rpbp/8/3P4/2K2N2/PP4PP/2R1R3 w - - 3 18",
+    "moves": [
+      "d5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2q4/1Qpk1pp1/4rpbp/3P4/8/2K2N2/PP4PP/2R1R3 b - - 0 18",
+      "solution": [
+        "Rb6",
+        "Qxb6",
+        "cxb6"
+      ]
+    },
+    "contextFen": "1r1qr3/Q1pk1pp1/5p1p/8/1b1P4/2N2N2/PPb3PP/2R1K2R w K - 2 14",
+    "contextMoves": [
+      "Kd2",
+      "Bg6",
+      "Rhe1",
+      "Bxc3+",
+      "Kxc3",
+      "Ra8",
+      "Qb7",
+      "Re6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0Af4Y",
+    "gameUrl": "https://lichess.org/game/VVIfEup7#51",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "r2b1r2/1b3ppk/1qp2n1p/1p2pN2/pQ2P3/P1PP1N1P/BP4P1/R4RK1 w - - 2 26",
+    "moves": [
+      "Kh1"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2b1r2/1b3ppk/1qp2n1p/1p2pN2/pQ2P3/P1PP1N1P/BP4P1/R4R1K b - - 3 26",
+      "solution": [
+        "c5",
+        "Qxb5",
+        "Qxb5"
+      ]
+    },
+    "contextFen": "r2br1k1/1bq2pp1/2p2nNp/pp2pN2/4P3/P1PP3P/BP4P1/R2Q1RK1 w - - 6 22",
+    "contextMoves": [
+      "Qb3",
+      "Kh7",
+      "Ngh4",
+      "Rf8",
+      "Nf3",
+      "a4",
+      "Qb4",
+      "Qb6+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0AfWu",
+    "gameUrl": "https://lichess.org/game/ZPOEVOs7#55",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "r3qr1k/b2N1p2/p1pp3p/6p1/1PP2R2/PQ2P1P1/6KP/4R3 w - - 4 28",
+    "moves": [
+      "Nxf8"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3qN1k/b4p2/p1pp3p/6p1/1PP2R2/PQ2P1P1/6KP/4R3 b - - 0 28",
+      "solution": [
+        "gxf4",
+        "Qc3+",
+        "Kg8",
+        "exf4",
+        "Qxf8"
+      ]
+    },
+    "contextFen": "r4rk1/b4p2/p1pp1qpp/8/1PP2p2/PQN1P1P1/6KP/4RR2 w - - 0 24",
+    "contextMoves": [
+      "Rxf4",
+      "Qe5",
+      "Ne4",
+      "g5",
+      "Nf6+",
+      "Kh8",
+      "Nd7",
+      "Qe8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0Ak4g",
+    "gameUrl": "https://lichess.org/game/8260QwrY/black#22",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "rnb2rk1/ppb2ppp/2p2n2/3p4/3Pq3/1Q2BN2/PP1NBPPP/R3K2R b KQ - 1 11",
+    "moves": [
+      "Qg6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "rnb2rk1/ppb2ppp/2p2nq1/3p4/3P4/1Q2BN2/PP1NBPPP/R3K2R w KQ - 2 12",
+      "solution": [
+        "Nh4",
+        "Qg4",
+        "Bxg4"
+      ]
+    },
+    "contextFen": "rnb1k2r/pp1pqppp/2pb1n2/8/3PP3/3Q1N2/PP3PPP/RNB1KB1R b KQkq - 0 7",
+    "contextMoves": [
+      "Qxe4+",
+      "Be3",
+      "O-O",
+      "Qb3",
+      "Bc7",
+      "Be2",
+      "d5",
+      "Nbd2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0AkeU",
+    "gameUrl": "https://lichess.org/game/LeCmHcET/black#20",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "rnb2rk1/pp5p/1qpb1pp1/3p1p2/3P1P2/P1NBP1N1/1PP3PP/R2QK2R b KQ - 0 10",
+    "moves": [
+      "Qxb2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "rnb2rk1/pp5p/2pb1pp1/3p1p2/3P1P2/P1NBP1N1/1qP3PP/R2QK2R w KQ - 0 11",
+      "solution": [
+        "Na4",
+        "Qxa1",
+        "Qxa1"
+      ]
+    },
+    "contextFen": "rnbqkb1r/pp4pp/2p2p2/3p1p2/3P4/2NBP3/PPP2PPP/R2QK1NR b KQkq - 1 6",
+    "contextMoves": [
+      "Bd6",
+      "Nge2",
+      "O-O",
+      "Ng3",
+      "g6",
+      "f4",
+      "Qb6",
+      "a3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0AlSg",
+    "gameUrl": "https://lichess.org/game/n1XdrwmA/black#70",
+    "theme": "attraction, crushing, endgame, exposedKing, trappedPiece, veryLong",
+    "startFen": "5r2/2p1k2R/pp3b2/4p3/8/2P1P3/1nBBKP2/8 b - - 1 35",
+    "moves": [
+      "Rf7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/2p1kr1R/pp3b2/4p3/8/2P1P3/1nBBKP2/8 w - - 2 36",
+      "solution": [
+        "Rxf7+",
+        "Kxf7",
+        "Bb3+",
+        "Kf8",
+        "Bc1",
+        "Na4",
+        "Bxa4"
+      ]
+    },
+    "contextFen": "5r2/2p3k1/pp3b2/n3p3/8/2P1P3/1PBBKP2/R7 b - - 3 31",
+    "contextMoves": [
+      "Nc4",
+      "Rg1+",
+      "Kf7",
+      "Rg3",
+      "Ke7",
+      "Rh3",
+      "Nxb2",
+      "Rh7+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0Amup",
+    "gameUrl": "https://lichess.org/game/1Yn1f7Zk#25",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "1r1q1rk1/1Q1n1ppp/5n2/pB1p1bB1/1b1P4/2N5/PP2NPPP/R4RK1 w - - 2 13",
+    "moves": [
+      "Qc6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "1r1q1rk1/3n1ppp/2Q2n2/pB1p1bB1/1b1P4/2N5/PP2NPPP/R4RK1 b - - 3 13",
+      "solution": [
+        "Rb6",
+        "Qxd5",
+        "Nxd5"
+      ]
+    },
+    "contextFen": "r2qkb1r/pQ1n1ppp/5n2/3p1b2/3P4/2N5/PP3PPP/R1B1KBNR w KQkq - 0 9",
+    "contextMoves": [
+      "Bb5",
+      "Bb4",
+      "Ne2",
+      "O-O",
+      "O-O",
+      "a5",
+      "Bg5",
+      "Rb8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0AogE",
+    "gameUrl": "https://lichess.org/game/2GVnfYKB#49",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "3rr1k1/Qpq2ppp/8/4N2n/3p1P2/P6P/1PP3P1/2RR2K1 w - - 2 25",
+    "moves": [
+      "Rxd4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "3rr1k1/Qpq2ppp/8/4N2n/3R1P2/P6P/1PP3P1/2R3K1 b - - 0 25",
+      "solution": [
+        "Ra8",
+        "Qxa8",
+        "Rxa8"
+      ]
+    },
+    "contextFen": "r3r1k1/pp3ppp/5n2/2qpN3/5P2/P6P/1PPQ2P1/R3R1K1 w - - 0 21",
+    "contextMoves": [
+      "Qf2",
+      "Qc7",
+      "Rac1",
+      "Rad8",
+      "Qxa7",
+      "d4",
+      "Red1",
+      "Nh5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0Aoti",
+    "gameUrl": "https://lichess.org/game/m3yE1glL/black#32",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "r3kb1r/p4p2/2n5/2p1pQ1p/3pP2q/3P3P/PPPB1P1P/R3K2R b KQkq - 0 16",
+    "moves": [
+      "Bg7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3k2r/p4pb1/2n5/2p1pQ1p/3pP2q/3P3P/PPPB1P1P/R3K2R w KQkq - 1 17",
+      "solution": [
+        "Bg5",
+        "Ne7",
+        "Bxh4",
+        "Nxf5",
+        "exf5"
+      ]
+    },
+    "contextFen": "r3kb1r/p4ppp/2n2q2/2p1p3/3pP3/3P3P/PPPBBP1P/R2QK2R b KQkq - 0 12",
+    "contextMoves": [
+      "Qh4",
+      "Bg4",
+      "h5",
+      "Bf5",
+      "g6",
+      "Qf3",
+      "gxf5",
+      "Qxf5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0Aqq3",
+    "gameUrl": "https://lichess.org/game/tftFOzxT/black#110",
+    "theme": "crushing, endgame, knightEndgame, master, short, trappedPiece",
+    "startFen": "6k1/6p1/p1pK4/P6P/1n6/8/2p5/2N5 b - - 3 55",
+    "moves": [
+      "c5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "6k1/6p1/p2K4/P1p4P/1n6/8/2p5/2N5 w - - 0 56",
+      "solution": [
+        "Kxc5",
+        "Kh7",
+        "Kxb4"
+      ]
+    },
+    "contextFen": "6k1/4n1p1/p1p1K3/P6P/2p1N3/8/8/8 b - - 6 51",
+    "contextMoves": [
+      "Nd5",
+      "Nc5",
+      "c3",
+      "Nd3",
+      "c2",
+      "Kd6",
+      "Nb4",
+      "Nc1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0At8b",
+    "gameUrl": "https://lichess.org/game/by8KOcwa/black#32",
+    "theme": "advantage, fork, long, middlegame, trappedPiece",
+    "startFen": "r3k1nr/p1p2ppp/b7/2p5/2P4b/1PN3N1/PBQP1KPP/q6R b kq - 5 16",
+    "moves": [
+      "Qxh1"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3k1nr/p1p2ppp/b7/2p5/2P4b/1PN3N1/PBQP1KPP/7q w kq - 0 17",
+      "solution": [
+        "Qe4+",
+        "Ne7",
+        "Qxh4",
+        "Rd8",
+        "Nxh1"
+      ]
+    },
+    "contextFen": "r1b1kbnr/p1p2ppp/8/2p1q3/8/1PP3N1/P2PNKPP/R1BQ3R b kq - 0 12",
+    "contextMoves": [
+      "Ba6",
+      "c4",
+      "Qxa1",
+      "Nc3",
+      "Be7",
+      "Qc2",
+      "Bh4",
+      "Bb2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0Awhu",
+    "gameUrl": "https://lichess.org/game/TBVNjc2r#79",
+    "theme": "crushing, endgame, long, master, quietMove, trappedPiece",
+    "startFen": "8/5p2/8/8/K2bk1P1/8/6N1/8 w - - 1 40",
+    "moves": [
+      "Kb3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "8/5p2/8/8/3bk1P1/1K6/6N1/8 b - - 2 40",
+      "solution": [
+        "Bf2",
+        "g5",
+        "Kf3",
+        "Kc4",
+        "Kxg2"
+      ]
+    },
+    "contextFen": "8/5p2/2k5/1p6/2pb2P1/P7/1PK3N1/8 w - - 0 36",
+    "contextMoves": [
+      "b3",
+      "Kd5",
+      "a4",
+      "cxb3+",
+      "Kxb3",
+      "bxa4+",
+      "Kxa4",
+      "Ke4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0AxI1",
+    "gameUrl": "https://lichess.org/game/DwskcJQd#35",
+    "theme": "advantage, hangingPiece, middlegame, short, trappedPiece",
+    "startFen": "2br1qk1/ppN1rpbp/2nN2p1/5p2/3P4/1PP3P1/P4PBP/R2Q1RK1 w - - 1 18",
+    "moves": [
+      "Nxc8"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "2Nr1qk1/ppN1rpbp/2n3p1/5p2/3P4/1PP3P1/P4PBP/R2Q1RK1 b - - 0 18",
+      "solution": [
+        "Rxc7",
+        "Nxa7",
+        "Nxa7"
+      ]
+    },
+    "contextFen": "r3r1k1/pp1bqpbp/2np2p1/5p2/3P1N2/1PP3P1/P2N1PBP/R2Q1RK1 w - - 2 14",
+    "contextMoves": [
+      "Nc4",
+      "Rad8",
+      "Nd5",
+      "Qf8",
+      "Nc7",
+      "Re7",
+      "Nxd6",
+      "Bc8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0AyuM",
+    "gameUrl": "https://lichess.org/game/hj7zzrAC#13",
+    "theme": "crushing, kingsideAttack, long, opening, sacrifice, trappedPiece",
+    "startFen": "r1bqk2r/ppp2ppp/2n5/2bpp3/6n1/3P1NP1/PPPNPPBP/R1BQ1RK1 w kq - 6 7",
+    "moves": [
+      "Ne1"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1bqk2r/ppp2ppp/2n5/2bpp3/6n1/3P2P1/PPPNPPBP/R1BQNRK1 b kq - 7 7",
+      "solution": [
+        "Bxf2+",
+        "Rxf2",
+        "Ne3",
+        "Nb3",
+        "Nxd1"
+      ]
+    },
+    "contextFen": "r1bqkbnr/ppp1pppp/2n5/3p4/8/3P1N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3",
+    "contextMoves": [
+      "g3",
+      "e5",
+      "Bg2",
+      "Bc5",
+      "O-O",
+      "Nf6",
+      "Nbd2",
+      "Ng4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0B08j",
+    "gameUrl": "https://lichess.org/game/UbU7tFXR/black#42",
+    "theme": "crushing, master, middlegame, short, trappedPiece",
+    "startFen": "r5k1/pp3pp1/1npN2rp/4P3/5P2/8/qPQ3PP/2R1R1K1 b - - 1 21",
+    "moves": [
+      "Nd5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r5k1/pp3pp1/2pN2rp/3nP3/5P2/8/qPQ3PP/2R1R1K1 w - - 2 22",
+      "solution": [
+        "Ra1",
+        "Qxa1",
+        "Rxa1"
+      ]
+    },
+    "contextFen": "r2q2k1/pp3ppp/1np1r3/4P3/8/5N2/PPQ2PPP/2R1R1K1 b - - 1 17",
+    "contextMoves": [
+      "Qd5",
+      "Ng5",
+      "Rg6",
+      "f4",
+      "h6",
+      "Ne4",
+      "Qxa2",
+      "Nd6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0B2wJ",
+    "gameUrl": "https://lichess.org/game/T9Ad5yaA#35",
+    "theme": "advantage, long, middlegame, trappedPiece",
+    "startFen": "r3k2r/pp1bq3/1bn2n1p/5pp1/5Q2/2NP1N2/PP1BBPPP/2R2RK1 w kq - 0 18",
+    "moves": [
+      "Qc4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3k2r/pp1bq3/1bn2n1p/5pp1/2Q5/2NP1N2/PP1BBPPP/2R2RK1 b kq - 1 18",
+      "solution": [
+        "Na5",
+        "Nd5",
+        "Nxc4",
+        "Nxe7",
+        "Nxd2"
+      ]
+    },
+    "contextFen": "r3k2r/pp2qpp1/1bn1b2p/3n4/4N3/3P1N2/PP1BBPPP/2RQK2R w Kkq - 5 14",
+    "contextMoves": [
+      "O-O",
+      "f5",
+      "Nc3",
+      "Nf6",
+      "Qa4",
+      "Bd7",
+      "Qf4",
+      "g5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0B3M3",
+    "gameUrl": "https://lichess.org/game/RAJQkIib#45",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "r3r1k1/p1p2pp1/1b5p/2pqP3/3pRPQ1/8/PPP2BPP/R5K1 w - - 1 23",
+    "moves": [
+      "Qe2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r3r1k1/p1p2pp1/1b5p/2pqP3/3pRP2/8/PPP1QBPP/R5K1 b - - 2 23",
+      "solution": [
+        "f5",
+        "Rxd4",
+        "cxd4"
+      ]
+    },
+    "contextFen": "r2q1rk1/p1p2pp1/1b5p/1bp1P1N1/3p1P2/8/PPPQ1BPP/R3R1K1 w - - 0 19",
+    "contextMoves": [
+      "Ne4",
+      "Bc6",
+      "Qd1",
+      "Re8",
+      "Qg4",
+      "Bxe4",
+      "Rxe4",
+      "Qd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0BCEU",
+    "gameUrl": "https://lichess.org/game/cmBY3X0W/black#32",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r3k2r/pppb1ppp/8/n2P4/2P2p2/2Q2N2/PP1Nq2P/R5KR b kq - 1 16",
+    "moves": [
+      "O-O"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r4rk1/pppb1ppp/8/n2P4/2P2p2/2Q2N2/PP1Nq2P/R5KR w - - 2 17",
+      "solution": [
+        "Re1",
+        "Qxe1+",
+        "Nxe1"
+      ]
+    },
+    "contextFen": "r2qk2r/pppb1ppp/8/n2P4/2P2p2/2Q1nN2/PP1N2PP/R3KB1R b KQkq - 2 12",
+    "contextMoves": [
+      "Qe7",
+      "Be2",
+      "Nxg2+",
+      "Kf2",
+      "Qe3+",
+      "Kxg2",
+      "Qxe2+",
+      "Kg1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0BCVb",
+    "gameUrl": "https://lichess.org/game/uDhkEWTY#53",
+    "theme": "advantage, fork, middlegame, trappedPiece, veryLong",
+    "startFen": "r4rk1/1p2bppp/p1b1p3/4P1P1/2PBR3/5N1q/P1B2P2/1R1Q2K1 w - - 1 27",
+    "moves": [
+      "Rf4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r4rk1/1p2bppp/p1b1p3/4P1P1/2PB1R2/5N1q/P1B2P2/1R1Q2K1 b - - 2 27",
+      "solution": [
+        "Bxg5",
+        "Re4",
+        "Bxe4",
+        "Bxe4",
+        "Qg4+",
+        "Kf1",
+        "Qxe4"
+      ]
+    },
+    "contextFen": "r1b2rk1/1p2bppp/pB2p3/2p1P2q/2PP4/5N1P/P1B2PP1/1R1QR1K1 w - - 1 23",
+    "contextMoves": [
+      "g4",
+      "Qxh3",
+      "Re4",
+      "cxd4",
+      "Bxd4",
+      "Bd7",
+      "g5",
+      "Bc6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0BEqK",
+    "gameUrl": "https://lichess.org/game/9B6YYiG5#95",
+    "theme": "crushing, endgame, long, rookEndgame, trappedPiece",
+    "startFen": "4r3/4P3/6R1/4k2p/4P1p1/6P1/6K1/8 w - - 0 48",
+    "moves": [
+      "Rg7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "4r3/4P1R1/8/4k2p/4P1p1/6P1/6K1/8 b - - 1 48",
+      "solution": [
+        "Kf6",
+        "Rh7",
+        "Kg6",
+        "Rxh5",
+        "Kxh5"
+      ]
+    },
+    "contextFen": "2r5/4P3/3p4/4k1pp/1R1NP3/6P1/6K1/8 w - - 1 44",
+    "contextMoves": [
+      "Rb7",
+      "Kxd4",
+      "Rd7",
+      "Re8",
+      "Rxd6+",
+      "Ke5",
+      "Rg6",
+      "g4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0BLCZ",
+    "gameUrl": "https://lichess.org/game/5rzWWixt#45",
+    "theme": "crushing, master, masterVsMaster, middlegame, short, superGM, trappedPiece",
+    "startFen": "1rr2bk1/5ppp/3p4/p2Q4/1q1B4/1P6/2P1RPPP/1K1R4 w - - 1 23",
+    "moves": [
+      "Re4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "1rr2bk1/5ppp/3p4/p2Q4/1q1BR3/1P6/2P2PPP/1K1R4 b - - 2 23",
+      "solution": [
+        "Rb5",
+        "Qxb5",
+        "Qxb5"
+      ]
+    },
+    "contextFen": "1rr2bk1/p1q2ppp/3p4/3p4/3B4/5Q2/PPP1RPPP/2KR4 w - - 6 19",
+    "contextMoves": [
+      "Kb1",
+      "a5",
+      "a4",
+      "Qc4",
+      "b3",
+      "Qxa4",
+      "Qxd5",
+      "Qb4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0BM1j",
+    "gameUrl": "https://lichess.org/game/DMFMjvN0#39",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "5rk1/pp3pp1/1pp4p/7q/4Pn1B/5P1P/P1P2P1K/1R1Q1R2 w - - 5 20",
+    "moves": [
+      "Kg3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "5rk1/pp3pp1/1pp4p/7q/4Pn1B/5PKP/P1P2P2/1R1Q1R2 b - - 6 20",
+      "solution": [
+        "g5",
+        "Kh2",
+        "Qxh4"
+      ]
+    },
+    "contextFen": "r4rk1/pp3pp1/1pp4p/7n/4P2B/2q2P1P/P1P2P2/R2Q1RK1 w - - 1 16",
+    "contextMoves": [
+      "Rb1",
+      "Rad8",
+      "Bxd8",
+      "Nf4",
+      "Kh2",
+      "Qe5",
+      "Bh4",
+      "Qh5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0BTgM",
+    "gameUrl": "https://lichess.org/game/pakwurhw/black#30",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r1bqr1k1/p2nbpp1/4p2p/3p3n/P1PPP3/1Np2NB1/2B1QPPP/R3K2R b KQ - 1 15",
+    "moves": [
+      "dxe4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1bqr1k1/p2nbpp1/4p2p/7n/P1PPp3/1Np2NB1/2B1QPPP/R3K2R w KQ - 0 16",
+      "solution": [
+        "Qxe4",
+        "Ndf6",
+        "Qxa8"
+      ]
+    },
+    "contextFen": "r1bq1rk1/pp1nbpp1/4p2p/3p3n/2pPP3/2P2NB1/PPBNQPPP/R3K2R b KQ - 2 11",
+    "contextMoves": [
+      "Re8",
+      "b3",
+      "b5",
+      "a4",
+      "b4",
+      "bxc4",
+      "bxc3",
+      "Nb3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0BZvN",
+    "gameUrl": "https://lichess.org/game/HROJyjlB#25",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "3r1rk1/ppp1b1pp/2n1b3/5p2/3P4/2PBB3/PP3PPP/RN3RK1 w - - 0 13",
+    "moves": [
+      "Nd2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "3r1rk1/ppp1b1pp/2n1b3/5p2/3P4/2PBB3/PP1N1PPP/R4RK1 b - - 1 13",
+      "solution": [
+        "f4",
+        "Bxf4",
+        "Rxf4"
+      ]
+    },
+    "contextFen": "r1b1k2r/ppp1bppp/2n5/8/3P4/8/PPP2PPP/RNB1KB1R w KQkq - 0 9",
+    "contextMoves": [
+      "c3",
+      "O-O",
+      "Bd3",
+      "Be6",
+      "O-O",
+      "Rad8",
+      "Be3",
+      "f5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0BiHv",
+    "gameUrl": "https://lichess.org/game/20nWaT07#21",
+    "theme": "advantage, opening, short, trappedPiece",
+    "startFen": "rn3rk1/pb1q1ppp/5n2/2bpp3/2P5/1Q1P1B2/PP2NPPP/RNB2RK1 w - - 3 11",
+    "moves": [
+      "Nbc3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "rn3rk1/pb1q1ppp/5n2/2bpp3/2P5/1QNP1B2/PP2NPPP/R1B2RK1 b - - 4 11",
+      "solution": [
+        "e4",
+        "Bxe4",
+        "dxe4"
+      ]
+    },
+    "contextFen": "rn1qk2r/pb1p1ppp/2p2n2/2b1p3/4P3/5B2/PPPPNPPP/RNBQ1RK1 w kq - 4 7",
+    "contextMoves": [
+      "d3",
+      "d5",
+      "exd5",
+      "cxd5",
+      "c4",
+      "O-O",
+      "Qb3",
+      "Qd7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0BieQ",
+    "gameUrl": "https://lichess.org/game/lFsoLJPp#65",
+    "theme": "clearance, crushing, long, master, middlegame, trappedPiece",
+    "startFen": "1r2r1k1/Q1p2p2/pp1p2p1/3Pn2p/1q2P2P/4R1P1/P1R2PK1/5B2 w - - 0 33",
+    "moves": [
+      "Rxc7"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "1r2r1k1/Q1R2p2/pp1p2p1/3Pn2p/1q2P2P/4R1P1/P4PK1/5B2 b - - 0 33",
+      "solution": [
+        "Ra8",
+        "Qb7",
+        "Reb8",
+        "Qc6",
+        "Nxc6"
+      ]
+    },
+    "contextFen": "1r2r1k1/Q1p2p2/pp1p2p1/3P3p/1PR1P1nP/6P1/P1R2PB1/q5K1 w - - 2 29",
+    "contextMoves": [
+      "Bf1",
+      "Ne5",
+      "R4c3",
+      "Qd1",
+      "Kg2",
+      "Qe1",
+      "Re3",
+      "Qxb4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0Bm7B",
+    "gameUrl": "https://lichess.org/game/4H9YHls7/black#42",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "r1b2rk1/pppp1ppp/8/4PR2/1PN5/2P2Q2/P4P1q/4RK2 b - - 0 21",
+    "moves": [
+      "d6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b2rk1/ppp2ppp/3p4/4PR2/1PN5/2P2Q2/P4P1q/4RK2 w - - 0 22",
+      "solution": [
+        "Rh5",
+        "Qxh5",
+        "Qxh5"
+      ]
+    },
+    "contextFen": "r1b1k2r/ppppnppp/4p2q/4P3/1PN5/2PB1Q2/P4P1P/4RKR1 b kq - 0 17",
+    "contextMoves": [
+      "O-O",
+      "Rg4",
+      "Nf5",
+      "Bxf5",
+      "exf5",
+      "Rf4",
+      "Qxh2",
+      "Rxf5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0Bnat",
+    "gameUrl": "https://lichess.org/game/05NF2rH2#53",
+    "theme": "advancedPawn, crushing, endgame, long, trappedPiece",
+    "startFen": "6k1/p7/1p1p3p/1p2p3/1P3rqp/2PPQbP1/P4PRK/R7 w - - 0 27",
+    "moves": [
+      "Rag1"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "6k1/p7/1p1p3p/1p2p3/1P3rqp/2PPQbP1/P4PRK/6R1 b - - 1 27",
+      "solution": [
+        "h3",
+        "gxf4",
+        "hxg2",
+        "Qxf3",
+        "Qxf3"
+      ]
+    },
+    "contextFen": "5rk1/p5p1/1p1p3p/1p2p2q/1P6/2PPQbP1/P4P1P/R4RK1 w - - 2 23",
+    "contextMoves": [
+      "h4",
+      "Qg4",
+      "Kh2",
+      "Rf4",
+      "Rg1",
+      "g5",
+      "Rg2",
+      "gxh4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0BoMj",
+    "gameUrl": "https://lichess.org/game/RklNiEyi/black#50",
+    "theme": "crushing, endgame, long, trappedPiece",
+    "startFen": "2k5/pppq4/2n3p1/2Qp2Np/3p3P/1P1P2P1/P1P3r1/2K4R b - - 1 25",
+    "moves": [
+      "b6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "2k5/p1pq4/1pn3p1/2Qp2Np/3p3P/1P1P2P1/P1P3r1/2K4R w - - 0 26",
+      "solution": [
+        "Qf8+",
+        "Kb7",
+        "Qf3",
+        "Rxc2+",
+        "Kxc2"
+      ]
+    },
+    "contextFen": "2k2r2/pppq4/2np2pb/6Np/Q2p3P/1P1P2P1/P1PN1R2/2K4R b - - 0 21",
+    "contextMoves": [
+      "Rxf2",
+      "Nde4",
+      "Rg2",
+      "Qc4",
+      "Bxg5+",
+      "Nxg5",
+      "d5",
+      "Qc5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0BrFI",
+    "gameUrl": "https://lichess.org/game/6LSvskbC/black#54",
+    "theme": "advantage, middlegame, trappedPiece, veryLong",
+    "startFen": "3rr1k1/pp3ppp/2p2p2/8/3P4/P3PBbP/1PQ1K1Pq/4RR2 b - - 15 27",
+    "moves": [
+      "Rxd4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "4r1k1/pp3ppp/2p2p2/8/3r4/P3PBbP/1PQ1K1Pq/4RR2 w - - 0 28",
+      "solution": [
+        "Rh1",
+        "Bxe1",
+        "Rxh2",
+        "Rd2+",
+        "Qxd2",
+        "Bxd2",
+        "Kxd2"
+      ]
+    },
+    "contextFen": "3rr1k1/pp2qppp/1bp2p2/8/3P4/P1Q1PB1P/1P4P1/4RR1K b - - 7 23",
+    "contextMoves": [
+      "Qd6",
+      "Qc2",
+      "Bc7",
+      "Kg1",
+      "Qh2+",
+      "Kf2",
+      "Bg3+",
+      "Ke2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0BwIq",
+    "gameUrl": "https://lichess.org/game/InbRqcvs#41",
+    "theme": "crushing, middlegame, short, trappedPiece",
+    "startFen": "r2r2k1/1pbq1pp1/p3p2p/P2pPn1Q/1P3P2/2N1P2R/3B2PP/R5K1 w - - 0 21",
+    "moves": [
+      "g4"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2r2k1/1pbq1pp1/p3p2p/P2pPn1Q/1P3PP1/2N1P2R/3B3P/R5K1 b - - 0 21",
+      "solution": [
+        "g6",
+        "Qxg6+",
+        "fxg6"
+      ]
+    },
+    "contextFen": "r3k2r/1pbqnppp/p3p3/P2pP3/1P6/2N1P3/3B1PPP/R2Q1RK1 w kq - 1 17",
+    "contextMoves": [
+      "f4",
+      "O-O",
+      "Rf3",
+      "Nf5",
+      "Rh3",
+      "Rfd8",
+      "Qh5",
+      "h6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0Bwxu",
+    "gameUrl": "https://lichess.org/game/XKvnNqrK/black#30",
+    "theme": "crushing, kingsideAttack, long, middlegame, pin, trappedPiece",
+    "startFen": "r2qr1k1/pp1n1ppp/3p1b2/2pN1P2/8/3P1RQ1/PPP3PP/R1B4K b - - 4 15",
+    "moves": [
+      "Ne5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2qr1k1/pp3ppp/3p1b2/2pNnP2/8/3P1RQ1/PPP3PP/R1B4K w - - 5 16",
+      "solution": [
+        "Nxf6+",
+        "Qxf6",
+        "Bg5",
+        "Qxg5",
+        "Qxg5"
+      ]
+    },
+    "contextFen": "r2q1rk1/pp1Bbppp/3ppn2/2p5/4PP2/2NP1R2/PPP3PP/R1B1Q2K b - - 0 11",
+    "contextMoves": [
+      "Nxd7",
+      "f5",
+      "exf5",
+      "exf5",
+      "Bf6",
+      "Nd5",
+      "Re8",
+      "Qg3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0C26O",
+    "gameUrl": "https://lichess.org/game/tjfxHM5P#57",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "5rk1/p1rn1pp1/Qp1Np2q/2p1P1p1/P2P1P2/2P3P1/7P/1RR3K1 w - - 0 29",
+    "moves": [
+      "Nb5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "5rk1/p1rn1pp1/Qp2p2q/1Np1P1p1/P2P1P2/2P3P1/7P/1RR3K1 b - - 1 29",
+      "solution": [
+        "Nb8",
+        "Qxb6",
+        "axb6"
+      ]
+    },
+    "contextFen": "5rk1/p1rn1pp1/1ppNp1p1/4P3/P2P1Pq1/1QP3P1/7P/1R2R1K1 w - - 3 25",
+    "contextMoves": [
+      "Qd1",
+      "Qh3",
+      "Qe2",
+      "c5",
+      "Rec1",
+      "Qh6",
+      "Qa6",
+      "g5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0CAq9",
+    "gameUrl": "https://lichess.org/game/5fwAX9OJ/black#24",
+    "theme": "advantage, middlegame, quietMove, trappedPiece, veryLong",
+    "startFen": "r1b2rk1/ppp2ppp/2n5/8/2P5/2N1PNKP/PPq3P1/R1B2B1R b - - 0 12",
+    "moves": [
+      "Be6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r4rk1/ppp2ppp/2n1b3/8/2P5/2N1PNKP/PPq3P1/R1B2B1R w - - 1 13",
+      "solution": [
+        "e4",
+        "f5",
+        "Be2",
+        "fxe4",
+        "Ne1",
+        "Qxe2",
+        "Nxe2",
+        "Bxc4",
+        "Nc3"
+      ]
+    },
+    "contextFen": "r1bq1rk1/ppp2ppp/2nb4/8/2P3n1/5N1P/PP2PPP1/RNBQKB1R b KQ - 2 8",
+    "contextMoves": [
+      "Nxf2",
+      "Kxf2",
+      "Bg3+",
+      "Kxg3",
+      "Qxd1",
+      "Nc3",
+      "Qc2",
+      "e3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0CKgM",
+    "gameUrl": "https://lichess.org/game/cRTmLlXh#25",
+    "theme": "advantage, opening, short, trappedPiece",
+    "startFen": "r2qr1k1/pb1pbppp/2p5/1p6/3QP1n1/1BPP4/PP3PPP/RNB2RK1 w - - 1 13",
+    "moves": [
+      "f3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r2qr1k1/pb1pbppp/2p5/1p6/3QP1n1/1BPP1P2/PP4PP/RNB2RK1 b - - 0 13",
+      "solution": [
+        "c5",
+        "fxg4",
+        "cxd4"
+      ]
+    },
+    "contextFen": "r1bq1rk1/pp1pbppp/2p2n2/1B6/3QP3/8/PPPP1PPP/RNB2RK1 w - - 0 9",
+    "contextMoves": [
+      "Ba4",
+      "b5",
+      "Bb3",
+      "Re8",
+      "d3",
+      "Bb7",
+      "c3",
+      "Ng4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0COOC",
+    "gameUrl": "https://lichess.org/game/woaBfBQR#29",
+    "theme": "advantage, master, middlegame, short, trappedPiece",
+    "startFen": "1r3rk1/pbQnqpbp/1p1p2p1/5P2/3Pn3/1N1B1N2/PP4PP/R1B2RK1 w - - 1 15",
+    "moves": [
+      "fxg6"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "1r3rk1/pbQnqpbp/1p1p2P1/8/3Pn3/1N1B1N2/PP4PP/R1B2RK1 b - - 0 15",
+      "solution": [
+        "Rfc8",
+        "Qxb7",
+        "Rxb7"
+      ]
+    },
+    "contextFen": "r3k2r/pbpnqpbp/1p1p1np1/4p3/3PPP2/1NPB1N2/PP4PP/R1BQ1RK1 w kq - 2 11",
+    "contextMoves": [
+      "Qc2",
+      "exd4",
+      "cxd4",
+      "Nxe4",
+      "Qxc7",
+      "Rb8",
+      "f5",
+      "O-O"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0COYv",
+    "gameUrl": "https://lichess.org/game/CtG3Y5gx#53",
+    "theme": "advantage, endgame, hangingPiece, short, trappedPiece",
+    "startFen": "6k1/4n1pN/4pp2/p2p4/P2P4/4P3/2r1nPPP/R3R1K1 w - - 0 27",
+    "moves": [
+      "Rxe2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "6k1/4n1pN/4pp2/p2p4/P2P4/4P3/2r1RPPP/R5K1 b - - 0 27",
+      "solution": [
+        "Rxe2",
+        "Nxf6+",
+        "gxf6"
+      ]
+    },
+    "contextFen": "1r3rk1/4n1pp/1P2pp2/p2p4/P2P4/2nNP3/2P1BPPP/R3R1K1 w - - 3 23",
+    "contextMoves": [
+      "Nc5",
+      "Rxb6",
+      "Nd7",
+      "Rb2",
+      "Nxf8",
+      "Rxc2",
+      "Nxh7",
+      "Nxe2+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0COuY",
+    "gameUrl": "https://lichess.org/game/pUf0YYOT#35",
+    "theme": "advantage, fork, middlegame, trappedPiece, veryLong",
+    "startFen": "r1b2qk1/pp4p1/7p/3pnp2/3Np2Q/P1P5/1PP2PPP/2KR3R w - - 4 18",
+    "moves": [
+      "Qg3"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "r1b2qk1/pp4p1/7p/3pnp2/3Np3/P1P3Q1/1PP2PPP/2KR3R b - - 5 18",
+      "solution": [
+        "f4",
+        "Qh4",
+        "g5",
+        "Qh5",
+        "Bg4",
+        "Qxg4",
+        "Nxg4"
+      ]
+    },
+    "contextFen": "rnb1qrk1/pp2B1p1/2p4p/3p1p2/2B1p2Q/P1P2N2/1PP2PPP/R3K2R w KQ - 0 14",
+    "contextMoves": [
+      "Bxf8",
+      "Qxf8",
+      "Bxd5+",
+      "cxd5",
+      "Nd4",
+      "Nd7",
+      "O-O-O",
+      "Ne5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0CPBc",
+    "gameUrl": "https://lichess.org/game/H044s1WS#59",
+    "theme": "crushing, endgame, master, short, trappedPiece",
+    "startFen": "4r1k1/p4p1p/5p2/1p1p4/1Pr2nPP/P4P2/3Q4/3R3K w - - 1 30",
+    "moves": [
+      "h5"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "4r1k1/p4p1p/5p2/1p1p3P/1Pr2nP1/P4P2/3Q4/3R3K b - - 0 30",
+      "solution": [
+        "Re2",
+        "Qxe2",
+        "Nxe2"
+      ]
+    },
+    "contextFen": "2r2rk1/p4ppp/3p1b2/1p6/1P3nP1/P4P2/pB3Q1P/3R3K w - - 0 26",
+    "contextMoves": [
+      "Bxf6",
+      "gxf6",
+      "Qxa2",
+      "d5",
+      "Qd2",
+      "Rc4",
+      "h4",
+      "Re8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0CPLS",
+    "gameUrl": "https://lichess.org/game/NgJ7NzNg/black#22",
+    "theme": "advantage, middlegame, short, trappedPiece",
+    "startFen": "2kr1b1r/ppp2pp1/2n1b3/3qp1Np/3P4/2P1B2P/PP2BPP1/R2QK2R b KQ - 2 11",
+    "moves": [
+      "Qxg2"
+    ],
+    "puzzle": {
+      "prompt": "Win the trapped piece.",
+      "fen": "2kr1b1r/ppp2pp1/2n1b3/4p1Np/3P4/2P1B2P/PP2BPq1/R2QK2R w KQ - 0 12",
+      "solution": [
+        "Bf3",
+        "Qxg5",
+        "Bxg5"
+      ]
+    },
+    "contextFen": "r3kb1r/ppp1pppp/2n5/3q4/3P2b1/5N2/PPP1BPPP/R1BQK2R b KQkq - 4 7",
+    "contextMoves": [
+      "O-O-O",
+      "c3",
+      "e5",
+      "Be3",
+      "h5",
+      "h3",
+      "Be6",
+      "Ng5"
+    ]
+  }
+]
