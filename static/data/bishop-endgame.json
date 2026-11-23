@@ -1,0 +1,6116 @@
+[
+  {
+    "site": "https://lichess.org/training/001cr",
+    "gameUrl": "https://lichess.org/game/7FFNwibw/black#76",
+    "theme": "bishopEndgame, endgame, mate, mateIn1, oneMove",
+    "startFen": "8/3B2pp/p5k1/2p3P1/1p1p1K2/8/1P6/8 b - - 0 38",
+    "moves": [
+      "c4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/3B2pp/p5k1/6P1/1ppp1K2/8/1P6/8 w - - 0 39",
+      "solution": [
+        "Be8#"
+      ]
+    },
+    "contextFen": "8/6pp/p2p2k1/3P1bP1/1pPp1KB1/3P4/1P6/8 b - - 4 34",
+    "contextMoves": [
+      "Bxd3",
+      "c5",
+      "dxc5",
+      "d6",
+      "Bb5",
+      "d7",
+      "Bxd7",
+      "Bxd7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/004b0",
+    "gameUrl": "https://lichess.org/game/CJKIi1QJ#95",
+    "theme": "advancedPawn, bishopEndgame, crushing, deflection, endgame, promotion, quietMove, veryLong",
+    "startFen": "5kB1/4b3/4P3/2p2P2/2b5/8/p7/B6K w - - 4 48",
+    "moves": [
+      "Bf7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5k2/4bB2/4P3/2p2P2/2b5/8/p7/B6K b - - 5 48",
+      "solution": [
+        "Bg5",
+        "f6",
+        "Be3",
+        "Be5",
+        "Bf4",
+        "Bxf4",
+        "a1=Q+"
+      ]
+    },
+    "contextFen": "4k3/4b2B/2p1P3/1b6/3B1p2/p5P1/8/7K w - - 0 44",
+    "contextMoves": [
+      "gxf4",
+      "a2",
+      "f5",
+      "c5",
+      "Ba1",
+      "Bc4",
+      "Bg8",
+      "Kf8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00A5m",
+    "gameUrl": "https://lichess.org/game/Y4Ftfosz/black#120",
+    "theme": "bishopEndgame, crushing, endgame, quietMove, veryLong",
+    "startFen": "8/1p6/p1p2p2/P3b3/1PK3P1/2PBk3/8/8 b - - 3 60",
+    "moves": [
+      "Kd2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1p6/p1p2p2/P3b3/1PK3P1/2PB4/3k4/8 w - - 4 61",
+      "solution": [
+        "Bf5",
+        "Bc7",
+        "Bc8",
+        "b6",
+        "axb6",
+        "Bxb6",
+        "Bxa6"
+      ]
+    },
+    "contextFen": "8/1p6/p1pbpp2/P5k1/1P1P2P1/2PK1B2/8/8 b - - 1 56",
+    "contextMoves": [
+      "Kf4",
+      "Be2",
+      "e5",
+      "dxe5",
+      "Bxe5",
+      "Kc4",
+      "Ke3",
+      "Bd3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Af3",
+    "gameUrl": "https://lichess.org/game/JBQDYKyD/black#100",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, short",
+    "startFen": "8/8/2B2p1p/P4Pp1/3p1kP1/1b1Pb2P/8/4K3 b - - 0 50",
+    "moves": [
+      "Kg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/2B2p1p/P4Pp1/3p2P1/1b1Pb1kP/8/4K3 w - - 1 51",
+      "solution": [
+        "a6",
+        "Bc4",
+        "a7"
+      ]
+    },
+    "contextFen": "8/8/2B2p1p/5Pp1/Pb1p1kP1/3P3P/5K2/3b4 b - - 7 46",
+    "contextMoves": [
+      "Ba5",
+      "Bd7",
+      "Bd2",
+      "Bc6",
+      "Be3+",
+      "Ke1",
+      "Bb3",
+      "a5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00DZe",
+    "gameUrl": "https://lichess.org/game/MVHl8Zy9#93",
+    "theme": "bishopEndgame, crushing, deflection, endgame, long, master, skewer",
+    "startFen": "8/5k2/7p/p1P1bPpP/Pp2P3/1P1pBK2/8/8 w - - 1 47",
+    "moves": [
+      "Bf2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5k2/7p/p1P1bPpP/Pp2P3/1P1p1K2/5B2/8 b - - 2 47",
+      "solution": [
+        "g4+",
+        "Ke3",
+        "Bd4+",
+        "Kxd3",
+        "Bxf2"
+      ]
+    },
+    "contextFen": "6k1/6b1/7p/p4PpP/PpPpp3/1P1P2K1/8/2B5 w - - 0 43",
+    "contextMoves": [
+      "dxe4",
+      "d3",
+      "Kf3",
+      "Bd4",
+      "Be3",
+      "Be5",
+      "c5",
+      "Kf7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00DzI",
+    "gameUrl": "https://lichess.org/game/5cjWO8nE#83",
+    "theme": "bishopEndgame, crushing, endgame, long",
+    "startFen": "8/2p5/2P2k1p/2pKp3/3p2P1/3B1p2/7P/8 w - - 0 42",
+    "moves": [
+      "Kxc5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2p5/2P2k1p/2K1p3/3p2P1/3B1p2/7P/8 b - - 0 42",
+      "solution": [
+        "Kg5",
+        "Kd5",
+        "Kf4",
+        "h4",
+        "Ke3"
+      ]
+    },
+    "contextFen": "8/2p5/1pP2k1p/1B1Kp1p1/2Pp2P1/5r2/7P/3R4 w - - 0 38",
+    "contextMoves": [
+      "c5",
+      "bxc5",
+      "Rf1",
+      "Rf4",
+      "Rxf4+",
+      "gxf4",
+      "Bd3",
+      "f3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00FOM",
+    "gameUrl": "https://lichess.org/game/9wp9pR0Q/black#90",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, short",
+    "startFen": "8/5k2/8/3pPPB1/1p4K1/1b6/8/8 b - - 0 45",
+    "moves": [
+      "Bd1+"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5k2/8/3pPPB1/1p4K1/8/8/3b4 w - - 1 46",
+      "solution": [
+        "Kh4",
+        "Ba4",
+        "e6+"
+      ]
+    },
+    "contextFen": "8/4bkp1/8/3pPP2/1p3K2/1P2B3/2bN4/8 b - - 2 41",
+    "contextMoves": [
+      "g5+",
+      "Kg4",
+      "Bd1+",
+      "Nf3",
+      "Bxb3",
+      "Nxg5+",
+      "Bxg5",
+      "Bxg5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Gvr",
+    "gameUrl": "https://lichess.org/game/tHhRpYsL/black#92",
+    "theme": "advantage, bishopEndgame, defensiveMove, endgame, master, short",
+    "startFen": "8/1b3pp1/1k4Pp/4K2P/4PP2/8/8/8 b - - 0 46",
+    "moves": [
+      "f6+"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1b4p1/1k3pPp/4K2P/4PP2/8/8/8 w - - 0 47",
+      "solution": [
+        "Ke6",
+        "Bxe4",
+        "Kf7"
+      ]
+    },
+    "contextFen": "8/1bk2ppp/2N5/2P1K3/4P1PP/5P2/8/8 b - - 0 42",
+    "contextMoves": [
+      "Kxc6",
+      "h5",
+      "h6",
+      "f4",
+      "Kxc5",
+      "g5",
+      "Kb6",
+      "g6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00ME0",
+    "gameUrl": "https://lichess.org/game/Z2H5mRQg/black#70",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/1p6/p1b5/5k1p/1PB1p2P/P3P1K1/8/8 b - - 2 35",
+    "moves": [
+      "Ke5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1p6/p1b5/4k2p/1PB1p2P/P3P1K1/8/8 w - - 3 36",
+      "solution": [
+        "Bf7",
+        "Bd7",
+        "Bxh5"
+      ]
+    },
+    "contextFen": "8/1p4pp/p1b2k2/8/1PB1p3/P3P1P1/5K1P/8 b - - 0 31",
+    "contextMoves": [
+      "h5",
+      "h4",
+      "g5",
+      "Kg2",
+      "gxh4",
+      "gxh4",
+      "Kf5",
+      "Kg3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00OQt",
+    "gameUrl": "https://lichess.org/game/vZaFj9IE#99",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, long",
+    "startFen": "8/8/8/p3b3/P1B2pKp/1Pk1p2P/6P1/8 w - - 8 50",
+    "moves": [
+      "Kxh4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/p3b3/P1B2p1K/1Pk1p2P/6P1/8 b - - 0 50",
+      "solution": [
+        "Kd2",
+        "Kg4",
+        "e2",
+        "Bxe2",
+        "Kxe2"
+      ]
+    },
+    "contextFen": "8/8/8/p1b2B2/P4p1p/1Pk1p2P/4K1P1/8 w - - 0 46",
+    "contextMoves": [
+      "Be6",
+      "Bd4",
+      "Bc4",
+      "Kb4",
+      "Kf3",
+      "Be5",
+      "Kg4",
+      "Kc3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00PvP",
+    "gameUrl": "https://lichess.org/game/M7zTwdgr/black#102",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, long",
+    "startFen": "8/6B1/7p/1p4p1/1Pp3P1/5P1k/4K2b/8 b - - 18 51",
+    "moves": [
+      "h5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6B1/8/1p4pp/1Pp3P1/5P1k/4K2b/8 w - - 0 52",
+      "solution": [
+        "gxh5",
+        "Kh4",
+        "h6",
+        "Kh5",
+        "h7"
+      ]
+    },
+    "contextFen": "8/8/7p/1p4p1/1Ppb2P1/5Pk1/3BK3/8 b - - 10 47",
+    "contextMoves": [
+      "Kh4",
+      "Be1+",
+      "Kh3",
+      "Bd2",
+      "Bg1",
+      "Bc3",
+      "Bh2",
+      "Bg7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00WNb",
+    "gameUrl": "https://lichess.org/game/y1pq4fXt/black#110",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, master, short",
+    "startFen": "8/8/1KpB4/Pb6/1P5p/5k2/8/8 b - - 3 55",
+    "moves": [
+      "Kg2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1KpB4/Pb6/1P5p/8/6k1/8 w - - 4 56",
+      "solution": [
+        "a6",
+        "Kf3",
+        "a7"
+      ]
+    },
+    "contextFen": "8/4B3/2p5/Pb3kpp/1P1K4/6P1/8/8 b - - 3 51",
+    "contextMoves": [
+      "Kg4",
+      "Bd6",
+      "h4",
+      "gxh4",
+      "gxh4",
+      "Kc5",
+      "Kf3",
+      "Kb6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00WzB",
+    "gameUrl": "https://lichess.org/game/VEqrGfJg#91",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, promotion, quietMove, veryLong",
+    "startFen": "8/8/8/P1K1p3/5k1p/5b1B/5P2/8 w - - 3 46",
+    "moves": [
+      "Bf1"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/P1K1p3/5k1p/5b2/5P2/5B2 b - - 4 46",
+      "solution": [
+        "Ba8",
+        "Kd6",
+        "e4",
+        "Bg2",
+        "Kg4",
+        "a6",
+        "h3",
+        "Bh1",
+        "e3",
+        "Bxa8",
+        "exf2",
+        "Bf3+",
+        "Kg3",
+        "a7",
+        "f1=Q",
+        "a8=Q",
+        "Qxf3"
+      ]
+    },
+    "contextFen": "2B5/8/5k2/2K1p1pp/P7/5bp1/5P1P/8 w - - 0 42",
+    "contextMoves": [
+      "hxg3",
+      "h4",
+      "gxh4",
+      "gxh4",
+      "a5",
+      "Kg5",
+      "Bh3",
+      "Kf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00g9R",
+    "gameUrl": "https://lichess.org/game/dGdDx4Ku/black#84",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, master, short",
+    "startFen": "8/p4k2/2p3PP/2P2K2/8/2b5/P7/8 b - - 0 42",
+    "moves": [
+      "Kg8"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6k1/p7/2p3PP/2P2K2/8/2b5/P7/8 w - - 1 43",
+      "solution": [
+        "Ke6",
+        "Bd2",
+        "h7+"
+      ]
+    },
+    "contextFen": "4r3/p1pk4/4R3/2PP2PP/4K3/2b5/P7/8 b - - 0 38",
+    "contextMoves": [
+      "Rxe6+",
+      "dxe6+",
+      "Kxe6",
+      "h6",
+      "Kf7",
+      "Kf5",
+      "c6",
+      "g6+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00jIG",
+    "gameUrl": "https://lichess.org/game/810w8Q0F#93",
+    "theme": "bishopEndgame, crushing, endgame, long",
+    "startFen": "8/2p5/2B2k2/pp6/2bP1K2/P1P5/1P5p/8 w - - 0 47",
+    "moves": [
+      "Be4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2p5/5k2/pp6/2bPBK2/P1P5/1P5p/8 b - - 1 47",
+      "solution": [
+        "Ke6",
+        "Kg3",
+        "Bd5",
+        "Kxh2",
+        "Bxe4"
+      ]
+    },
+    "contextFen": "4B3/2p5/5k2/pp4pp/2bP1K2/P1P3P1/1P6/8 w - - 0 43",
+    "contextMoves": [
+      "Ke4",
+      "h4",
+      "gxh4",
+      "gxh4",
+      "Kf4",
+      "h3",
+      "Bc6",
+      "h2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00jmD",
+    "gameUrl": "https://lichess.org/game/KmRwxrg3/black#82",
+    "theme": "bishopEndgame, crushing, endgame, quietMove, veryLong",
+    "startFen": "8/1pp5/8/PP4p1/3k1pP1/8/1bbBB3/5K2 b - - 2 41",
+    "moves": [
+      "Bd3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1pp5/8/PP4p1/3k1pP1/3b4/1b1BB3/5K2 w - - 3 42",
+      "solution": [
+        "Bxd3",
+        "Kxd3",
+        "Be1",
+        "Kc4",
+        "a6",
+        "bxa6",
+        "bxa6",
+        "Bd4",
+        "Bf2"
+      ]
+    },
+    "contextFen": "8/1pp5/p3k3/1P4p1/P1P1bpP1/8/1b1BB3/5K2 b - - 0 37",
+    "contextMoves": [
+      "axb5",
+      "cxb5",
+      "Bc2",
+      "Bc4+",
+      "Ke5",
+      "a5",
+      "Kd4",
+      "Be2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00lRC",
+    "gameUrl": "https://lichess.org/game/TLhjLF8g/black#72",
+    "theme": "bishopEndgame, crushing, endgame, quietMove, short",
+    "startFen": "8/3k1p1p/8/3Pp3/4K3/3P2P1/1pB4P/b7 b - - 1 36",
+    "moves": [
+      "Kd6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5p1p/3k4/3Pp3/4K3/3P2P1/1pB4P/b7 w - - 2 37",
+      "solution": [
+        "Bb1",
+        "f5+",
+        "Kxf5"
+      ]
+    },
+    "contextFen": "r7/3k1p1p/8/3Pp3/1p2K3/2bP2P1/4B2P/rR5R b - - 7 32",
+    "contextMoves": [
+      "b3",
+      "Rxa1",
+      "Rxa1",
+      "Rxa1",
+      "Bxa1",
+      "Bd1",
+      "b2",
+      "Bc2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00lUJ",
+    "gameUrl": "https://lichess.org/game/1ROfM0IO/black#68",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/4k3/5pK1/1p2p2P/2p2b2/5P2/1PB5/8 b - - 3 34",
+    "moves": [
+      "Ke6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/4kpK1/1p2p2P/2p2b2/5P2/1PB5/8 w - - 4 35",
+      "solution": [
+        "h6",
+        "Bxh6",
+        "Kxh6"
+      ]
+    },
+    "contextFen": "8/p7/3k1p2/1pp1p2P/P4b2/3K1P2/1PB5/8 b - - 0 30",
+    "contextMoves": [
+      "a6",
+      "axb5",
+      "axb5",
+      "Ke4",
+      "c4",
+      "Kf5",
+      "Ke7",
+      "Kg6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00sQw",
+    "gameUrl": "https://lichess.org/game/b3xSt9cD#79",
+    "theme": "bishopEndgame, crushing, endgame, long",
+    "startFen": "8/8/2bk4/p3pB2/5P1p/P2KP3/8/8 w - - 1 40",
+    "moves": [
+      "Kc4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/2bk4/p3pB2/2K2P1p/P3P3/8/8 b - - 2 40",
+      "solution": [
+        "exf4",
+        "exf4",
+        "Bd7",
+        "Bxd7",
+        "Kxd7"
+      ]
+    },
+    "contextFen": "8/8/8/p1k1p1pp/b7/P1KBPPP1/8/8 w - - 0 36",
+    "contextMoves": [
+      "Bf5",
+      "h4",
+      "gxh4",
+      "gxh4",
+      "Kd3",
+      "Bc6",
+      "f4",
+      "Kd6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00ziz",
+    "gameUrl": "https://lichess.org/game/wdStyvNQ/black#90",
+    "theme": "bishopEndgame, crushing, deflection, endgame, short",
+    "startFen": "8/p1p2k1p/Pp5P/1PPP1K2/3P4/8/8/2b5 b - - 0 45",
+    "moves": [
+      "Bxh6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p1p2k1p/Pp5b/1PPP1K2/3P4/8/8/8 w - - 0 46",
+      "solution": [
+        "d6",
+        "cxd6",
+        "cxb6"
+      ]
+    },
+    "contextFen": "8/p1p1bk1p/Pp3p1P/1P1P1K2/2PP2P1/8/8/8 b - - 0 41",
+    "contextMoves": [
+      "Bf8",
+      "g5",
+      "fxg5",
+      "Kxg5",
+      "Ba3",
+      "Kf5",
+      "Bc1",
+      "c5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/014OS",
+    "gameUrl": "https://lichess.org/game/iqvWcZe5#73",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/p7/1b6/1Kp5/2P2pk1/1P6/5P1B/8 w - - 0 37",
+    "moves": [
+      "f3+"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p7/1b6/1Kp5/2P2pk1/1P3P2/7B/8 b - - 0 37",
+      "solution": [
+        "Kxf3",
+        "b4",
+        "cxb4"
+      ]
+    },
+    "contextFen": "8/p7/1b2k3/1Kp1p1p1/2P2p2/1P3PB1/5PP1/8 w - - 0 33",
+    "contextMoves": [
+      "Bh2",
+      "Kf5",
+      "g3",
+      "g4",
+      "fxg4+",
+      "Kxg4",
+      "gxf4",
+      "exf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/015nZ",
+    "gameUrl": "https://lichess.org/game/ZxuVCrK6/black#84",
+    "theme": "bishopEndgame, crushing, endgame, long",
+    "startFen": "8/8/1k4p1/1P2Bp1p/2K5/7P/5bP1/8 b - - 1 42",
+    "moves": [
+      "Be3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1k4p1/1P2Bp1p/2K5/4b2P/6P1/8 w - - 2 43",
+      "solution": [
+        "Bd4+",
+        "Bxd4",
+        "Kxd4",
+        "g5",
+        "Ke5"
+      ]
+    },
+    "contextFen": "8/1k3p1p/1b4p1/1P1K4/5B2/7P/6P1/8 b - - 5 38",
+    "contextMoves": [
+      "Bf2",
+      "Bd6",
+      "Kb6",
+      "Kc4",
+      "f5",
+      "Bf4",
+      "h5",
+      "Be5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/018Iz",
+    "gameUrl": "https://lichess.org/game/51AxZaDj/black#102",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, long, promotion",
+    "startFen": "8/3P4/8/1kP2pbP/8/5K2/8/8 b - - 0 51",
+    "moves": [
+      "Kxc5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/3P4/8/2k2pbP/8/5K2/8/8 w - - 0 52",
+      "solution": [
+        "h6",
+        "Kc6",
+        "h7",
+        "Kxd7",
+        "h8=Q"
+      ]
+    },
+    "contextFen": "8/8/1k5b/5p1P/P1PP4/5K2/8/8 b - - 0 47",
+    "contextMoves": [
+      "Ka5",
+      "c5",
+      "Bg5",
+      "d5",
+      "Kxa4",
+      "d6",
+      "Kb5",
+      "d7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Amj",
+    "gameUrl": "https://lichess.org/game/iXkrIxi8#107",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, long",
+    "startFen": "8/8/8/2p1K3/p7/Bk6/8/8 w - - 1 54",
+    "moves": [
+      "Bc1"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/2p1K3/p7/1k6/8/2B5 b - - 2 54",
+      "solution": [
+        "a3",
+        "Bxa3",
+        "Kxa3",
+        "Kd5",
+        "Kb4"
+      ]
+    },
+    "contextFen": "8/8/8/1kp1p3/p7/P1K5/7r/2B5 w - - 6 50",
+    "contextMoves": [
+      "Kd3",
+      "Rh3+",
+      "Ke4",
+      "Rxa3",
+      "Bxa3",
+      "Kc4",
+      "Kxe5",
+      "Kb3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01DKG",
+    "gameUrl": "https://lichess.org/game/tbE3egW7#89",
+    "theme": "bishopEndgame, crushing, endgame, master, short",
+    "startFen": "8/7p/p7/P1K2p1k/3B1P2/6P1/p3b2P/8 w - - 6 45",
+    "moves": [
+      "Kb4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/7p/p7/P4p1k/1K1B1P2/6P1/p3b2P/8 b - - 7 45",
+      "solution": [
+        "Kg4",
+        "Ka3",
+        "Kh3"
+      ]
+    },
+    "contextFen": "8/7p/p3b1k1/P4p2/3B1P2/p1K3P1/7P/8 w - - 3 41",
+    "contextMoves": [
+      "Kb4",
+      "a2",
+      "Kc5",
+      "Kh5",
+      "Kb6",
+      "Bc4",
+      "Kc5",
+      "Be2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01G5k",
+    "gameUrl": "https://lichess.org/game/1wwwMKcH/black#98",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, quietMove, trappedPiece, veryLong, zugzwang",
+    "startFen": "8/b6p/P1K2k2/2p3p1/6P1/8/1P3P2/8 b - - 1 49",
+    "moves": [
+      "Ke5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/b6p/P1K5/2p1k1p1/6P1/8/1P3P2/8 w - - 2 50",
+      "solution": [
+        "Kb7",
+        "Kd6",
+        "Kxa7",
+        "Kc7",
+        "b3",
+        "h6",
+        "f3"
+      ]
+    },
+    "contextFen": "1b4k1/6pp/P7/2p5/6P1/8/1P1K1P2/8 b - - 0 45",
+    "contextMoves": [
+      "Kf7",
+      "Kc3",
+      "Kf6",
+      "Kc4",
+      "Ba7",
+      "Kb5",
+      "g5",
+      "Kc6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Npb",
+    "gameUrl": "https://lichess.org/game/Q1lmmoFb#81",
+    "theme": "bishopEndgame, crushing, deflection, endgame, long",
+    "startFen": "8/8/2p3p1/2P2p1b/3Bk2K/4P3/7P/8 w - - 15 41",
+    "moves": [
+      "Kg5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/2p3p1/2P2pKb/3Bk3/4P3/7P/8 b - - 16 41",
+      "solution": [
+        "f4",
+        "exf4",
+        "Kxd4",
+        "f5",
+        "gxf5"
+      ]
+    },
+    "contextFen": "8/4B3/2p3p1/2P2p2/4k3/4Pb2/5K1P/8 w - - 7 37",
+    "contextMoves": [
+      "Bf6",
+      "Bd1",
+      "Bd4",
+      "Bh5",
+      "Kg3",
+      "Bf3",
+      "Kh4",
+      "Bh5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01RDK",
+    "gameUrl": "https://lichess.org/game/MI4or8AD#97",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, exposedKing, promotion, veryLong",
+    "startFen": "8/p1B2p2/8/PP6/5P2/3ppk2/8/4K3 w - - 1 49",
+    "moves": [
+      "Be5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p4p2/8/PP2B3/5P2/3ppk2/8/4K3 b - - 2 49",
+      "solution": [
+        "d2+",
+        "Kd1",
+        "e2+",
+        "Kxd2",
+        "Kf2",
+        "Bd4+",
+        "Kf1",
+        "Kd3",
+        "e1=Q"
+      ]
+    },
+    "contextFen": "8/p1p2p2/8/PP1pBk2/5P2/4p3/8/7K w - - 0 45",
+    "contextMoves": [
+      "Kg2",
+      "Ke4",
+      "Kf1",
+      "d4",
+      "Ke1",
+      "d3",
+      "Bxc7",
+      "Kf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01RWL",
+    "gameUrl": "https://lichess.org/game/mp7s11NO#91",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, long, promotion",
+    "startFen": "8/1B1K4/p4k2/8/1P4p1/5p2/P7/8 w - - 0 46",
+    "moves": [
+      "Bxa6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/3K4/B4k2/8/1P4p1/5p2/P7/8 b - - 0 46",
+      "solution": [
+        "g3",
+        "b5",
+        "g2",
+        "b6",
+        "g1=Q"
+      ]
+    },
+    "contextFen": "8/1pKrr3/p4k2/5pp1/1P6/1B1R4/P7/8 w - - 0 42",
+    "contextMoves": [
+      "Rxd7",
+      "Rxd7+",
+      "Kxd7",
+      "g4",
+      "Bd5",
+      "f4",
+      "Bxb7",
+      "f3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01V9z",
+    "gameUrl": "https://lichess.org/game/LrjvPRU6#63",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, master, short",
+    "startFen": "8/5k1p/5p2/3pbP2/3B3P/5K2/1P6/8 w - - 5 32",
+    "moves": [
+      "Bc3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5k1p/5p2/3pbP2/7P/2B2K2/1P6/8 b - - 6 32",
+      "solution": [
+        "Bxc3",
+        "bxc3",
+        "h5"
+      ]
+    },
+    "contextFen": "6k1/4b1pp/5p2/3p2P1/3B1P1P/8/1P6/7K w - - 0 28",
+    "contextMoves": [
+      "gxf6",
+      "gxf6",
+      "f5",
+      "Kf7",
+      "Kg2",
+      "Bd6",
+      "Kf3",
+      "Be5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01WeI",
+    "gameUrl": "https://lichess.org/game/DIt9pXgs/black#92",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, master, masterVsMaster, veryLong",
+    "startFen": "8/8/1b2p3/1P1p2kP/3P2P1/1K6/8/8 b - - 4 46",
+    "moves": [
+      "Kxg4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1b2p3/1P1p3P/3P2k1/1K6/8/8 w - - 0 47",
+      "solution": [
+        "h6",
+        "Bxd4",
+        "h7",
+        "Kf5",
+        "b6",
+        "Kg6",
+        "b7"
+      ]
+    },
+    "contextFen": "8/8/1b2pk2/1P1p4/3P2PP/3K4/8/8 b - - 8 42",
+    "contextMoves": [
+      "Kg6",
+      "Kc3",
+      "Bd8",
+      "h5+",
+      "Kg5",
+      "Kb4",
+      "Bb6",
+      "Kb3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01XUE",
+    "gameUrl": "https://lichess.org/game/wj7xAnw1/black#108",
+    "theme": "bishopEndgame, crushing, endgame, master, short",
+    "startFen": "8/7p/8/5PK1/2b2BP1/8/2p5/3k4 b - - 6 54",
+    "moves": [
+      "Be2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/7p/8/5PK1/5BP1/8/2p1b3/3k4 w - - 7 55",
+      "solution": [
+        "f6",
+        "c1=Q",
+        "Bxc1"
+      ]
+    },
+    "contextFen": "8/7p/8/1b6/2k2PP1/6K1/2p5/2B5 b - - 0 50",
+    "contextMoves": [
+      "Kd3",
+      "f5",
+      "Ke2",
+      "Kf4",
+      "Bc4",
+      "Kg5",
+      "Kd1",
+      "Bf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01YqT",
+    "gameUrl": "https://lichess.org/game/LhpTb3sv/black#100",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, promotion, veryLong",
+    "startFen": "3b4/3P1p2/8/1P6/2K4k/8/8/8 b - - 0 50",
+    "moves": [
+      "f5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3b4/3P4/8/1P3p2/2K4k/8/8/8 w - - 0 51",
+      "solution": [
+        "Kc5",
+        "f4",
+        "b6",
+        "f3",
+        "b7",
+        "f2",
+        "b8=Q"
+      ]
+    },
+    "contextFen": "8/3P1p2/8/b6p/2K5/1P2N1k1/8/8 b - - 5 46",
+    "contextMoves": [
+      "h4",
+      "Nf5+",
+      "Kg4",
+      "Nxh4",
+      "Kxh4",
+      "b4",
+      "Bd8",
+      "b5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01abk",
+    "gameUrl": "https://lichess.org/game/2CRW7uvj#83",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, quietMove, veryLong",
+    "startFen": "8/6pp/2p2p2/7P/1k6/p2K4/B4P2/8 w - - 1 42",
+    "moves": [
+      "Kd4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6pp/2p2p2/7P/1k1K4/p7/B4P2/8 b - - 2 42",
+      "solution": [
+        "g5",
+        "hxg6",
+        "hxg6",
+        "Kd3",
+        "g5",
+        "Kc2",
+        "f5"
+      ]
+    },
+    "contextFen": "8/5ppp/2p3b1/k7/p5PP/1B1pK3/5P2/8 w - - 0 38",
+    "contextMoves": [
+      "Ba2",
+      "a3",
+      "h5",
+      "Bxh5",
+      "gxh5",
+      "f6",
+      "Kxd3",
+      "Kb4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01bFK",
+    "gameUrl": "https://lichess.org/game/wsgR6AfE/black#104",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "5k2/8/p2p3K/2p3pP/P1PpP1P1/3P4/1b6/8 b - - 0 52",
+    "moves": [
+      "d5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5k2/8/p6K/2pp2pP/P1PpP1P1/3P4/1b6/8 w - - 0 53",
+      "solution": [
+        "exd5",
+        "Bc1",
+        "Kg6"
+      ]
+    },
+    "contextFen": "5k2/8/p2p1K1p/2p3pP/P1PpPbP1/1p1P4/1B6/8 b - - 2 48",
+    "contextMoves": [
+      "Bd2",
+      "Kg6",
+      "Bc3",
+      "Ba3",
+      "b2",
+      "Bxb2",
+      "Bxb2",
+      "Kxh6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01cxS",
+    "gameUrl": "https://lichess.org/game/8vbDaFye#97",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/8/8/1Pb5/P1k3p1/4p1P1/4K3/4B3 w - - 0 49",
+    "moves": [
+      "Kd1"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/1Pb5/P1k3p1/4p1P1/8/3KB3 b - - 1 49",
+      "solution": [
+        "Kd3",
+        "Kc1",
+        "Ke2"
+      ]
+    },
+    "contextFen": "8/8/8/1Pbk2pp/P3p3/6P1/6KP/4B3 w - - 0 45",
+    "contextMoves": [
+      "h3",
+      "g4",
+      "hxg4",
+      "hxg4",
+      "Kf1",
+      "Kc4",
+      "Ke2",
+      "e3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01hHF",
+    "gameUrl": "https://lichess.org/game/4uIwx0C8/black#88",
+    "theme": "bishopEndgame, crushing, endgame, master, short",
+    "startFen": "8/3bkpp1/7p/2PB4/1K6/p5P1/5PP1/8 b - - 6 44",
+    "moves": [
+      "Be6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/4kpp1/4b2p/2PB4/1K6/p5P1/5PP1/8 w - - 7 45",
+      "solution": [
+        "Bxe6",
+        "Kxe6",
+        "Kxa3"
+      ]
+    },
+    "contextFen": "6k1/5pp1/7p/1RPp4/8/p2b2P1/B4PP1/4K3 b - - 2 40",
+    "contextMoves": [
+      "Bxb5",
+      "Bxd5",
+      "Kf8",
+      "Kd2",
+      "Ke7",
+      "Kc3",
+      "Bd7",
+      "Kb4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01kSp",
+    "gameUrl": "https://lichess.org/game/YODE44HV#75",
+    "theme": "bishopEndgame, crushing, discoveredAttack, discoveredCheck, endgame, short",
+    "startFen": "8/6k1/2bb2pp/4pp2/4P1P1/3BBPKP/8/8 w - - 0 38",
+    "moves": [
+      "exf5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6k1/2bb2pp/4pP2/6P1/3BBPKP/8/8 b - - 0 38",
+      "solution": [
+        "e4+",
+        "f4",
+        "exd3"
+      ]
+    },
+    "contextFen": "b4k2/6p1/BB1b1p1p/4p3/4P3/5P1P/5KP1/8 w - - 0 34",
+    "contextMoves": [
+      "g4",
+      "Bc6",
+      "Kg3",
+      "g6",
+      "Be3",
+      "Kg7",
+      "Bd3",
+      "f5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01mGb",
+    "gameUrl": "https://lichess.org/game/ydvpvAgz#85",
+    "theme": "bishopEndgame, crushing, deflection, endgame, long, master, quietMove",
+    "startFen": "8/8/8/2k1pB1p/2Pp4/3K2p1/8/8 w - - 0 43",
+    "moves": [
+      "Be4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/2k1p2p/2PpB3/3K2p1/8/8 b - - 1 43",
+      "solution": [
+        "h4",
+        "Bg2",
+        "e4+",
+        "Ke2",
+        "Kxc4"
+      ]
+    },
+    "contextFen": "8/7p/3k4/3Bp1p1/2PpK3/8/8/8 w - - 0 39",
+    "contextMoves": [
+      "Bg8",
+      "h5",
+      "Bh7",
+      "g4",
+      "Kd3",
+      "Kc5",
+      "Bf5",
+      "g3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01oWi",
+    "gameUrl": "https://lichess.org/game/pbHmn2fH/black#96",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/p7/8/1PP1p3/4K1k1/2b3P1/8/8 b - - 0 48",
+    "moves": [
+      "Kxg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p7/8/1PP1p3/4K3/2b3k1/8/8 w - - 0 49",
+      "solution": [
+        "b6",
+        "axb6",
+        "c6"
+      ]
+    },
+    "contextFen": "8/p1b5/8/1P2p1k1/2P5/5KP1/8/8 b - - 0 44",
+    "contextMoves": [
+      "Bb6",
+      "Ke4",
+      "Bd4",
+      "Kf3",
+      "Bc3",
+      "Ke4",
+      "Kg4",
+      "c5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01rSr",
+    "gameUrl": "https://lichess.org/game/xnizLU9K#91",
+    "theme": "bishopEndgame, crushing, endgame, master, quietMove, short",
+    "startFen": "8/6k1/3p2p1/p2P3p/4P3/3B4/5K2/8 w - - 0 46",
+    "moves": [
+      "Kg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6k1/3p2p1/p2P3p/4P3/3B2K1/8/8 b - - 1 46",
+      "solution": [
+        "a4",
+        "Bc2",
+        "a3"
+      ]
+    },
+    "contextFen": "8/p5k1/1p1p2p1/2pP3p/1P2P3/P2Pr3/8/5BK1 w - - 3 42",
+    "contextMoves": [
+      "Kf2",
+      "Rxd3",
+      "Bxd3",
+      "cxb4",
+      "axb4",
+      "a5",
+      "bxa5",
+      "bxa5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0218S",
+    "gameUrl": "https://lichess.org/game/t4k1RSvL#109",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, exposedKing, veryLong, zugzwang",
+    "startFen": "8/8/8/3B4/5ppk/6p1/6K1/8 w - - 2 55",
+    "moves": [
+      "Be6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/4B3/8/5ppk/6p1/6K1/8 b - - 3 55",
+      "solution": [
+        "f3+",
+        "Kh1",
+        "Kh3",
+        "Bd5",
+        "g2+",
+        "Kg1",
+        "Kg3",
+        "Bxf3",
+        "Kxf3"
+      ]
+    },
+    "contextFen": "8/8/6B1/5p2/4pkpP/6p1/8/6K1 w - - 2 51",
+    "contextMoves": [
+      "h5",
+      "Kg5",
+      "Kg2",
+      "f4",
+      "Bxe4",
+      "Kxh5",
+      "Bd5",
+      "Kh4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0240A",
+    "gameUrl": "https://lichess.org/game/nkan6wAb#93",
+    "theme": "bishopEndgame, crushing, deflection, endgame, long, skewer",
+    "startFen": "3b4/3P1k2/2pB4/1p1b2p1/2pK2B1/2P5/P4P2/8 w - - 2 47",
+    "moves": [
+      "Ke5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3b4/3P1k2/2pB4/1p1bK1p1/2p3B1/2P5/P4P2/8 b - - 3 47",
+      "solution": [
+        "Bf6+",
+        "Kf5",
+        "Be6+",
+        "Ke4",
+        "Bxg4"
+      ]
+    },
+    "contextFen": "3b1k2/3P2pp/2p5/1p1b3P/2p3B1/2P3B1/P3KP2/8 w - - 5 43",
+    "contextMoves": [
+      "Ke3",
+      "g6",
+      "hxg6",
+      "hxg6",
+      "Kd4",
+      "g5",
+      "Bd6+",
+      "Kf7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/024N7",
+    "gameUrl": "https://lichess.org/game/gLaAz1rk/black#82",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, long",
+    "startFen": "8/p3k1p1/1p2pP1p/1Pb1P1P1/P1K1B2P/8/8/8 b - - 0 41",
+    "moves": [
+      "gxf6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p3k3/1p2pp1p/1Pb1P1P1/P1K1B2P/8/8/8 w - - 0 42",
+      "solution": [
+        "gxh6",
+        "Kf7",
+        "h7",
+        "Kg7",
+        "exf6+"
+      ]
+    },
+    "contextFen": "8/p1k3p1/1p2p2p/1Pb1P3/P1K1BPP1/8/7P/8 b - - 0 37",
+    "contextMoves": [
+      "Kd7",
+      "f5",
+      "Ke7",
+      "h4",
+      "Kd7",
+      "g5",
+      "Ke7",
+      "f6+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/027Wr",
+    "gameUrl": "https://lichess.org/game/lI0kg3cl/black#78",
+    "theme": "bishopEndgame, clearance, crushing, endgame, exposedKing, quietMove, veryLong",
+    "startFen": "5k2/8/1b2P3/p2K4/1p3P1p/2p4P/P7/2B5 b - - 0 39",
+    "moves": [
+      "Ke7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/4k3/1b2P3/p2K4/1p3P1p/2p4P/P7/2B5 w - - 1 40",
+      "solution": [
+        "f5",
+        "Bd8",
+        "Bg5+",
+        "Ke8",
+        "f6",
+        "Bxf6",
+        "Bxf6"
+      ]
+    },
+    "contextFen": "8/5p1k/8/p1b1PP2/1pK4p/2p2P1P/P7/2B5 b - - 2 35",
+    "contextMoves": [
+      "Bb6",
+      "Kd5",
+      "Kg7",
+      "e6",
+      "fxe6+",
+      "fxe6",
+      "Kf8",
+      "f4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02CIe",
+    "gameUrl": "https://lichess.org/game/iDQno5u5/black#86",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/1p4k1/1pp1b2p/1P1P2p1/P1K1Bp2/5P1P/6P1/8 b - - 0 43",
+    "moves": [
+      "Bxd5+"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1p4k1/1pp4p/1P1b2p1/P1K1Bp2/5P1P/6P1/8 w - - 0 44",
+      "solution": [
+        "Bxd5",
+        "cxd5+",
+        "Kxd5"
+      ]
+    },
+    "contextFen": "8/1p6/1pp3kp/3b2p1/PP1P1p2/2K2P1P/2B3P1/8 b - - 5 39",
+    "contextMoves": [
+      "Kg7",
+      "Be4",
+      "Be6",
+      "b5",
+      "Bd7",
+      "Kc4",
+      "Be6+",
+      "d5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02Ir8",
+    "gameUrl": "https://lichess.org/game/rXL8HYdc#83",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/8/p3k1p1/1p2Pp1p/2b4P/P4B2/1P3KP1/8 w - - 1 42",
+    "moves": [
+      "b4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/p3k1p1/1p2Pp1p/1Pb4P/P4B2/5KP1/8 b - - 0 42",
+      "solution": [
+        "Bd5",
+        "Be2",
+        "Kxe5"
+      ]
+    },
+    "contextFen": "4r3/5k1p/p5p1/1p3p2/2b2P2/P1B5/1P3KPP/3B4 w - - 0 38",
+    "contextMoves": [
+      "Bf3",
+      "h5",
+      "h4",
+      "Re6",
+      "Be5",
+      "Rxe5",
+      "fxe5",
+      "Ke6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02NO4",
+    "gameUrl": "https://lichess.org/game/wNMyJ9gc/black#80",
+    "theme": "advantage, bishopEndgame, clearance, defensiveMove, endgame, short",
+    "startFen": "8/3b2kp/4p3/2ppPpPP/p1p4K/P1P1P3/1P2B3/8 b - - 18 40",
+    "moves": [
+      "Bc6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6kp/2b1p3/2ppPpPP/p1p4K/P1P1P3/1P2B3/8 w - - 19 41",
+      "solution": [
+        "h6+",
+        "Kg8",
+        "Bh5"
+      ]
+    },
+    "contextFen": "8/3b2kp/4p3/2ppPpPP/p1p5/P1P1P1K1/1P6/3B4 b - - 10 36",
+    "contextMoves": [
+      "Be8",
+      "Kf4",
+      "Bd7",
+      "Be2",
+      "Bc6",
+      "Kg3",
+      "Bd7",
+      "Kh4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02PYw",
+    "gameUrl": "https://lichess.org/game/NPBAcfmV/black#102",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, sacrifice, short",
+    "startFen": "8/2bK2B1/2P3kP/p7/5p2/8/8/8 b - - 1 51",
+    "moves": [
+      "Bb6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/3K2B1/1bP3kP/p7/5p2/8/8/8 w - - 2 52",
+      "solution": [
+        "Bd4",
+        "Bxd4",
+        "c7"
+      ]
+    },
+    "contextFen": "8/5k2/p1Pb3P/3K1p2/8/4B3/8/8 b - - 2 47",
+    "contextMoves": [
+      "Bc7",
+      "Bd4",
+      "Kg6",
+      "Bg7",
+      "a5",
+      "Ke6",
+      "f4",
+      "Kd7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02QUU",
+    "gameUrl": "https://lichess.org/game/PlABSQej#55",
+    "theme": "advantage, bishopEndgame, endgame, short, skewer",
+    "startFen": "4k3/4bppp/pp6/4P3/P2PP3/6P1/5K1P/2B5 w - - 3 28",
+    "moves": [
+      "Ke3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4k3/4bppp/pp6/4P3/P2PP3/4K1P1/7P/2B5 b - - 4 28",
+      "solution": [
+        "Bg5+",
+        "Ke2",
+        "Bxc1"
+      ]
+    },
+    "contextFen": "2r1r1k1/4bppp/pp6/4P3/P2PP3/6P1/1B5P/2RR2K1 w - - 3 24",
+    "contextMoves": [
+      "Rxc8",
+      "Rxc8",
+      "Rc1",
+      "Rxc1+",
+      "Bxc1",
+      "Kf8",
+      "Kf2",
+      "Ke8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02SGK",
+    "gameUrl": "https://lichess.org/game/uv9JGJbS/black#92",
+    "theme": "bishopEndgame, crushing, endgame, long",
+    "startFen": "4k3/2P2p2/b2K1P2/P6p/5P1P/8/8/8 b - - 0 46",
+    "moves": [
+      "Bc8"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2b1k3/2P2p2/3K1P2/P6p/5P1P/8/8/8 w - - 1 47",
+      "solution": [
+        "Kc6",
+        "Ba6",
+        "Kb6",
+        "Kd7",
+        "Kxa6"
+      ]
+    },
+    "contextFen": "2b1k3/2P2p2/3K1P2/6pp/7P/5PP1/P7/8 b - - 0 42",
+    "contextMoves": [
+      "gxh4",
+      "gxh4",
+      "Bb7",
+      "f4",
+      "Bc8",
+      "a4",
+      "Ba6",
+      "a5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02SdK",
+    "gameUrl": "https://lichess.org/game/4fCdaNzS/black#118",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, master, sacrifice, short",
+    "startFen": "8/3k4/BP4p1/6Pp/p3p1pK/Pb2P3/5P2/8 b - - 2 59",
+    "moves": [
+      "Kc6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/BPk3p1/6Pp/p3p1pK/Pb2P3/5P2/8 w - - 3 60",
+      "solution": [
+        "Bb5+",
+        "Kxb5",
+        "b7"
+      ]
+    },
+    "contextFen": "8/1p6/1P4p1/5kPp/p3p1pK/Pb2P3/4BP2/8 b - - 2 55",
+    "contextMoves": [
+      "Bd5",
+      "Bb5",
+      "Bb3",
+      "Bc6",
+      "Ke6",
+      "Bxb7",
+      "Kd7",
+      "Ba6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02YZr",
+    "gameUrl": "https://lichess.org/game/lsZCS5f9/black#86",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, long, promotion",
+    "startFen": "1bK5/pP3p2/B7/1P4p1/6k1/7p/8/8 b - - 1 43",
+    "moves": [
+      "h2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "1bK5/pP3p2/B7/1P4p1/6k1/8/7p/8 w - - 0 44",
+      "solution": [
+        "Kxb8",
+        "h1=Q",
+        "Kxa7",
+        "Qd1",
+        "b8=Q"
+      ]
+    },
+    "contextFen": "1b6/pP3p2/B7/1P4p1/2K2kPp/7P/8/8 b - - 3 39",
+    "contextMoves": [
+      "Kg3",
+      "Kd5",
+      "Kxh3",
+      "Kc6",
+      "Kxg4",
+      "Kd7",
+      "h3",
+      "Kc8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02Yzg",
+    "gameUrl": "https://lichess.org/game/ajxIaD2f/black#88",
+    "theme": "bishopEndgame, crushing, endgame, quietMove, short",
+    "startFen": "8/8/2P1k3/8/8/p2P2Bp/Kb6/8 b - - 5 44",
+    "moves": [
+      "Bc1"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/2P1k3/8/8/p2P2Bp/K7/2b5 w - - 6 45",
+      "solution": [
+        "d4",
+        "Bb2",
+        "d5+"
+      ]
+    },
+    "contextFen": "8/8/2P1k3/7p/8/pK1P4/1b5B/8 b - - 2 40",
+    "contextMoves": [
+      "h4",
+      "Bf4",
+      "h3",
+      "Ka2",
+      "Bc1",
+      "Bh2",
+      "Bb2",
+      "Bg3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02ZVe",
+    "gameUrl": "https://lichess.org/game/0ulRM5Ox#105",
+    "theme": "bishopEndgame, crushing, endgame, veryLong",
+    "startFen": "8/8/3kP1p1/3B2P1/bp1K4/8/8/8 w - - 0 53",
+    "moves": [
+      "Kc4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/3kP1p1/3B2P1/bpK5/8/8/8 b - - 1 53",
+      "solution": [
+        "Bc6",
+        "Bxc6",
+        "Kxc6",
+        "e7",
+        "Kd7",
+        "e8=R",
+        "Kxe8"
+      ]
+    },
+    "contextFen": "4b3/8/3kP1p1/p5P1/1p1KB3/1P6/8/8 w - - 7 49",
+    "contextMoves": [
+      "Bd5",
+      "Bb5",
+      "Be4",
+      "Be8",
+      "Bd5",
+      "a4",
+      "bxa4",
+      "Bxa4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02cIQ",
+    "gameUrl": "https://lichess.org/game/auONX0JT#67",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, short",
+    "startFen": "3k4/p2b4/2p5/1p1p2p1/3P2P1/P1PB2K1/2P5/8 w - - 1 34",
+    "moves": [
+      "Bf5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3k4/p2b4/2p5/1p1p1Bp1/3P2P1/P1P3K1/2P5/8 b - - 2 34",
+      "solution": [
+        "Bxf5",
+        "gxf5",
+        "Ke7"
+      ]
+    },
+    "contextFen": "5k2/p2b4/2p5/1p1p2p1/3P4/2PB2P1/P1P2K2/8 w - - 0 30",
+    "contextMoves": [
+      "Kf3",
+      "Kf7",
+      "g4",
+      "Kf6",
+      "Kg3",
+      "Ke7",
+      "a3",
+      "Kd8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02fb8",
+    "gameUrl": "https://lichess.org/game/nnW0OO7B/black#68",
+    "theme": "bishopEndgame, crushing, endgame, master, short",
+    "startFen": "7k/1p6/4p2p/pPPp2b1/3PP3/6P1/2B5/7K b - - 0 34",
+    "moves": [
+      "Be3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "7k/1p6/4p2p/pPPp4/3PP3/4b1P1/2B5/7K w - - 1 35",
+      "solution": [
+        "c6",
+        "bxc6",
+        "bxc6"
+      ]
+    },
+    "contextFen": "3b2rk/1p6/p3p2p/1PPp1p2/3P4/3BPPR1/7P/7K b - - 0 30",
+    "contextMoves": [
+      "Rxg3",
+      "hxg3",
+      "a5",
+      "Bc2",
+      "Bg5",
+      "e4",
+      "fxe4",
+      "fxe4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02hgA",
+    "gameUrl": "https://lichess.org/game/Q3FMCmtd/black#60",
+    "theme": "bishopEndgame, crushing, endgame, veryLong",
+    "startFen": "8/p1k1bp2/1p2p1pp/4PP2/2p1K1P1/P1P1B3/1P4P1/8 b - - 0 30",
+    "moves": [
+      "exf5+"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p1k1bp2/1p4pp/4Pp2/2p1K1P1/P1P1B3/1P4P1/8 w - - 0 31",
+      "solution": [
+        "gxf5",
+        "gxf5+",
+        "Kxf5",
+        "h5",
+        "e6",
+        "fxe6+",
+        "Kxe6"
+      ]
+    },
+    "contextFen": "8/p1k1bpp1/1pp1p2p/4P3/4bP2/P1P1BBP1/1P3KP1/8 b - - 2 26",
+    "contextMoves": [
+      "Bxf3",
+      "Kxf3",
+      "g6",
+      "g4",
+      "c5",
+      "Ke4",
+      "c4",
+      "f5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02kCY",
+    "gameUrl": "https://lichess.org/game/wqBVso2E/black#92",
+    "theme": "bishopEndgame, endgame, mate, mateIn2, short",
+    "startFen": "8/8/8/7p/p1b5/P5kP/2p3P1/2B3K1 b - - 7 46",
+    "moves": [
+      "Kh4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/7p/p1b4k/P6P/2p3P1/2B3K1 w - - 8 47",
+      "solution": [
+        "Kh2",
+        "Bf1",
+        "g3#"
+      ]
+    },
+    "contextFen": "8/8/8/5k1p/p3R3/Pb5P/1BpK2P1/8 b - - 0 42",
+    "contextMoves": [
+      "Kxe4",
+      "Ke2",
+      "Kf4",
+      "Bc1+",
+      "Kg3",
+      "Kf1",
+      "Bc4+",
+      "Kg1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02kZu",
+    "gameUrl": "https://lichess.org/game/ItIbtHc9/black#86",
+    "theme": "bishopEndgame, crushing, endgame, exposedKing, long, quietMove",
+    "startFen": "8/3k4/8/pp1PPKb1/6P1/8/P7/8 b - - 1 43",
+    "moves": [
+      "Bh4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/3k4/8/pp1PPK2/6Pb/8/P7/8 w - - 2 44",
+      "solution": [
+        "g5",
+        "a4",
+        "e6+",
+        "Ke8",
+        "d6"
+      ]
+    },
+    "contextFen": "2k5/8/pp6/4P3/3P4/5KP1/P7/2b5 b - - 1 39",
+    "contextMoves": [
+      "Kd7",
+      "Ke4",
+      "Bg5",
+      "g4",
+      "b5",
+      "d5",
+      "a5",
+      "Kf5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02lL0",
+    "gameUrl": "https://lichess.org/game/kzAPE4s9#91",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, promotion, veryLong",
+    "startFen": "8/7K/2k5/8/ppP5/5P2/8/B7 w - - 2 46",
+    "moves": [
+      "Kg6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/2k3K1/8/ppP5/5P2/8/B7 b - - 3 46",
+      "solution": [
+        "a3",
+        "Bg7",
+        "b3",
+        "Bf8",
+        "b2",
+        "Bxa3",
+        "b1=Q+"
+      ]
+    },
+    "contextFen": "8/1k4BP/4n1K1/p7/1pP5/5P2/8/8 w - - 1 42",
+    "contextMoves": [
+      "Kf7",
+      "Ng5+",
+      "Kg6",
+      "Nxh7",
+      "Kxh7",
+      "a4",
+      "Ba1",
+      "Kc6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02pLK",
+    "gameUrl": "https://lichess.org/game/hLQpHPVN#81",
+    "theme": "advancedPawn, bishopEndgame, crushing, defensiveMove, endgame, sacrifice, veryLong",
+    "startFen": "6B1/4k3/6p1/4Kp2/5P1p/4P3/8/8 w - - 0 41",
+    "moves": [
+      "Bh7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/4k2B/6p1/4Kp2/5P1p/4P3/8/8 b - - 1 41",
+      "solution": [
+        "Kf7",
+        "e4",
+        "h3",
+        "exf5",
+        "h2",
+        "fxg6+",
+        "Kg7"
+      ]
+    },
+    "contextFen": "6k1/7p/6p1/5p2/5P2/3KP3/6B1/8 w - - 0 37",
+    "contextMoves": [
+      "Kd4",
+      "Kf7",
+      "Ke5",
+      "h5",
+      "Bd5+",
+      "Ke7",
+      "Bg8",
+      "h4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02x7v",
+    "gameUrl": "https://lichess.org/game/fpK3EPQM/black#100",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, short",
+    "startFen": "8/2Pb4/p7/PP6/5p1p/2k2K1P/6P1/8 b - - 0 50",
+    "moves": [
+      "axb5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2Pb4/8/Pp6/5p1p/2k2K1P/6P1/8 w - - 0 51",
+      "solution": [
+        "a6",
+        "Bc8",
+        "a7"
+      ]
+    },
+    "contextFen": "8/8/p7/P1P5/1Pb2p1p/7P/3kBKP1/8 b - - 0 46",
+    "contextMoves": [
+      "Bxe2",
+      "c6",
+      "Bb5",
+      "c7",
+      "Bd7",
+      "Kf3",
+      "Kc3",
+      "b5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/033Z2",
+    "gameUrl": "https://lichess.org/game/KAOoU39e/black#92",
+    "theme": "bishopEndgame, crushing, endgame, long",
+    "startFen": "5k2/4b3/1B2K3/p3P2p/P7/8/8/8 b - - 1 46",
+    "moves": [
+      "Bb4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5k2/8/1B2K3/p3P2p/Pb6/8/8/8 w - - 2 47",
+      "solution": [
+        "Kd7",
+        "h4",
+        "e6",
+        "h3",
+        "Bxa5"
+      ]
+    },
+    "contextFen": "6k1/p6p/8/4PKb1/8/P7/1B6/8 b - - 3 42",
+    "contextMoves": [
+      "Be7",
+      "Ke6",
+      "Kf8",
+      "a4",
+      "h5",
+      "Bd4",
+      "a5",
+      "Bb6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0346V",
+    "gameUrl": "https://lichess.org/game/kofkTFwP/black#76",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, long, promotion",
+    "startFen": "8/4kp1p/4p2P/2Pb2P1/3K4/8/8/8 b - - 2 38",
+    "moves": [
+      "f5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/4k2p/4p2P/2Pb1pP1/3K4/8/8/8 w - f6 0 39",
+      "solution": [
+        "g6",
+        "hxg6",
+        "h7",
+        "Kf6",
+        "h8=Q+"
+      ]
+    },
+    "contextFen": "8/4kp1p/4p3/2P3P1/3K3P/5b2/8/8 b - - 2 34",
+    "contextMoves": [
+      "Bc6",
+      "Ke5",
+      "Bd5",
+      "h5",
+      "Bc6",
+      "h6",
+      "Bd5",
+      "Kd4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/036E2",
+    "gameUrl": "https://lichess.org/game/KVBLv3sk#133",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, quietMove, veryLong",
+    "startFen": "8/8/pBp3p1/P4pPp/4pP1P/4P3/3k1K2/8 w - - 6 67",
+    "moves": [
+      "Bc7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2B5/p1p3p1/P4pPp/4pP1P/4P3/3k1K2/8 b - - 7 67",
+      "solution": [
+        "c5",
+        "Bb6",
+        "c4",
+        "Bc5",
+        "c3",
+        "Bb4",
+        "Kc2"
+      ]
+    },
+    "contextFen": "1b6/8/p1pB2p1/PkP2pPp/4pP1P/4P1K1/8/8 w - - 43 63",
+    "contextMoves": [
+      "Bxb8",
+      "Kxc5",
+      "Bc7",
+      "Kc4",
+      "Kf2",
+      "Kd3",
+      "Bb6",
+      "Kd2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/036MU",
+    "gameUrl": "https://lichess.org/game/9wOvaX76#53",
+    "theme": "bishopEndgame, doubleBishopMate, endgame, mate, mateIn1, oneMove",
+    "startFen": "2r4k/pB4p1/1b1B4/1b5p/5P2/6P1/P6P/7K w - - 0 27",
+    "moves": [
+      "Bxc8"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2B4k/p5p1/1b1B4/1b5p/5P2/6P1/P6P/7K b - - 0 27",
+      "solution": [
+        "Bc6#"
+      ]
+    },
+    "contextFen": "2r2r1k/pp4pp/1b1p4/1b2B3/4BP2/6P1/P6P/2R1R2K w - - 0 23",
+    "contextMoves": [
+      "Bxd6",
+      "Rxc1",
+      "Rxc1",
+      "Re8",
+      "Bxb7",
+      "h5",
+      "Rc8",
+      "Rxc8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/036i1",
+    "gameUrl": "https://lichess.org/game/XM1AjaQU/black#80",
+    "theme": "bishopEndgame, endgame, mate, mateIn2, short",
+    "startFen": "4B3/8/1p5p/2pk1bp1/PP1p1p2/2P2P1P/3K2P1/8 b - - 0 40",
+    "moves": [
+      "Kc4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4B3/8/1p5p/2p2bp1/PPkp1p2/2P2P1P/3K2P1/8 w - - 1 41",
+      "solution": [
+        "Bf7+",
+        "Be6",
+        "Bxe6#"
+      ]
+    },
+    "contextFen": "3rR3/8/1p3k1p/1Bpp1bp1/5p2/P1P2P1P/1P4P1/2K5 b - - 4 36",
+    "contextMoves": [
+      "Rxe8",
+      "Bxe8",
+      "Ke5",
+      "Kd2",
+      "d4",
+      "b4",
+      "Kd5",
+      "a4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03FLH",
+    "gameUrl": "https://lichess.org/game/Nm8Sjxon#95",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, long, promotion, sacrifice",
+    "startFen": "8/8/5pK1/4kP1B/4b2P/4p1P1/1P6/8 w - - 1 48",
+    "moves": [
+      "Bg4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/5pK1/4kP2/4b1BP/4p1P1/1P6/8 b - - 2 48",
+      "solution": [
+        "Bxf5+",
+        "Bxf5",
+        "e2",
+        "h5",
+        "e1=Q"
+      ]
+    },
+    "contextFen": "5K2/6p1/2k2p2/3b1P1p/4p2P/3B2P1/1P6/8 w - - 0 44",
+    "contextMoves": [
+      "Be2",
+      "Kd6",
+      "Kxg7",
+      "Ke5",
+      "Kg6",
+      "e3",
+      "Bxh5",
+      "Be4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03FOB",
+    "gameUrl": "https://lichess.org/game/IMAyRzET#89",
+    "theme": "bishopEndgame, crushing, deflection, endgame, master, masterVsMaster, short",
+    "startFen": "8/8/2p1p1b1/p1P1Pp1k/Pp1PP1pP/6K1/8/3B4 w - - 1 45",
+    "moves": [
+      "Bb3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/2p1p1b1/p1P1Pp1k/Pp1PP1pP/1B4K1/8/8 b - - 2 45",
+      "solution": [
+        "f4+",
+        "Kxf4",
+        "Kxh4"
+      ]
+    },
+    "contextFen": "8/3b2k1/2p1p3/p1P1Pp2/Pp1P2pq/1B2P1P1/5K2/8 w - - 0 41",
+    "contextMoves": [
+      "gxh4",
+      "Kh6",
+      "Kg3",
+      "Kh5",
+      "Bd1",
+      "Be8",
+      "e4",
+      "Bg6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03Gtc",
+    "gameUrl": "https://lichess.org/game/SjOx5l6S#119",
+    "theme": "advancedPawn, advantage, bishopEndgame, endgame, promotion, veryLong",
+    "startFen": "8/8/8/2p5/2PpP2P/1PbPkP2/6K1/8 w - - 1 60",
+    "moves": [
+      "h5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/2p4P/2PpP3/1PbPkP2/6K1/8 b - - 0 60",
+      "solution": [
+        "Kxd3",
+        "e5",
+        "Kc2",
+        "e6",
+        "d3",
+        "e7",
+        "d2",
+        "e8=Q",
+        "d1=Q"
+      ]
+    },
+    "contextFen": "8/8/8/2p4k/2PpP3/1PbPq2P/6P1/5Q1K w - - 0 56",
+    "contextMoves": [
+      "Qf3+",
+      "Qxf3",
+      "gxf3",
+      "Kg5",
+      "Kg2",
+      "Kf4",
+      "h4",
+      "Ke3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03HtZ",
+    "gameUrl": "https://lichess.org/game/wIHK2AaO#103",
+    "theme": "bishopEndgame, crushing, discoveredAttack, discoveredCheck, endgame, short",
+    "startFen": "8/8/3k1p2/p1pBpKp1/1pP3P1/1P3P2/Pb6/8 w - - 17 52",
+    "moves": [
+      "Kxf6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/3k1K2/p1pBp1p1/1pP3P1/1P3P2/Pb6/8 b - - 0 52",
+      "solution": [
+        "e4+",
+        "Kf7",
+        "e3"
+      ]
+    },
+    "contextFen": "8/8/3k1p2/p1p1pBp1/1pP1K1P1/1P3P2/Pb6/8 w - - 9 48",
+    "contextMoves": [
+      "Bc8",
+      "Bd4",
+      "Kf5",
+      "Ke7",
+      "Bb7",
+      "Bb2",
+      "Bd5",
+      "Kd6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03I4D",
+    "gameUrl": "https://lichess.org/game/TTRwNELU/black#72",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "4b1B1/5pp1/pk2p2p/1p2P3/1P1K1P1P/P7/5P2/8 b - - 0 36",
+    "moves": [
+      "a5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4b1B1/5pp1/1k2p2p/pp2P3/1P1K1P1P/P7/5P2/8 w - - 0 37",
+      "solution": [
+        "bxa5+",
+        "Kxa5",
+        "Kc5"
+      ]
+    },
+    "contextFen": "8/3k1pp1/p3p2p/1p1bP3/3K1P2/P2B4/1P3P1P/8 b - - 7 32",
+    "contextMoves": [
+      "Kc6",
+      "b4",
+      "Kb6",
+      "Bh7",
+      "Bc6",
+      "Bg8",
+      "Be8",
+      "h4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03JLw",
+    "gameUrl": "https://lichess.org/game/HRxuAyuN/black#64",
+    "theme": "advancedPawn, advantage, bishopEndgame, endgame, long, promotion",
+    "startFen": "b7/p7/5p2/3p1B1P/4p1K1/2k5/P1P3P1/8 b - - 0 32",
+    "moves": [
+      "d4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "b7/p7/5p2/5B1P/3pp1K1/2k5/P1P3P1/8 w - - 0 33",
+      "solution": [
+        "h6",
+        "e3",
+        "h7",
+        "e2",
+        "h8=Q"
+      ]
+    },
+    "contextFen": "b7/p7/3k1p2/3ppB2/8/2P3K1/P1P3PP/8 b - - 5 28",
+    "contextMoves": [
+      "Kc5",
+      "Kh4",
+      "Kc4",
+      "Kg4",
+      "Kxc3",
+      "h4",
+      "e4",
+      "h5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03Kic",
+    "gameUrl": "https://lichess.org/game/TSCbkBNp/black#76",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, short",
+    "startFen": "2k5/1p6/1B1p1bp1/PK1Ppp2/4P2p/5P1P/6P1/8 b - - 0 38",
+    "moves": [
+      "Bg5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2k5/1p6/1B1p2p1/PK1Pppb1/4P2p/5P1P/6P1/8 w - - 1 39",
+      "solution": [
+        "a6",
+        "bxa6+",
+        "Kc6"
+      ]
+    },
+    "contextFen": "8/1p1k2b1/1B1p2p1/3Ppp2/4P2p/P2K1P1P/6P1/8 b - - 0 34",
+    "contextMoves": [
+      "Bf8",
+      "Kc4",
+      "Be7",
+      "Kb5",
+      "Kc8",
+      "a4",
+      "Bf6",
+      "a5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03Nkz",
+    "gameUrl": "https://lichess.org/game/UqTb28Y5/black#100",
+    "theme": "bishopEndgame, crushing, endgame, master, quietMove, veryLong",
+    "startFen": "8/8/1p2B3/6k1/1PP2pP1/8/5K2/3b4 b - - 0 50",
+    "moves": [
+      "Bxg4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1p2B3/6k1/1PP2pb1/8/5K2/8 w - - 0 51",
+      "solution": [
+        "Bxg4",
+        "Kxg4",
+        "b5",
+        "Kf5",
+        "c5",
+        "Ke5",
+        "c6"
+      ]
+    },
+    "contextFen": "8/p7/1p2B3/6k1/4bpP1/P1P5/1P2K3/8 b - - 2 46",
+    "contextMoves": [
+      "a5",
+      "Kf2",
+      "Bc2",
+      "b4",
+      "axb4",
+      "axb4",
+      "Bd1",
+      "c4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03O0Q",
+    "gameUrl": "https://lichess.org/game/1ucx3yZT/black#114",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/8/P4k2/2b3p1/4p1Pp/7P/4pBK1/8 b - - 1 57",
+    "moves": [
+      "e3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/P4k2/2b3p1/6Pp/4p2P/4pBK1/8 w - - 0 58",
+      "solution": [
+        "Be1",
+        "Ke5",
+        "Kf3"
+      ]
+    },
+    "contextFen": "8/8/6p1/P5k1/4p1Pp/4b2P/4p1K1/4B3 b - - 0 53",
+    "contextMoves": [
+      "Bd4",
+      "a6",
+      "Bc5",
+      "Bd2+",
+      "Kf6",
+      "Be1",
+      "g5",
+      "Bf2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03R5U",
+    "gameUrl": "https://lichess.org/game/5Zf0hFln/black#122",
+    "theme": "bishopEndgame, crushing, endgame, long, master",
+    "startFen": "8/8/8/6p1/2pBp1k1/1p6/1P2K3/8 b - - 2 61",
+    "moves": [
+      "Kg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/6p1/2pBp3/1p4k1/1P2K3/8 w - - 3 62",
+      "solution": [
+        "Ke3",
+        "Kh3",
+        "Kxe4",
+        "c3",
+        "Bxc3"
+      ]
+    },
+    "contextFen": "8/b7/P5p1/5k2/2p1p3/1p4B1/1P2K3/8 b - - 3 57",
+    "contextMoves": [
+      "g5",
+      "Bf2",
+      "Bb8",
+      "a7",
+      "Bxa7",
+      "Bxa7",
+      "Kg4",
+      "Bd4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03TWS",
+    "gameUrl": "https://lichess.org/game/QSwePIH0#103",
+    "theme": "bishopEndgame, crushing, endgame, hangingPiece, short",
+    "startFen": "8/8/1pB5/pPk4p/P4K1P/1P6/4b3/8 w - a6 0 52",
+    "moves": [
+      "bxa6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/PpB5/2k4p/P4K1P/1P6/4b3/8 b - - 0 52",
+      "solution": [
+        "Kxc6",
+        "a7",
+        "Kb7"
+      ]
+    },
+    "contextFen": "8/pB6/1p6/1n2k2p/2P3bP/1P4K1/P7/8 w - - 0 48",
+    "contextMoves": [
+      "cxb5",
+      "Kd4",
+      "Kf4",
+      "Kc5",
+      "Bc6",
+      "Be2",
+      "a4",
+      "a5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03dKs",
+    "gameUrl": "https://lichess.org/game/yWZ6NaWp#121",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, long, master, promotion",
+    "startFen": "8/8/1B6/8/1PK1kp2/6p1/8/8 w - - 0 61",
+    "moves": [
+      "b5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1B6/1P6/2K1kp2/6p1/8/8 b - - 0 61",
+      "solution": [
+        "f3",
+        "Bc7",
+        "f2",
+        "Bxg3",
+        "f1=Q+"
+      ]
+    },
+    "contextFen": "3B4/8/8/1p1K1pp1/1P3k2/8/8/8 w - - 0 57",
+    "contextMoves": [
+      "Kc6",
+      "g4",
+      "Kxb5",
+      "g3",
+      "Kc4",
+      "Ke4",
+      "Bb6",
+      "f4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03eQI",
+    "gameUrl": "https://lichess.org/game/EeTI6XvS#85",
+    "theme": "bishopEndgame, crushing, endgame, master, short",
+    "startFen": "3B4/8/1p2p3/bk1p1p2/p2P1Pp1/4P1P1/PP2K3/8 w - - 4 43",
+    "moves": [
+      "Bh4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1p2p3/bk1p1p2/p2P1PpB/4P1P1/PP2K3/8 b - - 5 43",
+      "solution": [
+        "Kc4",
+        "Bd8",
+        "a3"
+      ]
+    },
+    "contextFen": "8/4b3/1pk1p3/p2pBp2/3P2p1/3KPPP1/PP6/8 w - - 0 39",
+    "contextMoves": [
+      "f4",
+      "Bb4",
+      "Ke2",
+      "a4",
+      "Bf6",
+      "Kb5",
+      "Bd8",
+      "Ba5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03gRv",
+    "gameUrl": "https://lichess.org/game/PonnXnHl#75",
+    "theme": "bishopEndgame, endgame, master, mate, mateIn1, oneMove",
+    "startFen": "8/4kp2/1b4p1/p1pBP2p/1pK1PP1P/1P4Pb/PB6/8 w - - 6 38",
+    "moves": [
+      "Bc1"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/4kp2/1b4p1/p1pBP2p/1pK1PP1P/1P4Pb/P7/2B5 b - - 7 38",
+      "solution": [
+        "Bf1#"
+      ]
+    },
+    "contextFen": "5k2/2b2p1p/4b1p1/p1pBP3/1p2PP1P/1P4P1/PB6/6K1 w - - 0 34",
+    "contextMoves": [
+      "Kf2",
+      "h5",
+      "Ke3",
+      "Ke7",
+      "Kd3",
+      "Bh3",
+      "Kc4",
+      "Bb6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03iDV",
+    "gameUrl": "https://lichess.org/game/WGOdiB6P/black#122",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, promotion, quietMove, veryLong",
+    "startFen": "2b5/2P4p/6p1/4K2P/5P2/4k3/8/8 b - - 0 61",
+    "moves": [
+      "gxh5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2b5/2P4p/8/4K2p/5P2/4k3/8/8 w - - 0 62",
+      "solution": [
+        "f5",
+        "h4",
+        "f6",
+        "h3",
+        "f7",
+        "h2",
+        "f8=Q",
+        "h1=Q",
+        "Qxc8",
+        "Qe4+",
+        "Kd6"
+      ]
+    },
+    "contextFen": "8/7p/6p1/1bPK4/5P1P/8/2k5/8 b - - 1 57",
+    "contextMoves": [
+      "Kd3",
+      "c6",
+      "Ke3",
+      "c7",
+      "Ba6",
+      "Ke5",
+      "Bc8",
+      "h5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03igz",
+    "gameUrl": "https://lichess.org/game/xOYmt53E#127",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, long",
+    "startFen": "8/8/3k4/4p3/1PB4p/2P1K2b/8/8 w - - 0 64",
+    "moves": [
+      "Ke4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/3k4/4p3/1PB1K2p/2P4b/8/8 b - - 1 64",
+      "solution": [
+        "Be6",
+        "Bf1",
+        "h3",
+        "Kf3",
+        "h2"
+      ]
+    },
+    "contextFen": "8/8/5k2/4p3/2B4p/2P1K2P/1Pb5/8 w - - 1 60",
+    "contextMoves": [
+      "b3",
+      "Ke7",
+      "b4",
+      "Kd6",
+      "Kd2",
+      "Bf5",
+      "Ke3",
+      "Bxh3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03ion",
+    "gameUrl": "https://lichess.org/game/3SF2uP2J/black#64",
+    "theme": "bishopEndgame, crushing, endgame, long",
+    "startFen": "8/8/1Bkb2pp/P1p1pp2/8/2PPK2P/6P1/8 b - - 2 32",
+    "moves": [
+      "Bc7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2b5/1Bk3pp/P1p1pp2/8/2PPK2P/6P1/8 w - - 3 33",
+      "solution": [
+        "Bxc7",
+        "Kxc7",
+        "d4",
+        "exd4+",
+        "cxd4"
+      ]
+    },
+    "contextFen": "5b2/B1k5/6pp/P1p1pp2/8/2PP4/6PP/6K1 b - - 0 28",
+    "contextMoves": [
+      "Kc6",
+      "Kf2",
+      "Kb5",
+      "Bb6",
+      "Bd6",
+      "h3",
+      "Kc6",
+      "Ke3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03iwX",
+    "gameUrl": "https://lichess.org/game/mqpuhQre/black#98",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, master, short",
+    "startFen": "8/8/8/KP6/4kp1P/8/4bP2/8 b - - 0 49",
+    "moves": [
+      "Kf3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/KP6/5p1P/5k2/4bP2/8 w - - 1 50",
+      "solution": [
+        "b6",
+        "Bd3",
+        "b7"
+      ]
+    },
+    "contextFen": "8/8/8/5pp1/KPk5/6P1/4bP1P/8 b - - 0 45",
+    "contextMoves": [
+      "Kd5",
+      "Ka5",
+      "Ke4",
+      "h4",
+      "gxh4",
+      "gxh4",
+      "f4",
+      "b5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03ns6",
+    "gameUrl": "https://lichess.org/game/hk72rUen/black#108",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, short",
+    "startFen": "3k4/8/1KPb4/p4p2/7p/1P5P/P5P1/8 b - - 4 54",
+    "moves": [
+      "Bc7+"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3k4/2b5/1KP5/p4p2/7p/1P5P/P5P1/8 w - - 5 55",
+      "solution": [
+        "Kb7",
+        "Be5",
+        "a3"
+      ]
+    },
+    "contextFen": "8/4k3/2K2p2/p1P4p/1b6/1P5P/P5P1/8 b - - 0 50",
+    "contextMoves": [
+      "f5",
+      "Kb6",
+      "h4",
+      "c6",
+      "Kd8",
+      "Kb7",
+      "Bd6",
+      "Kb6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03qIH",
+    "gameUrl": "https://lichess.org/game/lDnKCrbf/black#114",
+    "theme": "bishopEndgame, crushing, endgame, quietMove, short",
+    "startFen": "8/4Kb2/p5k1/6Pp/4P2P/P1P5/8/8 b - - 6 57",
+    "moves": [
+      "Kg7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/4Kbk1/p7/6Pp/4P2P/P1P5/8/8 w - - 7 58",
+      "solution": [
+        "e5",
+        "Bc4",
+        "e6"
+      ]
+    },
+    "contextFen": "8/8/p1b3k1/6Pp/5K1P/P1P1P3/8/8 b - - 0 53",
+    "contextMoves": [
+      "Bg2",
+      "e4",
+      "Bf1",
+      "Ke5",
+      "Bc4",
+      "Kd6",
+      "Bf7",
+      "Ke7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03sd0",
+    "gameUrl": "https://lichess.org/game/ZVzHBm5J#119",
+    "theme": "bishopEndgame, crushing, endgame, fork, master, short",
+    "startFen": "8/8/8/3k4/p3pp1p/P1P4P/4K3/7B w - - 0 60",
+    "moves": [
+      "Bg2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/3k4/p3pp1p/P1P4P/4K1B1/8 b - - 1 60",
+      "solution": [
+        "f3+",
+        "Bxf3",
+        "exf3+"
+      ]
+    },
+    "contextFen": "8/8/8/p3k3/4pp1p/P1P4P/4K3/5B2 w - - 2 56",
+    "contextMoves": [
+      "Bg2",
+      "Kd5",
+      "Bh1",
+      "Ke5",
+      "Bg2",
+      "Kd5",
+      "Bh1",
+      "a4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03vhP",
+    "gameUrl": "https://lichess.org/game/bUlykN9E#87",
+    "theme": "bishopEndgame, crushing, endgame, long",
+    "startFen": "8/8/1p6/p3p1p1/P1P2bP1/1P1K4/1k6/3B4 w - - 8 44",
+    "moves": [
+      "Ke2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1p6/p3p1p1/P1P2bP1/1P6/1k2K3/3B4 b - - 9 44",
+      "solution": [
+        "Kc1",
+        "b4",
+        "axb4",
+        "c5",
+        "bxc5"
+      ]
+    },
+    "contextFen": "8/8/1p1k4/p3p1p1/P1PK1bP1/1P6/8/3B4 w - - 0 40",
+    "contextMoves": [
+      "Ke4",
+      "Kc5",
+      "Kd3",
+      "Kb4",
+      "Bc2",
+      "Ka3",
+      "Bd1",
+      "Kb2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03vv8",
+    "gameUrl": "https://lichess.org/game/GTdEkfll/black#104",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/2k2b2/2P5/2K1p1p1/4BpP1/5P2/8/8 b - - 2 52",
+    "moves": [
+      "Be8"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4b3/2k5/2P5/2K1p1p1/4BpP1/5P2/8/8 w - - 3 53",
+      "solution": [
+        "Kd5",
+        "Bxc6+",
+        "Kxe5"
+      ]
+    },
+    "contextFen": "8/8/4bk2/4p1p1/1KP1BpP1/5P2/8/8 b - - 0 48",
+    "contextMoves": [
+      "Ke7",
+      "c5",
+      "Kd7",
+      "Kb5",
+      "Kc7",
+      "c6",
+      "Bf7",
+      "Kc5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03wBp",
+    "gameUrl": "https://lichess.org/game/TdUPsAsb/black#74",
+    "theme": "advantage, bishopEndgame, endgame, veryLong",
+    "startFen": "8/p4k1p/6p1/2p5/3b1p2/1P1K1P2/P1p3PP/2B5 b - - 1 37",
+    "moves": [
+      "Be3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p4k1p/6p1/2p5/5p2/1P1KbP2/P1p3PP/2B5 w - - 2 38",
+      "solution": [
+        "Bxe3",
+        "fxe3",
+        "Kxc2",
+        "e2",
+        "Kd2",
+        "e1=N",
+        "Kxe1"
+      ]
+    },
+    "contextFen": "6k1/p4pbp/6p1/2p5/8/1P6/P1p2PPP/2B3K1 b - - 1 33",
+    "contextMoves": [
+      "f5",
+      "Kf1",
+      "Kf7",
+      "Ke2",
+      "Bd4",
+      "f3",
+      "f4",
+      "Kd3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/03yVQ",
+    "gameUrl": "https://lichess.org/game/7dOWhbdB#115",
+    "theme": "bishopEndgame, crushing, endgame, hangingPiece, long",
+    "startFen": "3B4/3k1p2/bP4p1/3pPp1p/3P1K1P/6P1/8/8 w - - 2 58",
+    "moves": [
+      "Kg5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3B4/3k1p2/bP4p1/3pPpKp/3P3P/6P1/8/8 b - - 3 58",
+      "solution": [
+        "Kxd8",
+        "Kf6",
+        "Ke8",
+        "e6",
+        "fxe6"
+      ]
+    },
+    "contextFen": "8/5p2/1Pk1pBp1/3pP2p/b2P1P1P/4K1P1/8/8 w - - 1 54",
+    "contextMoves": [
+      "Bd8",
+      "Bb5",
+      "Kf3",
+      "Ba6",
+      "f5",
+      "exf5",
+      "Kf4",
+      "Kd7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/041Zm",
+    "gameUrl": "https://lichess.org/game/sBtGdam3#111",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, long",
+    "startFen": "3Bk1K1/4P3/8/8/ppp3P1/P7/1P6/8 w - - 0 56",
+    "moves": [
+      "Ba5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4k1K1/4P3/8/B7/ppp3P1/P7/1P6/8 b - - 1 56",
+      "solution": [
+        "c3",
+        "bxc3",
+        "b3",
+        "Bb4",
+        "b2"
+      ]
+    },
+    "contextFen": "3B3r/3kP1R1/5K2/1p6/p1p5/P5P1/1P6/8 w - - 7 52",
+    "contextMoves": [
+      "Kf7",
+      "Re8",
+      "Rg8",
+      "Rxg8",
+      "Kxg8",
+      "Ke8",
+      "g4",
+      "b4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/045VE",
+    "gameUrl": "https://lichess.org/game/4ZPXvbi1/black#90",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, short",
+    "startFen": "3b4/p7/1PP1k3/P7/6Kp/7P/8/8 b - - 0 45",
+    "moves": [
+      "axb6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3b4/8/1pP1k3/P7/6Kp/7P/8/8 w - - 0 46",
+      "solution": [
+        "a6",
+        "Kd6",
+        "a7"
+      ]
+    },
+    "contextFen": "3k4/p1b5/2P2K2/1P6/P6p/7P/8/8 b - - 2 41",
+    "contextMoves": [
+      "Ke8",
+      "Kg5",
+      "Bd8+",
+      "Kg4",
+      "Kf7",
+      "a5",
+      "Ke6",
+      "b6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04Dut",
+    "gameUrl": "https://lichess.org/game/HlKnMqQU#73",
+    "theme": "bishopEndgame, crushing, discoveredAttack, endgame, master, short",
+    "startFen": "8/B7/p1p5/2p1k2p/3p1p2/1P2b2P/P1P1K1P1/8 w - - 0 37",
+    "moves": [
+      "Bxc5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/p1p5/2B1k2p/3p1p2/1P2b2P/P1P1K1P1/8 b - - 0 37",
+      "solution": [
+        "d3+",
+        "Kxd3",
+        "Bxc5"
+      ]
+    },
+    "contextFen": "8/p1B4p/2p1k3/2p1P3/3p1p2/1P2b3/P1P1K1PP/8 w - - 2 33",
+    "contextMoves": [
+      "Bd6",
+      "Kd5",
+      "h3",
+      "h5",
+      "Bb8",
+      "a6",
+      "Ba7",
+      "Kxe5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04JDR",
+    "gameUrl": "https://lichess.org/game/qOQhLmVw#93",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, long",
+    "startFen": "8/p7/8/P1p5/2P3p1/5k1p/2B4K/8 w - - 2 47",
+    "moves": [
+      "Bf5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p7/8/P1p2B2/2P3p1/5k1p/7K/8 b - - 3 47",
+      "solution": [
+        "g3+",
+        "Kxh3",
+        "g2",
+        "Be4+",
+        "Kxe4"
+      ]
+    },
+    "contextFen": "8/p7/1p6/2p3k1/PPP3pp/8/6K1/3B4 w - - 0 43",
+    "contextMoves": [
+      "bxc5",
+      "bxc5",
+      "a5",
+      "Kf4",
+      "Bc2",
+      "h3+",
+      "Kh2",
+      "Kf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04Ojj",
+    "gameUrl": "https://lichess.org/game/9iQkwadt/black#70",
+    "theme": "advantage, bishopEndgame, defensiveMove, endgame, short",
+    "startFen": "8/1p3k1p/p3P1p1/2PP4/2K1b2P/8/1P3P2/8 b - - 0 35",
+    "moves": [
+      "Ke7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1p2k2p/p3P1p1/2PP4/2K1b2P/8/1P3P2/8 w - - 1 36",
+      "solution": [
+        "Kd4",
+        "Bb1",
+        "Ke5"
+      ]
+    },
+    "contextFen": "4r3/1p4pp/p6k/2P3R1/2KPbP1P/8/1P3P2/8 b - - 4 31",
+    "contextMoves": [
+      "g6",
+      "Re5",
+      "Rxe5",
+      "fxe5",
+      "Kg7",
+      "d5",
+      "Kf7",
+      "e6+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04Wmv",
+    "gameUrl": "https://lichess.org/game/SQ6VDS2C/black#106",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/2B4p/p1p1kPp1/3p2P1/1P1P1K2/P7/8/7b b - - 18 53",
+    "moves": [
+      "h6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2B5/p1p1kPpp/3p2P1/1P1P1K2/P7/8/7b w - - 0 54",
+      "solution": [
+        "gxh6",
+        "g5+",
+        "Kxg5"
+      ]
+    },
+    "contextFen": "8/5k1p/p1p2Pp1/3pB1P1/1P1P4/P3K2b/8/8 b - - 10 49",
+    "contextMoves": [
+      "Bf5",
+      "Kf4",
+      "Be4",
+      "Ke3",
+      "Ke6",
+      "Kf4",
+      "Bh1",
+      "Bc7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04a4F",
+    "gameUrl": "https://lichess.org/game/aaOq0IDz#93",
+    "theme": "bishopEndgame, crushing, endgame, master, short",
+    "startFen": "8/p7/5k1K/6pP/6P1/b4P2/3p4/3B4 w - - 0 47",
+    "moves": [
+      "f4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p7/5k1K/6pP/5PP1/b7/3p4/3B4 b - - 0 47",
+      "solution": [
+        "Bf8+",
+        "Kh7",
+        "gxf4"
+      ]
+    },
+    "contextFen": "8/p3k3/2p3Kp/2P3pP/B5P1/P2pbP2/8/8 w - - 2 43",
+    "contextMoves": [
+      "Bxc6",
+      "Bxc5",
+      "Kxh6",
+      "d2",
+      "Ba4",
+      "Kf6",
+      "Bd1",
+      "Bxa3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04cWG",
+    "gameUrl": "https://lichess.org/game/3EiEqdOi/black#96",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, long, master",
+    "startFen": "8/B5p1/1p2kp1p/p6P/P1P1K1P1/1P6/5b2/8 b - - 10 48",
+    "moves": [
+      "Bc5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/B5p1/1p2kp1p/p1b4P/P1P1K1P1/1P6/8/8 w - - 11 49",
+      "solution": [
+        "b4",
+        "axb4",
+        "a5",
+        "b3",
+        "Kd3"
+      ]
+    },
+    "contextFen": "1B6/6p1/1p2kp1p/p1b4P/P1P1K1P1/1P6/8/8 b - - 2 44",
+    "contextMoves": [
+      "Bg1",
+      "Bg3",
+      "Bc5",
+      "Bc7",
+      "Bg1",
+      "Bb8",
+      "Bf2",
+      "Ba7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04iIL",
+    "gameUrl": "https://lichess.org/game/vONJ0sOG/black#106",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/2b5/8/PP4p1/1K1k4/8/6P1/8 b - - 0 53",
+    "moves": [
+      "Kd5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2b5/8/PP1k2p1/1K6/8/6P1/8 w - - 1 54",
+      "solution": [
+        "b6",
+        "Bxb6",
+        "axb6"
+      ]
+    },
+    "contextFen": "8/8/3b4/6p1/1P6/PK6/3k2PP/8 b - - 1 49",
+    "contextMoves": [
+      "Bxh2",
+      "a4",
+      "Kd3",
+      "b5",
+      "Bc7",
+      "Kb4",
+      "Kd4",
+      "a5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04iQq",
+    "gameUrl": "https://lichess.org/game/ugGYKDx8#67",
+    "theme": "advantage, bishopEndgame, defensiveMove, endgame, long",
+    "startFen": "8/pp1b4/2p5/3p4/3P1ppk/2P5/PPB2KPP/8 w - - 2 34",
+    "moves": [
+      "g3+"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/pp1b4/2p5/3p4/3P1ppk/2P3P1/PPB2K1P/8 b - - 0 34",
+      "solution": [
+        "Kh3",
+        "Kg1",
+        "fxg3",
+        "hxg3",
+        "Kxg3"
+      ]
+    },
+    "contextFen": "8/pp1b1k2/2p5/3p3p/3P1pp1/1BP5/PP2KPPP/8 w - - 2 30",
+    "contextMoves": [
+      "Bc2",
+      "Kf6",
+      "f3",
+      "Kg5",
+      "fxg4",
+      "hxg4",
+      "Kf2",
+      "Kh4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04mzK",
+    "gameUrl": "https://lichess.org/game/1MIbYaNk#99",
+    "theme": "bishopEndgame, crushing, endgame, short, skewer",
+    "startFen": "8/8/p2k1p1p/1p1Pb1p1/1P2P1P1/P4K1P/8/2B5 w - - 2 50",
+    "moves": [
+      "Ke3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/p2k1p1p/1p1Pb1p1/1P2P1P1/P3K2P/8/2B5 b - - 3 50",
+      "solution": [
+        "Bf4+",
+        "Kd3",
+        "Bxc1"
+      ]
+    },
+    "contextFen": "8/4k3/p2b1p1p/1p1Pp1p1/1P2P1P1/P2P3P/1B4K1/8 w - - 5 46",
+    "contextMoves": [
+      "Kf3",
+      "Kd7",
+      "d4",
+      "Ke7",
+      "dxe5",
+      "Bxe5",
+      "Bc1",
+      "Kd6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04nnf",
+    "gameUrl": "https://lichess.org/game/CrTzrWdM/black#96",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, skewer, veryLong",
+    "startFen": "8/8/pbp5/4kp2/P1P4B/1P3K2/8/8 b - - 0 48",
+    "moves": [
+      "Kd4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/pbp5/5p2/P1Pk3B/1P3K2/8/8 w - - 1 49",
+      "solution": [
+        "Bf2+",
+        "Kc3",
+        "Bxb6",
+        "c5",
+        "Ke3",
+        "Kxb3",
+        "Kd3"
+      ]
+    },
+    "contextFen": "8/2b3B1/p1p1k3/5p1p/P1P1r3/1P3K2/8/7R b - - 3 44",
+    "contextMoves": [
+      "h4",
+      "Bh6",
+      "Bb6",
+      "Bg5",
+      "Ke5",
+      "Rxh4",
+      "Rxh4",
+      "Bxh4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04pX4",
+    "gameUrl": "https://lichess.org/game/WscPxwSu#105",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, sacrifice, short",
+    "startFen": "8/8/1b1Bk2p/1P2P1pP/1K1p2P1/5P2/8/8 w - - 0 53",
+    "moves": [
+      "Bc5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1b2k2p/1PB1P1pP/1K1p2P1/5P2/8/8 b - - 1 53",
+      "solution": [
+        "d3",
+        "Bxb6",
+        "d2"
+      ]
+    },
+    "contextFen": "8/2b5/4k2p/1PBpP1pP/3K2P1/5P2/8/8 w - - 1 49",
+    "contextMoves": [
+      "Bd6",
+      "Bb6+",
+      "Kd3",
+      "Ba7",
+      "Kc3",
+      "Bb6",
+      "Kb4",
+      "d4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04qEN",
+    "gameUrl": "https://lichess.org/game/icTOjHKE#121",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, veryLong",
+    "startFen": "8/8/B2p1K2/p1bPp3/1p2P3/1P1Pk3/8/8 w - - 4 61",
+    "moves": [
+      "Ke6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/B2pK3/p1bPp3/1p2P3/1P1Pk3/8/8 b - - 5 61",
+      "solution": [
+        "a4",
+        "bxa4",
+        "b3",
+        "Bc4",
+        "b2",
+        "Ba2",
+        "Kxd3"
+      ]
+    },
+    "contextFen": "8/8/B2p4/p2Pp3/1p1bPk2/1P1P4/5PK1/8 w - - 8 57",
+    "contextMoves": [
+      "Kh3",
+      "Kf3",
+      "Kh4",
+      "Kxf2",
+      "Kg5",
+      "Ke3",
+      "Kf6",
+      "Bc5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04ttV",
+    "gameUrl": "https://lichess.org/game/RutleMzA/black#116",
+    "theme": "bishopEndgame, endgame, mate, mateIn1, oneMove",
+    "startFen": "8/1b6/2p5/3p1Bp1/2kP2P1/2P5/2K5/8 b - - 9 58",
+    "moves": [
+      "c5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1b6/8/2pp1Bp1/2kP2P1/2P5/2K5/8 w - - 0 59",
+      "solution": [
+        "Bd3#"
+      ]
+    },
+    "contextFen": "8/1b6/2p5/k2p1Bp1/3P2P1/K1P5/8/8 b - - 1 54",
+    "contextMoves": [
+      "Kb5",
+      "Be6",
+      "Kc4",
+      "Kb2",
+      "Kd3",
+      "Bf5+",
+      "Kc4",
+      "Kc2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04v6A",
+    "gameUrl": "https://lichess.org/game/mDVe4z86#91",
+    "theme": "bishopEndgame, crushing, endgame, hangingPiece, quietMove, veryLong",
+    "startFen": "8/8/1B4p1/pkP2p2/3KbP2/8/7P/8 w - - 1 46",
+    "moves": [
+      "Bxa5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/6p1/BkP2p2/3KbP2/8/7P/8 b - - 0 46",
+      "solution": [
+        "Kxa5",
+        "Ke5",
+        "Bf3",
+        "Kf6",
+        "Bh5",
+        "c6",
+        "Kb6"
+      ]
+    },
+    "contextFen": "8/p7/1p1B2p1/5p2/2P1bP2/Pk2K3/7P/8 w - - 4 42",
+    "contextMoves": [
+      "Kd4",
+      "a5",
+      "Bc7",
+      "Kxa3",
+      "Bxb6",
+      "Kb4",
+      "c5",
+      "Kb5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04vbn",
+    "gameUrl": "https://lichess.org/game/VmCH2aqg/black#94",
+    "theme": "advancedPawn, bishopEndgame, crushing, defensiveMove, endgame, veryLong",
+    "startFen": "8/8/1P5k/p4p2/8/P3pB2/4Kb2/8 b - - 0 47",
+    "moves": [
+      "Bg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1P5k/p4p2/8/P3pBb1/4K3/8 w - - 1 48",
+      "solution": [
+        "Kxe3",
+        "Bd6",
+        "b7",
+        "Be5",
+        "Kd3",
+        "Kg5",
+        "Kc4"
+      ]
+    },
+    "contextFen": "8/6k1/2B3pP/p4p2/5P2/PP2p3/4Kb2/8 b - - 0 43",
+    "contextMoves": [
+      "Kxh6",
+      "b4",
+      "g5",
+      "b5",
+      "gxf4",
+      "b6",
+      "f3+",
+      "Bxf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04w3U",
+    "gameUrl": "https://lichess.org/game/tOWTre5t/black#104",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, short",
+    "startFen": "8/1p6/p2BpK2/2P2bPk/1P6/8/8/8 b - - 1 52",
+    "moves": [
+      "Bg4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1p6/p2BpK2/2P3Pk/1P4b1/8/8/8 w - - 2 53",
+      "solution": [
+        "g6",
+        "Bf5",
+        "g7"
+      ]
+    },
+    "contextFen": "8/pp6/4p2B/4K1P1/1PP4k/5b2/8/8 b - - 1 48",
+    "contextMoves": [
+      "Bg4",
+      "Kf6",
+      "Kh5",
+      "Bf8",
+      "Bf5",
+      "c5",
+      "a6",
+      "Bd6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/04yUR",
+    "gameUrl": "https://lichess.org/game/jBzDbppv#115",
+    "theme": "bishopEndgame, crushing, endgame, long, master, skewer",
+    "startFen": "8/2b4p/p1k5/8/P1PK1p2/7P/8/4B3 w - - 0 58",
+    "moves": [
+      "Bf2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2b4p/p1k5/8/P1PK1p2/7P/5B2/8 b - - 1 58",
+      "solution": [
+        "Bb6+",
+        "c5",
+        "Bxc5+",
+        "Ke4",
+        "Bxf2"
+      ]
+    },
+    "contextFen": "8/2b4p/p1k3p1/5p2/1BPK2P1/P6P/8/8 w - - 0 54",
+    "contextMoves": [
+      "gxf5",
+      "gxf5",
+      "Bd2",
+      "Bd6",
+      "a4",
+      "Bc7",
+      "Be1",
+      "f4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05EyK",
+    "gameUrl": "https://lichess.org/game/Kd2pYuCX#87",
+    "theme": "bishopEndgame, crushing, discoveredAttack, discoveredCheck, endgame, long",
+    "startFen": "8/5b2/8/3kP1p1/6Pp/1pKB1P1P/8/8 w - - 9 44",
+    "moves": [
+      "Kxb3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5b2/8/3kP1p1/6Pp/1K1B1P1P/8/8 b - - 0 44",
+      "solution": [
+        "Kxe5+",
+        "Kc3",
+        "Kf4",
+        "Be4",
+        "Ke3"
+      ]
+    },
+    "contextFen": "8/4kb2/8/4P1p1/3K2Pp/1p3P1P/8/1B6 w - - 1 40",
+    "contextMoves": [
+      "Kc3",
+      "Kd7",
+      "Kd4",
+      "Kc6",
+      "Kc3",
+      "Kc5",
+      "Bd3",
+      "Kd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05IFX",
+    "gameUrl": "https://lichess.org/game/4WlfFLlX/black#92",
+    "theme": "advantage, bishopEndgame, endgame, long",
+    "startFen": "8/p4p2/2p3p1/1PPb2P1/P4PkP/4K3/8/8 b - - 0 46",
+    "moves": [
+      "Kxh4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p4p2/2p3p1/1PPb2P1/P4P1k/4K3/8/8 w - - 0 47",
+      "solution": [
+        "Kd4",
+        "Be6",
+        "b6",
+        "axb6",
+        "cxb6"
+      ]
+    },
+    "contextFen": "5k2/p4p2/2p3p1/2Pb2P1/1P5P/P7/4KP2/8 b - - 2 42",
+    "contextMoves": [
+      "Ke7",
+      "Ke3",
+      "Ke6",
+      "f4",
+      "Kf5",
+      "a4",
+      "Kg4",
+      "b5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05MpP",
+    "gameUrl": "https://lichess.org/game/XgV4bGqx/black#68",
+    "theme": "bishopEndgame, crushing, endgame, master, veryLong",
+    "startFen": "8/1p2b3/p1p1p1k1/P3P3/2K2BP1/2P5/8/8 b - - 0 34",
+    "moves": [
+      "Bg5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1p6/p1p1p1k1/P3P1b1/2K2BP1/2P5/8/8 w - - 1 35",
+      "solution": [
+        "Bxg5",
+        "Kxg5",
+        "Kc5",
+        "Kxg4",
+        "Kb6",
+        "Kf4",
+        "Kxb7",
+        "Kxe5",
+        "Kxa6"
+      ]
+    },
+    "contextFen": "8/ppp5/1b2p1k1/4P3/5BP1/2P5/P3K3/8 b - - 0 30",
+    "contextMoves": [
+      "Bc5",
+      "Kd3",
+      "c6",
+      "a4",
+      "a6",
+      "Kc4",
+      "Be7",
+      "a5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05OHo",
+    "gameUrl": "https://lichess.org/game/9moSo0uC#87",
+    "theme": "advantage, bishopEndgame, defensiveMove, endgame, long",
+    "startFen": "8/b7/P1p3p1/2p2p1p/4k3/1PK3PP/2PB4/8 w - - 0 44",
+    "moves": [
+      "Kc4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/b7/P1p3p1/2p2p1p/2K1k3/1P4PP/2PB4/8 b - - 1 44",
+      "solution": [
+        "h4",
+        "Be1",
+        "Ke3",
+        "gxh4",
+        "f4"
+      ]
+    },
+    "contextFen": "8/7p/2pb2p1/P1pk1p2/8/1P5P/2PB2P1/2K5 w - - 0 40",
+    "contextMoves": [
+      "Kb2",
+      "Bb8",
+      "a6",
+      "Ba7",
+      "Kc3",
+      "Ke4",
+      "g3",
+      "h5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05Pdl",
+    "gameUrl": "https://lichess.org/game/DysCzMZK#109",
+    "theme": "bishopEndgame, crushing, endgame, hangingPiece, long, quietMove",
+    "startFen": "8/k7/2PKp3/4P3/2P5/5bp1/6B1/8 w - - 2 55",
+    "moves": [
+      "Kd7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/k2K4/2P1p3/4P3/2P5/5bp1/6B1/8 b - - 3 55",
+      "solution": [
+        "Bxg2",
+        "c7",
+        "Bb7",
+        "c8=Q",
+        "Bxc8+"
+      ]
+    },
+    "contextFen": "8/2k5/2P1p3/P1K1P3/8/2P3p1/4b1B1/8 w - - 3 51",
+    "contextMoves": [
+      "c4",
+      "Bg4",
+      "a6",
+      "Kb8",
+      "a7+",
+      "Kxa7",
+      "Kd6",
+      "Bf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05PrB",
+    "gameUrl": "https://lichess.org/game/IkFTl3Ej#97",
+    "theme": "bishopEndgame, crushing, endgame, master, veryLong, zugzwang",
+    "startFen": "8/4k3/2pb1p2/5P2/p1P1K3/2P5/P2B4/8 w - - 4 49",
+    "moves": [
+      "Bf4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/4k3/2pb1p2/5P2/p1P1KB2/2P5/P7/8 b - - 5 49",
+      "solution": [
+        "Bxf4",
+        "Kxf4",
+        "Kd6",
+        "Ke4",
+        "Kc5",
+        "Kd3",
+        "a3"
+      ]
+    },
+    "contextFen": "8/5k2/2p2p2/2P2P1p/p1P4K/2P5/P2B3b/8 w - - 2 45",
+    "contextMoves": [
+      "Kxh5",
+      "Bg1",
+      "Kg4",
+      "Bxc5",
+      "Kf3",
+      "Ke7",
+      "Ke4",
+      "Bd6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05Sxp",
+    "gameUrl": "https://lichess.org/game/gad1hZd3#87",
+    "theme": "advantage, bishopEndgame, defensiveMove, endgame, veryLong",
+    "startFen": "8/8/p4p2/5k2/1P5P/5P1K/2P1b1P1/8 w - - 3 44",
+    "moves": [
+      "g4+"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/p4p2/5k2/1P4PP/5P1K/2P1b3/8 b - - 0 44",
+      "solution": [
+        "Kf4",
+        "h5",
+        "Bxf3",
+        "Kh4",
+        "Bxg4",
+        "h6",
+        "Bf5"
+      ]
+    },
+    "contextFen": "8/8/p4pk1/1b2r3/1P1Q4/5PK1/2P3PP/8 w - - 5 40",
+    "contextMoves": [
+      "Qg4+",
+      "Rg5",
+      "Qxg5+",
+      "Kxg5",
+      "h4+",
+      "Kf5",
+      "Kh3",
+      "Be2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05Uq5",
+    "gameUrl": "https://lichess.org/game/tjHSe8qo/black#112",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, short",
+    "startFen": "8/8/2KPk3/8/5B2/7p/8/5b2 b - - 6 56",
+    "moves": [
+      "Kf7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5k2/2KP4/8/5B2/7p/8/5b2 w - - 7 57",
+      "solution": [
+        "d7",
+        "h2",
+        "Bxh2"
+      ]
+    },
+    "contextFen": "8/3k4/3P4/1p6/PK3B2/7p/8/5b2 b - - 0 52",
+    "contextMoves": [
+      "bxa4",
+      "Kxa4",
+      "Kc6",
+      "Kb4",
+      "Kd7",
+      "Kc5",
+      "Ke6",
+      "Kc6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05WEO",
+    "gameUrl": "https://lichess.org/game/UVUSP54G/black#68",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, master, sacrifice, short",
+    "startFen": "8/4k3/1p3P2/3pP1p1/bP1P2pp/3B4/5KP1/8 b - - 0 34",
+    "moves": [
+      "Ke6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1p2kP2/3pP1p1/bP1P2pp/3B4/5KP1/8 w - - 1 35",
+      "solution": [
+        "Bf5+",
+        "Kxf5",
+        "f7"
+      ]
+    },
+    "contextFen": "2b5/p3k3/1p6/3pPPp1/3P2pp/1P1B4/P4KP1/8 b - - 1 30",
+    "contextMoves": [
+      "a5",
+      "a3",
+      "Bd7",
+      "b4",
+      "axb4",
+      "axb4",
+      "Ba4",
+      "f6+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05WHF",
+    "gameUrl": "https://lichess.org/game/OZe8dbpy/black#112",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, quietMove, veryLong",
+    "startFen": "8/8/3P4/1b4K1/4p1P1/1k2P3/8/8 b - - 0 56",
+    "moves": [
+      "Kc4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/3P4/1b4K1/2k1p1P1/4P3/8/8 w - - 1 57",
+      "solution": [
+        "Kf6",
+        "Kd3",
+        "g5",
+        "Kxe3",
+        "g6",
+        "Kf2",
+        "g7"
+      ]
+    },
+    "contextFen": "8/8/8/k3K1p1/3Pp1P1/P2bP3/8/8 b - - 4 52",
+    "contextMoves": [
+      "Ka4",
+      "d5",
+      "Kxa3",
+      "d6",
+      "Bb5",
+      "Kf6",
+      "Kb3",
+      "Kxg5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05cMs",
+    "gameUrl": "https://lichess.org/game/o2gekI0Z/black#72",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/5p2/p2k1p1p/1p5P/1P1Kb1P1/P7/4B3/8 b - - 1 36",
+    "moves": [
+      "f5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5p2/p2k3p/1p3p1P/1P1Kb1P1/P7/4B3/8 w - - 0 37",
+      "solution": [
+        "g5",
+        "Ke7",
+        "gxh6"
+      ]
+    },
+    "contextFen": "8/5p2/p2kpp1p/1p5P/3K2P1/Pb3P2/1P2B3/8 b - - 4 32",
+    "contextMoves": [
+      "e5+",
+      "Kc3",
+      "Bd5",
+      "b4",
+      "e4",
+      "fxe4",
+      "Bxe4",
+      "Kd4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05dqX",
+    "gameUrl": "https://lichess.org/game/j4VXcyKf/black#110",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, exposedKing, promotion, veryLong",
+    "startFen": "1k6/1P6/2Pb4/1P1P2p1/4KpP1/8/8/8 b - - 1 55",
+    "moves": [
+      "Kc7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1Pk5/2Pb4/1P1P2p1/4KpP1/8/8/8 w - - 2 56",
+      "solution": [
+        "Kf5",
+        "f3",
+        "Ke6",
+        "f2",
+        "b6+",
+        "Kb8",
+        "Kd7",
+        "f1=Q",
+        "c7+",
+        "Kxb7",
+        "c8=Q+"
+      ]
+    },
+    "contextFen": "1k6/1P6/2P4p/1PbP1pp1/8/7P/4K1P1/8 b - - 0 51",
+    "contextMoves": [
+      "Bd6",
+      "Kf3",
+      "h5",
+      "g4",
+      "hxg4+",
+      "hxg4",
+      "f4",
+      "Ke4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05i3A",
+    "gameUrl": "https://lichess.org/game/Hh3wBqun#71",
+    "theme": "advancedPawn, bishopEndgame, crushing, defensiveMove, endgame, long",
+    "startFen": "5B2/p1p5/1k6/2p4p/P1P2Kp1/8/8/8 w - - 2 36",
+    "moves": [
+      "Kg5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5B2/p1p5/1k6/2p3Kp/P1P3p1/8/8/8 b - - 3 36",
+      "solution": [
+        "g3",
+        "Kxh5",
+        "g2",
+        "a5+",
+        "Kc6"
+      ]
+    },
+    "contextFen": "8/p1pk2B1/4r2p/2p5/P1P3p1/2NK4/8/8 w - - 0 32",
+    "contextMoves": [
+      "Ne4",
+      "Kc6",
+      "Bf8",
+      "Rxe4",
+      "Kxe4",
+      "h5",
+      "Kf4",
+      "Kb6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05nOx",
+    "gameUrl": "https://lichess.org/game/fjoLz8z9#85",
+    "theme": "bishopEndgame, crushing, discoveredAttack, endgame, short",
+    "startFen": "8/8/6B1/4kp2/4b1P1/4K3/7P/8 w - - 3 43",
+    "moves": [
+      "h4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/6B1/4kp2/4b1PP/4K3/8/8 b - - 0 43",
+      "solution": [
+        "f4+",
+        "Ke2",
+        "Bxg6"
+      ]
+    },
+    "contextFen": "6B1/1b5p/1k4p1/5p2/8/8/5KPP/8 w - - 0 39",
+    "contextMoves": [
+      "Bxh7",
+      "Be4",
+      "Bxg6",
+      "Kc5",
+      "g4",
+      "Kd6",
+      "Ke3",
+      "Ke5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05sSK",
+    "gameUrl": "https://lichess.org/game/YclAqE18#85",
+    "theme": "bishopEndgame, crushing, endgame, master, masterVsMaster, quietMove, short",
+    "startFen": "8/1p3p1p/p1k1p3/P2bP1Pp/3K1P2/P2B4/8/8 w - - 0 43",
+    "moves": [
+      "Bxh7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1p3p1B/p1k1p3/P2bP1Pp/3K1P2/P7/8/8 b - - 0 43",
+      "solution": [
+        "h4",
+        "f5",
+        "h3"
+      ]
+    },
+    "contextFen": "8/1p3p1p/p1k1p1p1/P2bP3/5PP1/P2BK2P/8/8 w - - 3 39",
+    "contextMoves": [
+      "Kd4",
+      "Bg2",
+      "h4",
+      "Bf3",
+      "g5",
+      "Bd5",
+      "h5",
+      "gxh5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05tPG",
+    "gameUrl": "https://lichess.org/game/o5GNCn6X/black#94",
+    "theme": "advantage, bishopEndgame, endgame, long, quietMove",
+    "startFen": "8/4k3/5pK1/3Pp1p1/4P3/b4P1P/6P1/8 b - - 2 47",
+    "moves": [
+      "Bd6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/4k3/3b1pK1/3Pp1p1/4P3/5P1P/6P1/8 w - - 3 48",
+      "solution": [
+        "g3",
+        "Bb4",
+        "h4",
+        "gxh4",
+        "gxh4"
+      ]
+    },
+    "contextFen": "3k4/8/5p1p/3PpKp1/4P3/bpB2P1P/6P1/8 b - - 3 43",
+    "contextMoves": [
+      "Ke7",
+      "Kg6",
+      "b2",
+      "Bxb2",
+      "Bxb2",
+      "Kxh6",
+      "Ba3",
+      "Kg6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05u49",
+    "gameUrl": "https://lichess.org/game/YrD2htqv#99",
+    "theme": "bishopEndgame, crushing, endgame, veryLong",
+    "startFen": "8/8/p1k3b1/P1P3P1/1PPK1p2/8/8/8 w - - 1 50",
+    "moves": [
+      "b5+"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/p1k3b1/PPP3P1/2PK1p2/8/8/8 b - - 0 50",
+      "solution": [
+        "axb5",
+        "cxb5+",
+        "Kxb5",
+        "c6",
+        "Kxc6",
+        "a6",
+        "Kb6"
+      ]
+    },
+    "contextFen": "8/8/p2k4/6Pb/PPP2p2/2PK4/8/8 w - - 1 46",
+    "contextMoves": [
+      "a5",
+      "Bg6+",
+      "Kd4",
+      "Kc6",
+      "c5",
+      "Kb5",
+      "c4+",
+      "Kc6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/05wPY",
+    "gameUrl": "https://lichess.org/game/eYQqS7kI/black#130",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, veryLong",
+    "startFen": "3b4/8/6K1/4k1PP/8/8/8/8 b - - 0 65",
+    "moves": [
+      "Kf4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3b4/8/6K1/6PP/5k2/8/8/8 w - - 1 66",
+      "solution": [
+        "h6",
+        "Bc7",
+        "h7",
+        "Be5",
+        "Kh6",
+        "Kf5",
+        "g6",
+        "Ke4",
+        "g7"
+      ]
+    },
+    "contextFen": "8/8/8/b2k1KP1/8/7P/8/8 b - - 4 61",
+    "contextMoves": [
+      "Kd6",
+      "Kf6",
+      "Bd8+",
+      "Kg6",
+      "Ke6",
+      "h4",
+      "Ke5",
+      "h5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0602I",
+    "gameUrl": "https://lichess.org/game/rHV8RWe2#61",
+    "theme": "advantage, bishopEndgame, endgame, short",
+    "startFen": "8/7p/2p1kpp1/p1P5/1b1BKP2/6P1/P6P/8 w - - 4 31",
+    "moves": [
+      "g4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/7p/2p1kpp1/p1P5/1b1BKPP1/8/P6P/8 b - - 0 31",
+      "solution": [
+        "f5+",
+        "gxf5+",
+        "gxf5+"
+      ]
+    },
+    "contextFen": "8/4ppkp/2p3p1/p1P1P3/1b1B1P2/6P1/P6P/6K1 w - - 1 27",
+    "contextMoves": [
+      "Kg2",
+      "f6",
+      "exf6+",
+      "exf6",
+      "Kf3",
+      "Kf7",
+      "Ke4",
+      "Ke6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/060a1",
+    "gameUrl": "https://lichess.org/game/6h1e46il#99",
+    "theme": "bishopEndgame, crushing, endgame, quietMove, short",
+    "startFen": "8/8/8/1p1b3p/1P3PkB/4K3/8/8 w - - 10 50",
+    "moves": [
+      "Bg5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/1p1b2Bp/1P3Pk1/4K3/8/8 b - - 11 50",
+      "solution": [
+        "h4",
+        "Bxh4",
+        "Kxh4"
+      ]
+    },
+    "contextFen": "8/8/8/1p3kBp/1P1K1Pb1/8/8/8 w - - 2 46",
+    "contextMoves": [
+      "Kc5",
+      "Be2",
+      "Kd4",
+      "Bc4",
+      "Ke3",
+      "Bd5",
+      "Bh4",
+      "Kg4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/063HL",
+    "gameUrl": "https://lichess.org/game/RzjucJrA#83",
+    "theme": "bishopEndgame, crushing, endgame, quietMove, short",
+    "startFen": "8/7p/2p5/1p1k2KP/p1p5/8/P7/B7 w - - 0 42",
+    "moves": [
+      "Kh6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/7p/2p4K/1p1k3P/p1p5/8/P7/B7 b - - 1 42",
+      "solution": [
+        "b4",
+        "Kxh7",
+        "c3"
+      ]
+    },
+    "contextFen": "8/7p/1pp3p1/p1pk4/5KPP/2B5/P7/8 w - - 0 38",
+    "contextMoves": [
+      "h5",
+      "gxh5",
+      "gxh5",
+      "a4",
+      "Ba1",
+      "b5",
+      "Kg5",
+      "c4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06H7K",
+    "gameUrl": "https://lichess.org/game/nx6A3VVR/black#90",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/1p4b1/p5P1/2P4K/PP6/2Pk4/8/8 b - - 0 45",
+    "moves": [
+      "Kxc3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1p4b1/p5P1/2P4K/PP6/2k5/8/8 w - - 0 46",
+      "solution": [
+        "b5",
+        "axb5",
+        "axb5"
+      ]
+    },
+    "contextFen": "8/1p4b1/p1p2kP1/7K/8/P1PP4/1P6/8 b - - 0 41",
+    "contextMoves": [
+      "Kf5",
+      "a4",
+      "c5",
+      "d4",
+      "Ke4",
+      "dxc5",
+      "Kd3",
+      "b4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06Hu2",
+    "gameUrl": "https://lichess.org/game/rf51qjZj/black#96",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, long",
+    "startFen": "8/1p2k3/1Pb5/5P2/3KP1Pp/7P/8/8 b - - 0 48",
+    "moves": [
+      "Kf6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1p6/1Pb2k2/5P2/3KP1Pp/7P/8/8 w - - 1 49",
+      "solution": [
+        "e5+",
+        "Ke7",
+        "Ke3",
+        "Bg2",
+        "Kf4"
+      ]
+    },
+    "contextFen": "8/1p6/2b5/4nPk1/PR2P1Pp/4K2P/8/8 b - - 0 44",
+    "contextMoves": [
+      "Kf6",
+      "a5",
+      "Ke7",
+      "Rb6",
+      "Nc4+",
+      "Kd4",
+      "Nxb6",
+      "axb6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06KDj",
+    "gameUrl": "https://lichess.org/game/IaoZ6JmL#117",
+    "theme": "bishopEndgame, endgame, mate, mateIn2, short",
+    "startFen": "4k3/8/6p1/1bBPp3/1P2Pb1p/2p2K1P/2B3P1/8 w - - 2 59",
+    "moves": [
+      "Kg4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4k3/8/6p1/1bBPp3/1P2PbKp/2p4P/2B3P1/8 b - - 3 59",
+      "solution": [
+        "Be2+",
+        "Kxh4",
+        "g5#"
+      ]
+    },
+    "contextFen": "8/3k1pp1/8/1bBPpP2/1Pp1Pb1p/7P/2B2KP1/8 w - - 7 55",
+    "contextMoves": [
+      "Kf3",
+      "c3",
+      "Bf8",
+      "g6",
+      "fxg6",
+      "fxg6",
+      "Bc5",
+      "Ke8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06Kmo",
+    "gameUrl": "https://lichess.org/game/S9kLuoFK#63",
+    "theme": "bishopEndgame, crushing, endgame, long",
+    "startFen": "8/p4b2/1p5p/2p1k1p1/P1P2pP1/1P1K1P1P/8/3B4 w - - 2 32",
+    "moves": [
+      "Bc2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p4b2/1p5p/2p1k1p1/P1P2pP1/1P1K1P1P/2B5/8 b - - 3 32",
+      "solution": [
+        "Bg6+",
+        "Kc3",
+        "Bxc2",
+        "Kxc2",
+        "Kd4"
+      ]
+    },
+    "contextFen": "8/p4p2/1p1kb2p/2p3p1/P1P3P1/1P5P/5PK1/3B4 w - - 2 28",
+    "contextMoves": [
+      "Kf3",
+      "Ke5",
+      "Ke3",
+      "f5",
+      "f3",
+      "f4+",
+      "Kd3",
+      "Bf7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06RIh",
+    "gameUrl": "https://lichess.org/game/cHa9rciL#111",
+    "theme": "bishopEndgame, crushing, endgame, long",
+    "startFen": "8/8/3k4/p1p1pBK1/Pp2P3/1P2P3/8/8 w - - 3 56",
+    "moves": [
+      "Bh7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/7B/3k4/p1p1p1K1/Pp2P3/1P2P3/8/8 b - - 4 56",
+      "solution": [
+        "c4",
+        "bxc4",
+        "Kc5",
+        "Bg6",
+        "b3"
+      ]
+    },
+    "contextFen": "8/7k/6p1/p1pBp1K1/Pp2P3/1P2P3/8/8 w - - 5 52",
+    "contextMoves": [
+      "Bc6",
+      "Kg7",
+      "Be8",
+      "Kf8",
+      "Bxg6",
+      "Ke7",
+      "Bf5",
+      "Kd6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06Rus",
+    "gameUrl": "https://lichess.org/game/oYJHlKQp#115",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, promotion, veryLong",
+    "startFen": "8/8/8/3k1K2/4pP2/4B3/2p5/8 w - - 1 58",
+    "moves": [
+      "Kf6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/5K2/3k4/4pP2/4B3/2p5/8 b - - 2 58",
+      "solution": [
+        "Kc4",
+        "f5",
+        "Kd3",
+        "Bc1",
+        "e3",
+        "Kg6",
+        "e2",
+        "f6",
+        "e1=Q"
+      ]
+    },
+    "contextFen": "8/Pk6/8/5p1p/4pP1K/4B3/2p5/8 w - - 1 54",
+    "contextMoves": [
+      "a8=Q+",
+      "Kxa8",
+      "Kxh5",
+      "Kb7",
+      "Kg5",
+      "Kc6",
+      "Kxf5",
+      "Kd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06TSi",
+    "gameUrl": "https://lichess.org/game/z4eunItw#69",
+    "theme": "advancedPawn, bishopEndgame, clearance, crushing, endgame, long, sacrifice",
+    "startFen": "8/6pp/3b1p2/B7/1pP2P2/3K2P1/k6P/8 w - - 0 35",
+    "moves": [
+      "Kd4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6pp/3b1p2/B7/1pPK1P2/6P1/k6P/8 b - - 1 35",
+      "solution": [
+        "b3",
+        "Bc3",
+        "Bb4",
+        "Bxb4",
+        "b2"
+      ]
+    },
+    "contextFen": "8/6pp/3b1p2/pkp5/5P2/1PPK2P1/P4B1P/8 w - - 6 31",
+    "contextMoves": [
+      "c4+",
+      "Kb4",
+      "Be1+",
+      "Ka3",
+      "Bxa5",
+      "Kxa2",
+      "b4",
+      "cxb4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06TyG",
+    "gameUrl": "https://lichess.org/game/z6QQm7bp#99",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/8/6p1/2B2p1p/1P1p1P1P/1kb3P1/4K3/8 w - - 1 50",
+    "moves": [
+      "b5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/6p1/1PB2p1p/3p1P1P/1kb3P1/4K3/8 b - - 0 50",
+      "solution": [
+        "Kc2",
+        "b6",
+        "d3+"
+      ]
+    },
+    "contextFen": "8/8/5Bp1/1kp2p1p/3p1P1P/1Pb3P1/P7/3K4 w - - 4 46",
+    "contextMoves": [
+      "Ke2",
+      "Kb4",
+      "Be7",
+      "Ka3",
+      "Bxc5+",
+      "Kxa2",
+      "b4",
+      "Kb3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06Xby",
+    "gameUrl": "https://lichess.org/game/1DoWsbA8#97",
+    "theme": "bishopEndgame, crushing, endgame, quietMove, sacrifice, veryLong",
+    "startFen": "8/2b2B2/1k3p1p/pPpPp1pP/K1P1P1P1/8/8/8 w - - 7 49",
+    "moves": [
+      "Be8"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4B3/2b5/1k3p1p/pPpPp1pP/K1P1P1P1/8/8/8 b - - 8 49",
+      "solution": [
+        "f5",
+        "exf5",
+        "e4",
+        "d6",
+        "e3",
+        "dxc7",
+        "Kxc7"
+      ]
+    },
+    "contextFen": "3b4/2k5/2B2p1p/prpPp1pP/P1P1P1P1/1K6/8/8 w - - 0 45",
+    "contextMoves": [
+      "axb5",
+      "Be7",
+      "Ka4",
+      "Kb6",
+      "Be8",
+      "Bd6",
+      "Bf7",
+      "Bc7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06hm4",
+    "gameUrl": "https://lichess.org/game/l5RAJya1/black#136",
+    "theme": "bishopEndgame, crushing, endgame, veryLong",
+    "startFen": "8/5k2/1p1p1b1K/1P1P4/5B2/8/8/8 b - - 4 68",
+    "moves": [
+      "Be5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5k2/1p1p3K/1P1Pb3/5B2/8/8/8 w - - 5 69",
+      "solution": [
+        "Bxe5",
+        "dxe5",
+        "Kg5",
+        "e4",
+        "Kf4",
+        "e3",
+        "Kxe3"
+      ]
+    },
+    "contextFen": "4k3/8/1p1p2p1/1PbP2B1/6KP/8/8/8 b - - 30 64",
+    "contextMoves": [
+      "Kf7",
+      "h5",
+      "gxh5+",
+      "Kxh5",
+      "Bd4",
+      "Kh6",
+      "Bf6",
+      "Bf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06qkY",
+    "gameUrl": "https://lichess.org/game/hyeTPlRW#89",
+    "theme": "bishopEndgame, endgame, mate, mateIn2, short",
+    "startFen": "8/6p1/p3bp2/P6P/2p2k1K/2B4P/1P6/8 w - - 1 45",
+    "moves": [
+      "h6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6p1/p3bp1P/P7/2p2k1K/2B4P/1P6/8 b - - 0 45",
+      "solution": [
+        "g5+",
+        "Kh5",
+        "Bf7#"
+      ]
+    },
+    "contextFen": "8/6p1/p3bp2/P6p/2p1k3/2B3KP/1P3PP1/8 w - - 0 41",
+    "contextMoves": [
+      "f3+",
+      "Ke3",
+      "Kh4",
+      "Kf2",
+      "g4",
+      "Kxf3",
+      "gxh5",
+      "Kf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06qxl",
+    "gameUrl": "https://lichess.org/game/zwmiaD29/black#92",
+    "theme": "bishopEndgame, crushing, deflection, endgame, short, skewer",
+    "startFen": "8/7b/7P/2p2PB1/6P1/1pk1p3/4K3/8 b - - 0 46",
+    "moves": [
+      "b2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/7b/7P/2p2PB1/6P1/2k1p3/1p2K3/8 w - - 0 47",
+      "solution": [
+        "Bf6+",
+        "Kc4",
+        "Bxb2"
+      ]
+    },
+    "contextFen": "8/8/8/1pp3BP/4p1P1/2kb4/5P2/4K3 b - - 0 42",
+    "contextMoves": [
+      "b4",
+      "h6",
+      "e3",
+      "f4",
+      "Bh7",
+      "Ke2",
+      "b3",
+      "f5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06wQr",
+    "gameUrl": "https://lichess.org/game/F8x5toMG#109",
+    "theme": "bishopEndgame, crushing, endgame, master, short",
+    "startFen": "8/5p2/pB4p1/P4p1p/3p1P1P/2k5/4K3/8 w - - 3 55",
+    "moves": [
+      "Bc7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2B2p2/p5p1/P4p1p/3p1P1P/2k5/4K3/8 b - - 4 55",
+      "solution": [
+        "Kc2",
+        "Bb6",
+        "d3+"
+      ]
+    },
+    "contextFen": "8/5p2/p5p1/5p1p/P2p1P1P/3k1K2/8/4B3 w - - 0 51",
+    "contextMoves": [
+      "Ba5",
+      "Kc4",
+      "Bb6",
+      "Kd3",
+      "a5",
+      "Kc4",
+      "Ke2",
+      "Kc3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06xmE",
+    "gameUrl": "https://lichess.org/game/MR7bFdci#71",
+    "theme": "bishopEndgame, crushing, endgame, master, short",
+    "startFen": "8/7p/p2Bp1p1/1k2P3/2p1K1P1/2P4P/P4b2/8 w - - 0 36",
+    "moves": [
+      "Kf3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/7p/p2Bp1p1/1k2P3/2p3P1/2P2K1P/P4b2/8 b - - 1 36",
+      "solution": [
+        "Be1",
+        "Ke4",
+        "Bxc3"
+      ]
+    },
+    "contextFen": "8/B3b1pp/p1k1p3/4P3/2p3P1/2P1K2P/P7/8 w - - 6 32",
+    "contextMoves": [
+      "Kd4",
+      "Kb5",
+      "Bb8",
+      "Bc5+",
+      "Ke4",
+      "Bf2",
+      "Bd6",
+      "g6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/06yJA",
+    "gameUrl": "https://lichess.org/game/qoIZmYzH/black#82",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/8/2p1pk2/p1K2p1P/P4P2/2P2b2/2B5/8 b - - 4 41",
+    "moves": [
+      "e5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/2p2k2/p1K1pp1P/P4P2/2P2b2/2B5/8 w - - 0 42",
+      "solution": [
+        "fxe5+",
+        "Kxe5",
+        "h6"
+      ]
+    },
+    "contextFen": "8/p3k3/2p1ppB1/3b3P/P7/2P1KP2/8/8 b - - 2 37",
+    "contextMoves": [
+      "a5",
+      "Bc2",
+      "f5",
+      "f4",
+      "Kf6",
+      "Kd4",
+      "Bf3",
+      "Kc5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/070Gp",
+    "gameUrl": "https://lichess.org/game/NpU2v5iM/black#84",
+    "theme": "advancedPawn, bishopEndgame, crushing, deflection, endgame, promotion, short",
+    "startFen": "4B3/P4p1p/6p1/2pb4/2p5/2K2k1P/8/8 b - - 0 42",
+    "moves": [
+      "Kg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4B3/P4p1p/6p1/2pb4/2p5/2K3kP/8/8 w - - 1 43",
+      "solution": [
+        "Bxf7",
+        "Bxf7",
+        "a8=Q"
+      ]
+    },
+    "contextFen": "4B3/5p1p/6p1/2pbk3/2p5/P1K2P1P/6P1/8 b - - 3 38",
+    "contextMoves": [
+      "Kf4",
+      "a4",
+      "Kg3",
+      "a5",
+      "Kxg2",
+      "a6",
+      "Kxf3",
+      "a7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/070fa",
+    "gameUrl": "https://lichess.org/game/NPxaYniS/black#96",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, master, short",
+    "startFen": "8/p2kb3/8/PP1KP3/5Bp1/2p4p/7P/8 b - - 1 48",
+    "moves": [
+      "c2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p2kb3/8/PP1KP3/5Bp1/7p/2p4P/8 w - - 0 49",
+      "solution": [
+        "e6+",
+        "Kc8",
+        "Kc6"
+      ]
+    },
+    "contextFen": "8/p2kb3/4p3/PP1pPP2/2pK2p1/2B3Pp/7P/8 b - - 0 44",
+    "contextMoves": [
+      "exf5",
+      "Kxd5",
+      "f4",
+      "Be1",
+      "fxg3",
+      "Bxg3",
+      "c3",
+      "Bf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/075ET",
+    "gameUrl": "https://lichess.org/game/9IOnOXj3#73",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, long, quietMove",
+    "startFen": "8/1Bp5/1p1kb3/p7/1P6/P2P1K2/8/8 w - - 0 37",
+    "moves": [
+      "Ke4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1Bp5/1p1kb3/p7/1P2K3/P2P4/8/8 b - - 1 37",
+      "solution": [
+        "axb4",
+        "axb4",
+        "b5",
+        "d4",
+        "c6"
+      ]
+    },
+    "contextFen": "3k4/2p5/ppB1b3/8/1P4p1/P2PK3/5P2/8 w - - 3 33",
+    "contextMoves": [
+      "Kf4",
+      "Ke7",
+      "f3",
+      "gxf3",
+      "Kxf3",
+      "Kd6",
+      "Bb7",
+      "a5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/075P8",
+    "gameUrl": "https://lichess.org/game/R2Eejr9a/black#84",
+    "theme": "bishopEndgame, crushing, endgame, hangingPiece, short",
+    "startFen": "8/8/2p4b/3p3p/1p1P3P/1k1K4/3B4/8 b - - 1 42",
+    "moves": [
+      "Ka4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/2p4b/3p3p/kp1P3P/3K4/3B4/8 w - - 2 43",
+      "solution": [
+        "Bxh6",
+        "Ka3",
+        "Bf8"
+      ]
+    },
+    "contextFen": "8/2p5/6pb/1p1p3P/1k1P3P/5K2/8/B7 b - - 0 38",
+    "contextMoves": [
+      "gxh5",
+      "Ke2",
+      "Kb3",
+      "Kd3",
+      "c6",
+      "Bc3",
+      "b4",
+      "Bd2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07AKC",
+    "gameUrl": "https://lichess.org/game/sIQjuwUQ#131",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, promotion, veryLong",
+    "startFen": "8/8/8/8/p2B4/2Pk4/5K2/8 w - - 0 66",
+    "moves": [
+      "Ke1"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/8/p2B4/2Pk4/8/4K3 b - - 1 66",
+      "solution": [
+        "a3",
+        "Be5",
+        "Kc4",
+        "Bf6",
+        "a2",
+        "Ke2",
+        "a1=Q"
+      ]
+    },
+    "contextFen": "8/8/p5r1/8/3Bk3/2P4K/6p1/6R1 w - - 2 62",
+    "contextMoves": [
+      "Rxg2",
+      "Rxg2",
+      "Kxg2",
+      "Kd3",
+      "Kf3",
+      "a5",
+      "Kf2",
+      "a4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07C1F",
+    "gameUrl": "https://lichess.org/game/GIxKvk6w#129",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, short",
+    "startFen": "8/p7/1p6/5p2/P1B2k1K/6p1/8/8 w - - 0 65",
+    "moves": [
+      "Kh3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p7/1p6/5p2/P1B2k2/6pK/8/8 b - - 1 65",
+      "solution": [
+        "Kf3",
+        "Bd5+",
+        "Kf2"
+      ]
+    },
+    "contextFen": "8/p7/1pB5/4kpp1/P7/5K2/8/8 w - - 0 61",
+    "contextMoves": [
+      "Bb5",
+      "g4+",
+      "Kg3",
+      "Ke4",
+      "Kh4",
+      "Kf4",
+      "Bc4",
+      "g3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07EXF",
+    "gameUrl": "https://lichess.org/game/ngukTusV#171",
+    "theme": "bishopEndgame, crushing, endgame, master, short, zugzwang",
+    "startFen": "8/8/8/8/5p2/5b2/5P2/4KBk1 w - - 20 86",
+    "moves": [
+      "Be2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/8/5p2/5b2/4BP2/4K1k1 b - - 21 86",
+      "solution": [
+        "Bxe2",
+        "Kxe2",
+        "Kg2"
+      ]
+    },
+    "contextFen": "8/8/8/8/4bp2/5k2/5P2/4KB2 w - - 12 82",
+    "contextMoves": [
+      "Be2+",
+      "Kg2",
+      "Bf1+",
+      "Kg1",
+      "Be2",
+      "Bd5",
+      "Bf1",
+      "Bf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07GkW",
+    "gameUrl": "https://lichess.org/game/fCsIiS3H/black#92",
+    "theme": "advancedPawn, bishopEndgame, crushing, defensiveMove, endgame, veryLong",
+    "startFen": "8/7p/5b2/P2p4/3kpKP1/7P/3B4/8 b - - 0 46",
+    "moves": [
+      "Bd8"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3b4/7p/8/P2p4/3kpKP1/7P/3B4/8 w - - 1 47",
+      "solution": [
+        "Be3+",
+        "Kd3",
+        "a6",
+        "Bc7+",
+        "Kf5",
+        "Bb8",
+        "a7",
+        "Bxa7",
+        "Bxa7",
+        "e3",
+        "Ke5",
+        "e2",
+        "Bf2"
+      ]
+    },
+    "contextFen": "8/7p/2k5/3p2b1/PB1Kp1P1/7P/8/8 b - - 2 42",
+    "contextMoves": [
+      "Bh4",
+      "Bd2",
+      "Bf6+",
+      "Ke3",
+      "Kc5",
+      "Kf4",
+      "Kd4",
+      "a5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07Jq6",
+    "gameUrl": "https://lichess.org/game/F1yKQBE4/black#86",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/8/5p2/pkpK2p1/3b2P1/1P5P/8/4B3 b - - 3 43",
+    "moves": [
+      "a4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/5p2/1kpK2p1/p2b2P1/1P5P/8/4B3 w - - 0 44",
+      "solution": [
+        "bxa4+",
+        "Kxa4",
+        "Kc4"
+      ]
+    },
+    "contextFen": "8/8/1pk2pp1/p1p1b3/2P1K1P1/1P2B2P/8/8 b - - 3 39",
+    "contextMoves": [
+      "g5",
+      "Bf2",
+      "b5",
+      "cxb5+",
+      "Kxb5",
+      "Kd5",
+      "Bd4",
+      "Be1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07Lzp",
+    "gameUrl": "https://lichess.org/game/nr4okeBN#77",
+    "theme": "bishopEndgame, collinearMove, crushing, endgame, long, quietMove",
+    "startFen": "4b3/8/5p1p/2k1pPp1/2p1P1P1/2P3P1/2BK4/8 w - - 3 39",
+    "moves": [
+      "Bb1"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4b3/8/5p1p/2k1pPp1/2p1P1P1/2P3P1/3K4/1B6 b - - 4 39",
+      "solution": [
+        "Ba4",
+        "Bc2",
+        "Kb5",
+        "Kc1",
+        "Bb3"
+      ]
+    },
+    "contextFen": "8/5b2/5ppp/1kb1pP2/2p1P1P1/2P1N1P1/2BK4/8 w - - 3 35",
+    "contextMoves": [
+      "Kd1",
+      "g5",
+      "Kd2",
+      "Bxe3+",
+      "Kxe3",
+      "Kc5",
+      "Kd2",
+      "Be8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07Q4K",
+    "gameUrl": "https://lichess.org/game/zBVV8CGL/black#66",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, short",
+    "startFen": "8/6p1/2p1p1kp/p3P3/3Pb2P/2P3P1/5K2/3B4 b - - 3 33",
+    "moves": [
+      "Kf5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6p1/2p1p2p/p3Pk2/3Pb2P/2P3P1/5K2/3B4 w - - 4 34",
+      "solution": [
+        "Ke3",
+        "Bg2",
+        "Bh5"
+      ]
+    },
+    "contextFen": "8/p4kpb/1pp1p2p/4P3/1P1P2B1/2P3P1/7P/6K1 b - - 0 29",
+    "contextMoves": [
+      "Be4",
+      "h4",
+      "a5",
+      "bxa5",
+      "bxa5",
+      "Bd1",
+      "Kg6",
+      "Kf2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07Sgj",
+    "gameUrl": "https://lichess.org/game/mVqnJEKf/black#92",
+    "theme": "bishopEndgame, crushing, endgame, master, short",
+    "startFen": "8/4p3/1p3bP1/2p5/2P1B1K1/3Pk3/8/8 b - - 0 46",
+    "moves": [
+      "Kd4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/4p3/1p3bP1/2p5/2PkB1K1/3P4/8/8 w - - 1 47",
+      "solution": [
+        "Kf5",
+        "Kc3",
+        "Ke6"
+      ]
+    },
+    "contextFen": "8/4p3/1p1b4/2p3Pp/2PkB3/3P2P1/6K1/8 b - - 0 42",
+    "contextMoves": [
+      "Ke3",
+      "g6",
+      "Be5",
+      "Kh3",
+      "Bf6",
+      "g4",
+      "hxg4+",
+      "Kxg4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07TfA",
+    "gameUrl": "https://lichess.org/game/hsUcl4gc#71",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/4b2p/pp4p1/4kp2/PPP5/3K1P1P/3B4/8 w - - 0 36",
+    "moves": [
+      "Ke3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/4b2p/pp4p1/4kp2/PPP5/4KP1P/3B4/8 b - - 1 36",
+      "solution": [
+        "Bg5+",
+        "Ke2",
+        "Bxd2"
+      ]
+    },
+    "contextFen": "8/1p4pp/p7/4kp2/PbP5/1P2BP1P/4K3/8 w - - 5 32",
+    "contextMoves": [
+      "Kd3",
+      "g6",
+      "Bg5",
+      "Bc5",
+      "Bd2",
+      "Be7",
+      "b4",
+      "b6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07Uyt",
+    "gameUrl": "https://lichess.org/game/bcW2g21j/black#94",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, veryLong",
+    "startFen": "8/p3kp2/4b3/2P3p1/3KB1Pp/7P/P7/8 b - - 0 47",
+    "moves": [
+      "Kd7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p2k1p2/4b3/2P3p1/3KB1Pp/7P/P7/8 w - - 1 48",
+      "solution": [
+        "Bd5",
+        "Bxd5",
+        "Kxd5",
+        "f5",
+        "gxf5",
+        "g4",
+        "Ke4"
+      ]
+    },
+    "contextFen": "8/p4pk1/4b3/2p3p1/2P1B1Pp/3PQ1qP/P3K3/8 b - - 5 43",
+    "contextMoves": [
+      "Qxe3+",
+      "Kxe3",
+      "Kf6",
+      "d4",
+      "cxd4+",
+      "Kxd4",
+      "Ke7",
+      "c5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07YSy",
+    "gameUrl": "https://lichess.org/game/cmxzRAWi/black#86",
+    "theme": "advancedPawn, bishopEndgame, crushing, defensiveMove, endgame, short",
+    "startFen": "8/1K3p1p/3P1kp1/4P3/3b4/2pB4/6PP/8 b - - 0 43",
+    "moves": [
+      "Bxe5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1K3p1p/3P1kp1/4b3/8/2pB4/6PP/8 w - - 0 44",
+      "solution": [
+        "d7",
+        "Ke7",
+        "Kc8"
+      ]
+    },
+    "contextFen": "8/1K2pp1p/5kp1/2pP4/3b1P2/5B2/6PP/8 b - - 0 39",
+    "contextMoves": [
+      "c4",
+      "Be2",
+      "c3",
+      "Bd3",
+      "e6",
+      "d6",
+      "e5",
+      "fxe5+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07ap0",
+    "gameUrl": "https://lichess.org/game/uFipkC8c/black#72",
+    "theme": "bishopEndgame, crushing, endgame, master, short",
+    "startFen": "8/8/1p1b4/p1p2k2/P1Pp2p1/1P1P1P2/3B2K1/8 b - - 2 36",
+    "moves": [
+      "g3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1p1b4/p1p2k2/P1Pp4/1P1P1Pp1/3B2K1/8 w - - 0 37",
+      "solution": [
+        "Be1",
+        "Be7",
+        "Bxg3"
+      ]
+    },
+    "contextFen": "8/4b3/1p6/p1p2kpp/P1Pp1p2/1P1P1P1P/3B1KP1/8 b - - 3 32",
+    "contextMoves": [
+      "g4",
+      "hxg4+",
+      "hxg4",
+      "g3",
+      "fxg3+",
+      "Kxg3",
+      "Bd6+",
+      "Kg2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07p04",
+    "gameUrl": "https://lichess.org/game/EA5KmCm7/black#84",
+    "theme": "advancedPawn, advantage, bishopEndgame, endgame, long, promotion",
+    "startFen": "8/8/1P1P2bp/4k1p1/6P1/4pP1P/7b/5K2 b - - 0 42",
+    "moves": [
+      "Kd4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1P1P2bp/6p1/3k2P1/4pP1P/7b/5K2 w - - 1 43",
+      "solution": [
+        "d7",
+        "Bd3+",
+        "Kg2",
+        "e2",
+        "d8=Q+"
+      ]
+    },
+    "contextFen": "8/5k2/3q2bp/1P1P2p1/2Q3P1/4pP1P/7b/5K2 b - - 0 38",
+    "contextMoves": [
+      "Qg3",
+      "d6+",
+      "Kf6",
+      "Qd4+",
+      "Qe5",
+      "Qxe5+",
+      "Kxe5",
+      "b6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/07vQj",
+    "gameUrl": "https://lichess.org/game/kMShvmBQ/black#94",
+    "theme": "bishopEndgame, crushing, endgame, quietMove, short",
+    "startFen": "5B2/p4p2/6p1/1p5p/k1p2P2/2K3P1/P7/8 b - - 3 47",
+    "moves": [
+      "a5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5B2/5p2/6p1/pp5p/k1p2P2/2K3P1/P7/8 w - - 0 48",
+      "solution": [
+        "a3",
+        "b4+",
+        "axb4"
+      ]
+    },
+    "contextFen": "8/p4pp1/1p5p/8/1kpBKP2/6P1/P7/8 b - - 1 43",
+    "contextMoves": [
+      "g6",
+      "Bg7",
+      "h5",
+      "Kd4",
+      "b5",
+      "Bf8+",
+      "Ka4",
+      "Kc3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/080jt",
+    "gameUrl": "https://lichess.org/game/l5HJGg2L/black#140",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, long",
+    "startFen": "8/5K2/3bP3/3P2p1/5kP1/p7/B7/8 b - - 16 70",
+    "moves": [
+      "Kxg4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5K2/3bP3/3P2p1/6k1/p7/B7/8 w - - 0 71",
+      "solution": [
+        "e7",
+        "Bxe7",
+        "Kxe7",
+        "Kf3",
+        "d6"
+      ]
+    },
+    "contextFen": "8/4b2K/4Pk2/3P2p1/6P1/p7/B7/8 b - - 8 66",
+    "contextMoves": [
+      "Bf8",
+      "Kg8",
+      "Bd6",
+      "Kh7",
+      "Ke5",
+      "Kg7",
+      "Kf4",
+      "Kf7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/080z5",
+    "gameUrl": "https://lichess.org/game/xi9c0eE5#87",
+    "theme": "bishopEndgame, crushing, endgame, long, quietMove",
+    "startFen": "8/8/8/pp6/2pB2K1/2P5/PPk5/8 w - - 1 44",
+    "moves": [
+      "Bb6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1B6/pp6/2p3K1/2P5/PPk5/8 b - - 2 44",
+      "solution": [
+        "a4",
+        "a3",
+        "Kxb2",
+        "Bc5",
+        "Kxc3"
+      ]
+    },
+    "contextFen": "8/8/3k4/pp6/2p3p1/2P5/PP2KB2/8 w - - 0 40",
+    "contextMoves": [
+      "Bd4",
+      "Kd5",
+      "Kf2",
+      "Ke4",
+      "Kg3",
+      "Kd3",
+      "Kxg4",
+      "Kc2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0843V",
+    "gameUrl": "https://lichess.org/game/2gVlBrn5/black#100",
+    "theme": "advancedPawn, advantage, bishopEndgame, endgame, long, promotion",
+    "startFen": "4kb2/8/5P2/P3K2p/7P/1p6/b7/2B5 b - - 1 50",
+    "moves": [
+      "Bh6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4k3/8/5P1b/P3K2p/7P/1p6/b7/2B5 w - - 2 51",
+      "solution": [
+        "a6",
+        "Kf7",
+        "a7",
+        "Bxc1",
+        "a8=Q"
+      ]
+    },
+    "contextFen": "4k3/4bb2/8/p3KPBp/1p5P/1P6/P7/8 b - - 3 46",
+    "contextMoves": [
+      "Bf8",
+      "f6",
+      "a4",
+      "bxa4",
+      "Bxa2",
+      "a5",
+      "b3",
+      "Bc1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/084gt",
+    "gameUrl": "https://lichess.org/game/sF6QIHMe#71",
+    "theme": "bishopEndgame, crushing, endgame, long",
+    "startFen": "1B6/4b3/p1k1p1p1/4P3/P2K2P1/8/8/8 w - - 7 36",
+    "moves": [
+      "Kc4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "1B6/4b3/p1k1p1p1/4P3/P1K3P1/8/8/8 b - - 8 36",
+      "solution": [
+        "Kb7",
+        "Bd6",
+        "Bxd6",
+        "exd6",
+        "Kc6"
+      ]
+    },
+    "contextFen": "5b2/5k2/pB2p1p1/4P3/P3K1p1/7P/8/8 w - - 0 32",
+    "contextMoves": [
+      "hxg4",
+      "Be7",
+      "Bc7",
+      "Ke8",
+      "Kd4",
+      "Kd7",
+      "Bb8",
+      "Kc6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/087mL",
+    "gameUrl": "https://lichess.org/game/YZGu9qYh/black#70",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, short",
+    "startFen": "6k1/5p1p/6p1/1pPp4/pP6/P4PPP/8/2b3K1 b - - 0 35",
+    "moves": [
+      "Bxa3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6k1/5p1p/6p1/1pPp4/pP6/b4PPP/8/6K1 w - - 0 36",
+      "solution": [
+        "c6",
+        "Bxb4",
+        "c7"
+      ]
+    },
+    "contextFen": "3r2k1/5p1p/2p3pb/1pP1R3/pP1P4/P4P1P/2p3P1/4R1K1 b - - 1 31",
+    "contextMoves": [
+      "c1=Q",
+      "Rxc1",
+      "Bxc1",
+      "d5",
+      "Rxd5",
+      "Rxd5",
+      "cxd5",
+      "g3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08Bkh",
+    "gameUrl": "https://lichess.org/game/BLzs6HBr/black#80",
+    "theme": "advantage, bishopEndgame, endgame, long",
+    "startFen": "8/5pk1/pp1Bp1p1/7p/PPP5/7P/1b4P1/7K b - - 0 40",
+    "moves": [
+      "Bd4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5pk1/pp1Bp1p1/7p/PPPb4/7P/6P1/7K w - - 1 41",
+      "solution": [
+        "c5",
+        "bxc5",
+        "bxc5",
+        "Bxc5",
+        "Bxc5"
+      ]
+    },
+    "contextFen": "6k1/5p1p/ppq1pbp1/8/2P5/PP1Q2BP/6P1/7K b - - 0 36",
+    "contextMoves": [
+      "Kg7",
+      "b4",
+      "h5",
+      "Qd6",
+      "Qxd6",
+      "Bxd6",
+      "Bb2",
+      "a4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08CVh",
+    "gameUrl": "https://lichess.org/game/ChmTEiQO/black#74",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "B7/4k3/3p2pp/2PKpp2/3p4/3P2P1/2b2P1P/8 b - - 0 37",
+    "moves": [
+      "Bxd3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "B7/4k3/3p2pp/2PKpp2/3p4/3b2P1/5P1P/8 w - - 0 38",
+      "solution": [
+        "cxd6+",
+        "Kd8",
+        "Kxe5"
+      ]
+    },
+    "contextFen": "B5k1/5p2/3p2pp/4p3/b1Pp4/3P2P1/4KP1P/8 b - - 1 33",
+    "contextMoves": [
+      "Kf8",
+      "Kf3",
+      "Ke7",
+      "Ke4",
+      "f5+",
+      "Kd5",
+      "Bc2",
+      "c5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08Cj9",
+    "gameUrl": "https://lichess.org/game/j2jHOyRT/black#104",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, long",
+    "startFen": "6k1/8/1p2K2P/1P2P3/8/6b1/8/8 b - - 0 52",
+    "moves": [
+      "Kh7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/7k/1p2K2P/1P2P3/8/6b1/8/8 w - - 1 53",
+      "solution": [
+        "Kf6",
+        "Kxh6",
+        "e6",
+        "Bh4+",
+        "Kf7"
+      ]
+    },
+    "contextFen": "5k2/8/1p2pK2/1P2P3/8/6P1/7P/b7 b - - 1 48",
+    "contextMoves": [
+      "Bd4",
+      "h4",
+      "Bf2",
+      "h5",
+      "Bxg3",
+      "h6",
+      "Kg8",
+      "Kxe6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08Cr7",
+    "gameUrl": "https://lichess.org/game/df82R5cd#99",
+    "theme": "bishopEndgame, crushing, endgame, long",
+    "startFen": "8/B7/8/5k2/2P1p2P/P3Kp2/1b6/8 w - - 1 50",
+    "moves": [
+      "a4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/B7/8/5k2/P1P1p2P/4Kp2/1b6/8 b - - 0 50",
+      "solution": [
+        "Bc1+",
+        "Kf2",
+        "Kf4",
+        "Bb8+",
+        "Kg4"
+      ]
+    },
+    "contextFen": "8/p3B3/8/2p1k3/2P1pp1P/P1P1K3/8/4b3 w - - 0 46",
+    "contextMoves": [
+      "Ke2",
+      "Bxc3",
+      "Bxc5",
+      "f3+",
+      "Ke3",
+      "Kf5",
+      "Bxa7",
+      "Bb2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08Fo5",
+    "gameUrl": "https://lichess.org/game/ujHprFlB/black#80",
+    "theme": "bishopEndgame, crushing, deflection, endgame, short, skewer",
+    "startFen": "8/5bp1/6kp/5P2/6PK/4B3/8/8 b - - 0 40",
+    "moves": [
+      "Kf6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5bp1/5k1p/5P2/6PK/4B3/8/8 w - - 1 41",
+      "solution": [
+        "Bd4+",
+        "Ke7",
+        "Bxg7"
+      ]
+    },
+    "contextFen": "8/6pk/7p/6p1/2b3P1/4B1KP/5P2/8 b - - 1 36",
+    "contextMoves": [
+      "Bd5",
+      "h4",
+      "gxh4+",
+      "Kxh4",
+      "Kg6",
+      "f4",
+      "Bf7",
+      "f5+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08Joj",
+    "gameUrl": "https://lichess.org/game/YKg0I6RB#77",
+    "theme": "advantage, bishopEndgame, endgame, short, skewer",
+    "startFen": "5k2/p4p2/1pBP3p/4p3/2P5/1P2K2b/P6P/8 w - - 0 39",
+    "moves": [
+      "Ke4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5k2/p4p2/1pBP3p/4p3/2P1K3/1P5b/P6P/8 b - - 1 39",
+      "solution": [
+        "Bg2+",
+        "Kxe5",
+        "Bxc6"
+      ]
+    },
+    "contextFen": "5k2/p4p2/bp1Ppp1p/8/4BP2/2P1K3/PP5P/8 w - - 1 35",
+    "contextMoves": [
+      "b3",
+      "Bf1",
+      "Bc6",
+      "Bh3",
+      "c4",
+      "e5",
+      "fxe5",
+      "fxe5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08KHb",
+    "gameUrl": "https://lichess.org/game/aJhwgDLF/black#110",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, short",
+    "startFen": "8/b7/P7/8/2K1P1k1/8/8/8 b - - 1 55",
+    "moves": [
+      "Kf4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/b7/P7/8/2K1Pk2/8/8/8 w - - 2 56",
+      "solution": [
+        "Kd5",
+        "Be3",
+        "e5"
+      ]
+    },
+    "contextFen": "1b6/8/P7/6p1/3NP1k1/3K4/8/8 b - - 0 51",
+    "contextMoves": [
+      "Ba7",
+      "Nf5",
+      "Kf4",
+      "Nh6",
+      "g4",
+      "Nxg4",
+      "Kxg4",
+      "Kc4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08Lcw",
+    "gameUrl": "https://lichess.org/game/bMzPykVd/black#50",
+    "theme": "bishopEndgame, crushing, endgame, long, trappedPiece",
+    "startFen": "4b3/1pb3p1/p1p1p2p/2PpP1k1/PP1Pp3/4P3/4B1PP/4B1K1 b - - 5 25",
+    "moves": [
+      "Bh5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1pb3p1/p1p1p2p/2PpP1kb/PP1Pp3/4P3/4B1PP/4B1K1 w - - 6 26",
+      "solution": [
+        "h4+",
+        "Kg6",
+        "g4",
+        "Bxg4",
+        "Bxg4"
+      ]
+    },
+    "contextFen": "4b1k1/1pb2qpp/p1p1p3/2PpP3/PP1Pp3/4P3/1B3QPP/5BK1 b - - 0 21",
+    "contextMoves": [
+      "h6",
+      "Qxf7+",
+      "Kxf7",
+      "Be2",
+      "Kg6",
+      "Bc3",
+      "Kg5",
+      "Be1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08Lta",
+    "gameUrl": "https://lichess.org/game/ALYfMu1E/black#50",
+    "theme": "bishopEndgame, endgame, mate, mateIn2, quietMove, short",
+    "startFen": "8/ppp2ppp/2k1p3/4P3/1P1B1PP1/b1PK4/4P2P/8 b - - 0 25",
+    "moves": [
+      "Kd5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/ppp2ppp/4p3/3kP3/1P1B1PP1/b1PK4/4P2P/8 w - - 1 26",
+      "solution": [
+        "b5",
+        "a6",
+        "c4#"
+      ]
+    },
+    "contextFen": "8/pppk1ppp/4p3/4P3/1P1Bp1P1/P1P3K1/4PP1P/2b5 b - - 0 21",
+    "contextMoves": [
+      "Bxa3",
+      "Kf4",
+      "Kc6",
+      "Kxe4",
+      "Kb5",
+      "Kd3",
+      "Kc6",
+      "f4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08Nle",
+    "gameUrl": "https://lichess.org/game/bQrUtfq0/black#68",
+    "theme": "bishopEndgame, crushing, endgame, long",
+    "startFen": "2b2k2/8/p3p1p1/1p1p1pPp/3P1P1P/1P1BP3/P2K4/8 b - - 1 34",
+    "moves": [
+      "Ke7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2b5/4k3/p3p1p1/1p1p1pPp/3P1P1P/1P1BP3/P2K4/8 w - - 2 35",
+      "solution": [
+        "Kc3",
+        "Kd6",
+        "Kb4",
+        "Kc6",
+        "Ka5"
+      ]
+    },
+    "contextFen": "2b3k1/p5b1/4p1p1/1p1p1pPp/1q1P1P1P/1P1BP3/PB3K2/4Q3 b - - 1 30",
+    "contextMoves": [
+      "Qxe1+",
+      "Kxe1",
+      "a6",
+      "Ba3",
+      "Bf8",
+      "Bxf8",
+      "Kxf8",
+      "Kd2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08OVs",
+    "gameUrl": "https://lichess.org/game/KT7aKSPS#83",
+    "theme": "bishopEndgame, crushing, endgame, master, short",
+    "startFen": "8/8/7p/2p2p1P/5k2/p1PP1B2/PpK5/8 w - - 5 42",
+    "moves": [
+      "Bd1"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/7p/2p2p1P/5k2/p1PP4/PpK5/3B4 b - - 6 42",
+      "solution": [
+        "Ke3",
+        "d4",
+        "cxd4"
+      ]
+    },
+    "contextFen": "4B2k/8/7p/2p2p1P/8/p2P4/PpP5/1K6 w - - 0 38",
+    "contextMoves": [
+      "Bc6",
+      "Kg7",
+      "c3",
+      "Kf6",
+      "Bf3",
+      "Ke5",
+      "Kc2",
+      "Kf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08RW4",
+    "gameUrl": "https://lichess.org/game/QnaP2TSx/black#102",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, long",
+    "startFen": "8/5pp1/8/1k1KPP1P/8/6b1/8/8 b - - 0 51",
+    "moves": [
+      "Bf4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5pp1/8/1k1KPP1P/5b2/8/8/8 w - - 1 52",
+      "solution": [
+        "e6",
+        "fxe6+",
+        "fxe6",
+        "Bg5",
+        "Kd6"
+      ]
+    },
+    "contextFen": "8/5pp1/8/k2K4/Pb2PP2/8/7P/8 b - - 0 47",
+    "contextMoves": [
+      "Kxa4",
+      "h4",
+      "Be1",
+      "h5",
+      "Bg3",
+      "f5",
+      "Kb5",
+      "e5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08RzV",
+    "gameUrl": "https://lichess.org/game/MgSV8uqO/black#90",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, veryLong",
+    "startFen": "8/8/4k3/2pp3P/8/3K1P2/1B6/4b3 b - - 0 45",
+    "moves": [
+      "Bg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/4k3/2pp3P/8/3K1Pb1/1B6/8 w - - 1 46",
+      "solution": [
+        "h6",
+        "d4",
+        "h7",
+        "Be5",
+        "Kc4",
+        "Bf6",
+        "Ba3",
+        "d3",
+        "Kxd3",
+        "c4+",
+        "Kxc4"
+      ]
+    },
+    "contextFen": "8/6p1/1b2k3/2pp4/8/3K1P2/1B4PP/8 b - - 5 41",
+    "contextMoves": [
+      "g6",
+      "g4",
+      "Ba5",
+      "h4",
+      "Be1",
+      "h5",
+      "gxh5",
+      "gxh5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08UdG",
+    "gameUrl": "https://lichess.org/game/WVxPT9GV/black#98",
+    "theme": "bishopEndgame, crushing, endgame, long",
+    "startFen": "8/6bp/6p1/1pK3P1/1Pp4P/2P3B1/8/5k2 b - - 8 49",
+    "moves": [
+      "Bxc3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/7p/6p1/1pK3P1/1Pp4P/2b3B1/8/5k2 w - - 0 50",
+      "solution": [
+        "Kxb5",
+        "Bd2",
+        "Kxc4",
+        "Bxb4",
+        "Kxb4"
+      ]
+    },
+    "contextFen": "8/6bp/6p1/1p3kP1/1Pp4P/2P1K3/8/4B3 b - - 0 45",
+    "contextMoves": [
+      "Kg4",
+      "Ke4",
+      "Kh3",
+      "Kd5",
+      "Kg2",
+      "Kc5",
+      "Kf1",
+      "Bg3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08VCP",
+    "gameUrl": "https://lichess.org/game/C40J2bll#83",
+    "theme": "bishopEndgame, endgame, mate, mateIn2, short",
+    "startFen": "8/8/1B2b1k1/p6p/PbP5/1P4K1/8/3B4 w - - 4 42",
+    "moves": [
+      "Kh4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1B2b1k1/p6p/PbP4K/1P6/8/3B4 b - - 5 42",
+      "solution": [
+        "Be1+",
+        "Bf2",
+        "Bxf2#"
+      ]
+    },
+    "contextFen": "8/5k2/1B2b1pp/p7/PbP3p1/1P3K1P/2B5/8 w - - 0 38",
+    "contextMoves": [
+      "hxg4",
+      "h5",
+      "gxh5",
+      "gxh5",
+      "Kg3",
+      "Kg7",
+      "Bd1",
+      "Kg6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08WP9",
+    "gameUrl": "https://lichess.org/game/cColt4o6/black#122",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, promotion, short",
+    "startFen": "7N/6k1/P2b4/8/8/7p/8/7K b - - 0 61",
+    "moves": [
+      "Kxh8"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "7k/8/P2b4/8/8/7p/8/7K w - - 0 62",
+      "solution": [
+        "a7",
+        "Kg7",
+        "a8=Q"
+      ]
+    },
+    "contextFen": "8/8/3b4/5k2/P6N/7p/8/7K b - - 8 57",
+    "contextMoves": [
+      "Kg4",
+      "Ng6",
+      "Kg5",
+      "Nh8",
+      "Kf6",
+      "a5",
+      "Kg7",
+      "a6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08f3U",
+    "gameUrl": "https://lichess.org/game/F54cnwI8/black#88",
+    "theme": "advancedPawn, bishopEndgame, crushing, defensiveMove, endgame, quietMove, veryLong",
+    "startFen": "8/8/pp3bK1/8/2P2Pk1/1P4P1/P7/8 b - - 4 44",
+    "moves": [
+      "Ba1"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/pp4K1/8/2P2Pk1/1P4P1/P7/b7 w - - 5 45",
+      "solution": [
+        "f5",
+        "Be5",
+        "f6",
+        "Bxg3",
+        "f7",
+        "Bd6",
+        "Kg7"
+      ]
+    },
+    "contextFen": "8/1p6/p3kbp1/8/2P2PKP/1P4P1/P7/8 b - - 0 40",
+    "contextMoves": [
+      "b6",
+      "h5",
+      "gxh5+",
+      "Kxh5",
+      "Kf5",
+      "Kh6",
+      "Kg4",
+      "Kg6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08iqr",
+    "gameUrl": "https://lichess.org/game/lcXm8xaM#65",
+    "theme": "bishopEndgame, crushing, deflection, endgame, long",
+    "startFen": "8/2p3pp/b7/2PBkp2/4P3/4PK2/6PP/8 w - - 0 33",
+    "moves": [
+      "g4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2p3pp/b7/2PBkp2/4P1P1/4PK2/7P/8 b - - 0 33",
+      "solution": [
+        "fxe4+",
+        "Bxe4",
+        "Be2+",
+        "Kf2",
+        "Kxe4"
+      ]
+    },
+    "contextFen": "2b5/2p2ppp/2Bk4/8/2P1P3/4P3/6PP/6K1 w - - 1 29",
+    "contextMoves": [
+      "Bd5",
+      "f6",
+      "Kf2",
+      "Ke5",
+      "Kf3",
+      "Ba6",
+      "c5",
+      "f5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08mdC",
+    "gameUrl": "https://lichess.org/game/mwVqfw2d/black#82",
+    "theme": "bishopEndgame, crushing, endgame, master, short",
+    "startFen": "8/1p6/4pp2/P1p5/2b2P2/P3K1k1/2B5/8 b - - 2 41",
+    "moves": [
+      "Kg2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1p6/4pp2/P1p5/2b2P2/P3K3/2B3k1/8 w - - 3 42",
+      "solution": [
+        "Be4+",
+        "Kg3",
+        "Bxb7"
+      ]
+    },
+    "contextFen": "8/1p6/2p1pp2/p7/2P2P1k/PP3K2/b1B5/8 b - - 1 37",
+    "contextMoves": [
+      "c5",
+      "Ke4",
+      "a4",
+      "bxa4",
+      "Bxc4",
+      "a5",
+      "Kg3",
+      "Ke3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08o59",
+    "gameUrl": "https://lichess.org/game/fHyZpiYq/black#104",
+    "theme": "advancedPawn, bishopEndgame, crushing, defensiveMove, endgame, quietMove, veryLong",
+    "startFen": "8/2K3p1/3P1p1p/8/b3Pk2/5P1P/6P1/8 b - - 0 52",
+    "moves": [
+      "Kg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2K3p1/3P1p1p/8/b3P3/5PkP/6P1/8 w - - 1 53",
+      "solution": [
+        "d7",
+        "Bxd7",
+        "Kxd7",
+        "h5",
+        "h4",
+        "Kxg2",
+        "f4"
+      ]
+    },
+    "contextFen": "8/6p1/1K3pkp/p2P4/b3P3/5P1P/6P1/8 b - - 1 48",
+    "contextMoves": [
+      "Kg5",
+      "Kxa5",
+      "Bd7",
+      "Kb6",
+      "Kf4",
+      "Kc7",
+      "Ba4",
+      "d6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08p6u",
+    "gameUrl": "https://lichess.org/game/9duL6Fvb#67",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, veryLong, zugzwang",
+    "startFen": "8/8/5k1p/2pBpbp1/2P5/1P3KP1/7P/8 w - - 0 34",
+    "moves": [
+      "Be4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/5k1p/2p1pbp1/2P1B3/1P3KP1/7P/8 b - - 1 34",
+      "solution": [
+        "g4+",
+        "Ke3",
+        "Bxe4",
+        "Kxe4",
+        "Ke6",
+        "Kd3",
+        "Kf5"
+      ]
+    },
+    "contextFen": "8/3b2kp/6p1/2pBpp2/2P5/1p2PK2/P5PP/8 w - - 0 30",
+    "contextMoves": [
+      "axb3",
+      "Kf6",
+      "g3",
+      "h6",
+      "e4",
+      "g5",
+      "exf5",
+      "Bxf5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/08rqP",
+    "gameUrl": "https://lichess.org/game/PzYTPArh#79",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/pbP5/3k4/3Pp3/PP2K3/6P1/8/8 w - - 1 40",
+    "moves": [
+      "g4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/pbP5/3k4/3Pp3/PP2K1P1/8/8/8 b - - 0 40",
+      "solution": [
+        "Bxd5+",
+        "Kf5",
+        "Be6+"
+      ]
+    },
+    "contextFen": "5k2/p1Pb4/8/3Pp3/1P6/6P1/P6K/8 w - - 3 36",
+    "contextMoves": [
+      "Kg2",
+      "Ke7",
+      "Kf3",
+      "Kd6",
+      "Ke4",
+      "Bc8",
+      "a4",
+      "Bb7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/090TU",
+    "gameUrl": "https://lichess.org/game/d2dP0EJC#77",
+    "theme": "bishopEndgame, endgame, mate, mateIn1, oneMove",
+    "startFen": "8/2B5/1p3kp1/b1p2p1p/2P4P/1P2KPP1/8/8 w - - 0 39",
+    "moves": [
+      "Kf4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2B5/1p3kp1/b1p2p1p/2P2K1P/1P3PP1/8/8 b - - 1 39",
+      "solution": [
+        "Bd2#"
+      ]
+    },
+    "contextFen": "8/7k/1p4pp/2p2p2/2P2B1P/1Pb2bP1/4P3/6K1 w - - 0 35",
+    "contextMoves": [
+      "exf3",
+      "Kg7",
+      "Bc7",
+      "Ba5",
+      "Kf2",
+      "Kf6",
+      "Ke3",
+      "h5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/092FX",
+    "gameUrl": "https://lichess.org/game/1wHCMuMW#145",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, promotion, short",
+    "startFen": "8/6p1/1K6/P2p4/8/4Bkp1/5P2/8 w - - 0 73",
+    "moves": [
+      "Kc5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6p1/8/P1Kp4/8/4Bkp1/5P2/8 b - - 1 73",
+      "solution": [
+        "g2",
+        "a6",
+        "g1=Q"
+      ]
+    },
+    "contextFen": "8/1p4p1/p6p/P1Kp4/6k1/4B1P1/5P2/8 w - - 3 69",
+    "contextMoves": [
+      "Kb6",
+      "Kf3",
+      "Kxb7",
+      "h5",
+      "Kxa6",
+      "h4",
+      "Kb6",
+      "hxg3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/096Jz",
+    "gameUrl": "https://lichess.org/game/PawRYMII/black#72",
+    "theme": "bishopEndgame, crushing, deflection, endgame, master, short",
+    "startFen": "4B3/8/1kp2p1p/4p1p1/P1K1P1P1/5P1P/5b2/8 b - - 2 36",
+    "moves": [
+      "Bc5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4B3/8/1kp2p1p/2b1p1p1/P1K1P1P1/5P1P/8/8 w - - 3 37",
+      "solution": [
+        "a5+",
+        "Ka6",
+        "Kxc5"
+      ]
+    },
+    "contextFen": "8/2k2p2/2p4p/b3p1p1/P1K1P1B1/5PP1/7P/8 b - - 2 32",
+    "contextMoves": [
+      "Bb6",
+      "Bh5",
+      "f6",
+      "h3",
+      "Bf2",
+      "g4",
+      "Kb6",
+      "Be8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/096KB",
+    "gameUrl": "https://lichess.org/game/oMhkxGiM#93",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, short",
+    "startFen": "8/8/8/b5k1/6P1/5K2/pB6/8 w - - 4 47",
+    "moves": [
+      "Bc1+"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/b5k1/6P1/5K2/p7/2B5 b - - 5 47",
+      "solution": [
+        "Kg6",
+        "Bb2",
+        "Bd8"
+      ]
+    },
+    "contextFen": "8/8/6k1/b7/3B2P1/p7/7K/8 w - - 1 43",
+    "contextMoves": [
+      "Kg3",
+      "Bc7+",
+      "Kf3",
+      "a2",
+      "Ba1",
+      "Kg5",
+      "Bb2",
+      "Ba5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/099s4",
+    "gameUrl": "https://lichess.org/game/5fKrNxTt/black#80",
+    "theme": "bishopEndgame, crushing, endgame, veryLong",
+    "startFen": "5kb1/8/2p3PK/p3P3/1ppP4/2P5/PP6/8 b - - 5 40",
+    "moves": [
+      "Ke7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6b1/4k3/2p3PK/p3P3/1ppP4/2P5/PP6/8 w - - 6 41",
+      "solution": [
+        "Kg7",
+        "bxc3",
+        "bxc3",
+        "Bd5",
+        "Kh8",
+        "c5",
+        "dxc5"
+      ]
+    },
+    "contextFen": "8/2p1k3/6P1/p2bPK2/1ppP4/2P5/PP6/8 b - - 3 36",
+    "contextMoves": [
+      "Be6+",
+      "Kg5",
+      "c6",
+      "Kh6",
+      "Kf8",
+      "Kh7",
+      "Bg8+",
+      "Kh6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/09Aep",
+    "gameUrl": "https://lichess.org/game/Tuqsj5Di#95",
+    "theme": "bishopEndgame, crushing, endgame, short",
+    "startFen": "8/1b6/5p1p/2K5/6P1/6kP/B7/8 w - - 1 48",
+    "moves": [
+      "Kd6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1b6/3K1p1p/8/6P1/6kP/B7/8 b - - 2 48",
+      "solution": [
+        "Kxh3",
+        "g5",
+        "fxg5"
+      ]
+    },
+    "contextFen": "2b5/8/5p1p/4k3/8/K6P/B5P1/8 w - - 1 44",
+    "contextMoves": [
+      "Kb4",
+      "Bb7",
+      "g3",
+      "Ke4",
+      "Kc5",
+      "Kf3",
+      "g4",
+      "Kg3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/09BuW",
+    "gameUrl": "https://lichess.org/game/3vxevybP/black#110",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, short",
+    "startFen": "5k2/2p5/4KP2/3P3P/5b2/8/8/8 b - - 0 55",
+    "moves": [
+      "Ke8"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4k3/2p5/4KP2/3P3P/5b2/8/8/8 w - - 1 56",
+      "solution": [
+        "Kf5",
+        "Bd2",
+        "Kg6"
+      ]
+    },
+    "contextFen": "8/2p4k/8/3P1K2/5P1P/b7/8/8 b - - 0 51",
+    "contextMoves": [
+      "Kg7",
+      "Ke6",
+      "Bd6",
+      "f5",
+      "Kf8",
+      "h5",
+      "Bf4",
+      "f6"
+    ]
+  }
+]
