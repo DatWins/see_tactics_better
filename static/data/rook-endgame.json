@@ -1,0 +1,5966 @@
+[
+  {
+    "site": "https://lichess.org/training/0008Q",
+    "gameUrl": "https://lichess.org/game/MQSyb3KW#127",
+    "theme": "advantage, endgame, rookEndgame, short",
+    "startFen": "8/4R3/1p2P3/p4r2/P6p/1P3Pk1/4K3/8 w - - 1 64",
+    "moves": [
+      "Rf7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5R2/1p2P3/p4r2/P6p/1P3Pk1/4K3/8 b - - 2 64",
+      "solution": [
+        "Re5+",
+        "Kf1",
+        "Rxe6"
+      ]
+    },
+    "contextFen": "8/6R1/1p3r2/p5p1/P3Pk1p/1P3B2/4K1P1/8 w - - 1 60",
+    "contextMoves": [
+      "Re7",
+      "g4",
+      "e5",
+      "gxf3+",
+      "gxf3",
+      "Rf5",
+      "e6",
+      "Kg3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0018P",
+    "gameUrl": "https://lichess.org/game/Xg1Gtfjr/black#88",
+    "theme": "crushing, endgame, exposedKing, rookEndgame, veryLong",
+    "startFen": "5R2/1p6/p1p5/2P1rk2/2K3p1/2P1p1P1/1P5P/8 b - - 1 44",
+    "moves": [
+      "Ke6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5R2/1p6/p1p1k3/2P1r3/2K3p1/2P1p1P1/1P5P/8 w - - 2 45",
+      "solution": [
+        "Re8+",
+        "Kf5",
+        "Rxe5+",
+        "Kxe5",
+        "Kd3",
+        "Kd5",
+        "Kxe3",
+        "a5",
+        "Kf4",
+        "Kc4",
+        "Kxg4"
+      ]
+    },
+    "contextFen": "4r3/1p1N4/p1pRn3/4pk2/1PK3p1/2P3P1/1P5P/8 b - - 1 40",
+    "contextMoves": [
+      "e4",
+      "Nc5",
+      "Nxc5",
+      "bxc5",
+      "Re5",
+      "Rd8",
+      "e3",
+      "Rf8+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/002Uy",
+    "gameUrl": "https://lichess.org/game/sLU7YN1A#127",
+    "theme": "crushing, defensiveMove, endgame, long, rookEndgame",
+    "startFen": "8/8/1p6/k7/P1R5/1K5r/8/8 w - - 26 64",
+    "moves": [
+      "Rc3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1p6/k7/P7/1KR4r/8/8 b - - 27 64",
+      "solution": [
+        "Rxc3+",
+        "Kxc3",
+        "Kxa4",
+        "Kb2",
+        "Kb4"
+      ]
+    },
+    "contextFen": "4r3/8/1p6/k7/P2R4/4K3/8/8 w - - 18 60",
+    "contextMoves": [
+      "Kd3",
+      "Rc8",
+      "Rc4",
+      "Rd8+",
+      "Kc3",
+      "Rh8",
+      "Kb3",
+      "Rh3+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/002vV",
+    "gameUrl": "https://lichess.org/game/KB7FAntf#115",
+    "theme": "endgame, master, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "8/6k1/2R4p/5p1P/5P1K/6P1/8/r7 w - - 2 58",
+    "moves": [
+      "Rb6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6k1/1R5p/5p1P/5P1K/6P1/8/r7 b - - 3 58",
+      "solution": [
+        "Rh1#"
+      ]
+    },
+    "contextFen": "8/5pk1/3R3p/7P/6K1/5PP1/8/7r w - - 1 54",
+    "contextMoves": [
+      "f4",
+      "Ra1",
+      "Rb6",
+      "Ra5",
+      "Rc6",
+      "f5+",
+      "Kh4",
+      "Ra1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0039T",
+    "gameUrl": "https://lichess.org/game/BrtVeJlj#49",
+    "theme": "crushing, defensiveMove, endgame, long, rookEndgame, skewer",
+    "startFen": "1r5r/p3kp2/4p2p/4P3/3R1Pp1/6P1/P1P4P/4K2R w K - 1 25",
+    "moves": [
+      "Ra4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "1r5r/p3kp2/4p2p/4P3/R4Pp1/6P1/P1P4P/4K2R b K - 2 25",
+      "solution": [
+        "Rb1+",
+        "Kf2",
+        "Rxh1",
+        "Rxa7+",
+        "Kf8"
+      ]
+    },
+    "contextFen": "1r5r/p2k1p2/1q2p2p/4P3/3p1Pp1/3Qb1P1/PPP1N2P/R3K2R w KQ - 0 21",
+    "contextMoves": [
+      "Nxd4",
+      "Bxd4",
+      "Rd1",
+      "Qxb2",
+      "Qxd4+",
+      "Qxd4",
+      "Rxd4+",
+      "Ke7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/003aS",
+    "gameUrl": "https://lichess.org/game/I7ZktFeR#85",
+    "theme": "advancedPawn, crushing, defensiveMove, endgame, long, rookEndgame",
+    "startFen": "8/8/5k1p/6p1/1R4PP/1p2KP2/8/1r6 w - - 0 43",
+    "moves": [
+      "h5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/5k1p/6pP/1R4P1/1p2KP2/8/1r6 b - - 0 43",
+      "solution": [
+        "b2",
+        "Rb6+",
+        "Ke5",
+        "f4+",
+        "gxf4+"
+      ]
+    },
+    "contextFen": "6k1/6p1/7p/8/3R2P1/1p3PK1/7P/r7 w - - 0 39",
+    "contextMoves": [
+      "Rb4",
+      "Rb1",
+      "Kf2",
+      "Kf7",
+      "Ke3",
+      "Kf6",
+      "h4",
+      "g5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0048h",
+    "gameUrl": "https://lichess.org/game/dq15P00L#69",
+    "theme": "crushing, endgame, exposedKing, long, rookEndgame",
+    "startFen": "4r3/p5k1/2p2R1p/2Pp4/1P1pr1P1/P6P/8/3R3K w - - 1 35",
+    "moves": [
+      "Rxc6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4r3/p5k1/2R4p/2Pp4/1P1pr1P1/P6P/8/3R3K b - - 0 35",
+      "solution": [
+        "Re1+",
+        "Rxe1",
+        "Rxe1+",
+        "Kg2",
+        "d3"
+      ]
+    },
+    "contextFen": "4r1k1/p5p1/2p2q1p/2Pp1P2/1P1pr3/P6P/5QP1/3R1R1K w - - 1 31",
+    "contextMoves": [
+      "g4",
+      "Qe5",
+      "f6",
+      "gxf6",
+      "Qxf6",
+      "Qxf6",
+      "Rxf6",
+      "Kg7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/004Ax",
+    "gameUrl": "https://lichess.org/game/x2mMwVJD/black#84",
+    "theme": "crushing, endgame, exposedKing, long, rookEndgame",
+    "startFen": "8/8/4R1kp/p7/5rPK/8/7P/8 b - - 2 42",
+    "moves": [
+      "Kf7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5k2/4R2p/p7/5rPK/8/7P/8 w - - 3 43",
+      "solution": [
+        "Rxh6",
+        "Rf6",
+        "Rh7+",
+        "Kg6",
+        "Ra7"
+      ]
+    },
+    "contextFen": "4R3/8/6kp/p7/8/8/5KPP/r7 b - - 2 38",
+    "contextMoves": [
+      "Ra2+",
+      "Kg3",
+      "Ra3+",
+      "Kh4",
+      "Ra4+",
+      "g4",
+      "Rf4",
+      "Re6+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/004d8",
+    "gameUrl": "https://lichess.org/game/FrR3BHbW/black#78",
+    "theme": "crushing, endgame, long, rookEndgame",
+    "startFen": "8/4kr2/R2p4/1p1Pp1p1/5p2/3K1P2/PPP5/8 b - - 0 39",
+    "moves": [
+      "g4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/4kr2/R2p4/1p1Pp3/5pp1/3K1P2/PPP5/8 w - - 0 40",
+      "solution": [
+        "Ra7+",
+        "Kf6",
+        "Rxf7+",
+        "Kxf7",
+        "fxg4"
+      ]
+    },
+    "contextFen": "4kr2/3n3R/p2p1p2/1p1P2p1/3B1p2/3K1P2/PPP5/8 b - - 5 35",
+    "contextMoves": [
+      "Rf7",
+      "Rh8+",
+      "Ke7",
+      "Ra8",
+      "Ne5+",
+      "Bxe5",
+      "fxe5",
+      "Rxa6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/006OI",
+    "gameUrl": "https://lichess.org/game/6AH1H5wg#105",
+    "theme": "crushing, endgame, rookEndgame, short, skewer",
+    "startFen": "8/p7/5k2/P5R1/6KP/8/8/5r2 w - - 5 53",
+    "moves": [
+      "Rg8"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6R1/p7/5k2/P7/6KP/8/8/5r2 b - - 6 53",
+      "solution": [
+        "Rg1+",
+        "Kf4",
+        "Rxg8"
+      ]
+    },
+    "contextFen": "8/p7/8/P1k3pR/6K1/8/7P/5r2 w - - 3 49",
+    "contextMoves": [
+      "Rxg5+",
+      "Kd6",
+      "h4",
+      "Ke6",
+      "Rg6+",
+      "Kf7",
+      "Rg5",
+      "Kf6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/006yP",
+    "gameUrl": "https://lichess.org/game/vf9MOLH1/black#80",
+    "theme": "crushing, endgame, master, rookEndgame, short, skewer",
+    "startFen": "6R1/8/Kpk1p3/1p1pP3/6P1/PPP1r3/8/8 b - - 3 40",
+    "moves": [
+      "Rxc3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6R1/8/Kpk1p3/1p1pP3/6P1/PPr5/8/8 w - - 0 41",
+      "solution": [
+        "Rc8+",
+        "Kd7",
+        "Rxc3"
+      ]
+    },
+    "contextFen": "8/1p4R1/2k1p3/1p1pP1p1/1K4P1/PPP5/7r/8 b - - 0 36",
+    "contextMoves": [
+      "Re2",
+      "Rxg5",
+      "Re4+",
+      "Ka5",
+      "b6+",
+      "Ka6",
+      "Re3",
+      "Rg8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00798",
+    "gameUrl": "https://lichess.org/game/4DOjQjiM#119",
+    "theme": "crushing, discoveredAttack, endgame, rookEndgame, short",
+    "startFen": "6K1/4k3/4P3/6pp/6rP/4R1P1/8/8 w - - 0 60",
+    "moves": [
+      "Kg7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/4k1K1/4P3/6pp/6rP/4R1P1/8/8 b - - 1 60",
+      "solution": [
+        "gxh4+",
+        "Kh6",
+        "hxg3"
+      ]
+    },
+    "contextFen": "8/4k1p1/4P2p/r6K/8/4R1P1/7P/8 w - - 7 56",
+    "contextMoves": [
+      "Kg6",
+      "Rg5+",
+      "Kh7",
+      "Rg4",
+      "h4",
+      "h5",
+      "Kg8",
+      "g5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/008aL",
+    "gameUrl": "https://lichess.org/game/j2ECU5ud#77",
+    "theme": "backRankMate, endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "7k/6p1/1r5p/5p2/P2Rp3/4P3/5PPP/6K1 w - - 0 39",
+    "moves": [
+      "a5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "7k/6p1/1r5p/P4p2/3Rp3/4P3/5PPP/6K1 b - - 0 39",
+      "solution": [
+        "Rb1+",
+        "Rd1",
+        "Rxd1#"
+      ]
+    },
+    "contextFen": "4rr1k/6p1/1P5p/N4p2/3qp3/P3P3/5PPP/3R2K1 w - - 0 35",
+    "contextMoves": [
+      "Rxd4",
+      "Rb8",
+      "Nc4",
+      "Rf6",
+      "a4",
+      "Rfxb6",
+      "Nxb6",
+      "Rxb6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/008tL",
+    "gameUrl": "https://lichess.org/game/yhNupFCi#79",
+    "theme": "advancedPawn, crushing, endgame, master, rookEndgame, short",
+    "startFen": "8/7k/pR5p/3p4/5r2/2P1p2P/P5P1/6K1 w - - 0 40",
+    "moves": [
+      "Rxa6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/7k/R6p/3p4/5r2/2P1p2P/P5P1/6K1 b - - 0 40",
+      "solution": [
+        "e2",
+        "Re6",
+        "Rf1+"
+      ]
+    },
+    "contextFen": "8/p4r1k/1p3q1p/3p4/4p3/2P1Q3/P5PP/4R1K1 w - - 0 36",
+    "contextMoves": [
+      "h3",
+      "a6",
+      "Rb1",
+      "Qf4",
+      "Qxf4",
+      "Rxf4",
+      "Rxb6",
+      "e3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Aae",
+    "gameUrl": "https://lichess.org/game/mLIjph1r/black#86",
+    "theme": "advancedPawn, clearance, crushing, endgame, long, promotion, rookEndgame",
+    "startFen": "1R6/1P6/4pkp1/5p2/3P3p/3KP3/8/1r6 b - - 0 43",
+    "moves": [
+      "h3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "1R6/1P6/4pkp1/5p2/3P4/3KP2p/8/1r6 w - - 0 44",
+      "solution": [
+        "Rf8+",
+        "Ke7",
+        "b8=Q",
+        "Rxb8",
+        "Rxb8"
+      ]
+    },
+    "contextFen": "8/1R6/4pkp1/5p1p/1P1P4/3KPr1P/8/8 b - - 1 39",
+    "contextMoves": [
+      "Rxh3",
+      "b5",
+      "Rh1",
+      "b6",
+      "Rb1",
+      "Rb8",
+      "h4",
+      "b7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Ac7",
+    "gameUrl": "https://lichess.org/game/SIcsTksL/black#66",
+    "theme": "advancedPawn, advantage, endgame, long, rookEndgame",
+    "startFen": "8/2p1pk1p/Pp4p1/8/p1P2P2/3r2P1/3PR2P/3K4 b - - 1 33",
+    "moves": [
+      "a3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2p1pk1p/Pp4p1/8/2P2P2/p2r2P1/3PR2P/3K4 w - - 0 34",
+      "solution": [
+        "a7",
+        "Rd8",
+        "Re3",
+        "a2",
+        "Ra3"
+      ]
+    },
+    "contextFen": "8/ppp1pk1p/6p1/1Pn5/2P5/3r1PP1/3PRK1P/8 b - - 6 29",
+    "contextMoves": [
+      "b6",
+      "Ke1",
+      "a5",
+      "f4",
+      "Na6",
+      "bxa6",
+      "a4",
+      "Kd1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Bg0",
+    "gameUrl": "https://lichess.org/game/Kh8jUvEa#113",
+    "theme": "advancedPawn, crushing, endgame, quietMove, rookEndgame, veryLong",
+    "startFen": "8/3k4/3P1K2/p2R4/5r2/5P2/8/8 w - - 1 57",
+    "moves": [
+      "Rf5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/3k4/3P1K2/p4R2/5r2/5P2/8/8 b - - 2 57",
+      "solution": [
+        "Rxf5+",
+        "Kxf5",
+        "a4",
+        "Ke4",
+        "a3",
+        "Kd3",
+        "a2"
+      ]
+    },
+    "contextFen": "8/3k4/3P1p2/p1r4p/P2RK1P1/5P2/8/8 w - - 0 53",
+    "contextMoves": [
+      "gxh5",
+      "Rxh5",
+      "Rd5",
+      "Rh4+",
+      "Kf5",
+      "Rxa4",
+      "Kxf6",
+      "Rf4+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Bot",
+    "gameUrl": "https://lichess.org/game/FWA12ElZ/black#104",
+    "theme": "crushing, endgame, rookEndgame, short",
+    "startFen": "8/5p2/p3kP2/8/5r2/R1P5/4P3/4K3 b - - 2 52",
+    "moves": [
+      "Rxf6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5p2/p3kr2/8/8/R1P5/4P3/4K3 w - - 0 53",
+      "solution": [
+        "Rxa6+",
+        "Ke5",
+        "Rxf6"
+      ]
+    },
+    "contextFen": "7r/4kp2/p4P2/8/4N3/b1P5/4P3/5KR1 b - - 0 48",
+    "contextMoves": [
+      "Ke6",
+      "Rg5",
+      "Rh4",
+      "Ra5",
+      "Rxe4",
+      "Rxa3",
+      "Rf4+",
+      "Ke1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Bse",
+    "gameUrl": "https://lichess.org/game/PnM8NvEX/black#80",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "8/5p2/1R4k1/6p1/8/3r2PP/5K2/8 b - - 3 40",
+    "moves": [
+      "Kh5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5p2/1R6/6pk/8/3r2PP/5K2/8 w - - 4 41",
+      "solution": [
+        "g4+",
+        "Kh4",
+        "Rh6#"
+      ]
+    },
+    "contextFen": "8/5pp1/6kp/8/5P2/3r3P/5KP1/1R6 b - - 2 36",
+    "contextMoves": [
+      "Kf5",
+      "g3",
+      "g5",
+      "fxg5",
+      "hxg5",
+      "Rb5+",
+      "Kg6",
+      "Rb6+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00C7m",
+    "gameUrl": "https://lichess.org/game/ZbuTrTYp#115",
+    "theme": "endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "8/5k2/1P4R1/6PK/1r6/8/8/8 w - - 1 58",
+    "moves": [
+      "Kh6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5k2/1P4RK/6P1/1r6/8/8/8 b - - 2 58",
+      "solution": [
+        "Rh4#"
+      ]
+    },
+    "contextFen": "8/1k6/1P4R1/8/1r6/7K/6P1/8 w - - 4 54",
+    "contextMoves": [
+      "g4",
+      "Kc8",
+      "Kh4",
+      "Kd7",
+      "Kh5",
+      "Ke7",
+      "g5",
+      "Kf7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00D12",
+    "gameUrl": "https://lichess.org/game/iC0vC5to/black#78",
+    "theme": "crushing, endgame, long, rookEndgame",
+    "startFen": "8/6pp/8/3kP3/1p1P2P1/rPpK3P/4R3/8 b - - 1 39",
+    "moves": [
+      "Rxb3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6pp/8/3kP3/1p1P2P1/1rpK3P/4R3/8 w - - 0 40",
+      "solution": [
+        "e6",
+        "c2+",
+        "Kxc2",
+        "Rc3+",
+        "Kd2"
+      ]
+    },
+    "contextFen": "2r5/6pp/8/3pPk2/1p1P4/1PpKP1PP/2R5/8 b - - 0 35",
+    "contextMoves": [
+      "Ra8",
+      "g4+",
+      "Ke6",
+      "e4",
+      "Ra3",
+      "exd5+",
+      "Kxd5",
+      "Re2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00DYf",
+    "gameUrl": "https://lichess.org/game/nLqNgF9I#59",
+    "theme": "backRankMate, endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "1R6/6kp/3p1pp1/2r1p3/P7/1P6/2r2PPP/1R4K1 w - - 4 30",
+    "moves": [
+      "b4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "1R6/6kp/3p1pp1/2r1p3/PP6/8/2r2PPP/1R4K1 b - - 0 30",
+      "solution": [
+        "Rc1+",
+        "Rxc1",
+        "Rxc1#"
+      ]
+    },
+    "contextFen": "5rk1/7p/3p1pp1/3rp3/PR6/8/1PP2PPP/2R3K1 w - - 1 26",
+    "contextMoves": [
+      "b3",
+      "Rc8",
+      "Rb5",
+      "Rxc2",
+      "Rb8+",
+      "Kg7",
+      "Rb1",
+      "Rdc5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Dxh",
+    "gameUrl": "https://lichess.org/game/iUtKfI3K#95",
+    "theme": "advancedPawn, crushing, endgame, master, masterVsMaster, rookEndgame, short",
+    "startFen": "8/8/8/6R1/2pk2P1/1r3K1P/8/8 w - - 0 48",
+    "moves": [
+      "Kg2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/6R1/2pk2P1/1r5P/6K1/8 b - - 1 48",
+      "solution": [
+        "c3",
+        "Rg7",
+        "c2"
+      ]
+    },
+    "contextFen": "8/8/1R5p/2p1k1p1/6P1/1P3K1P/r7/8 w - - 0 44",
+    "contextMoves": [
+      "Rxh6",
+      "Ra3",
+      "Rb6",
+      "c4",
+      "Rb5+",
+      "Kd4",
+      "Rxg5",
+      "Rxb3+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00EWi",
+    "gameUrl": "https://lichess.org/game/RxrVCbwq#95",
+    "theme": "endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "8/8/1R3pkp/1pP5/1P3PKP/r7/8/8 w - - 2 48",
+    "moves": [
+      "Rxb5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/5pkp/1RP5/1P3PKP/r7/8/8 b - - 0 48",
+      "solution": [
+        "f5#"
+      ]
+    },
+    "contextFen": "8/4kp2/2p2p1p/1pP1P3/1P3PKP/r7/3R4/8 w - - 0 44",
+    "contextMoves": [
+      "exf6+",
+      "Kxf6",
+      "Rd6+",
+      "Kg7",
+      "Rxc6",
+      "f6",
+      "Rb6",
+      "Kg6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00FHO",
+    "gameUrl": "https://lichess.org/game/0KBMAMQh#77",
+    "theme": "crushing, endgame, rookEndgame, veryLong",
+    "startFen": "8/1pp5/p2p3p/3P1Pk1/P3K1P1/1P5R/8/2r5 w - - 1 39",
+    "moves": [
+      "Kf3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1pp5/p2p3p/3P1Pk1/P5P1/1P3K1R/8/2r5 b - - 2 39",
+      "solution": [
+        "Rc3+",
+        "Kg2",
+        "Rxh3",
+        "Kxh3",
+        "h5",
+        "gxh5",
+        "Kxh5"
+      ]
+    },
+    "contextFen": "8/1pp5/p2p1k1p/r2P4/4KPP1/1P6/P2R4/8 w - - 3 35",
+    "contextMoves": [
+      "a4",
+      "Rc5",
+      "Rd3",
+      "Rc1",
+      "Rh3",
+      "Kg6",
+      "f5+",
+      "Kg5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00FPo",
+    "gameUrl": "https://lichess.org/game/6C03NLdu/black#94",
+    "theme": "crushing, endgame, rookEndgame, short",
+    "startFen": "7R/1K3p2/6k1/PP4p1/8/6rp/8/8 b - - 2 47",
+    "moves": [
+      "g4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "7R/1K3p2/6k1/PP6/6p1/6rp/8/8 w - - 0 48",
+      "solution": [
+        "a6",
+        "h2",
+        "Rxh2"
+      ]
+    },
+    "contextFen": "6k1/1K3pp1/6r1/1P6/7R/P6p/8/8 b - - 1 43",
+    "contextMoves": [
+      "Rg3",
+      "a4",
+      "g5",
+      "Rh5",
+      "Kg7",
+      "a5",
+      "Kg6",
+      "Rh8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00G1l",
+    "gameUrl": "https://lichess.org/game/IWYBiMcT/black#120",
+    "theme": "crushing, defensiveMove, endgame, master, rookEndgame, short",
+    "startFen": "5k2/1R6/3pp1P1/2p5/1pr1PK2/5P2/8/8 b - - 0 60",
+    "moves": [
+      "Rc1"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5k2/1R6/3pp1P1/2p5/1p2PK2/5P2/8/2r5 w - - 1 61",
+      "solution": [
+        "Kg5",
+        "Rg1+",
+        "Kf6"
+      ]
+    },
+    "contextFen": "3R4/8/3ppk2/2p5/1pP1PKP1/1r3P2/8/8 b - - 1 56",
+    "contextMoves": [
+      "Ke7",
+      "Rb8",
+      "Rc3",
+      "g5",
+      "Rxc4",
+      "Rb7+",
+      "Kf8",
+      "g6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00G81",
+    "gameUrl": "https://lichess.org/game/Q8HZlLcF#101",
+    "theme": "crushing, defensiveMove, endgame, long, rookEndgame",
+    "startFen": "3r4/5k2/p4Pp1/2pK2Pp/2R5/P7/8/8 w - - 7 51",
+    "moves": [
+      "Kxc5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3r4/5k2/p4Pp1/2K3Pp/2R5/P7/8/8 b - - 0 51",
+      "solution": [
+        "Rc8+",
+        "Kd4",
+        "Rxc4+",
+        "Kxc4",
+        "h4"
+      ]
+    },
+    "contextFen": "2r1k3/8/p3pPp1/2pK2Pp/8/P1R5/8/8 w - - 0 47",
+    "contextMoves": [
+      "Kxe6",
+      "Rc6+",
+      "Ke5",
+      "Kf7",
+      "Kd5",
+      "Rc8",
+      "Rc4",
+      "Rd8+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Gc5",
+    "gameUrl": "https://lichess.org/game/LXnKoW3r#91",
+    "theme": "advantage, deflection, endgame, rookEndgame, short",
+    "startFen": "8/p1r2p2/4r3/2P1PK2/1P1R4/3R2pk/8/8 w - - 2 46",
+    "moves": [
+      "Rg4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p1r2p2/4r3/2P1PK2/1P4R1/3R2pk/8/8 b - - 3 46",
+      "solution": [
+        "Rxe5+",
+        "Kxe5",
+        "Kxg4"
+      ]
+    },
+    "contextFen": "8/p1r2p2/4r3/2PRP1pp/1P1K3k/3R3P/8/8 w - - 0 42",
+    "contextMoves": [
+      "Ke4",
+      "g4",
+      "hxg4",
+      "hxg4",
+      "Kf5",
+      "g3",
+      "R5d4+",
+      "Kh3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00HHN",
+    "gameUrl": "https://lichess.org/game/tMmxk7ja#63",
+    "theme": "endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "4r2k/p6p/1p3R2/2p5/2P5/1P4R1/r5PP/2K5 w - - 0 32",
+    "moves": [
+      "Rf7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4r2k/p4R1p/1p6/2p5/2P5/1P4R1/r5PP/2K5 b - - 1 32",
+      "solution": [
+        "Re1#"
+      ]
+    },
+    "contextFen": "4r1k1/p4q1p/1p3p1Q/2p5/2P5/1P1R4/P3r1PP/2K3R1 w - - 2 28",
+    "contextMoves": [
+      "Rg3+",
+      "Kh8",
+      "Rf1",
+      "Qe7",
+      "Qxf6+",
+      "Qxf6",
+      "Rxf6",
+      "Rxa2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00HzR",
+    "gameUrl": "https://lichess.org/game/kznBjH2A#91",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "8/8/p2k4/1pp5/2K4P/1P1P1RP1/7r/8 w - - 0 46",
+    "moves": [
+      "Kc3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/p2k4/1pp5/7P/1PKP1RP1/7r/8 b - - 1 46",
+      "solution": [
+        "b4+",
+        "Kc4",
+        "Rc2#"
+      ]
+    },
+    "contextFen": "8/2pk4/pp6/8/7P/1PKP2P1/6r1/5R2 w - - 5 42",
+    "contextMoves": [
+      "Rf7+",
+      "Kd6",
+      "Rf3",
+      "Rh2",
+      "Kd4",
+      "c5+",
+      "Kc4",
+      "b5+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00IaZ",
+    "gameUrl": "https://lichess.org/game/MA0bo8dV/black#90",
+    "theme": "endgame, master, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "4R3/1k2R3/3K2p1/1P6/1P6/2rp3r/8/8 b - - 3 45",
+    "moves": [
+      "Kb6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4R3/4R3/1k1K2p1/1P6/1P6/2rp3r/8/8 w - - 4 46",
+      "solution": [
+        "Rb8#"
+      ]
+    },
+    "contextFen": "2k5/4R3/6p1/1PKp4/1P6/2Pr3r/8/4R3 b - - 3 41",
+    "contextMoves": [
+      "Rxc3+",
+      "Kd6",
+      "d4",
+      "R1e5",
+      "d3",
+      "Re8+",
+      "Kb7",
+      "R5e7+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Ivf",
+    "gameUrl": "https://lichess.org/game/VX0fLjAC#91",
+    "theme": "endgame, long, mate, mateIn3, rookEndgame",
+    "startFen": "8/2p4r/1p3k2/p2Pp1p1/P1P1RpP1/1P3P1r/4R1K1/8 w - - 7 46",
+    "moves": [
+      "Rxe5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2p4r/1p3k2/p2PR1p1/P1P2pP1/1P3P1r/4R1K1/8 b - - 0 46",
+      "solution": [
+        "Rh2+",
+        "Kf1",
+        "Rh1+",
+        "Kf2",
+        "R7h2#"
+      ]
+    },
+    "contextFen": "7r/2p1r3/1p3k2/p2Pp1p1/P1P1Rpp1/1P3P1P/4R3/5K2 w - - 0 42",
+    "contextMoves": [
+      "hxg4",
+      "Rh3",
+      "Kg2",
+      "Rg3+",
+      "Kf2",
+      "Rh3",
+      "Kg2",
+      "Reh7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00JAo",
+    "gameUrl": "https://lichess.org/game/mIuVoEMA/black#116",
+    "theme": "crushing, deflection, endgame, master, rookEndgame, short",
+    "startFen": "8/5r2/6pk/7p/7P/5PK1/R7/8 b - - 2 58",
+    "moves": [
+      "g5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5r2/7k/6pp/7P/5PK1/R7/8 w - - 0 59",
+      "solution": [
+        "Ra6+",
+        "Kg7",
+        "hxg5"
+      ]
+    },
+    "contextFen": "8/R3P3/6pk/7p/p4K1P/5P2/4r3/8 b - - 0 54",
+    "contextMoves": [
+      "a3",
+      "Kg3",
+      "a2",
+      "Kf4",
+      "Rxe7",
+      "Rxa2",
+      "Rf7+",
+      "Kg3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00JET",
+    "gameUrl": "https://lichess.org/game/O8W3yIa7/black#68",
+    "theme": "backRankMate, endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "3r2k1/5ppp/3Rp3/8/8/8/1P3PPP/2R3K1 b - - 0 34",
+    "moves": [
+      "Rxd6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6k1/5ppp/3rp3/8/8/8/1P3PPP/2R3K1 w - - 0 35",
+      "solution": [
+        "Rc8+",
+        "Rd8",
+        "Rxd8#"
+      ]
+    },
+    "contextFen": "B4rk1/5ppp/3np3/8/8/8/1PR2PPP/5RK1 b - - 0 30",
+    "contextMoves": [
+      "Rxa8",
+      "Rd1",
+      "Nb5",
+      "Rdc1",
+      "Nd6",
+      "Rc6",
+      "Rd8",
+      "Rxd6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00JaW",
+    "gameUrl": "https://lichess.org/game/K2MPI0zt/black#96",
+    "theme": "crushing, endgame, exposedKing, rookEndgame, veryLong",
+    "startFen": "8/r7/Pk5p/3R2p1/4p1P1/4P3/3K4/8 b - - 0 48",
+    "moves": [
+      "Rxa6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/rk5p/3R2p1/4p1P1/4P3/3K4/8 w - - 0 49",
+      "solution": [
+        "Rd6+",
+        "Ka5",
+        "Rxa6+",
+        "Kxa6",
+        "Kc3",
+        "Kb7",
+        "Kd4"
+      ]
+    },
+    "contextFen": "8/r7/P6p/R2pkpp1/4p1P1/4P2P/5K2/8 b - - 1 44",
+    "contextMoves": [
+      "fxg4",
+      "hxg4",
+      "Kd6",
+      "Ke2",
+      "Kc6",
+      "Kd2",
+      "Kb6",
+      "Rxd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Kbj",
+    "gameUrl": "https://lichess.org/game/PW8a1JvE#77",
+    "theme": "endgame, long, mate, mateIn3, rookEndgame",
+    "startFen": "8/8/6p1/PR3p2/1P3k2/7P/r5P1/7K w - - 1 39",
+    "moves": [
+      "h4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/6p1/PR3p2/1P3k1P/8/r5P1/7K b - - 0 39",
+      "solution": [
+        "Kg3",
+        "Rd5",
+        "Ra1+",
+        "Rd1",
+        "Rxd1#"
+      ]
+    },
+    "contextFen": "8/1R6/4rkp1/1p3p2/8/1P5P/P5P1/7K w - - 0 35",
+    "contextMoves": [
+      "Rxb5",
+      "Re2",
+      "a4",
+      "Ra2",
+      "a5",
+      "Kg5",
+      "b4",
+      "Kf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Kd8",
+    "gameUrl": "https://lichess.org/game/loJK0sJF#127",
+    "theme": "advantage, endgame, rookEndgame, short",
+    "startFen": "3R4/3P4/8/5p2/5kPp/8/3r1KP1/8 w - - 1 64",
+    "moves": [
+      "Kg1"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3R4/3P4/8/5p2/5kPp/8/3r2P1/6K1 b - - 2 64",
+      "solution": [
+        "Kg3",
+        "Kf1",
+        "fxg4"
+      ]
+    },
+    "contextFen": "3R4/8/3P1p2/6p1/5k1p/3r3P/5KP1/8 w - - 1 60",
+    "contextMoves": [
+      "d7",
+      "f5",
+      "Ke2",
+      "Rd6",
+      "Kf2",
+      "g4",
+      "hxg4",
+      "Rd2+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Ksa",
+    "gameUrl": "https://lichess.org/game/WynrZVil/black#92",
+    "theme": "crushing, endgame, rookEndgame, short, trappedPiece",
+    "startFen": "8/5p2/5pk1/8/4PP2/6r1/5K2/7R b - - 2 46",
+    "moves": [
+      "Rg4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5p2/5pk1/8/4PPr1/8/5K2/7R w - - 3 47",
+      "solution": [
+        "Kf3",
+        "Rg5",
+        "fxg5"
+      ]
+    },
+    "contextFen": "8/5p2/5p1k/7r/4PK2/5P2/8/6R1 b - - 3 42",
+    "contextMoves": [
+      "Re5",
+      "Ke3",
+      "Rg5",
+      "Rh1+",
+      "Kg6",
+      "f4",
+      "Rg3+",
+      "Kf2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00L84",
+    "gameUrl": "https://lichess.org/game/ZX4yckwu#73",
+    "theme": "advancedPawn, crushing, endgame, master, rookEndgame, short",
+    "startFen": "6k1/5pp1/7p/2p5/2P5/2rp2PP/PR3P2/5K2 w - - 0 37",
+    "moves": [
+      "Rb3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6k1/5pp1/7p/2p5/2P5/1Rrp2PP/P4P2/5K2 b - - 1 37",
+      "solution": [
+        "Rc1+",
+        "Kg2",
+        "d2"
+      ]
+    },
+    "contextFen": "6k1/3N1pp1/7p/2p5/rbPp4/6PP/P1R2P2/5K2 w - - 2 33",
+    "contextMoves": [
+      "Nb6",
+      "Ra3",
+      "Nd5",
+      "d3",
+      "Rb2",
+      "Bc3",
+      "Nxc3",
+      "Rxc3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00MHi",
+    "gameUrl": "https://lichess.org/game/im48PGD7#85",
+    "theme": "crushing, endgame, long, rookEndgame, zugzwang",
+    "startFen": "8/8/5pp1/5k1p/5P1P/4R1P1/2r5/5K2 w - - 0 43",
+    "moves": [
+      "Re2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/5pp1/5k1p/5P1P/6P1/2r1R3/5K2 b - - 1 43",
+      "solution": [
+        "Rxe2",
+        "Kxe2",
+        "Kg4",
+        "Kf2",
+        "Kh3"
+      ]
+    },
+    "contextFen": "8/5pk1/R5p1/7p/5P1P/6P1/1r6/6K1 w - - 0 39",
+    "contextMoves": [
+      "Ra7",
+      "Rc2",
+      "Re7",
+      "Kf6",
+      "Re3",
+      "Kf5",
+      "Kf1",
+      "f6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Mj0",
+    "gameUrl": "https://lichess.org/game/2z67ZDH0#109",
+    "theme": "crushing, endgame, rookEndgame, short, skewer",
+    "startFen": "8/8/1p1p2p1/1P4k1/2P1PR2/5KP1/8/6r1 w - - 17 55",
+    "moves": [
+      "Rf8"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5R2/8/1p1p2p1/1P4k1/2P1P3/5KP1/8/6r1 b - - 18 55",
+      "solution": [
+        "Rf1+",
+        "Ke3",
+        "Rxf8"
+      ]
+    },
+    "contextFen": "8/8/1p1p1kp1/1P6/2P1P1R1/3K2P1/r7/8 w - - 9 51",
+    "contextMoves": [
+      "Kd4",
+      "Rd2+",
+      "Ke3",
+      "Rg2",
+      "Kf3",
+      "Rg1",
+      "Rf4+",
+      "Kg5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00QW1",
+    "gameUrl": "https://lichess.org/game/I3LnvYRW#61",
+    "theme": "endgame, exposedKing, long, mate, mateIn3, rookEndgame",
+    "startFen": "8/3r1ppp/4p3/k3P3/pR2R2P/2P5/2Kr1PP1/8 w - - 4 31",
+    "moves": [
+      "Kc1"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/3r1ppp/4p3/k3P3/pR2R2P/2P5/3r1PP1/2K5 b - - 5 31",
+      "solution": [
+        "Rd1+",
+        "Kb2",
+        "R7d2+",
+        "Ka3",
+        "Ra1#"
+      ]
+    },
+    "contextFen": "8/3r1ppp/2k1p3/pp2P3/P4R1P/1KPr4/4RPP1/8 w - - 1 27",
+    "contextMoves": [
+      "axb5+",
+      "Kxb5",
+      "Kc2",
+      "a4",
+      "Rb4+",
+      "Ka5",
+      "Ree4",
+      "Rd2+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Qlc",
+    "gameUrl": "https://lichess.org/game/CvcBVbVr/black#108",
+    "theme": "crushing, endgame, long, rookEndgame",
+    "startFen": "8/5R2/P7/2p1r3/2Pp2k1/3K4/5p2/8 b - - 1 54",
+    "moves": [
+      "Rf5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5R2/P7/2p2r2/2Pp2k1/3K4/5p2/8 w - - 2 55",
+      "solution": [
+        "Rxf5",
+        "Kxf5",
+        "Ke2",
+        "f1=Q+",
+        "Kxf1"
+      ]
+    },
+    "contextFen": "8/2R5/4r3/2p2p2/2Pp2k1/P2K4/8/8 b - - 1 50",
+    "contextMoves": [
+      "Re5",
+      "a4",
+      "f4",
+      "a5",
+      "f3",
+      "a6",
+      "f2",
+      "Rf7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Qqp",
+    "gameUrl": "https://lichess.org/game/KZM4JRxc#91",
+    "theme": "endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "6k1/8/p3P1p1/8/8/2P3PP/1r5r/R3RK2 w - - 0 46",
+    "moves": [
+      "e7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6k1/4P3/p5p1/8/8/2P3PP/1r5r/R3RK2 b - - 0 46",
+      "solution": [
+        "Rh1#"
+      ]
+    },
+    "contextFen": "5rk1/8/p5p1/8/4P3/2P3PP/1P1r4/R3R2K w - - 1 42",
+    "contextMoves": [
+      "e5",
+      "Rff2",
+      "e6",
+      "Rh2+",
+      "Kg1",
+      "Rdg2+",
+      "Kf1",
+      "Rxb2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00RiT",
+    "gameUrl": "https://lichess.org/game/u5bDliJE/black#44",
+    "theme": "advantage, endgame, fork, rookEndgame, short",
+    "startFen": "8/pp1k1p2/4p3/2ppPr1r/5PpP/2P3P1/P1P5/2K1RR2 b - f3 0 22",
+    "moves": [
+      "gxf3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/pp1k1p2/4p3/2ppPr1r/7P/2P2pP1/P1P5/2K1RR2 w - - 0 23",
+      "solution": [
+        "g4",
+        "Rxe5",
+        "gxh5"
+      ]
+    },
+    "contextFen": "r6r/pp1k1p2/4p3/2ppP3/6pP/2P5/P1P2PP1/2KR3R b - - 0 18",
+    "contextMoves": [
+      "Rh5",
+      "Rde1",
+      "Rah8",
+      "g3",
+      "Rf5",
+      "Rhf1",
+      "Rhh5",
+      "f4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00STy",
+    "gameUrl": "https://lichess.org/game/yc8Ey5PU/black#80",
+    "theme": "endgame, master, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "8/1R5R/4kpp1/4p3/4P2K/5P1P/r7/6r1 b - - 10 40",
+    "moves": [
+      "Rh2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1R5R/4kpp1/4p3/4P2K/5P1P/7r/6r1 w - - 11 41",
+      "solution": [
+        "Rb6#"
+      ]
+    },
+    "contextFen": "8/1R5R/r3kpp1/r3p3/4P3/5P1P/4K3/8 b - - 2 36",
+    "contextMoves": [
+      "Ra2+",
+      "Kf1",
+      "Ra1+",
+      "Kf2",
+      "R6a2+",
+      "Kg3",
+      "Rg1+",
+      "Kh4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00TFd",
+    "gameUrl": "https://lichess.org/game/olkVoMlg#79",
+    "theme": "deflection, endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "1R6/8/p1P3k1/6pp/1P6/6PK/r6P/8 w - - 1 40",
+    "moves": [
+      "c7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "1R6/2P5/p5k1/6pp/1P6/6PK/r6P/8 b - - 0 40",
+      "solution": [
+        "g4+",
+        "Kh4",
+        "Rxh2#"
+      ]
+    },
+    "contextFen": "6k1/6p1/pR6/7p/1PP5/6P1/P2r2KP/8 w - - 1 36",
+    "contextMoves": [
+      "Kh3",
+      "Rxa2",
+      "Rb8+",
+      "Kh7",
+      "c5",
+      "g5",
+      "c6",
+      "Kg6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00UGu",
+    "gameUrl": "https://lichess.org/game/pBD1nBPz#133",
+    "theme": "advancedPawn, crushing, endgame, master, rookEndgame, short",
+    "startFen": "7R/6rP/8/8/8/5p2/7K/5k2 w - - 5 67",
+    "moves": [
+      "Kh3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "7R/6rP/8/8/8/5p1K/8/5k2 b - - 6 67",
+      "solution": [
+        "f2",
+        "Kh4",
+        "Re7"
+      ]
+    },
+    "contextFen": "7R/8/8/7P/5p2/8/5k1K/r7 w - - 3 63",
+    "contextMoves": [
+      "h6",
+      "f3",
+      "h7",
+      "Ra7",
+      "Kh3",
+      "Rg7",
+      "Kh2",
+      "Kf1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00V0G",
+    "gameUrl": "https://lichess.org/game/UYjzL2st#97",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "8/6P1/5k1K/8/8/3p4/PR6/6r1 w - - 1 49",
+    "moves": [
+      "Rd2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6P1/5k1K/8/8/3p4/P2R4/6r1 b - - 2 49",
+      "solution": [
+        "Rh1+",
+        "Rh2",
+        "Rxh2#"
+      ]
+    },
+    "contextFen": "8/8/6P1/3pk3/1R4K1/8/P7/5r2 w - - 1 45",
+    "contextMoves": [
+      "Kg5",
+      "d4",
+      "Rb2",
+      "Rg1+",
+      "Kh6",
+      "d3",
+      "g7",
+      "Kf6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00VDN",
+    "gameUrl": "https://lichess.org/game/Tex5WhjM#75",
+    "theme": "crushing, discoveredAttack, endgame, master, rookEndgame, short",
+    "startFen": "3r4/3r2k1/p7/3p2p1/3R2Pp/1P2PK2/P2R4/8 w - - 0 38",
+    "moves": [
+      "e4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3r4/3r2k1/p7/3p2p1/3RP1Pp/1P3K2/P2R4/8 b - - 0 38",
+      "solution": [
+        "dxe4+",
+        "Ke3",
+        "Rxd4"
+      ]
+    },
+    "contextFen": "3r4/3r2k1/p4p2/3pq1pp/3RpQ1P/1P2PPP1/P2R2K1/8 w - - 0 34",
+    "contextMoves": [
+      "hxg5",
+      "exf3+",
+      "Kxf3",
+      "Qxg5",
+      "Qxg5+",
+      "fxg5",
+      "g4",
+      "h4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00WVK",
+    "gameUrl": "https://lichess.org/game/CMbwiChz/black#102",
+    "theme": "advancedPawn, crushing, endgame, master, rookEndgame, short",
+    "startFen": "k7/7R/p1P5/4K3/1P6/r6p/8/8 b - - 2 51",
+    "moves": [
+      "Rb3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "k7/7R/p1P5/4K3/1P6/1r5p/8/8 w - - 3 52",
+      "solution": [
+        "Rh8+",
+        "Ka7",
+        "c7"
+      ]
+    },
+    "contextFen": "8/kp5R/p4K2/2P5/1Pr4p/P7/8/8 b - - 0 47",
+    "contextMoves": [
+      "Rc3",
+      "Ke5",
+      "Rxa3",
+      "c6",
+      "h3",
+      "Rxb7+",
+      "Ka8",
+      "Rh7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00X0Q",
+    "gameUrl": "https://lichess.org/game/aWPHCaqm#103",
+    "theme": "advancedPawn, crushing, endgame, long, promotion, rookEndgame",
+    "startFen": "6R1/8/8/8/1KP5/3r4/PP3kp1/8 w - - 3 52",
+    "moves": [
+      "c5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6R1/8/8/2P5/1K6/3r4/PP3kp1/8 b - - 0 52",
+      "solution": [
+        "Rg3",
+        "Rxg3",
+        "Kxg3",
+        "c6",
+        "g1=Q"
+      ]
+    },
+    "contextFen": "4R3/8/8/8/8/1KP3p1/PP3k2/3r4 w - - 0 48",
+    "contextMoves": [
+      "Rf8+",
+      "Kg1",
+      "Rg8",
+      "g2",
+      "c4",
+      "Rd3+",
+      "Kb4",
+      "Kf2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00X2j",
+    "gameUrl": "https://lichess.org/game/GY1HtJCo/black#100",
+    "theme": "advancedPawn, crushing, endgame, long, promotion, rookEndgame",
+    "startFen": "8/5KP1/R1k5/8/2pp4/8/8/6r1 b - - 1 50",
+    "moves": [
+      "Kc5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5KP1/R7/2k5/2pp4/8/8/6r1 w - - 2 51",
+      "solution": [
+        "Rg6",
+        "Rxg6",
+        "Kxg6",
+        "d3",
+        "g8=Q"
+      ]
+    },
+    "contextFen": "8/2k5/3p2P1/R4K2/2p5/8/8/7r b - - 0 46",
+    "contextMoves": [
+      "Kc6",
+      "Ke6",
+      "Rg1",
+      "Kf7",
+      "d5",
+      "g7",
+      "d4",
+      "Ra6+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00XTV",
+    "gameUrl": "https://lichess.org/game/6kM7Fimp#55",
+    "theme": "crushing, endgame, master, rookEndgame, veryLong",
+    "startFen": "8/2k4p/p2p2p1/2pP1p2/2P4P/3K4/P2R1PP1/4r3 w - - 0 28",
+    "moves": [
+      "Re2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2k4p/p2p2p1/2pP1p2/2P4P/3K4/P3RPP1/4r3 b - - 1 28",
+      "solution": [
+        "Rxe2",
+        "Kxe2",
+        "Kb6",
+        "Kf3",
+        "Ka5",
+        "a3",
+        "Ka4"
+      ]
+    },
+    "contextFen": "8/2k3pp/p2p1p2/2pP4/2P1r3/8/P2K1PPP/3R4 w - - 3 24",
+    "contextMoves": [
+      "Kc3",
+      "Re2",
+      "Rd2",
+      "Re1",
+      "h4",
+      "g6",
+      "Kd3",
+      "f5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00YhY",
+    "gameUrl": "https://lichess.org/game/umv3Et1a#103",
+    "theme": "crushing, endgame, rookEndgame, short",
+    "startFen": "8/8/5kp1/R7/4p1P1/5p1P/2r2P2/6K1 w - - 0 52",
+    "moves": [
+      "h4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/5kp1/R7/4p1PP/5p2/2r2P2/6K1 b - - 0 52",
+      "solution": [
+        "Rc1+",
+        "Kh2",
+        "e3"
+      ]
+    },
+    "contextFen": "8/6k1/2r3p1/1R4p1/4ppP1/7P/5PK1/8 w - - 0 48",
+    "contextMoves": [
+      "Re5",
+      "Rc4",
+      "Rxg5",
+      "Rc2",
+      "Kg1",
+      "Kf6",
+      "Ra5",
+      "f3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00YjD",
+    "gameUrl": "https://lichess.org/game/LDzUjuLQ#75",
+    "theme": "crushing, endgame, long, quietMove, rookEndgame",
+    "startFen": "8/8/2p5/5k2/3R2p1/1P1P2K1/2r5/8 w - - 0 38",
+    "moves": [
+      "Rc4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/2p5/5k2/2R3p1/1P1P2K1/2r5/8 b - - 1 38",
+      "solution": [
+        "Rxc4",
+        "dxc4",
+        "c5",
+        "b4",
+        "cxb4"
+      ]
+    },
+    "contextFen": "8/2R5/r1p5/p4k2/3p2p1/1P1P1K2/P1P5/8 w - - 0 34",
+    "contextMoves": [
+      "Kg3",
+      "a4",
+      "Rd7",
+      "axb3",
+      "axb3",
+      "Ra2",
+      "Rxd4",
+      "Rxc2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00ZPK",
+    "gameUrl": "https://lichess.org/game/Y6yYxIcG/black#88",
+    "theme": "advancedPawn, advantage, endgame, long, master, rookEndgame, sacrifice",
+    "startFen": "5r2/R2R1pk1/P7/5pp1/8/1KP5/5r2/8 b - - 0 44",
+    "moves": [
+      "g4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5r2/R2R1pk1/P7/5p2/6p1/1KP5/5r2/8 w - - 0 45",
+      "solution": [
+        "Rxf7+",
+        "Rxf7",
+        "Rxf7+",
+        "Kxf7",
+        "a7"
+      ]
+    },
+    "contextFen": "4r3/R2R1pk1/6p1/5pr1/8/2P5/P1K2P2/8 b - - 1 40",
+    "contextMoves": [
+      "Rf8",
+      "a4",
+      "Rg2",
+      "Kb3",
+      "Rxf2",
+      "a5",
+      "g5",
+      "a6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00ZSu",
+    "gameUrl": "https://lichess.org/game/mQNWFJqN/black#86",
+    "theme": "advantage, endgame, rookEndgame, short",
+    "startFen": "8/2R5/1r2k1pp/1P6/K3pp2/7P/5PP1/8 b - - 0 43",
+    "moves": [
+      "e3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2R5/1r2k1pp/1P6/K4p2/4p2P/5PP1/8 w - - 0 44",
+      "solution": [
+        "fxe3",
+        "fxe3",
+        "Rc3"
+      ]
+    },
+    "contextFen": "1r6/2R5/4kppp/4p3/8/1PK4P/5PP1/8 b - - 9 39",
+    "contextMoves": [
+      "Rb6",
+      "b4",
+      "f5",
+      "Kb3",
+      "e4",
+      "Ka4",
+      "f4",
+      "b5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00axT",
+    "gameUrl": "https://lichess.org/game/g4Wa6pYc/black#96",
+    "theme": "crushing, endgame, long, master, rookEndgame",
+    "startFen": "3R4/8/8/5p2/8/3p3P/1k2rPP1/3K4 b - - 25 48",
+    "moves": [
+      "Rxf2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3R4/8/8/5p2/8/3p3P/1k3rP1/3K4 w - - 0 49",
+      "solution": [
+        "Rxd3",
+        "Rxg2",
+        "Rd2+",
+        "Rxd2+",
+        "Kxd2"
+      ]
+    },
+    "contextFen": "2R5/8/8/5p2/8/2kp3P/2r2PP1/4K3 b - - 17 44",
+    "contextMoves": [
+      "Kb2",
+      "Rd8",
+      "Kc3",
+      "Rc8+",
+      "Kb2",
+      "Rd8",
+      "Re2+",
+      "Kd1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00cZE",
+    "gameUrl": "https://lichess.org/game/GXkr4U3u#61",
+    "theme": "advancedPawn, crushing, endgame, long, rookEndgame",
+    "startFen": "4k3/5p2/3r4/pRp3Pp/2P1p3/6P1/1KP4P/8 w - - 0 31",
+    "moves": [
+      "Rxc5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4k3/5p2/3r4/p1R3Pp/2P1p3/6P1/1KP4P/8 b - - 0 31",
+      "solution": [
+        "e3",
+        "g6",
+        "Kf8",
+        "Rxa5",
+        "e2"
+      ]
+    },
+    "contextFen": "4k3/1R3pp1/1p1rp3/2p4p/P4P2/2P3P1/1KP4P/8 w - - 1 27",
+    "contextMoves": [
+      "c4",
+      "g5",
+      "fxg5",
+      "e5",
+      "a5",
+      "bxa5",
+      "Rb5",
+      "e4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00eAX",
+    "gameUrl": "https://lichess.org/game/MrdsMkpV/black#52",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "6k1/ppprN1pp/8/8/2r5/2P5/P5PP/3R1RK1 b - - 5 26",
+    "moves": [
+      "Rxe7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6k1/ppp1r1pp/8/8/2r5/2P5/P5PP/3R1RK1 w - - 0 27",
+      "solution": [
+        "Rd8+",
+        "Re8",
+        "Rxe8#"
+      ]
+    },
+    "contextFen": "r5k1/ppp2rpp/4N3/8/4Pp2/2P5/P5PP/R4RK1 b - - 3 22",
+    "contextMoves": [
+      "Re8",
+      "Nxf4",
+      "Rxe4",
+      "Nd5",
+      "Rd7",
+      "Rad1",
+      "Rc4",
+      "Ne7+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00eF9",
+    "gameUrl": "https://lichess.org/game/JdY4zfQY#113",
+    "theme": "crushing, endgame, master, rookEndgame, short",
+    "startFen": "8/8/Rp1r4/2p5/P1P1kp2/1P6/4K3/8 w - - 2 57",
+    "moves": [
+      "a5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/Rp1r4/P1p5/2P1kp2/1P6/4K3/8 b - - 0 57",
+      "solution": [
+        "f3+",
+        "Kf2",
+        "Rd2+"
+      ]
+    },
+    "contextFen": "8/R7/1p6/2p1kp2/2P3r1/1P3K2/P7/8 w - - 5 53",
+    "contextMoves": [
+      "Ra6",
+      "Rg6",
+      "a4",
+      "Rd6",
+      "Ke3",
+      "f4+",
+      "Ke2",
+      "Ke4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00eGd",
+    "gameUrl": "https://lichess.org/game/uwded1rg/black#78",
+    "theme": "crushing, endgame, rookEndgame, short",
+    "startFen": "7R/8/p2kp3/2r4p/p4K2/6PP/P7/8 b - - 3 39",
+    "moves": [
+      "Kd5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "7R/8/p3p3/2rk3p/p4K2/6PP/P7/8 w - - 4 40",
+      "solution": [
+        "Rxh5+",
+        "e5+",
+        "Rxe5+"
+      ]
+    },
+    "contextFen": "8/8/p1pkp2R/3r3p/pP6/2P1K1P1/P6P/8 b - - 4 35",
+    "contextMoves": [
+      "c5",
+      "bxc5+",
+      "Rxc5",
+      "h3",
+      "Rxc3+",
+      "Kf4",
+      "Rc5",
+      "Rh8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00fgg",
+    "gameUrl": "https://lichess.org/game/AjVJZKD1#41",
+    "theme": "backRankMate, endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "4r1k1/p4ppp/8/8/8/8/PP1b1PPP/K2R4 w - - 0 21",
+    "moves": [
+      "Rxd2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4r1k1/p4ppp/8/8/8/8/PP1R1PPP/K7 b - - 0 21",
+      "solution": [
+        "Re1+",
+        "Rd1",
+        "Rxd1#"
+      ]
+    },
+    "contextFen": "r3r1k1/p4ppp/2p5/3B1b2/8/8/PPPb1PPP/1K1R3R w - - 0 17",
+    "contextMoves": [
+      "Bxc6",
+      "Rac8",
+      "Bxe8",
+      "Bxc2+",
+      "Ka1",
+      "Bxd1",
+      "Rxd1",
+      "Rxe8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00gNl",
+    "gameUrl": "https://lichess.org/game/JhG6365X/black#76",
+    "theme": "endgame, exposedKing, long, mate, mateIn3, rookEndgame",
+    "startFen": "6k1/5R2/pp4p1/2p4p/7P/1P1r4/P3r1PK/5R2 b - - 0 38",
+    "moves": [
+      "Rdd2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6k1/5R2/pp4p1/2p4p/7P/1P6/P2rr1PK/5R2 w - - 1 39",
+      "solution": [
+        "Rf8+",
+        "Kh7",
+        "R1f7+",
+        "Kh6",
+        "Rh8#"
+      ]
+    },
+    "contextFen": "6k1/4rp2/pp4p1/2p4p/4q3/1P4rP/P2Q1RPK/5R2 b - - 2 34",
+    "contextMoves": [
+      "Rd3",
+      "Qg5",
+      "Qe5+",
+      "Qxe5",
+      "Rxe5",
+      "Rxf7",
+      "Re2",
+      "h4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00i8I",
+    "gameUrl": "https://lichess.org/game/RTBYdREp#95",
+    "theme": "crushing, defensiveMove, endgame, rookEndgame, short",
+    "startFen": "8/6kp/p4r2/1p6/4P3/P4R2/5KP1/8 w - - 1 48",
+    "moves": [
+      "Ke3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6kp/p4r2/1p6/4P3/P3KR2/6P1/8 b - - 2 48",
+      "solution": [
+        "Rxf3+",
+        "Kxf3",
+        "Kf6"
+      ]
+    },
+    "contextFen": "6rk/7p/p7/1p6/6q1/P3PQ2/6P1/5RK1 w - - 6 44",
+    "contextMoves": [
+      "Rf2",
+      "Qxf3",
+      "Rxf3",
+      "Rg6",
+      "Kf2",
+      "Kg7",
+      "e4",
+      "Rf6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00ieR",
+    "gameUrl": "https://lichess.org/game/TiKjdMLp/black#66",
+    "theme": "advantage, endgame, long, quietMove, rookEndgame",
+    "startFen": "6k1/1p3p1p/4p1p1/1P1pP3/P7/4r3/7P/1R4K1 b - - 0 33",
+    "moves": [
+      "Rxe5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6k1/1p3p1p/4p1p1/1P1pr3/P7/8/7P/1R4K1 w - - 0 34",
+      "solution": [
+        "a5",
+        "d4",
+        "a6",
+        "Rxb5",
+        "Rxb5"
+      ]
+    },
+    "contextFen": "6k1/1p3p1p/4p1p1/3pP3/P7/1P3P2/2r2Q1P/3R3K b - - 0 29",
+    "contextMoves": [
+      "Rxf2",
+      "Kg1",
+      "Rxf3",
+      "Rb1",
+      "Rc3",
+      "b4",
+      "Re3",
+      "b5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00jOm",
+    "gameUrl": "https://lichess.org/game/AptD0dS5#57",
+    "theme": "backRankMate, endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "1r6/3Pkppp/4p3/3p4/8/8/P4PPP/2R3K1 w - - 0 29",
+    "moves": [
+      "Rc8"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "1rR5/3Pkppp/4p3/3p4/8/8/P4PPP/6K1 b - - 1 29",
+      "solution": [
+        "Rb1+",
+        "Rc1",
+        "Rxc1#"
+      ]
+    },
+    "contextFen": "1r3rk1/3P1ppp/4p3/3p4/8/8/P4PPP/2R2RK1 w - - 1 25",
+    "contextMoves": [
+      "Rc7",
+      "Rfd8",
+      "Rfc1",
+      "Kf8",
+      "Rc8",
+      "Ke7",
+      "Rxb8",
+      "Rxb8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00lHu",
+    "gameUrl": "https://lichess.org/game/kX9fNCdN/black#94",
+    "theme": "advancedPawn, crushing, endgame, rookEndgame, short",
+    "startFen": "8/p7/6P1/4p3/R4pK1/1r2k2P/8/8 b - - 0 47",
+    "moves": [
+      "f3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p7/6P1/4p3/R5K1/1r2kp1P/8/8 w - - 0 48",
+      "solution": [
+        "g7",
+        "Rb8",
+        "Ra3+"
+      ]
+    },
+    "contextFen": "8/p7/R7/4ppP1/4k3/6KP/1r6/8 b - - 6 43",
+    "contextMoves": [
+      "f4+",
+      "Kh4",
+      "Rb7",
+      "Kg4",
+      "Rb3",
+      "Ra4+",
+      "Ke3",
+      "g6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00lap",
+    "gameUrl": "https://lichess.org/game/vMSyus5U/black#90",
+    "theme": "crushing, endgame, master, rookEndgame, short, skewer",
+    "startFen": "8/8/2k3P1/R7/P2p2rp/3K4/8/8 b - - 0 45",
+    "moves": [
+      "Rxg6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/2k3r1/R7/P2p3p/3K4/8/8 w - - 0 46",
+      "solution": [
+        "Ra6+",
+        "Kd7",
+        "Rxg6"
+      ]
+    },
+    "contextFen": "4r3/6R1/2k5/p5Pp/P2p3P/8/2K5/8 b - - 0 41",
+    "contextMoves": [
+      "Re4",
+      "Ra7",
+      "Rxh4",
+      "Rxa5",
+      "Rg4",
+      "Kd3",
+      "h4",
+      "g6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00liA",
+    "gameUrl": "https://lichess.org/game/s4AcDFcp/black#108",
+    "theme": "crushing, defensiveMove, endgame, rookEndgame, veryLong",
+    "startFen": "8/3K4/2r5/6k1/6p1/6Pp/3R3P/8 b - - 2 54",
+    "moves": [
+      "Ra6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/3K4/r7/6k1/6p1/6Pp/3R3P/8 w - - 3 55",
+      "solution": [
+        "Rd5+",
+        "Kg6",
+        "Rd6+",
+        "Rxd6+",
+        "Kxd6",
+        "Kf6",
+        "Kd5",
+        "Kf5",
+        "Kd4"
+      ]
+    },
+    "contextFen": "2K5/8/1P3k2/8/6pp/8/3R2PP/1r6 b - - 5 50",
+    "contextMoves": [
+      "Rxb6",
+      "Rf2+",
+      "Kg5",
+      "Rd2",
+      "h3",
+      "g3",
+      "Rc6+",
+      "Kd7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00lo9",
+    "gameUrl": "https://lichess.org/game/2AMC2bmO#79",
+    "theme": "advantage, discoveredAttack, discoveredCheck, endgame, long, rookEndgame",
+    "startFen": "6r1/4p3/3p1kp1/2pP1n2/1p2pRP1/1P6/4RP1P/6K1 w - - 0 40",
+    "moves": [
+      "gxf5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6r1/4p3/3p1kp1/2pP1P2/1p2pR2/1P6/4RP1P/6K1 b - - 0 40",
+      "solution": [
+        "gxf5+",
+        "Kf1",
+        "Kg5",
+        "Rexe4",
+        "fxe4"
+      ]
+    },
+    "contextFen": "1r1q4/2n1p2Q/b2p1kp1/2pP1n2/1pP1pR2/1P6/1R2BPPP/6K1 w - - 4 36",
+    "contextMoves": [
+      "g4",
+      "Nxd5",
+      "cxd5",
+      "Bxe2",
+      "Rxe2",
+      "Qg8",
+      "Qxg8",
+      "Rxg8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00n76",
+    "gameUrl": "https://lichess.org/game/1pRVU0YT#97",
+    "theme": "crushing, endgame, rookEndgame, short",
+    "startFen": "8/8/7p/1P1R3P/8/2k5/3p3r/3K4 w - - 3 49",
+    "moves": [
+      "b6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1P5p/3R3P/8/2k5/3p3r/3K4 b - - 0 49",
+      "solution": [
+        "Rh1+",
+        "Ke2",
+        "Re1+"
+      ]
+    },
+    "contextFen": "8/2R5/7p/7P/1P6/8/P2p3r/1k2K3 w - - 0 45",
+    "contextMoves": [
+      "Kd1",
+      "Kxa2",
+      "Rc5",
+      "Kb3",
+      "b5",
+      "Kb4",
+      "Rd5",
+      "Kc3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00nNa",
+    "gameUrl": "https://lichess.org/game/WsRWmvEZ#73",
+    "theme": "endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "8/2k3pp/4p3/1R3p2/1Pr2K1P/6P1/5P2/8 w - - 7 37",
+    "moves": [
+      "Ke5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2k3pp/4p3/1R2Kp2/1Pr4P/6P1/5P2/8 b - - 8 37",
+      "solution": [
+        "Re4#"
+      ]
+    },
+    "contextFen": "1R6/6pp/2r1pk2/5p2/7P/1P4P1/5PK1/8 w - - 1 33",
+    "contextMoves": [
+      "b4",
+      "Ke7",
+      "Kf3",
+      "Kd6",
+      "Kf4",
+      "Kc7",
+      "Rb5",
+      "Rc4+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00nh0",
+    "gameUrl": "https://lichess.org/game/N8kLeymk/black#100",
+    "theme": "crushing, deflection, endgame, long, rookEndgame",
+    "startFen": "8/8/8/4R1kp/4p3/4r2P/6PK/8 b - - 1 50",
+    "moves": [
+      "Kh4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/4R2p/4p2k/4r2P/6PK/8 w - - 2 51",
+      "solution": [
+        "g3+",
+        "Rxg3",
+        "Rxe4+",
+        "Kg5",
+        "Kxg3"
+      ]
+    },
+    "contextFen": "4R3/8/6k1/4p2p/8/r6P/6PK/8 b - - 7 46",
+    "contextMoves": [
+      "Re3",
+      "Re6+",
+      "Kf5",
+      "Rh6",
+      "Kg5",
+      "Re6",
+      "e4",
+      "Re5+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00oNP",
+    "gameUrl": "https://lichess.org/game/ko1A0ZH7#57",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "6k1/2r5/4p3/p2pb1pP/R5P1/1P6/PP3r2/1K2R3 w - - 0 29",
+    "moves": [
+      "Rxe5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6k1/2r5/4p3/p2pR1pP/R5P1/1P6/PP3r2/1K6 b - - 0 29",
+      "solution": [
+        "Rf1+",
+        "Re1",
+        "Rxe1#"
+      ]
+    },
+    "contextFen": "5rk1/2r2pb1/4p3/p2pN1pP/3R2P1/1P6/PP3P2/1K5R w - - 0 25",
+    "contextMoves": [
+      "Re1",
+      "f5",
+      "f3",
+      "fxg4",
+      "fxg4",
+      "Rf2",
+      "Ra4",
+      "Bxe5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00oYS",
+    "gameUrl": "https://lichess.org/game/poyLvn1d#117",
+    "theme": "advancedPawn, clearance, crushing, endgame, master, promotion, rookEndgame, short",
+    "startFen": "4K3/4P1k1/8/8/8/8/2p1R3/2r5 w - - 10 59",
+    "moves": [
+      "Kd7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/3KP1k1/8/8/8/8/2p1R3/2r5 b - - 11 59",
+      "solution": [
+        "Rd1+",
+        "Ke6",
+        "c1=Q"
+      ]
+    },
+    "contextFen": "4K3/4P2k/8/8/8/2R5/2p5/2r5 w - - 2 55",
+    "contextMoves": [
+      "Rh3+",
+      "Kg6",
+      "Rh2",
+      "Kg7",
+      "Rg2+",
+      "Kh7",
+      "Re2",
+      "Kg7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00pBn",
+    "gameUrl": "https://lichess.org/game/rQFsqHTR/black#102",
+    "theme": "advancedPawn, crushing, endgame, master, rookEndgame, short",
+    "startFen": "7R/8/8/P5p1/5k2/1KP3r1/7p/8 b - - 1 51",
+    "moves": [
+      "Rg2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "7R/8/8/P5p1/5k2/1KP5/6rp/8 w - - 2 52",
+      "solution": [
+        "a6",
+        "Re2",
+        "a7"
+      ]
+    },
+    "contextFen": "8/8/8/R5pp/P3k3/1KP3r1/8/8 b - - 0 47",
+    "contextMoves": [
+      "h4",
+      "Ra8",
+      "h3",
+      "Re8+",
+      "Kf4",
+      "a5",
+      "h2",
+      "Rh8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00plb",
+    "gameUrl": "https://lichess.org/game/5wrsvEX6#107",
+    "theme": "crushing, endgame, rookEndgame, short",
+    "startFen": "8/1p6/p1p3r1/1kP5/7R/5P1P/5K2/8 w - - 0 54",
+    "moves": [
+      "Rg4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1p6/p1p3r1/1kP5/6R1/5P1P/5K2/8 b - - 1 54",
+      "solution": [
+        "Rxg4",
+        "fxg4",
+        "Kxc5"
+      ]
+    },
+    "contextFen": "8/1p2r3/p1p5/2P2RP1/k2p3p/5P1P/5K2/8 w - - 0 50",
+    "contextMoves": [
+      "Rf4",
+      "Re5",
+      "g6",
+      "Rg5",
+      "Rxd4+",
+      "Kb5",
+      "Rxh4",
+      "Rxg6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00rIF",
+    "gameUrl": "https://lichess.org/game/aOqnitxA#71",
+    "theme": "endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "1r6/p7/1p3k1K/P2p2pR/2p5/2P3P1/2P3P1/1R6 w - - 3 36",
+    "moves": [
+      "Rxg5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "1r6/p7/1p3k1K/P2p2R1/2p5/2P3P1/2P3P1/1R6 b - - 0 36",
+      "solution": [
+        "Rh8#"
+      ]
+    },
+    "contextFen": "1r6/p2k2K1/1p2r2p/P2p2pB/2p5/2P3P1/2P3P1/1R5R w - - 3 32",
+    "contextMoves": [
+      "Bg4",
+      "Kd6",
+      "Bxe6",
+      "Kxe6",
+      "Kxh6",
+      "Kf5",
+      "Rh5",
+      "Kf6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00sXv",
+    "gameUrl": "https://lichess.org/game/zR7ytIpT#69",
+    "theme": "crushing, endgame, rookEndgame, short, skewer",
+    "startFen": "8/r4pp1/2k1p2p/8/p2PP3/2K2PP1/6P1/1R6 w - - 1 35",
+    "moves": [
+      "Kb4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/r4pp1/2k1p2p/8/pK1PP3/5PP1/6P1/1R6 b - - 2 35",
+      "solution": [
+        "Rb7+",
+        "Kxa4",
+        "Rxb1"
+      ]
+    },
+    "contextFen": "8/r3kpp1/2R1p2p/pp6/3P4/1PK1PPP1/6P1/8 w - - 0 31",
+    "contextMoves": [
+      "Rb6",
+      "a4",
+      "bxa4",
+      "bxa4",
+      "Rb1",
+      "Kd6",
+      "e4",
+      "Kc6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00slx",
+    "gameUrl": "https://lichess.org/game/usaxh789/black#122",
+    "theme": "crushing, endgame, long, rookEndgame",
+    "startFen": "8/6r1/3kpRp1/6Pp/3K1P1P/8/8/8 b - - 0 61",
+    "moves": [
+      "Ke7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/4k1r1/4pRp1/6Pp/3K1P1P/8/8/8 w - - 1 62",
+      "solution": [
+        "Ke5",
+        "Rg8",
+        "Rxe6+",
+        "Kf7",
+        "f5"
+      ]
+    },
+    "contextFen": "5R2/2Pk1p2/2r1p1pp/8/3K2PP/5P2/8/8 b - - 4 57",
+    "contextMoves": [
+      "Rxc7",
+      "Rxf7+",
+      "Kd6",
+      "Rf6",
+      "Rg7",
+      "f4",
+      "h5",
+      "g5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00v6A",
+    "gameUrl": "https://lichess.org/game/aNjVsVyK/black#52",
+    "theme": "backRankMate, endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "3r1Q1k/p5pp/1p2p3/6PP/4P3/8/PPPr4/1K3R2 b - - 2 26",
+    "moves": [
+      "Rxf8"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5r1k/p5pp/1p2p3/6PP/4P3/8/PPPr4/1K3R2 w - - 0 27",
+      "solution": [
+        "Rxf8#"
+      ]
+    },
+    "contextFen": "r5k1/p3Qppp/1p2p3/3r2PP/4B3/5P2/PPP2n2/1K5R b - - 2 22",
+    "contextMoves": [
+      "Rd2",
+      "Rf1",
+      "Nxe4",
+      "fxe4",
+      "Rad8",
+      "Qxf7+",
+      "Kh8",
+      "Qf8+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00vCE",
+    "gameUrl": "https://lichess.org/game/5lDULF3r/black#78",
+    "theme": "crushing, endgame, quietMove, rookEndgame, veryLong",
+    "startFen": "6k1/4P1p1/3R1r2/3R2Kp/8/6Pr/8/8 b - - 0 39",
+    "moves": [
+      "Kf7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/4Pkp1/3R1r2/3R2Kp/8/6Pr/8/8 w - - 1 40",
+      "solution": [
+        "Re5",
+        "Rxg3+",
+        "Kh4",
+        "Rg4+",
+        "Kxh5",
+        "Rf5+",
+        "Rxf5+"
+      ]
+    },
+    "contextFen": "6k1/6p1/3RP2p/3R4/6K1/6P1/1r5r/8 b - - 1 35",
+    "contextMoves": [
+      "h5+",
+      "Kf5",
+      "Rbf2+",
+      "Kg6",
+      "Rf6+",
+      "Kg5",
+      "Rh3",
+      "e7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00vKn",
+    "gameUrl": "https://lichess.org/game/qsLWpNqw#79",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "8/8/1R6/6k1/6P1/4r2P/r7/5R1K w - - 5 40",
+    "moves": [
+      "Rff6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1R3R2/6k1/6P1/4r2P/r7/7K b - - 6 40",
+      "solution": [
+        "Re1+",
+        "Rf1",
+        "Rxf1#"
+      ]
+    },
+    "contextFen": "4r3/7k/6R1/1p6/6P1/7P/P2r4/5R1K w - - 3 36",
+    "contextMoves": [
+      "Rb6",
+      "Rxa2",
+      "Rxb5",
+      "Re3",
+      "Rb7+",
+      "Kg6",
+      "Rb6+",
+      "Kg5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00vZ1",
+    "gameUrl": "https://lichess.org/game/PwiyhVrB#71",
+    "theme": "advancedPawn, advantage, endgame, pin, quietMove, rookEndgame, short",
+    "startFen": "2r3k1/6p1/R3p1r1/8/3PPp2/2P2P1p/P1R3P1/6K1 w - - 0 36",
+    "moves": [
+      "a4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2r3k1/6p1/R3p1r1/8/P2PPp2/2P2P1p/2R3P1/6K1 b - - 0 36",
+      "solution": [
+        "Rb8",
+        "Kh2",
+        "hxg2"
+      ]
+    },
+    "contextFen": "2r3k1/6p1/R3p1r1/8/3PPp1p/2P2PqP/P1R1Q1P1/6K1 w - - 1 32",
+    "contextMoves": [
+      "Qf2",
+      "Qxh3",
+      "Kf1",
+      "Qh1+",
+      "Qg1",
+      "Qxg1+",
+      "Kxg1",
+      "h3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00xxi",
+    "gameUrl": "https://lichess.org/game/XrLtoaW5/black#136",
+    "theme": "advancedPawn, crushing, defensiveMove, endgame, promotion, quietMove, rookEndgame, veryLong",
+    "startFen": "6r1/7P/5K2/8/2P2k2/P7/8/8 b - - 0 68",
+    "moves": [
+      "Rf8+"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5r2/7P/5K2/8/2P2k2/P7/8/8 w - - 1 69",
+      "solution": [
+        "Kg7",
+        "Rd8",
+        "h8=Q",
+        "Rxh8",
+        "Kxh8",
+        "Ke4",
+        "a4",
+        "Kd4",
+        "a5"
+      ]
+    },
+    "contextFen": "8/8/1r6/7P/2P2PK1/P3k3/8/8 b - - 3 64",
+    "contextMoves": [
+      "Ke4",
+      "Kg5",
+      "Rb8",
+      "h6",
+      "Rg8+",
+      "Kf6",
+      "Kxf4",
+      "h7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00yHW",
+    "gameUrl": "https://lichess.org/game/jJ4ZSQGJ/black#80",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "8/1p4r1/PR6/6pk/8/6PP/6K1/8 b - - 0 40",
+    "moves": [
+      "bxa6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6r1/pR6/6pk/8/6PP/6K1/8 w - - 0 41",
+      "solution": [
+        "g4+",
+        "Kh4",
+        "Rh6#"
+      ]
+    },
+    "contextFen": "8/1p4r1/5k2/1R4p1/P7/6PP/8/6K1 b - - 0 36",
+    "contextMoves": [
+      "Kg6",
+      "Kg2",
+      "Kf6",
+      "a5",
+      "Kg6",
+      "Rb6+",
+      "Kh5",
+      "a6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0100g",
+    "gameUrl": "https://lichess.org/game/PPDNNe1y#85",
+    "theme": "crushing, endgame, rookEndgame, short, skewer",
+    "startFen": "8/8/5k2/R7/2P1K2r/8/P7/8 w - - 1 43",
+    "moves": [
+      "Kd5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/5k2/R2K4/2P4r/8/P7/8 b - - 2 43",
+      "solution": [
+        "Rh5+",
+        "Kd6",
+        "Rxa5"
+      ]
+    },
+    "contextFen": "8/8/5k2/pp1R3p/4K3/2P5/PP3rPP/8 w - - 10 39",
+    "contextMoves": [
+      "Rxb5",
+      "Rxg2",
+      "Rxh5",
+      "Rxb2",
+      "Rxa5",
+      "Rxh2",
+      "c4",
+      "Rh4+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/010N8",
+    "gameUrl": "https://lichess.org/game/SVWon15d/black#74",
+    "theme": "crushing, endgame, rookEndgame, short",
+    "startFen": "8/3r3p/pp1pk1pP/2rR1pP1/P1PRpP2/1P2P3/4K3/8 b - - 1 37",
+    "moves": [
+      "Rxd5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/3r3p/pp1pk1pP/3r1pP1/P1PRpP2/1P2P3/4K3/8 w - - 0 38",
+      "solution": [
+        "cxd5+",
+        "Ke7",
+        "Rc4"
+      ]
+    },
+    "contextFen": "8/1p1r1r1p/p2pk1p1/3R1pPP/P1P1pP2/1P2P3/6K1/3R4 b - - 0 33",
+    "contextMoves": [
+      "Rf8",
+      "Kf2",
+      "Rc8",
+      "h6",
+      "Rc5",
+      "Ke2",
+      "b6",
+      "R1d4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0112g",
+    "gameUrl": "https://lichess.org/game/OT4wj1GG/black#114",
+    "theme": "crushing, endgame, rookEndgame, short, skewer",
+    "startFen": "7R/8/8/8/3k4/4p3/r7/4K3 b - - 1 57",
+    "moves": [
+      "Ra4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "7R/8/8/8/r2k4/4p3/8/4K3 w - - 2 58",
+      "solution": [
+        "Rh4+",
+        "Kc3",
+        "Rxa4"
+      ]
+    },
+    "contextFen": "8/8/8/4p3/4k2R/8/r7/4K3 b - - 11 53",
+    "contextMoves": [
+      "Ke3",
+      "Rh3+",
+      "Kd4",
+      "Rh8",
+      "e4",
+      "Rh3",
+      "e3",
+      "Rh8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/011jz",
+    "gameUrl": "https://lichess.org/game/6KYnVEu8/black#64",
+    "theme": "advantage, endgame, long, rookEndgame",
+    "startFen": "2rrk3/p1p2p2/1p3P2/2p1P1PR/7p/1P6/P5P1/6K1 b - - 0 32",
+    "moves": [
+      "Rd5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2r1k3/p1p2p2/1p3P2/2prP1PR/7p/1P6/P5P1/6K1 w - - 1 33",
+      "solution": [
+        "Rh8+",
+        "Kd7",
+        "Rxc8",
+        "Kxc8",
+        "e6"
+      ]
+    },
+    "contextFen": "2r2rk1/p1p2pp1/1p3P2/2p1P3/6Pp/1P6/P4RP1/6K1 b - - 0 28",
+    "contextMoves": [
+      "g5",
+      "Rf5",
+      "Rfd8",
+      "Rxg5+",
+      "Kf8",
+      "Rh5",
+      "Ke8",
+      "g5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0125B",
+    "gameUrl": "https://lichess.org/game/x10SD0Y1/black#88",
+    "theme": "crushing, endgame, hangingPiece, rookEndgame, short",
+    "startFen": "8/1p6/1Pr2P2/1Rp3K1/3p4/4k3/8/8 b - - 0 44",
+    "moves": [
+      "Rxf6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1p6/1P3r2/1Rp3K1/3p4/4k3/8/8 w - - 0 45",
+      "solution": [
+        "Kxf6",
+        "c4",
+        "Re5+"
+      ]
+    },
+    "contextFen": "8/1p6/1Pr2k2/1Rpp3K/5P2/4P3/8/8 b - - 0 40",
+    "contextMoves": [
+      "Kf5",
+      "Kh4",
+      "Ke4",
+      "Kg5",
+      "Kxe3",
+      "f5",
+      "d4",
+      "f6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0127O",
+    "gameUrl": "https://lichess.org/game/A9E5QoNO#125",
+    "theme": "crushing, endgame, rookEndgame, short",
+    "startFen": "8/6k1/5R2/1K4Pp/1P6/2P5/6r1/8 w - - 1 63",
+    "moves": [
+      "c4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6k1/5R2/1K4Pp/1PP5/8/6r1/8 b - - 0 63",
+      "solution": [
+        "Rxg5+",
+        "Ka6",
+        "Kxf6"
+      ]
+    },
+    "contextFen": "8/5R2/6pk/1K5p/7P/2P4r/1P6/8 w - - 1 59",
+    "contextMoves": [
+      "Rf4",
+      "g5",
+      "Rf6+",
+      "Kg7",
+      "hxg5",
+      "Rh2",
+      "b4",
+      "Rg2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0135i",
+    "gameUrl": "https://lichess.org/game/bsAwZfBu#113",
+    "theme": "advancedPawn, advantage, endgame, long, master, masterVsMaster, promotion, rookEndgame",
+    "startFen": "8/6Rr/7P/3p4/2pk1p2/3b3R/6PK/8 w - - 6 57",
+    "moves": [
+      "Rxd3+"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6Rr/7P/3p4/2pk1p2/3R4/6PK/8 b - - 0 57",
+      "solution": [
+        "cxd3",
+        "Rxh7",
+        "d2",
+        "Rf7",
+        "d1=Q"
+      ]
+    },
+    "contextFen": "8/7r/6RP/3pkp2/2p5/3b3R/6PK/8 w - - 0 53",
+    "contextMoves": [
+      "Rg7",
+      "f4",
+      "Rh5+",
+      "Kd4",
+      "Rh4",
+      "Ke3",
+      "Rh3+",
+      "Kd4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/013bF",
+    "gameUrl": "https://lichess.org/game/8o63NDRm#91",
+    "theme": "advancedPawn, crushing, endgame, rookEndgame, short",
+    "startFen": "8/6pk/8/R7/5Pp1/p5P1/7P/r3K3 w - - 2 46",
+    "moves": [
+      "Kd2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6pk/8/R7/5Pp1/p5P1/3K3P/r7 b - - 3 46",
+      "solution": [
+        "a2",
+        "Kc3",
+        "Rc1+"
+      ]
+    },
+    "contextFen": "8/6pk/3R4/p7/p4Pp1/2r3P1/2P4P/6K1 w - - 0 42",
+    "contextMoves": [
+      "Rd5",
+      "Rxc2",
+      "Rxa5",
+      "Ra2",
+      "Kf1",
+      "a3",
+      "Ke1",
+      "Ra1+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/014M7",
+    "gameUrl": "https://lichess.org/game/jzJ3xLJ4/black#104",
+    "theme": "crushing, endgame, quietMove, rookEndgame, short",
+    "startFen": "7r/6kP/6P1/p5K1/8/8/1p6/6R1 b - - 1 52",
+    "moves": [
+      "a4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "7r/6kP/6P1/6K1/p7/8/1p6/6R1 w - - 0 53",
+      "solution": [
+        "Rd1",
+        "Rxh7",
+        "Rd7+"
+      ]
+    },
+    "contextFen": "7r/p5kP/6P1/1p5R/8/6K1/8/8 b - - 4 48",
+    "contextMoves": [
+      "b4",
+      "Rg5",
+      "b3",
+      "Kh4",
+      "b2",
+      "Rg1",
+      "a5",
+      "Kg5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0156I",
+    "gameUrl": "https://lichess.org/game/n79dNELk/black#92",
+    "theme": "endgame, master, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "2k5/1p5R/3K4/P5r1/8/1p6/8/8 b - - 1 46",
+    "moves": [
+      "Rb5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2k5/1p5R/3K4/Pr6/8/1p6/8/8 w - - 2 47",
+      "solution": [
+        "Rh8#"
+      ]
+    },
+    "contextFen": "2k5/1p3K1p/8/Ppr1P1P1/7p/8/7R/8 b - - 0 42",
+    "contextMoves": [
+      "Rxe5",
+      "Rxh4",
+      "Rxg5",
+      "Rxh7",
+      "b4",
+      "Ke6",
+      "b3",
+      "Kd6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/015pp",
+    "gameUrl": "https://lichess.org/game/gORdjPkR/black#102",
+    "theme": "crushing, endgame, long, rookEndgame, skewer",
+    "startFen": "8/8/8/3pp3/5P1R/r3k3/6K1/8 b - - 0 51",
+    "moves": [
+      "exf4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/3p4/5p1R/r3k3/6K1/8 w - - 0 52",
+      "solution": [
+        "Rh3+",
+        "Ke2",
+        "Rxa3",
+        "d4",
+        "Ra2+"
+      ]
+    },
+    "contextFen": "7R/P7/8/3ppp1p/r3k3/6PK/8/8 b - - 1 47",
+    "contextMoves": [
+      "Rxa7",
+      "Rxh5",
+      "Ra3",
+      "Rh4+",
+      "f4",
+      "Kg2",
+      "Ke3",
+      "gxf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0165r",
+    "gameUrl": "https://lichess.org/game/0zQouwGT/black#102",
+    "theme": "crushing, defensiveMove, endgame, rookEndgame, veryLong",
+    "startFen": "8/7r/2R4P/6k1/4p3/8/4KP2/8 b - - 4 51",
+    "moves": [
+      "Rxh6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/2R4r/6k1/4p3/8/4KP2/8 w - - 0 52",
+      "solution": [
+        "Rxh6",
+        "Kxh6",
+        "Ke3",
+        "Kg5",
+        "Kxe4",
+        "Kf6",
+        "Kf4"
+      ]
+    },
+    "contextFen": "8/8/2p1R3/7P/4pk2/8/P1r2PK1/8 b - - 1 47",
+    "contextMoves": [
+      "Rxa2",
+      "h6",
+      "Ra7",
+      "Rxc6",
+      "Rh7",
+      "Kf1",
+      "Kg5",
+      "Ke2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/017AB",
+    "gameUrl": "https://lichess.org/game/2zYITnbk#101",
+    "theme": "advancedPawn, crushing, deflection, endgame, promotion, rookEndgame, short",
+    "startFen": "8/5k2/7p/1R4p1/4P1K1/5P1P/1pr5/8 w - - 2 51",
+    "moves": [
+      "Kf5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5k2/7p/1R3Kp1/4P3/5P1P/1pr5/8 b - - 3 51",
+      "solution": [
+        "Rc5+",
+        "Rxc5",
+        "b1=Q"
+      ]
+    },
+    "contextFen": "5k2/1R6/7p/4pKp1/1p2P3/2r2P1P/8/8 w - - 8 47",
+    "contextMoves": [
+      "Kg4",
+      "b3",
+      "Rb5",
+      "Kf7",
+      "Rxe5",
+      "b2",
+      "Rb5",
+      "Rc2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/017c1",
+    "gameUrl": "https://lichess.org/game/xat94cnU/black#98",
+    "theme": "crushing, discoveredAttack, endgame, rookEndgame, short",
+    "startFen": "8/8/8/1p6/4k3/2p4P/rP2RK2/8 b - - 1 49",
+    "moves": [
+      "Kd4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/1p6/3k4/2p4P/rP2RK2/8 w - - 2 50",
+      "solution": [
+        "bxc3+",
+        "Kxc3",
+        "Rxa2"
+      ]
+    },
+    "contextFen": "8/3b1k1R/8/1p6/2p1B3/7P/rP3K2/8 b - - 2 45",
+    "contextMoves": [
+      "Ke6",
+      "Bd5+",
+      "Kxd5",
+      "Rxd7+",
+      "Ke4",
+      "Rd2",
+      "c3",
+      "Re2+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/019gx",
+    "gameUrl": "https://lichess.org/game/pCBDwbPH#89",
+    "theme": "attraction, endgame, long, mate, mateIn3, rookEndgame, sacrifice",
+    "startFen": "1r6/6R1/3p4/1P1Rp3/K1r1P3/2k2P2/8/8 w - - 1 45",
+    "moves": [
+      "Ka5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "1r6/6R1/3p4/KP1Rp3/2r1P3/2k2P2/8/8 b - - 2 45",
+      "solution": [
+        "Ra4+",
+        "Kxa4",
+        "Ra8+",
+        "Ra7",
+        "Rxa7#"
+      ]
+    },
+    "contextFen": "1r6/6R1/1krp4/4p3/p3P3/K1PR1P2/1P6/8 w - - 9 41",
+    "contextMoves": [
+      "Kxa4",
+      "Kc5",
+      "Rd5+",
+      "Kc4",
+      "b4",
+      "Kxc3",
+      "b5",
+      "Rc4+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01A3W",
+    "gameUrl": "https://lichess.org/game/vvUxsteN/black#62",
+    "theme": "attraction, crushing, endgame, exposedKing, long, rookEndgame, skewer",
+    "startFen": "4r3/pp5p/5k2/2p1r3/3p4/PP1P4/3KR2P/5R2 b - - 1 31",
+    "moves": [
+      "Ke6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4r3/pp5p/4k3/2p1r3/3p4/PP1P4/3KR2P/5R2 w - - 2 32",
+      "solution": [
+        "Rxe5+",
+        "Kxe5",
+        "Re1+",
+        "Kd6",
+        "Rxe8"
+      ]
+    },
+    "contextFen": "4r2k/pp2r2p/8/2p1p1p1/3p4/PP1P1PP1/3KR2P/4R3 b - - 0 27",
+    "contextMoves": [
+      "Kg7",
+      "f4",
+      "gxf4",
+      "gxf4",
+      "Kf6",
+      "fxe5+",
+      "Rxe5",
+      "Rf1+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01AcF",
+    "gameUrl": "https://lichess.org/game/w0lYZRoX#85",
+    "theme": "crushing, endgame, rookEndgame, short",
+    "startFen": "8/6k1/4pRP1/3pPp2/2r2K2/2P5/8/8 w - - 1 43",
+    "moves": [
+      "Kg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6k1/4pRP1/3pPp2/2r5/2P3K1/8/8 b - - 2 43",
+      "solution": [
+        "Rg4+",
+        "Kf3",
+        "Rxg6"
+      ]
+    },
+    "contextFen": "1r6/6k1/4p3/3pPpPR/1p3K2/2P5/1P6/8 w - - 0 39",
+    "contextMoves": [
+      "Rh6",
+      "bxc3",
+      "bxc3",
+      "Rb6",
+      "Rf6",
+      "Rc6",
+      "g6",
+      "Rc4+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01BBu",
+    "gameUrl": "https://lichess.org/game/xI6LfrwV#95",
+    "theme": "advancedPawn, crushing, endgame, promotion, rookEndgame, sacrifice, veryLong",
+    "startFen": "2r5/3R4/2P2p2/1P3P2/7k/6pp/1K6/8 w - - 2 48",
+    "moves": [
+      "Rh7+"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2r5/7R/2P2p2/1P3P2/7k/6pp/1K6/8 b - - 3 48",
+      "solution": [
+        "Kg4",
+        "c7",
+        "Rxc7",
+        "Rxc7",
+        "h2",
+        "b6",
+        "h1=Q"
+      ]
+    },
+    "contextFen": "8/r7/5p2/5Pp1/1PP4k/7p/1K1R4/8 w - - 1 44",
+    "contextMoves": [
+      "c5",
+      "g4",
+      "c6",
+      "Rc7",
+      "b5",
+      "g3",
+      "Rd7",
+      "Rc8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01BI2",
+    "gameUrl": "https://lichess.org/game/FFtkhBNX/black#82",
+    "theme": "endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "3R4/2p1k3/4p1p1/1p2P2p/1P6/8/4rr2/3R2K1 b - - 7 41",
+    "moves": [
+      "Kf7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3R4/2p2k2/4p1p1/1p2P2p/1P6/8/4rr2/3R2K1 w - - 8 42",
+      "solution": [
+        "R1d7#"
+      ]
+    },
+    "contextFen": "R7/2p1k2p/4p1p1/1p2P3/1P6/8/2r3r1/3R1K2 b - - 9 37",
+    "contextMoves": [
+      "h5",
+      "Rad8",
+      "Rcf2+",
+      "Ke1",
+      "Re2+",
+      "Kf1",
+      "Rgf2+",
+      "Kg1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01BUa",
+    "gameUrl": "https://lichess.org/game/yFWOkPXm#55",
+    "theme": "advancedPawn, crushing, endgame, long, rookEndgame",
+    "startFen": "2kr4/pp3Rp1/2p1p1P1/4P3/4p3/2P5/PP6/1K6 w - - 0 28",
+    "moves": [
+      "Rxg7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2kr4/pp4R1/2p1p1P1/4P3/4p3/2P5/PP6/1K6 b - - 0 28",
+      "solution": [
+        "e3",
+        "Rh7",
+        "e2",
+        "Rh1",
+        "Rd1+"
+      ]
+    },
+    "contextFen": "2kr1b1R/pp4p1/2p1p1P1/q4p2/3PP3/2PQ1N2/PP6/1K6 w - - 3 24",
+    "contextMoves": [
+      "Ne5",
+      "Qxe5",
+      "dxe5",
+      "Rxd3",
+      "Rxf8+",
+      "Rd8",
+      "Rf7",
+      "fxe4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01CDd",
+    "gameUrl": "https://lichess.org/game/oC9fNWpH/black#96",
+    "theme": "crushing, endgame, rookEndgame, short",
+    "startFen": "8/p4k2/R6K/3r2Pp/8/8/8/8 b - - 0 48",
+    "moves": [
+      "h4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p4k2/R6K/3r2P1/7p/8/8/8 w - - 0 49",
+      "solution": [
+        "Rxa7+",
+        "Ke6",
+        "g6"
+      ]
+    },
+    "contextFen": "8/p4rk1/R5p1/7p/7P/6K1/8/8 b - - 5 44",
+    "contextMoves": [
+      "Rd7",
+      "Kf4",
+      "Kf7",
+      "Kg5",
+      "Rd5+",
+      "Kh6",
+      "g5",
+      "hxg5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Cjs",
+    "gameUrl": "https://lichess.org/game/anQBXaJA#67",
+    "theme": "crushing, endgame, rookEndgame, short",
+    "startFen": "8/5p2/3pkPrp/1p1rp2R/1P6/2P2RP1/3K1P1P/8 w - - 1 34",
+    "moves": [
+      "Ke2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5p2/3pkPrp/1p1rp2R/1P6/2P2RP1/4KP1P/8 b - - 2 34",
+      "solution": [
+        "e4",
+        "Rh4",
+        "exf3+"
+      ]
+    },
+    "contextFen": "2r5/5p2/p2pkPrp/1p2p2R/8/PP3RP1/2P1KP1P/8 w - - 4 30",
+    "contextMoves": [
+      "Kd2",
+      "a5",
+      "c3",
+      "Rc5",
+      "b4",
+      "axb4",
+      "axb4",
+      "Rd5+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01CxB",
+    "gameUrl": "https://lichess.org/game/RKxc3BDJ#105",
+    "theme": "advancedPawn, crushing, endgame, master, promotion, rookEndgame, short",
+    "startFen": "4k3/R5R1/5pKp/1Pp3r1/8/6P1/4p2P/8 w - - 3 53",
+    "moves": [
+      "Kxf6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4k3/R5R1/5K1p/1Pp3r1/8/6P1/4p2P/8 b - - 0 53",
+      "solution": [
+        "Rxg7",
+        "Kxg7",
+        "e1=Q"
+      ]
+    },
+    "contextFen": "4k3/5RR1/5p1p/1Pp2P2/4r3/3b1KP1/4p2P/8 w - - 2 49",
+    "contextMoves": [
+      "Ra7",
+      "Re3+",
+      "Kg4",
+      "Bxf5+",
+      "Kxf5",
+      "Re5+",
+      "Kg6",
+      "Rg5+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Egl",
+    "gameUrl": "https://lichess.org/game/HRglcTgk/black#122",
+    "theme": "endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "2k5/r5p1/2K2p1p/8/7P/p7/8/4R3 b - - 7 61",
+    "moves": [
+      "a2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2k5/r5p1/2K2p1p/8/7P/8/p7/4R3 w - - 0 62",
+      "solution": [
+        "Re8#"
+      ]
+    },
+    "contextFen": "8/r2Pk1p1/2K2p1p/8/7P/p7/8/2R5 b - - 6 57",
+    "contextMoves": [
+      "Rxd7",
+      "Re1+",
+      "Kd8",
+      "Ra1",
+      "Ra7",
+      "Rd1+",
+      "Kc8",
+      "Re1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01FAd",
+    "gameUrl": "https://lichess.org/game/MNrpQKfz#91",
+    "theme": "crushing, endgame, exposedKing, rookEndgame, veryLong",
+    "startFen": "8/8/8/8/3R1pkP/1r6/6K1/8 w - - 1 46",
+    "moves": [
+      "h5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/7P/3R1pk1/1r6/6K1/8 b - - 0 46",
+      "solution": [
+        "Rb2+",
+        "Kf1",
+        "Kg3",
+        "Rd6",
+        "Rb1+",
+        "Ke2",
+        "f3+",
+        "Ke3",
+        "Re1+"
+      ]
+    },
+    "contextFen": "8/7R/8/4kp2/8/1r3K1P/8/8 w - - 1 42",
+    "contextMoves": [
+      "Kg2",
+      "Kf4",
+      "Rh4+",
+      "Kg5",
+      "Rd4",
+      "f4",
+      "h4+",
+      "Kg4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01G8m",
+    "gameUrl": "https://lichess.org/game/Vue5hudw#81",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "8/6pk/1R5p/3r4/4p3/5pP1/5P1P/4R1K1 w - - 0 41",
+    "moves": [
+      "Rxe4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6pk/1R5p/3r4/4R3/5pP1/5P1P/6K1 b - - 0 41",
+      "solution": [
+        "Rd1+",
+        "Re1",
+        "Rxe1#"
+      ]
+    },
+    "contextFen": "5r2/6pk/3q3p/PR1P4/4p3/5pP1/5P1P/1R3QK1 w - - 3 37",
+    "contextMoves": [
+      "a6",
+      "Qxa6",
+      "Rb6",
+      "Qxf1+",
+      "Rxf1",
+      "Rd8",
+      "Re1",
+      "Rxd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01H6V",
+    "gameUrl": "https://lichess.org/game/rHuUZ772#99",
+    "theme": "advantage, endgame, master, rookEndgame, short",
+    "startFen": "8/RR4pk/6r1/7p/P3KP1P/4P1P1/1pr5/8 w - - 0 50",
+    "moves": [
+      "Kf3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/RR4pk/6r1/7p/P4P1P/4PKP1/1pr5/8 b - - 1 50",
+      "solution": [
+        "Rc7",
+        "Rxb2",
+        "Rxa7"
+      ]
+    },
+    "contextFen": "8/R4Rpk/6r1/1p5p/7P/P3PKP1/1r3P2/8 w - - 0 46",
+    "contextMoves": [
+      "Ke4",
+      "b4",
+      "a4",
+      "b3",
+      "f4",
+      "Rc2",
+      "Rfb7",
+      "b2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01IWK",
+    "gameUrl": "https://lichess.org/game/T8QXzJiA#117",
+    "theme": "crushing, endgame, long, rookEndgame",
+    "startFen": "8/8/8/8/3pPk2/3K4/2p2r2/6R1 w - - 0 59",
+    "moves": [
+      "Kxd4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/8/3KPk2/8/2p2r2/6R1 b - - 0 59",
+      "solution": [
+        "Rd2+",
+        "Kc3",
+        "Rd1",
+        "Kxc2",
+        "Rxg1"
+      ]
+    },
+    "contextFen": "8/8/8/4pN1R/3bP2p/3K3k/2p2r2/8 w - - 0 55",
+    "contextMoves": [
+      "Rxh4+",
+      "Kg2",
+      "Rg4+",
+      "Kf3",
+      "Rg1",
+      "Kf4",
+      "Nxd4",
+      "exd4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01IjU",
+    "gameUrl": "https://lichess.org/game/rVYb8je3/black#106",
+    "theme": "crushing, endgame, long, rookEndgame",
+    "startFen": "3R4/8/2k1p3/p2pP3/1prP2Pp/2PK3P/8/8 b - - 1 53",
+    "moves": [
+      "bxc3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3R4/8/2k1p3/p2pP3/2rP2Pp/2pK3P/8/8 w - - 0 54",
+      "solution": [
+        "Rc8+",
+        "Kd7",
+        "Rxc4",
+        "dxc4+",
+        "Kxc3"
+      ]
+    },
+    "contextFen": "8/3k4/1p2p1R1/p2pP1p1/r2P2Pp/2PK3P/8/8 b - - 3 49",
+    "contextMoves": [
+      "Rc4",
+      "Rxg5",
+      "b5",
+      "Rg7+",
+      "Kc6",
+      "Rg8",
+      "b4",
+      "Rd8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01JtE",
+    "gameUrl": "https://lichess.org/game/Fhnb6tRp#105",
+    "theme": "crushing, endgame, master, quietMove, rookEndgame, short",
+    "startFen": "8/8/R7/8/6P1/1k5K/p3r3/8 w - - 1 53",
+    "moves": [
+      "Kh4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/R7/8/6PK/1k6/p3r3/8 b - - 2 53",
+      "solution": [
+        "Re1",
+        "Rxa2",
+        "Kxa2"
+      ]
+    },
+    "contextFen": "8/8/2R5/2N5/1r6/p5PK/1k2r3/8 w - - 2 49",
+    "contextMoves": [
+      "Nd3+",
+      "Kb3",
+      "Nxb4",
+      "Kxb4",
+      "Ra6",
+      "a2",
+      "g4",
+      "Kb3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01KQY",
+    "gameUrl": "https://lichess.org/game/O7OlrfG1/black#78",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "2r2k2/1R3p1p/6pP/P2p4/1p6/1P2RPP1/3r4/1K6 b - - 2 39",
+    "moves": [
+      "Rcc2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5k2/1R3p1p/6pP/P2p4/1p6/1P2RPP1/2rr4/1K6 w - - 3 40",
+      "solution": [
+        "Rb8+",
+        "Rc8",
+        "Rxc8#"
+      ]
+    },
+    "contextFen": "3r1k2/4Rp1p/5rpP/3p4/Pp1P4/1P2RP2/1K4P1/8 b - - 0 35",
+    "contextMoves": [
+      "Rf4",
+      "g3",
+      "Rxd4",
+      "Rb7",
+      "Rc8",
+      "a5",
+      "Rd2+",
+      "Kb1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Kn5",
+    "gameUrl": "https://lichess.org/game/k647Qsyr#99",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "8/8/8/1R3p2/1P6/6k1/r6p/7K w - - 2 50",
+    "moves": [
+      "Rxf5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/5R2/1P6/6k1/r6p/7K b - - 0 50",
+      "solution": [
+        "Ra1+",
+        "Rf1",
+        "Rxf1#"
+      ]
+    },
+    "contextFen": "8/8/8/1pR2p2/1P4kp/r7/6K1/8 w - - 2 46",
+    "contextMoves": [
+      "Rxb5",
+      "h3+",
+      "Kh2",
+      "Ra2+",
+      "Kg1",
+      "h2+",
+      "Kh1",
+      "Kg3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Lik",
+    "gameUrl": "https://lichess.org/game/GVXtmuNP/black#98",
+    "theme": "crushing, defensiveMove, endgame, quietMove, rookEndgame, short",
+    "startFen": "2K5/2P5/8/8/3r1kp1/8/8/6R1 b - - 0 49",
+    "moves": [
+      "g3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2K5/2P5/8/8/3r1k2/6p1/8/6R1 w - - 0 50",
+      "solution": [
+        "Rc1",
+        "g2",
+        "Kb8"
+      ]
+    },
+    "contextFen": "8/2p5/2K5/2P2k2/3P2p1/1Pr5/8/6R1 b - - 0 45",
+    "contextMoves": [
+      "Rxb3",
+      "Kxc7",
+      "Rd3",
+      "c6",
+      "Rxd4",
+      "Kc8",
+      "Kf4",
+      "c7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Lmi",
+    "gameUrl": "https://lichess.org/game/ZyWteqqn#63",
+    "theme": "crushing, endgame, rookEndgame, short",
+    "startFen": "2r3k1/5pp1/2P4p/2R5/1r6/6P1/p4P1P/2R3K1 w - - 2 32",
+    "moves": [
+      "Kg2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2r3k1/5pp1/2P4p/2R5/1r6/6P1/p4PKP/2R5 b - - 3 32",
+      "solution": [
+        "Rb1",
+        "Ra5",
+        "Rxc1"
+      ]
+    },
+    "contextFen": "2r3k1/5pp1/7p/p1P5/3r4/8/5PPP/2R1R1K1 w - - 1 28",
+    "contextMoves": [
+      "Re5",
+      "a4",
+      "g3",
+      "a3",
+      "c6",
+      "a2",
+      "Rec5",
+      "Rb4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01LsE",
+    "gameUrl": "https://lichess.org/game/GaLzyn48#73",
+    "theme": "crushing, endgame, long, master, masterVsMaster, rookEndgame",
+    "startFen": "8/8/5pkp/8/P4rPp/1P5P/r4P2/1R1R1K2 w - - 4 37",
+    "moves": [
+      "b4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/5pkp/8/PP3rPp/7P/r4P2/1R1R1K2 b - - 0 37",
+      "solution": [
+        "Rfxf2+",
+        "Kg1",
+        "Rg2+",
+        "Kh1",
+        "Rh2+"
+      ]
+    },
+    "contextFen": "3r4/5p2/6kp/8/P5Pp/1P5P/r4PK1/1R3R2 w - - 0 33",
+    "contextMoves": [
+      "Rfd1",
+      "Rb8",
+      "Rd6+",
+      "f6",
+      "Rdd1",
+      "Rb4",
+      "Kf1",
+      "Rf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01LtT",
+    "gameUrl": "https://lichess.org/game/JR4SbCjt#113",
+    "theme": "advantage, endgame, quietMove, rookEndgame, short",
+    "startFen": "8/8/5kp1/1P2p1Rp/7P/1K4P1/P7/1r6 w - - 3 57",
+    "moves": [
+      "Ka4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/5kp1/1P2p1Rp/K6P/6P1/P7/1r6 b - - 4 57",
+      "solution": [
+        "e4",
+        "Rc5",
+        "e3"
+      ]
+    },
+    "contextFen": "8/8/4pkp1/R6p/2K4P/6P1/PP6/1r6 w - - 3 53",
+    "contextMoves": [
+      "b4",
+      "Rd1",
+      "Rg5",
+      "e5",
+      "b5",
+      "Ra1",
+      "Kb3",
+      "Rb1+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01MLC",
+    "gameUrl": "https://lichess.org/game/kq5aKXa2/black#78",
+    "theme": "advancedPawn, crushing, endgame, rookEndgame, veryLong",
+    "startFen": "8/4kp2/4p1pp/1r2P2P/1P3PK1/8/8/1R6 b - - 0 39",
+    "moves": [
+      "f6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/4k3/4pppp/1r2P2P/1P3PK1/8/8/1R6 w - - 0 40",
+      "solution": [
+        "hxg6",
+        "fxe5",
+        "Kh5",
+        "exf4+",
+        "Kxh6",
+        "f3",
+        "g7",
+        "Kf7",
+        "Rf1"
+      ]
+    },
+    "contextFen": "8/4kp2/4p1pp/p1r1P3/5PK1/2P4P/1P6/1R6 b - - 3 35",
+    "contextMoves": [
+      "Kd7",
+      "b4",
+      "axb4",
+      "cxb4",
+      "Rb5",
+      "h4",
+      "Ke7",
+      "h5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01N7E",
+    "gameUrl": "https://lichess.org/game/NTYOEGJb/black#46",
+    "theme": "backRankMate, endgame, master, mate, mateIn2, rookEndgame, short",
+    "startFen": "1r4k1/5ppp/p7/3R4/2p5/PrP5/1P3PPP/3R2K1 b - - 0 23",
+    "moves": [
+      "Rxb2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "1r4k1/5ppp/p7/3R4/2p5/P1P5/1r3PPP/3R2K1 w - - 0 24",
+      "solution": [
+        "Rd8+",
+        "Rxd8",
+        "Rxd8#"
+      ]
+    },
+    "contextFen": "1r3rk1/5ppp/p3p3/2pbN3/8/P1P5/1P1R1PPP/3R2K1 b - - 7 19",
+    "contextMoves": [
+      "c4",
+      "Ng4",
+      "Rb3",
+      "Ne3",
+      "Rfb8",
+      "Nxd5",
+      "exd5",
+      "Rxd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01NZA",
+    "gameUrl": "https://lichess.org/game/igpHQlEe/black#104",
+    "theme": "crushing, defensiveMove, endgame, rookEndgame, short",
+    "startFen": "8/p7/6p1/P1KR1k1p/1P2r3/8/8/8 b - - 2 52",
+    "moves": [
+      "Re5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p7/6p1/P1KRrk1p/1P6/8/8/8 w - - 3 53",
+      "solution": [
+        "Rxe5+",
+        "Kxe5",
+        "b5"
+      ]
+    },
+    "contextFen": "8/p5k1/1r4p1/2K4p/1P2R3/P7/8/8 b - - 2 48",
+    "contextMoves": [
+      "Kf6",
+      "a4",
+      "Re6",
+      "Rd4",
+      "Kf5",
+      "a5",
+      "Re4",
+      "Rd5+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01OTB",
+    "gameUrl": "https://lichess.org/game/Tk895nNl/black#118",
+    "theme": "endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "8/8/3R2k1/6P1/1p3K2/8/8/1r6 b - - 3 59",
+    "moves": [
+      "Kh5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/3R4/6Pk/1p3K2/8/8/1r6 w - - 4 60",
+      "solution": [
+        "Rh6#"
+      ]
+    },
+    "contextFen": "8/6k1/3R4/1p4P1/7r/3b2K1/8/8 b - - 3 55",
+    "contextMoves": [
+      "Rb4",
+      "Rxd3",
+      "Rb1",
+      "Kf4",
+      "b4",
+      "Rd7+",
+      "Kg6",
+      "Rd6+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Ot9",
+    "gameUrl": "https://lichess.org/game/XHnJHUML#115",
+    "theme": "crushing, endgame, long, rookEndgame",
+    "startFen": "8/8/5p2/5r1k/6Rp/5P2/4KP2/8 w - - 3 58",
+    "moves": [
+      "Ke3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/5p2/5r1k/6Rp/4KP2/5P2/8 b - - 4 58",
+      "solution": [
+        "Re5+",
+        "Kd3",
+        "Rg5",
+        "Rb4",
+        "h3"
+      ]
+    },
+    "contextFen": "8/6p1/5p2/5rkp/2R5/3K1P2/5P2/8 w - - 7 54",
+    "contextMoves": [
+      "Ke2",
+      "h4",
+      "Rg4+",
+      "Kh5",
+      "Rxg7",
+      "Kh6",
+      "Rg4",
+      "Kh5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Pbw",
+    "gameUrl": "https://lichess.org/game/ishxOTLS#51",
+    "theme": "backRankMate, endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "6k1/ppp2pp1/7p/8/2R5/2Pr4/Pr4PP/1R5K w - - 0 26",
+    "moves": [
+      "Rxb2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6k1/ppp2pp1/7p/8/2R5/2Pr4/PR4PP/7K b - - 0 26",
+      "solution": [
+        "Rd1#"
+      ]
+    },
+    "contextFen": "r5k1/ppp2pp1/4n2p/3N4/8/2PP4/PP2r1PP/3R1R1K w - - 1 22",
+    "contextMoves": [
+      "Rb1",
+      "Rd8",
+      "Nf4",
+      "Nxf4",
+      "Rxf4",
+      "Rxd3",
+      "Rc4",
+      "Rxb2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01QgT",
+    "gameUrl": "https://lichess.org/game/H2u6Pf0I/black#72",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "8/8/p1pk1R2/1pp1rp2/8/1P1K4/P1P5/8 b - - 1 36",
+    "moves": [
+      "Kd5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/p1p2R2/1ppkrp2/8/1P1K4/P1P5/8 w - - 2 37",
+      "solution": [
+        "c4+",
+        "bxc4+",
+        "bxc4#"
+      ]
+    },
+    "contextFen": "8/1pp2R2/p1pk4/5p2/4r3/1P6/P1P5/1K6 b - - 3 32",
+    "contextMoves": [
+      "Re5",
+      "Kb2",
+      "c5",
+      "Kc3",
+      "b5",
+      "Kd3",
+      "c6",
+      "Rf6+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01RKd",
+    "gameUrl": "https://lichess.org/game/QBJ03nGZ/black#80",
+    "theme": "advantage, endgame, rookEndgame, short",
+    "startFen": "8/8/r3p1R1/4K2p/5P2/5kP1/8/8 b - - 6 40",
+    "moves": [
+      "Rb6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1r2p1R1/4K2p/5P2/5kP1/8/8 w - - 7 41",
+      "solution": [
+        "f5",
+        "Rb5+",
+        "Kxe6"
+      ]
+    },
+    "contextFen": "8/4R3/2r1p2k/4K2p/8/5PP1/8/8 b - - 5 36",
+    "contextMoves": [
+      "Kg5",
+      "f4+",
+      "Kg4",
+      "Rg7+",
+      "Kf3",
+      "Rg5",
+      "Ra6",
+      "Rg6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01RXs",
+    "gameUrl": "https://lichess.org/game/67sQLB4C/black#80",
+    "theme": "crushing, endgame, interference, master, rookEndgame, short",
+    "startFen": "8/8/3r3p/p1P1k3/4pp2/PPKp4/6PR/8 b - - 0 40",
+    "moves": [
+      "d2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/3r3p/p1P1k3/4pp2/PPK5/3p2PR/8 w - - 0 41",
+      "solution": [
+        "Rh5+",
+        "Ke6",
+        "Rxh6+"
+      ]
+    },
+    "contextFen": "8/8/p3k1rp/8/2Pppp2/1P6/P3K1PR/8 b - - 3 36",
+    "contextMoves": [
+      "a5",
+      "a3",
+      "d3+",
+      "Kd2",
+      "Ke5",
+      "Kc3",
+      "Rd6",
+      "c5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01SN2",
+    "gameUrl": "https://lichess.org/game/u1wGtOf8/black#88",
+    "theme": "crushing, endgame, master, rookEndgame, short",
+    "startFen": "8/r7/P1p5/3p4/3K2k1/1P5p/2P5/R7 b - - 1 44",
+    "moves": [
+      "Kg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/r7/P1p5/3p4/3K4/1P4kp/2P5/R7 w - - 2 45",
+      "solution": [
+        "Kc5",
+        "h2",
+        "Kb6"
+      ]
+    },
+    "contextFen": "8/2pr4/P7/2Rp2k1/7p/1P6/1KP5/8 b - - 0 40",
+    "contextMoves": [
+      "c6",
+      "Ra5",
+      "Ra7",
+      "Ra1",
+      "Kg4",
+      "Kc3",
+      "h3",
+      "Kd4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Siq",
+    "gameUrl": "https://lichess.org/game/qoBdj9xn#55",
+    "theme": "backRankMate, endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "5rk1/5p2/p2p1Rp1/1p1P2Pp/7r/8/PPPR4/1K6 w - - 0 28",
+    "moves": [
+      "Rxd6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5rk1/5p2/p2R2p1/1p1P2Pp/7r/8/PPPR4/1K6 b - - 0 28",
+      "solution": [
+        "Rh1+",
+        "Rd1",
+        "Rxd1#"
+      ]
+    },
+    "contextFen": "2r2rk1/1pq2p2/p2p2p1/3P2Pp/5Q1P/8/PPP5/1K2RR2 w - - 4 24",
+    "contextMoves": [
+      "Re2",
+      "Qc4",
+      "Rd2",
+      "b5",
+      "Qxc4",
+      "Rxc4",
+      "Rf6",
+      "Rxh4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Tr3",
+    "gameUrl": "https://lichess.org/game/q1VHmfdD#81",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "2R5/8/7p/2P2p1k/5K2/7P/PP4R1/4rr2 w - - 1 41",
+    "moves": [
+      "Kg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2R5/8/7p/2P2p1k/8/6KP/PP4R1/4rr2 b - - 2 41",
+      "solution": [
+        "f4+",
+        "Kh2",
+        "Rh1#"
+      ]
+    },
+    "contextFen": "2R5/5p2/6kp/6p1/8/2P2PKP/PP4R1/4r2r w - - 3 37",
+    "contextMoves": [
+      "c4",
+      "Kh5",
+      "c5",
+      "f5",
+      "f4",
+      "gxf4+",
+      "Kxf4",
+      "Rhf1+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01V7x",
+    "gameUrl": "https://lichess.org/game/ipZrU9eZ/black#98",
+    "theme": "endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "4kr2/1R6/p1pKP3/P1r2P2/8/8/8/8 b - - 1 49",
+    "moves": [
+      "Rcxf5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4kr2/1R6/p1pKP3/P4r2/8/8/8/8 w - - 0 50",
+      "solution": [
+        "Rb8#"
+      ]
+    },
+    "contextFen": "5r2/1p2k1R1/p1p1P3/P1P1KP2/1r6/8/8/8 b - - 1 45",
+    "contextMoves": [
+      "Ke8",
+      "Kd6",
+      "Rd4+",
+      "Ke5",
+      "Rc4",
+      "Rxb7",
+      "Rxc5+",
+      "Kd6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01VHY",
+    "gameUrl": "https://lichess.org/game/irrUnPjb/black#78",
+    "theme": "advancedPawn, crushing, defensiveMove, endgame, long, rookEndgame",
+    "startFen": "2k5/p1p5/P7/1PP1rp2/7p/6pP/6P1/2R3K1 b - - 3 39",
+    "moves": [
+      "f4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2k5/p1p5/P7/1PP1r3/5p1p/6pP/6P1/2R3K1 w - - 0 40",
+      "solution": [
+        "b6",
+        "Kb8",
+        "b7",
+        "Re6",
+        "Ra1"
+      ]
+    },
+    "contextFen": "1k5r/p1p5/P7/1PP2p2/7p/4r1pP/6P1/R4RK1 b - - 1 35",
+    "contextMoves": [
+      "Re5",
+      "Rae1",
+      "Rhe8",
+      "Rxe5",
+      "Rxe5",
+      "Rd1",
+      "Kc8",
+      "Rc1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01VR8",
+    "gameUrl": "https://lichess.org/game/sPY5XeOK/black#64",
+    "theme": "crushing, defensiveMove, endgame, long, rookEndgame, zugzwang",
+    "startFen": "3r4/5p2/1k2p3/pp1BPp1p/5P1P/1P2K1P1/P2R4/8 b - - 2 32",
+    "moves": [
+      "Rxd5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5p2/1k2p3/pp1rPp1p/5P1P/1P2K1P1/P2R4/8 w - - 0 33",
+      "solution": [
+        "Rxd5",
+        "exd5",
+        "Kd4",
+        "Kc6",
+        "a3"
+      ]
+    },
+    "contextFen": "7r/p1k2p2/1n2p3/1p2Pp1p/5P1P/1P2K1P1/P2R4/3B4 b - - 0 28",
+    "contextMoves": [
+      "Nd5+",
+      "Kf2",
+      "Kb6",
+      "Bf3",
+      "a5",
+      "Bxd5",
+      "Rd8",
+      "Ke3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01W7X",
+    "gameUrl": "https://lichess.org/game/7tpihtDC/black#96",
+    "theme": "crushing, endgame, rookEndgame, short",
+    "startFen": "8/1R6/p1r1k3/2P2p2/1P6/1K6/3R4/r7 b - - 2 48",
+    "moves": [
+      "a5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/1R6/2r1k3/p1P2p2/1P6/1K6/3R4/r7 w - - 0 49",
+      "solution": [
+        "Re2+",
+        "Kf6",
+        "Rb6"
+      ]
+    },
+    "contextFen": "8/pp5r/2r1k3/2P2p2/1P1R4/K7/3R4/8 b - - 0 44",
+    "contextMoves": [
+      "Rh3+",
+      "Ka4",
+      "a6",
+      "Rd7",
+      "Rh1",
+      "Rxb7",
+      "Ra1+",
+      "Kb3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01WCP",
+    "gameUrl": "https://lichess.org/game/GEde9LIh/black#64",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "6k1/p5p1/2R3P1/3pr3/8/4P3/P7/5K2 b - - 0 32",
+    "moves": [
+      "Re7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6k1/p3r1p1/2R3P1/3p4/8/4P3/P7/5K2 w - - 1 33",
+      "solution": [
+        "Rc8+",
+        "Re8",
+        "Rxe8#"
+      ]
+    },
+    "contextFen": "r4rk1/pp4p1/2p3P1/3pP3/1P6/2R1P3/P7/5RK1 b - - 0 28",
+    "contextMoves": [
+      "Rxf1+",
+      "Kxf1",
+      "Re8",
+      "b5",
+      "Rxe5",
+      "bxc6",
+      "bxc6",
+      "Rxc6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01X5n",
+    "gameUrl": "https://lichess.org/game/WJVPHTRz/black#80",
+    "theme": "crushing, deflection, endgame, long, rookEndgame",
+    "startFen": "8/8/7p/p1r3p1/2PKpkP1/7P/4R3/8 b - - 2 40",
+    "moves": [
+      "Re5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/7p/p3r1p1/2PKpkP1/7P/4R3/8 w - - 3 41",
+      "solution": [
+        "Rf2+",
+        "Kg3",
+        "Kxe5",
+        "Kxf2",
+        "Kxe4"
+      ]
+    },
+    "contextFen": "8/6p1/4k2p/p1r2p2/2P1p3/2K2P2/4R1PP/8 b - - 0 36",
+    "contextMoves": [
+      "Ke5",
+      "fxe4",
+      "fxe4",
+      "g4",
+      "g5",
+      "h3",
+      "Kf4",
+      "Kd4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01XW1",
+    "gameUrl": "https://lichess.org/game/WyMgw2E1/black#82",
+    "theme": "endgame, master, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "5k2/3R2p1/4Kp1p/3p4/2r3P1/5P2/6P1/8 b - - 2 41",
+    "moves": [
+      "d4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5k2/3R2p1/4Kp1p/8/2rp2P1/5P2/6P1/8 w - - 0 42",
+      "solution": [
+        "Rd8#"
+      ]
+    },
+    "contextFen": "5k2/2p3p1/1rR2p1p/3p1K2/rP1P2P1/5P2/6P1/2R5 b - - 0 37",
+    "contextMoves": [
+      "Raxb4",
+      "Ke6",
+      "Rxc6+",
+      "Rxc6",
+      "Rxd4",
+      "Rxc7",
+      "Rc4",
+      "Rd7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01YTQ",
+    "gameUrl": "https://lichess.org/game/dsfAPWbn#91",
+    "theme": "crushing, defensiveMove, endgame, rookEndgame, short",
+    "startFen": "8/6p1/2k4p/p1r5/3K4/1P1R1P1P/8/8 w - - 12 46",
+    "moves": [
+      "Rc3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6p1/2k4p/p1r5/3K4/1PR2P1P/8/8 b - - 13 46",
+      "solution": [
+        "Rxc3",
+        "Kxc3",
+        "g5"
+      ]
+    },
+    "contextFen": "8/6p1/3k3p/p7/8/1P1K1P1P/7R/3r4 w - - 4 42",
+    "contextMoves": [
+      "Kc4",
+      "Rf1",
+      "Rd2+",
+      "Kc6",
+      "Rd3",
+      "Rc1+",
+      "Kd4",
+      "Rc5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01ZiW",
+    "gameUrl": "https://lichess.org/game/mfROm9c6#139",
+    "theme": "endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "8/8/R7/5k2/3r3p/6pP/6P1/6K1 w - - 4 70",
+    "moves": [
+      "Ra7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/R7/8/5k2/3r3p/6pP/6P1/6K1 b - - 5 70",
+      "solution": [
+        "Rd1#"
+      ]
+    },
+    "contextFen": "8/8/8/5k2/5rpp/R6P/6PK/8 w - - 0 66",
+    "contextMoves": [
+      "Ra5+",
+      "Kg6",
+      "Ra3",
+      "g3+",
+      "Kg1",
+      "Rd4",
+      "Ra6+",
+      "Kf5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Zna",
+    "gameUrl": "https://lichess.org/game/Kji5pGgl/black#114",
+    "theme": "endgame, master, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "5k2/3R4/3P2K1/2p3P1/1p1r4/8/8/8 b - - 0 57",
+    "moves": [
+      "c4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5k2/3R4/3P2K1/6P1/1ppr4/8/8/8 w - - 0 58",
+      "solution": [
+        "Rd8#"
+      ]
+    },
+    "contextFen": "5k2/8/3R1K2/2pP4/1pP3P1/2r5/8/8 b - - 2 53",
+    "contextMoves": [
+      "Kg8",
+      "g5",
+      "Rxc4",
+      "Kg6",
+      "Kf8",
+      "Rd7",
+      "Rd4",
+      "d6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01a8M",
+    "gameUrl": "https://lichess.org/game/JuRsjYiE#67",
+    "theme": "endgame, long, mate, mateIn3, rookEndgame",
+    "startFen": "8/p2R1pkp/1p1R4/8/4PP1K/2r3rP/P7/8 w - - 13 34",
+    "moves": [
+      "Rxa7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/R4pkp/1p1R4/8/4PP1K/2r3rP/P7/8 b - - 0 34",
+      "solution": [
+        "Rxh3+",
+        "Kg5",
+        "Rcg3+",
+        "Kf5",
+        "Rh5#"
+      ]
+    },
+    "contextFen": "6r1/p4p1p/1p3k2/8/4PP1K/2r4P/P7/3R1R2 w - - 5 30",
+    "contextMoves": [
+      "Rd6+",
+      "Ke7",
+      "Rfd1",
+      "Rgg3",
+      "Rd7+",
+      "Kf6",
+      "R1d6+",
+      "Kg7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01aAR",
+    "gameUrl": "https://lichess.org/game/yVcg1co8/black#74",
+    "theme": "advancedPawn, crushing, deflection, endgame, exposedKing, promotion, rookEndgame, veryLong",
+    "startFen": "4k3/R3P3/1p3Kpp/2p5/2P5/1r6/4p1P1/8 b - - 2 37",
+    "moves": [
+      "Re3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4k3/R3P3/1p3Kpp/2p5/2P5/4r3/4p1P1/8 w - - 3 38",
+      "solution": [
+        "Ra8+",
+        "Kd7",
+        "Rd8+",
+        "Kc7",
+        "e8=Q",
+        "Rxe8",
+        "Rxe8"
+      ]
+    },
+    "contextFen": "5k2/R7/1p2P1pp/2p5/2P1p1K1/1P2r3/6P1/8 b - - 1 33",
+    "contextMoves": [
+      "Rxb3",
+      "Kf4",
+      "e3",
+      "Ke5",
+      "e2",
+      "e7+",
+      "Ke8",
+      "Kf6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01bFi",
+    "gameUrl": "https://lichess.org/game/0u2RuPHq#115",
+    "theme": "crushing, deflection, endgame, long, master, rookEndgame, skewer",
+    "startFen": "8/5k2/6R1/6K1/8/3r4/8/8 w - - 1 58",
+    "moves": [
+      "Kh6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5k2/6RK/8/8/3r4/8/8 b - - 2 58",
+      "solution": [
+        "Rh3+",
+        "Kg5",
+        "Rg3+",
+        "Kf4",
+        "Rxg6"
+      ]
+    },
+    "contextFen": "4k3/5R2/6p1/3BK1r1/8/3P4/8/8 w - - 0 54",
+    "contextMoves": [
+      "Kf6",
+      "Rxd5",
+      "Rg7",
+      "Rd6+",
+      "Kg5",
+      "Rxd3",
+      "Rxg6",
+      "Kf7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01bQH",
+    "gameUrl": "https://lichess.org/game/8yfQlfqF/black#76",
+    "theme": "crushing, endgame, quietMove, rookEndgame, veryLong",
+    "startFen": "4k3/3r2pp/3P1p2/2PK1P2/1P6/7P/8/8 b - - 2 38",
+    "moves": [
+      "Kd8"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3k4/3r2pp/3P1p2/2PK1P2/1P6/7P/8/8 w - - 3 39",
+      "solution": [
+        "c6",
+        "Ra7",
+        "b5",
+        "Ra5",
+        "Kc4",
+        "Ra2",
+        "b6"
+      ]
+    },
+    "contextFen": "6k1/4r1pp/3Ppp2/8/1PP1KPP1/7P/8/8 b - - 0 34",
+    "contextMoves": [
+      "Rd7",
+      "c5",
+      "Kf8",
+      "f5",
+      "exf5+",
+      "gxf5",
+      "Ke8",
+      "Kd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01clX",
+    "gameUrl": "https://lichess.org/game/SEvRZOSC/black#94",
+    "theme": "crushing, defensiveMove, endgame, rookEndgame, short",
+    "startFen": "8/8/2p2k2/1p2rp2/p2R2pP/P1P3P1/5PK1/8 b - - 2 47",
+    "moves": [
+      "Rd5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/2p2k2/1p1r1p2/p2R2pP/P1P3P1/5PK1/8 w - - 3 48",
+      "solution": [
+        "Rxd5",
+        "cxd5",
+        "Kf1"
+      ]
+    },
+    "contextFen": "8/2p5/1p2rk2/p4p2/6pP/P5P1/2P2P2/3R2K1 b - - 0 43",
+    "contextMoves": [
+      "c6",
+      "Rd3",
+      "b5",
+      "Kg2",
+      "a4",
+      "c3",
+      "Re5",
+      "Rd4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01e8p",
+    "gameUrl": "https://lichess.org/game/3iPUzA6r#103",
+    "theme": "crushing, endgame, long, rookEndgame",
+    "startFen": "8/8/8/1P6/1rP3kp/p7/P1R3K1/8 w - - 3 52",
+    "moves": [
+      "Kh1"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/1P6/1rP3kp/p7/P1R5/7K b - - 4 52",
+      "solution": [
+        "Rb1+",
+        "Kh2",
+        "Rb2",
+        "Rg2+",
+        "Kf3"
+      ]
+    },
+    "contextFen": "8/8/8/6k1/1P5p/p1P4K/P3R3/7r w - - 2 48",
+    "contextMoves": [
+      "Kg2",
+      "Ra1",
+      "b5",
+      "Rb1",
+      "c4",
+      "Rb4",
+      "Rc2",
+      "Kg4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01gpx",
+    "gameUrl": "https://lichess.org/game/TG0Tay8m/black#102",
+    "theme": "advancedPawn, crushing, defensiveMove, endgame, rookEndgame, veryLong",
+    "startFen": "4k3/7r/p1PPK3/4P2p/1p6/8/7P/8 b - - 0 51",
+    "moves": [
+      "b3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4k3/7r/p1PPK3/4P2p/8/1p6/7P/8 w - - 0 52",
+      "solution": [
+        "d7+",
+        "Kd8",
+        "Kd6",
+        "Rh6+",
+        "e6",
+        "Rxe6+",
+        "Kxe6",
+        "Kc7",
+        "Ke7"
+      ]
+    },
+    "contextFen": "8/3r1k2/p2P3R/1pPKB2p/3P4/8/4r2P/8 b - - 4 47",
+    "contextMoves": [
+      "b4",
+      "Rh7+",
+      "Ke8",
+      "Ke6",
+      "Rxh7",
+      "c6",
+      "Rxe5+",
+      "dxe5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01jGY",
+    "gameUrl": "https://lichess.org/game/212CnKys/black#108",
+    "theme": "advantage, defensiveMove, endgame, long, rookEndgame",
+    "startFen": "8/6p1/6pp/3RP3/2p3PP/2Pk4/6r1/4K3 b - - 0 54",
+    "moves": [
+      "Kxc3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6p1/6pp/3RP3/2p3PP/2k5/6r1/4K3 w - - 0 55",
+      "solution": [
+        "e6",
+        "Rg1+",
+        "Ke2",
+        "Rxg4",
+        "Re5"
+      ]
+    },
+    "contextFen": "8/5rp1/4p1pp/2R1P3/2pPk1PP/2P5/2K5/8 b - - 6 50",
+    "contextMoves": [
+      "Rf2+",
+      "Kd1",
+      "Kd3",
+      "Ke1",
+      "Rg2",
+      "d5",
+      "exd5",
+      "Rxd5+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01jvC",
+    "gameUrl": "https://lichess.org/game/w4KHnK29/black#70",
+    "theme": "crushing, endgame, interference, long, rookEndgame, skewer",
+    "startFen": "8/pr6/3kp3/R2p1pp1/3P4/4PPP1/8/5K2 b - - 0 35",
+    "moves": [
+      "Rh7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p6r/3kp3/R2p1pp1/3P4/4PPP1/8/5K2 w - - 1 36",
+      "solution": [
+        "Ra6+",
+        "Ke7",
+        "Rxa7+",
+        "Kf6",
+        "Rxh7"
+      ]
+    },
+    "contextFen": "1r6/p7/1r1kp3/R2p1pp1/3P3p/4PP2/2R2KPP/8 b - - 3 31",
+    "contextMoves": [
+      "Rb2",
+      "Rxb2",
+      "Rxb2+",
+      "Kf1",
+      "Rb7",
+      "g3",
+      "hxg3",
+      "hxg3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01kUc",
+    "gameUrl": "https://lichess.org/game/ESQYQ2LN/black#112",
+    "theme": "crushing, endgame, long, rookEndgame",
+    "startFen": "7R/8/5p1k/7p/4P1r1/5KP1/8/8 b - - 16 56",
+    "moves": [
+      "Kg6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "7R/8/5pk1/7p/4P1r1/5KP1/8/8 w - - 17 57",
+      "solution": [
+        "Rg8+",
+        "Kf7",
+        "Rxg4",
+        "hxg4+",
+        "Kxg4"
+      ]
+    },
+    "contextFen": "8/4R3/5pk1/1r5p/4PK2/6P1/8/8 b - - 8 52",
+    "contextMoves": [
+      "Rg5",
+      "Re6",
+      "Rg4+",
+      "Kf3",
+      "Kg5",
+      "Re8",
+      "Kh6",
+      "Rh8+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01kY6",
+    "gameUrl": "https://lichess.org/game/cbDIHaXM/black#94",
+    "theme": "crushing, endgame, master, rookEndgame, short",
+    "startFen": "6k1/8/6pr/5p2/1P1R1P2/8/3K4/8 b - - 0 47",
+    "moves": [
+      "Rh7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6k1/7r/6p1/5p2/1P1R1P2/8/3K4/8 w - - 1 48",
+      "solution": [
+        "Rd8+",
+        "Kf7",
+        "Rd7+"
+      ]
+    },
+    "contextFen": "6k1/7p/6p1/3R1pP1/5P2/1P5P/3K4/7r b - - 2 43",
+    "contextMoves": [
+      "Rxh3",
+      "Rd3",
+      "Rh4",
+      "Rd4",
+      "h6",
+      "gxh6",
+      "Rxh6",
+      "b4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01lqX",
+    "gameUrl": "https://lichess.org/game/44CAPUrr/black#106",
+    "theme": "crushing, endgame, long, rookEndgame",
+    "startFen": "8/8/1R5P/8/1p6/1kr5/r7/1K5R b - - 4 53",
+    "moves": [
+      "Rcc2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1R5P/8/1p6/1k6/r1r5/1K5R w - - 5 54",
+      "solution": [
+        "Rh3+",
+        "Kc4",
+        "Rc6+",
+        "Kd5",
+        "Rxc2"
+      ]
+    },
+    "contextFen": "8/8/1R6/1p6/7P/1k1r4/6r1/1K5R b - - 4 49",
+    "contextMoves": [
+      "b4",
+      "h5",
+      "Rc3",
+      "h6",
+      "Rb2+",
+      "Ka1",
+      "Ra2+",
+      "Kb1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01m0z",
+    "gameUrl": "https://lichess.org/game/XLEjPojn/black#62",
+    "theme": "backRankMate, endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "1r4k1/5ppp/1Q2p3/3p4/1p6/3PP3/5PPP/R5K1 b - - 0 31",
+    "moves": [
+      "Rxb6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "6k1/5ppp/1r2p3/3p4/1p6/3PP3/5PPP/R5K1 w - - 0 32",
+      "solution": [
+        "Ra8+",
+        "Rb8",
+        "Rxb8#"
+      ]
+    },
+    "contextFen": "1r4k1/5ppp/q2np3/Pp1p4/N7/3PP3/1Q3PPP/R5K1 b - - 2 27",
+    "contextMoves": [
+      "b4",
+      "Nb6",
+      "Nc8",
+      "Qd4",
+      "Nxb6",
+      "axb6",
+      "Qxb6",
+      "Qxb6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01m2j",
+    "gameUrl": "https://lichess.org/game/eevDBNLx#53",
+    "theme": "backRankMate, endgame, hangingPiece, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "1r6/1r3pkp/qR2p1p1/2pP4/4P3/5P2/6PP/1R5K w - - 0 27",
+    "moves": [
+      "Rxa6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "1r6/1r3pkp/R3p1p1/2pP4/4P3/5P2/6PP/1R5K b - - 0 27",
+      "solution": [
+        "Rxb1#"
+      ]
+    },
+    "contextFen": "1r6/1r2ppkp/1p4p1/1RpPq3/2P1P3/5P2/4Q1PP/1R4K1 w - - 6 23",
+    "contextMoves": [
+      "Qa2",
+      "e6",
+      "Qa6",
+      "Qd4+",
+      "Kh1",
+      "Qxc4",
+      "Rxb6",
+      "Qxa6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01mUL",
+    "gameUrl": "https://lichess.org/game/rL9bhk8c#101",
+    "theme": "crushing, endgame, rookEndgame, short",
+    "startFen": "8/p1r1k3/1p1R1p1p/P7/1P6/7P/6PK/8 w - - 1 51",
+    "moves": [
+      "axb6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p1r1k3/1P1R1p1p/8/1P6/7P/6PK/8 b - - 0 51",
+      "solution": [
+        "Kxd6",
+        "bxc7",
+        "Kxc7"
+      ]
+    },
+    "contextFen": "8/p1r3pk/1p2Rr1p/8/P7/1P1R3P/6PK/8 w - - 6 47",
+    "contextMoves": [
+      "Rxf6",
+      "gxf6",
+      "Rd6",
+      "Kg6",
+      "b4",
+      "Kf7",
+      "a5",
+      "Ke7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01mvn",
+    "gameUrl": "https://lichess.org/game/U8sFS69G#113",
+    "theme": "crushing, endgame, rookEndgame, veryLong",
+    "startFen": "8/8/5k2/3R2p1/8/4KP2/8/r7 w - - 2 57",
+    "moves": [
+      "Ke4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/5k2/3R2p1/4K3/5P2/8/r7 b - - 3 57",
+      "solution": [
+        "Re1+",
+        "Kd4",
+        "Rd1+",
+        "Kc5",
+        "Rxd5+",
+        "Kxd5",
+        "Kf5",
+        "Kd4",
+        "Kf4",
+        "Kd3",
+        "Kxf3"
+      ]
+    },
+    "contextFen": "8/5k2/5p2/6p1/6P1/5P2/5K1R/r7 w - - 18 53",
+    "contextMoves": [
+      "Ke3",
+      "Ke6",
+      "Rd2",
+      "f5",
+      "gxf5+",
+      "Kxf5",
+      "Rd5+",
+      "Kf6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01oaC",
+    "gameUrl": "https://lichess.org/game/wFH4Yd3q#77",
+    "theme": "endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "8/1R6/1p3kpp/8/5PKP/Pr6/8/8 w - - 0 39",
+    "moves": [
+      "Rc7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2R5/1p3kpp/8/5PKP/Pr6/8/8 b - - 1 39",
+      "solution": [
+        "h5#"
+      ]
+    },
+    "contextFen": "8/1R4pk/1p5p/1r6/8/P4P2/6KP/8 w - - 1 35",
+    "contextMoves": [
+      "Kg3",
+      "Kg6",
+      "h4",
+      "Kf6",
+      "Kg4",
+      "Rb3",
+      "f4",
+      "g6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01osM",
+    "gameUrl": "https://lichess.org/game/CILNHJGV#111",
+    "theme": "crushing, defensiveMove, endgame, rookEndgame, short",
+    "startFen": "8/8/8/8/PK6/6p1/2R2rPk/8 w - - 4 56",
+    "moves": [
+      "Kc3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/8/8/P7/2K3p1/2R2rPk/8 b - - 5 56",
+      "solution": [
+        "Kxg2",
+        "a5",
+        "Kh3"
+      ]
+    },
+    "contextFen": "1r6/8/8/K6p/6p1/P6P/3R2Pk/8 w - - 0 52",
+    "contextMoves": [
+      "hxg4",
+      "hxg4",
+      "a4",
+      "g3",
+      "Rc2",
+      "Rf8",
+      "Kb4",
+      "Rf2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01oz9",
+    "gameUrl": "https://lichess.org/game/uxLPTKFb/black#70",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "1k6/1p6/pK4p1/7p/P1P5/4R1P1/6r1/8 b - - 1 35",
+    "moves": [
+      "Rd2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "1k6/1p6/pK4p1/7p/P1P5/4R1P1/3r4/8 w - - 2 36",
+      "solution": [
+        "Re8+",
+        "Rd8",
+        "Rxd8#"
+      ]
+    },
+    "contextFen": "1k6/pp5p/6p1/4R3/1KP5/6P1/P4r1P/8 b - - 0 31",
+    "contextMoves": [
+      "Rxh2",
+      "a4",
+      "Rg2",
+      "Re3",
+      "h5",
+      "Kc5",
+      "a6",
+      "Kb6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01qHx",
+    "gameUrl": "https://lichess.org/game/BF06uOQW#45",
+    "theme": "backRankMate, endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "5k2/p4p1p/1p4p1/8/4P3/2r5/P4PPP/1R4K1 w - - 0 23",
+    "moves": [
+      "Rb2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "5k2/p4p1p/1p4p1/8/4P3/2r5/PR3PPP/6K1 b - - 1 23",
+      "solution": [
+        "Rc1#"
+      ]
+    },
+    "contextFen": "1r1q1rk1/pb3p1p/1p4p1/3B4/3QP3/8/P4PPP/1R1R2K1 w - - 4 19",
+    "contextMoves": [
+      "Qc3",
+      "Bxd5",
+      "Rxd5",
+      "Rc8",
+      "Rxd8",
+      "Rxc3",
+      "Rxf8+",
+      "Kxf8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01qRs",
+    "gameUrl": "https://lichess.org/game/bEfGV4ND/black#126",
+    "theme": "advancedPawn, crushing, endgame, rookEndgame, veryLong",
+    "startFen": "8/8/1P6/1KR1k3/5p2/8/8/r7 b - - 1 63",
+    "moves": [
+      "Ke4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1P6/1KR5/4kp2/8/8/r7 w - - 2 64",
+      "solution": [
+        "Rc4+",
+        "Kf5",
+        "b7",
+        "Rb1+",
+        "Rb4",
+        "Rxb4+",
+        "Kxb4"
+      ]
+    },
+    "contextFen": "8/3r2pR/1P6/2K1kp2/8/8/8/8 b - - 0 59",
+    "contextMoves": [
+      "Rd1",
+      "Rxg7",
+      "Rc1+",
+      "Kb5",
+      "Ra1",
+      "Rc7",
+      "f4",
+      "Rc5+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01qVt",
+    "gameUrl": "https://lichess.org/game/cQw7CAHw#95",
+    "theme": "endgame, master, mate, mateIn2, rookEndgame, short",
+    "startFen": "6R1/r7/3p4/6p1/4Pp2/5P2/5kPK/8 w - - 0 48",
+    "moves": [
+      "Rxg5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/r7/3p4/6R1/4Pp2/5P2/5kPK/8 b - - 0 48",
+      "solution": [
+        "Rh7+",
+        "Rh5",
+        "Rxh5#"
+      ]
+    },
+    "contextFen": "8/R7/P2p4/4k1p1/4Pp2/5P2/r5P1/6K1 w - - 1 44",
+    "contextMoves": [
+      "Ra8",
+      "Kd4",
+      "a7",
+      "Ke3",
+      "Kh2",
+      "Kf2",
+      "Rg8",
+      "Rxa7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01rGp",
+    "gameUrl": "https://lichess.org/game/bxPR69ZC#77",
+    "theme": "backRankMate, endgame, mate, mateIn2, rookEndgame, short, xRayAttack",
+    "startFen": "1r6/5pkp/6p1/8/8/8/1pR2PPP/rR4K1 w - - 2 39",
+    "moves": [
+      "Rxb2"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "1r6/5pkp/6p1/8/8/8/1R3PPP/rR4K1 b - - 0 39",
+      "solution": [
+        "Rxb1+",
+        "Rxb1",
+        "Rxb1#"
+      ]
+    },
+    "contextFen": "3r4/2R2pkp/2p3p1/1b6/8/rp3B2/5PPP/4R1K1 w - - 0 35",
+    "contextMoves": [
+      "Bxc6",
+      "Bxc6",
+      "Rxc6",
+      "Rb8",
+      "Rb1",
+      "b2",
+      "Rc2",
+      "Ra1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01raT",
+    "gameUrl": "https://lichess.org/game/s7qT56Ht/black#138",
+    "theme": "crushing, defensiveMove, endgame, long, master, rookEndgame",
+    "startFen": "6k1/5r2/4K1p1/3R2P1/8/8/8/8 b - - 9 69",
+    "moves": [
+      "Kg7"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5rk1/4K1p1/3R2P1/8/8/8/8 w - - 10 70",
+      "solution": [
+        "Rd7",
+        "Rxd7",
+        "Kxd7",
+        "Kf7",
+        "Kd6"
+      ]
+    },
+    "contextFen": "8/6k1/6p1/4R1P1/5r2/4K3/8/8 b - - 1 65",
+    "contextMoves": [
+      "Rf7",
+      "Ke4",
+      "Kg8",
+      "Rd5",
+      "Kg7",
+      "Ke5",
+      "Kg8",
+      "Ke6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01sBy",
+    "gameUrl": "https://lichess.org/game/IEYU8CBE/black#70",
+    "theme": "crushing, endgame, long, master, rookEndgame",
+    "startFen": "8/2p2k2/4R2p/1r1P2p1/2K3P1/8/7P/8 b - - 2 35",
+    "moves": [
+      "Rb6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2p2k2/1r2R2p/3P2p1/2K3P1/8/7P/8 w - - 3 36",
+      "solution": [
+        "Rxb6",
+        "cxb6",
+        "Kb5",
+        "Ke7",
+        "Kc6"
+      ]
+    },
+    "contextFen": "1r6/2p5/4R1kp/p2P2p1/1p4P1/P1PK4/7P/8 b - - 1 31",
+    "contextMoves": [
+      "Kf7",
+      "axb4",
+      "axb4",
+      "Kc2",
+      "bxc3",
+      "Kxc3",
+      "Rb5",
+      "Kc4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01sxB",
+    "gameUrl": "https://lichess.org/game/MUlIWoeK/black#100",
+    "theme": "crushing, endgame, rookEndgame, veryLong",
+    "startFen": "8/6p1/3k3r/1R6/6Kp/7P/5P2/8 b - - 0 50",
+    "moves": [
+      "Rf6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/6p1/3k1r2/1R6/6Kp/7P/5P2/8 w - - 1 51",
+      "solution": [
+        "Rb6+",
+        "Ke7",
+        "Rxf6",
+        "Kxf6",
+        "Kxh4",
+        "g5+",
+        "Kh5"
+      ]
+    },
+    "contextFen": "8/5kp1/1p6/7r/1R5p/7P/5P2/7K b - - 3 46",
+    "contextMoves": [
+      "b5",
+      "Kg2",
+      "Ke6",
+      "Kf3",
+      "Kd6",
+      "Kg4",
+      "Rh6",
+      "Rxb5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01t67",
+    "gameUrl": "https://lichess.org/game/pSXm71OB#105",
+    "theme": "advantage, endgame, rookEndgame, short",
+    "startFen": "2r5/8/p3P3/5P2/7K/2p4P/P2k1P2/4R3 w - - 4 53",
+    "moves": [
+      "Rg1"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2r5/8/p3P3/5P2/7K/2p4P/P2k1P2/6R1 b - - 5 53",
+      "solution": [
+        "Rh8+",
+        "Kg4",
+        "Rg8+"
+      ]
+    },
+    "contextFen": "4r3/8/p3P3/8/1pp1RP1K/3k3P/PP3P2/8 w - - 0 49",
+    "contextMoves": [
+      "f5",
+      "c3",
+      "bxc3",
+      "bxc3",
+      "Re5",
+      "Rc8",
+      "Re1",
+      "Kd2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01tei",
+    "gameUrl": "https://lichess.org/game/DlcVV8pm#103",
+    "theme": "crushing, defensiveMove, endgame, hangingPiece, long, quietMove, rookEndgame",
+    "startFen": "8/8/8/1kr2P1R/8/6K1/8/8 w - - 0 52",
+    "moves": [
+      "f6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/5P2/1kr4R/8/6K1/8/8 b - - 0 52",
+      "solution": [
+        "Rxh5",
+        "Kg4",
+        "Rh8",
+        "Kf5",
+        "Kc6"
+      ]
+    },
+    "contextFen": "8/4r3/8/2P4R/3k4/5P2/4K3/8 w - - 1 48",
+    "contextMoves": [
+      "Kf2",
+      "Rc7",
+      "Kg3",
+      "Kc4",
+      "f4",
+      "Kb5",
+      "f5",
+      "Rxc5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01tnZ",
+    "gameUrl": "https://lichess.org/game/vonX5zdk/black#100",
+    "theme": "crushing, defensiveMove, endgame, long, rookEndgame",
+    "startFen": "4R3/1p6/1Pp2k1K/5P2/P4r2/8/8/8 b - - 4 50",
+    "moves": [
+      "Kxf5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4R3/1p6/1Pp4K/5k2/P4r2/8/8/8 w - - 0 51",
+      "solution": [
+        "Rf8+",
+        "Ke4",
+        "Rxf4+",
+        "Kxf4",
+        "a5"
+      ]
+    },
+    "contextFen": "8/1p2r3/1Ppk3p/R6K/P4P2/8/8/8 b - - 0 46",
+    "contextMoves": [
+      "Re4",
+      "f5",
+      "Rf4",
+      "Kxh6",
+      "Ke7",
+      "Re5+",
+      "Kf6",
+      "Re8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01uH8",
+    "gameUrl": "https://lichess.org/game/CjFkBz3M/black#100",
+    "theme": "crushing, endgame, long, quietMove, rookEndgame",
+    "startFen": "3r4/R1R5/6pk/p2r3p/3p1P2/7P/6P1/7K b - - 5 50",
+    "moves": [
+      "g5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3r4/R1R5/7k/p2r2pp/3p1P2/7P/6P1/7K w - - 0 51",
+      "solution": [
+        "f5",
+        "R5d7",
+        "Rxd7",
+        "Rxd7",
+        "Rxd7"
+      ]
+    },
+    "contextFen": "3r4/3r1kQ1/p5p1/7p/3p1P2/7P/6P1/2R1R2K b - - 0 46",
+    "contextMoves": [
+      "Kxg7",
+      "Re6",
+      "a5",
+      "Ra6",
+      "Rd5",
+      "Rc7+",
+      "Kh6",
+      "Raa7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01uXH",
+    "gameUrl": "https://lichess.org/game/FvWUxpdc#91",
+    "theme": "endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "R7/8/5p2/8/8/1P3k1K/Pr6/8 w - - 2 46",
+    "moves": [
+      "Kh4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "R7/8/5p2/8/7K/1P3k2/Pr6/8 b - - 3 46",
+      "solution": [
+        "Rh2#"
+      ]
+    },
+    "contextFen": "8/8/5p2/7p/R4P2/1P2k1K1/Pr6/8 w - - 0 42",
+    "contextMoves": [
+      "Ra5",
+      "Ke4",
+      "Ra8",
+      "h4+",
+      "Kxh4",
+      "Kxf4",
+      "Kh3",
+      "Kf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01uzu",
+    "gameUrl": "https://lichess.org/game/yHuaUKKZ/black#84",
+    "theme": "crushing, endgame, quietMove, rookEndgame, short",
+    "startFen": "1r6/3k4/3p1p2/2p1p1p1/2PBP1Pp/Pp1P1P1P/1K6/1R6 b - - 0 42",
+    "moves": [
+      "cxd4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "1r6/3k4/3p1p2/4p1p1/2PpP1Pp/Pp1P1P1P/1K6/1R6 w - - 0 43",
+      "solution": [
+        "a4",
+        "Rb7",
+        "Ka3"
+      ]
+    },
+    "contextFen": "1r6/4k3/3p1p2/2p1p1p1/2P1PbPp/PpB2P1P/3P4/1R1K4 b - - 3 38",
+    "contextMoves": [
+      "Bg3",
+      "Kc1",
+      "Bf2",
+      "Kb2",
+      "Bd4",
+      "d3",
+      "Kd7",
+      "Bxd4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01we5",
+    "gameUrl": "https://lichess.org/game/E5ydu6PA#91",
+    "theme": "advancedPawn, crushing, endgame, long, rookEndgame",
+    "startFen": "8/8/6k1/6P1/p1PK1P2/6rp/8/3R4 w - - 1 46",
+    "moves": [
+      "c5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/6k1/2P3P1/p2K1P2/6rp/8/3R4 b - - 0 46",
+      "solution": [
+        "a3",
+        "c6",
+        "h2",
+        "Ke5",
+        "Rg1"
+      ]
+    },
+    "contextFen": "8/8/6k1/R5P1/p1P4p/P3KP2/1r6/8 w - - 1 42",
+    "contextMoves": [
+      "Rd5",
+      "h3",
+      "Rd1",
+      "Rb3+",
+      "Kd4",
+      "Rxa3",
+      "f4",
+      "Rg3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01x2C",
+    "gameUrl": "https://lichess.org/game/CSvEgmUa/black#92",
+    "theme": "advancedPawn, crushing, endgame, master, masterVsMaster, rookEndgame, short",
+    "startFen": "4r3/4r3/3kP2p/pppPRRpP/3pKpP1/1P3P2/1P6/8 b - - 1 46",
+    "moves": [
+      "Rc8"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "2r5/4r3/3kP2p/pppPRRpP/3pKpP1/1P3P2/1P6/8 w - - 2 47",
+      "solution": [
+        "Rf7",
+        "Rxf7",
+        "exf7"
+      ]
+    },
+    "contextFen": "3r4/4r3/1p1kP2p/pKpP1RpP/3p1pP1/1P3P2/1P2R3/8 b - - 10 42",
+    "contextMoves": [
+      "Rde8",
+      "Kc4",
+      "Rb8",
+      "Kd3",
+      "Rbe8",
+      "Ree5",
+      "b5",
+      "Ke4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01xBJ",
+    "gameUrl": "https://lichess.org/game/cRnr7YrG/black#90",
+    "theme": "crushing, endgame, rookEndgame, short",
+    "startFen": "1kr5/6RP/1pp5/7r/p1P5/8/PP3PP1/6K1 b - - 3 45",
+    "moves": [
+      "Rh8"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "1k5r/6RP/1pp5/7r/p1P5/8/PP3PP1/6K1 w - - 4 46",
+      "solution": [
+        "Rg8+",
+        "Kc7",
+        "Rxh8"
+      ]
+    },
+    "contextFen": "rkr5/2nR2R1/1pp4P/8/p1P5/8/PP3PP1/6K1 b - - 0 41",
+    "contextMoves": [
+      "Ra5",
+      "h7",
+      "Rh5",
+      "Rxc7",
+      "Rxc7",
+      "Rg8+",
+      "Rc8",
+      "Rg7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01xyJ",
+    "gameUrl": "https://lichess.org/game/8nzH0Au5/black#86",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "8/7p/5Kpk/5p2/8/4p1Pr/8/4R3 b - - 3 43",
+    "moves": [
+      "Rxg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/7p/5Kpk/5p2/8/4p1r1/8/4R3 w - - 0 44",
+      "solution": [
+        "Rh1+",
+        "Rh3",
+        "Rxh3#"
+      ]
+    },
+    "contextFen": "8/p1R3kp/6p1/4Kp2/4p3/6P1/4r2P/8 b - - 5 39",
+    "contextMoves": [
+      "Kh6",
+      "Rxa7",
+      "Rxh2",
+      "Kf6",
+      "e3",
+      "Ra1",
+      "Rh3",
+      "Re1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01xzs",
+    "gameUrl": "https://lichess.org/game/WlCe8061#55",
+    "theme": "advantage, endgame, rookEndgame, short, skewer",
+    "startFen": "r5k1/2R3pp/p7/4Pp2/1P3P2/4P3/1P3P1r/R4K2 w - - 1 28",
+    "moves": [
+      "Rc6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "r5k1/6pp/p1R5/4Pp2/1P3P2/4P3/1P3P1r/R4K2 b - - 2 28",
+      "solution": [
+        "Rh1+",
+        "Kg2",
+        "Rxa1"
+      ]
+    },
+    "contextFen": "r7/2p2kpp/p3r3/Rp2Pp2/1P3P2/4P3/1P3P1P/R5K1 w - - 1 24",
+    "contextMoves": [
+      "Rxb5",
+      "Rg6+",
+      "Kf1",
+      "Rh6",
+      "Rc5",
+      "Rxh2",
+      "Rxc7+",
+      "Kg8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01yYo",
+    "gameUrl": "https://lichess.org/game/LpR4GmYY/black#84",
+    "theme": "crushing, endgame, rookEndgame, veryLong",
+    "startFen": "1r6/2p1kp2/3p4/3Pp3/p3P2P/P4R2/6P1/4K3 b - - 2 42",
+    "moves": [
+      "Rb3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2p1kp2/3p4/3Pp3/p3P2P/Pr3R2/6P1/4K3 w - - 3 43",
+      "solution": [
+        "Rxb3",
+        "axb3",
+        "Kd2",
+        "b2",
+        "Kc2",
+        "b1=R",
+        "Kxb1"
+      ]
+    },
+    "contextFen": "5r2/2p2p2/3p1k2/1q1Pp3/p3P2P/P4Q2/6P1/3K3R b - - 0 38",
+    "contextMoves": [
+      "Ke7",
+      "Rf1",
+      "Qb3+",
+      "Kd2",
+      "Qxf3",
+      "Rxf3",
+      "Rb8",
+      "Ke1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01ysM",
+    "gameUrl": "https://lichess.org/game/4FtM96uI/black#68",
+    "theme": "advancedPawn, crushing, endgame, long, rookEndgame",
+    "startFen": "3r3k/4Rppp/p2P4/8/6P1/8/P6P/6K1 b - - 0 34",
+    "moves": [
+      "f6"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3r3k/4R1pp/p2P1p2/8/6P1/8/P6P/6K1 w - - 0 35",
+      "solution": [
+        "d7",
+        "Kg8",
+        "Re8+",
+        "Kf7",
+        "Rxd8"
+      ]
+    },
+    "contextFen": "4rr1k/R3Nppp/p2n4/3P4/8/8/P5PP/4R1K1 b - - 5 30",
+    "contextMoves": [
+      "Nf5",
+      "g4",
+      "Nxe7",
+      "Rexe7",
+      "Rxe7",
+      "Rxe7",
+      "Rd8",
+      "d6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01yso",
+    "gameUrl": "https://lichess.org/game/fQJpXBji#133",
+    "theme": "crushing, endgame, rookEndgame, veryLong",
+    "startFen": "7k/R7/5P2/6K1/8/5r2/7p/8 w - - 0 67",
+    "moves": [
+      "Ra1"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "7k/8/5P2/6K1/8/5r2/7p/R7 b - - 1 67",
+      "solution": [
+        "Rg3+",
+        "Kf4",
+        "Rg1",
+        "f7",
+        "Kg7",
+        "f8=Q+",
+        "Kxf8"
+      ]
+    },
+    "contextFen": "6k1/7R/5P2/6K1/8/5r1p/8/8 w - - 7 63",
+    "contextMoves": [
+      "Rh4",
+      "Kf7",
+      "Rh7+",
+      "Kg8",
+      "Rg7+",
+      "Kh8",
+      "Ra7",
+      "h2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01yuj",
+    "gameUrl": "https://lichess.org/game/1FPjkGXC#73",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "8/5pk1/1R2p1p1/1P6/4PKPP/7r/8/8 w - - 1 37",
+    "moves": [
+      "Kg5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/5pk1/1R2p1p1/1P4K1/4P1PP/7r/8/8 b - - 2 37",
+      "solution": [
+        "f6+",
+        "Kf4",
+        "e5#"
+      ]
+    },
+    "contextFen": "8/5p2/1R2pkp1/1P5p/1r2P2P/5PK1/6P1/8 w - - 1 33",
+    "contextMoves": [
+      "Kf4",
+      "Rb3",
+      "g3",
+      "Kg7",
+      "g4",
+      "hxg4",
+      "fxg4",
+      "Rh3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01zHy",
+    "gameUrl": "https://lichess.org/game/VLhOgNr4/black#84",
+    "theme": "endgame, epauletteMate, master, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "8/3r2pp/R7/3pkP2/6P1/4K3/7P/8 b - - 0 42",
+    "moves": [
+      "h5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/3r2p1/R7/3pkP1p/6P1/4K3/7P/8 w - - 0 43",
+      "solution": [
+        "Re6#"
+      ]
+    },
+    "contextFen": "3r2k1/6pp/R2P4/3p1P2/8/8/6PP/6K1 b - - 2 38",
+    "contextMoves": [
+      "Kf7",
+      "Kf2",
+      "Kf6",
+      "Ke3",
+      "Ke5",
+      "d7",
+      "Rxd7",
+      "g4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01zaV",
+    "gameUrl": "https://lichess.org/game/7bLOOk6f/black#84",
+    "theme": "backRankMate, endgame, master, mate, mateIn2, rookEndgame, short",
+    "startFen": "7k/6pp/8/8/R7/2P4r/1P4K1/8 b - - 1 42",
+    "moves": [
+      "Rd3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "7k/6pp/8/8/R7/2Pr4/1P4K1/8 w - - 2 43",
+      "solution": [
+        "Ra8+",
+        "Rd8",
+        "Rxd8#"
+      ]
+    },
+    "contextFen": "5r1k/6pp/8/3Q4/p4q2/2P2N1P/1P2b1P1/R6K b - - 2 38",
+    "contextMoves": [
+      "Bxf3",
+      "Qxf3",
+      "Qxf3",
+      "gxf3",
+      "Rxf3",
+      "Rxa4",
+      "Rxh3+",
+      "Kg2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0206q",
+    "gameUrl": "https://lichess.org/game/cv6t5VMQ#101",
+    "theme": "crushing, deflection, endgame, rookEndgame, short",
+    "startFen": "4k3/5R2/p1p2K2/r4Ppp/6P1/7P/8/8 w - - 0 51",
+    "moves": [
+      "gxh5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4k3/5R2/p1p2K2/r4PpP/8/7P/8/8 b - - 0 51",
+      "solution": [
+        "Rxf5+",
+        "Kxf5",
+        "Kxf7"
+      ]
+    },
+    "contextFen": "7R/3k1p2/p1pr3p/P4Pp1/4K1P1/7P/8/8 w - - 9 47",
+    "contextMoves": [
+      "Rh7",
+      "Ke8",
+      "Ke5",
+      "Rd5+",
+      "Kf6",
+      "Rxa5",
+      "Rxf7",
+      "h5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/020Io",
+    "gameUrl": "https://lichess.org/game/p4Mv4qq0/black#104",
+    "theme": "endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "8/3r1kpp/8/ppR5/4RKP1/5P2/r7/8 b - - 1 52",
+    "moves": [
+      "b4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/3r1kpp/8/p1R5/1p2RKP1/5P2/r7/8 w - - 0 53",
+      "solution": [
+        "Rf5+",
+        "Kg8",
+        "Re8#"
+      ]
+    },
+    "contextFen": "6k1/6pp/1p6/p7/4RKP1/5P2/r1r5/5R2 b - - 5 48",
+    "contextMoves": [
+      "Kf7",
+      "Rd1",
+      "Rd2",
+      "Rc1",
+      "Rd7",
+      "Rc6",
+      "b5",
+      "Rc5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/021eN",
+    "gameUrl": "https://lichess.org/game/QYsuTjsb/black#70",
+    "theme": "advantage, endgame, hangingPiece, rookEndgame, short",
+    "startFen": "1rr5/R3p2p/3p2p1/4k3/3RP3/1pP1K3/1P4PP/8 b - - 6 35",
+    "moves": [
+      "Rxc3+"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "1r6/R3p2p/3p2p1/4k3/3RP3/1pr1K3/1P4PP/8 w - - 0 36",
+      "solution": [
+        "bxc3",
+        "b2",
+        "Rd1"
+      ]
+    },
+    "contextFen": "1rr5/4p2p/3pk1p1/5p2/R2RP3/1pP1KP2/1P4PP/8 b - - 5 31",
+    "contextMoves": [
+      "fxe4",
+      "fxe4",
+      "Ke5",
+      "Ra5+",
+      "Kf6",
+      "Raa4",
+      "Ke5",
+      "Ra7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0227w",
+    "gameUrl": "https://lichess.org/game/IAXJGGDj/black#64",
+    "theme": "crushing, endgame, rookEndgame, veryLong",
+    "startFen": "8/2pr1p2/1p3kp1/pKpP4/P3PP1p/8/1P3R2/8 b - - 1 32",
+    "moves": [
+      "g5"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/2pr1p2/1p3k2/pKpP2p1/P3PP1p/8/1P3R2/8 w - - 0 33",
+      "solution": [
+        "Kc6",
+        "Re7",
+        "e5+",
+        "Kg6",
+        "d6",
+        "cxd6",
+        "exd6"
+      ]
+    },
+    "contextFen": "3r1k2/2p2p2/1p4p1/p1pP3p/P3PP2/8/1PKR4/8 b - - 1 28",
+    "contextMoves": [
+      "Ke7",
+      "Rf2",
+      "Kf6",
+      "Kc3",
+      "Rd7",
+      "Kc4",
+      "h4",
+      "Kb5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/022AB",
+    "gameUrl": "https://lichess.org/game/I2Sw50W0#69",
+    "theme": "endgame, mate, mateIn1, oneMove, rookEndgame",
+    "startFen": "4k3/5p1p/5p2/8/1R5P/p4rP1/P1P5/1K6 w - - 0 35",
+    "moves": [
+      "Rb3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "4k3/5p1p/5p2/8/7P/pR3rP1/P1P5/1K6 b - - 1 35",
+      "solution": [
+        "Rf1#"
+      ]
+    },
+    "contextFen": "4k3/5ppp/5b2/8/pprp1N1P/5PP1/P1PR4/1K6 w - - 0 31",
+    "contextMoves": [
+      "Nd5",
+      "Rc3",
+      "Nxf6+",
+      "gxf6",
+      "Rxd4",
+      "Rxf3",
+      "Rxb4",
+      "a3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/022Lj",
+    "gameUrl": "https://lichess.org/game/mEeIGqcO#75",
+    "theme": "deflection, endgame, mate, mateIn2, rookEndgame, short",
+    "startFen": "8/R5p1/5k1p/8/7K/1r5P/6P1/8 w - - 0 38",
+    "moves": [
+      "g4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/R5p1/5k1p/8/6PK/1r5P/8/8 b - - 0 38",
+      "solution": [
+        "g5+",
+        "Kh5",
+        "Rxh3#"
+      ]
+    },
+    "contextFen": "3R4/p4kpp/8/8/1r6/6K1/6PP/8 w - - 2 34",
+    "contextMoves": [
+      "Rd7+",
+      "Ke6",
+      "Rxa7",
+      "Rb3+",
+      "Kh4",
+      "Kf6",
+      "h3",
+      "h6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/022mo",
+    "gameUrl": "https://lichess.org/game/TnQUPw7q/black#74",
+    "theme": "advancedPawn, advantage, endgame, long, rookEndgame",
+    "startFen": "8/3R1p2/P4kp1/2K4p/6rP/8/8/8 b - - 2 37",
+    "moves": [
+      "Rxh4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/3R1p2/P4kp1/2K4p/7r/8/8/8 w - - 0 38",
+      "solution": [
+        "a7",
+        "Ra4",
+        "Kb5",
+        "Rxa7",
+        "Rxa7"
+      ]
+    },
+    "contextFen": "8/R4p2/1K3kp1/7p/P6P/1P4P1/5r2/8 b - - 0 33",
+    "contextMoves": [
+      "Rb2",
+      "a5",
+      "Rxb3+",
+      "Kc5",
+      "Rxg3",
+      "a6",
+      "Rg4",
+      "Rd7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/022pe",
+    "gameUrl": "https://lichess.org/game/Phc12VkL/black#76",
+    "theme": "crushing, endgame, master, rookEndgame, short",
+    "startFen": "8/8/1R6/5rkp/1p4p1/6P1/1r3P1P/5RK1 b - - 1 38",
+    "moves": [
+      "b3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/8/1R6/5rkp/6p1/1p4P1/1r3P1P/5RK1 w - - 0 39",
+      "solution": [
+        "h4+",
+        "gxh3",
+        "f4+"
+      ]
+    },
+    "contextFen": "8/p2R4/1p6/5rkp/1P4p1/8/1r3PPP/5RK1 b - - 4 34",
+    "contextMoves": [
+      "Rxb4",
+      "Rxa7",
+      "Rb2",
+      "Rb7",
+      "b5",
+      "g3",
+      "b4",
+      "Rb6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02551",
+    "gameUrl": "https://lichess.org/game/Rpgf8vXm/black#68",
+    "theme": "advantage, endgame, quietMove, rookEndgame, veryLong",
+    "startFen": "3r2k1/pp3p2/6pR/6P1/8/P1P1r3/2P5/1KR5 b - - 1 34",
+    "moves": [
+      "Rxc3"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "3r2k1/pp3p2/6pR/6P1/8/P1r5/2P5/1KR5 w - - 0 35",
+      "solution": [
+        "Rch1",
+        "Kf8",
+        "Rh8+",
+        "Ke7",
+        "Re1+",
+        "Kd7",
+        "Rd1+"
+      ]
+    },
+    "contextFen": "3rr1k1/pp3p1p/2q3p1/6PP/8/PQ2P3/1PP5/1KR4R b - - 0 30",
+    "contextMoves": [
+      "Re5",
+      "hxg6",
+      "hxg6",
+      "Qc3",
+      "Qxc3",
+      "bxc3",
+      "Rxe3",
+      "Rh6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/025cb",
+    "gameUrl": "https://lichess.org/game/tGE8gNxO#81",
+    "theme": "crushing, endgame, rookEndgame, short",
+    "startFen": "8/p7/2p2k1p/4p1r1/1P1pR3/3P1PK1/P1P5/8 w - - 0 41",
+    "moves": [
+      "Rg4"
+    ],
+    "puzzle": {
+      "prompt": "Find the best move.",
+      "fen": "8/p7/2p2k1p/4p1r1/1P1p2R1/3P1PK1/P1P5/8 b - - 1 41",
+      "solution": [
+        "h5",
+        "Rxg5",
+        "Kxg5"
+      ]
+    },
+    "contextFen": "8/p4kpp/2p5/4pr2/3p4/3P1PKP/PPP5/4R3 w - - 4 37",
+    "contextMoves": [
+      "Re4",
+      "Kf6",
+      "h4",
+      "h6",
+      "b4",
+      "g5",
+      "hxg5+",
+      "Rxg5+"
+    ]
+  }
+]
