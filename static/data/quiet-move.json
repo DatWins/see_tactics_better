@@ -1,0 +1,6344 @@
+[
+  {
+    "site": "https://lichess.org/training/001Oo",
+    "gameUrl": "https://lichess.org/game/8IKs77O9/black#46",
+    "theme": "crushing, endgame, long, quietMove",
+    "startFen": "6k1/4p1bp/6p1/1p1pP3/1PpPp3/2P1P3/Q2B1KPP/3q4 b - - 2 23",
+    "moves": [
+      "Qa4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "6k1/4p1bp/6p1/1p1pP3/qPpPp3/2P1P3/Q2B1KPP/8 w - - 3 24",
+      "solution": [
+        "Qxa4",
+        "bxa4",
+        "b5",
+        "Kf7",
+        "b6"
+      ]
+    },
+    "contextFen": "r4rk1/3qp1bp/6p1/1p1pP3/1PpPp1B1/2P1P3/2QB2PP/R4RK1 b - - 0 19",
+    "contextMoves": [
+      "Qxg4",
+      "Ra2",
+      "Rxa2",
+      "Qxa2",
+      "Rxf1+",
+      "Kxf1",
+      "Qd1+",
+      "Kf2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/001aK",
+    "gameUrl": "https://lichess.org/game/Epr0AiEh/black#66",
+    "theme": "crushing, endgame, hangingPiece, long, quietMove",
+    "startFen": "6k1/5p2/4p3/P1B5/2P4P/4Pnp1/Rb1rN3/5K2 b - - 1 33",
+    "moves": [
+      "Rxe2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "6k1/5p2/4p3/P1B5/2P4P/4Pnp1/Rb2r3/5K2 w - - 0 34",
+      "solution": [
+        "Kxe2",
+        "g2",
+        "e4",
+        "Nd4+",
+        "Kf2"
+      ]
+    },
+    "contextFen": "6k1/5pb1/4p3/PNB3pp/2P5/4PnP1/1P1r4/R4K2 b - - 0 29",
+    "contextMoves": [
+      "h4",
+      "gxh4",
+      "g4",
+      "Nc3",
+      "g3",
+      "Ne2",
+      "Bxb2",
+      "Ra2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/002mG",
+    "gameUrl": "https://lichess.org/game/age2hanq#71",
+    "theme": "advantage, middlegame, quietMove, short",
+    "startFen": "5r1k/B1p3pp/2Qb1p2/3Pq3/P6P/8/2P3K1/3R1R2 w - - 1 36",
+    "moves": [
+      "Kf2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "5r1k/B1p3pp/2Qb1p2/3Pq3/P6P/8/2P2K2/3R1R2 b - - 2 36",
+      "solution": [
+        "Re8",
+        "Qxe8+",
+        "Qxe8"
+      ]
+    },
+    "contextFen": "r4r1k/p1p3pp/3b1p2/3P4/P1Q4P/6P1/1qP2B2/3R1RK1 w - - 0 32",
+    "contextMoves": [
+      "Kg2",
+      "Rab8",
+      "Bxa7",
+      "Rb4",
+      "Qc6",
+      "Rxh4",
+      "gxh4",
+      "Qe5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00347",
+    "gameUrl": "https://lichess.org/game/xFM0YP9S#83",
+    "theme": "crushing, endgame, pawnEndgame, quietMove, short",
+    "startFen": "8/2p5/8/2pPk2p/8/4K2P/6P1/8 w - - 1 42",
+    "moves": [
+      "Kd3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/2p5/8/2pPk2p/8/3K3P/6P1/8 b - - 2 42",
+      "solution": [
+        "h4",
+        "Kc4",
+        "Kd6"
+      ]
+    },
+    "contextFen": "8/2p1k3/8/2pP3p/2Nbp3/7P/5KP1/8 w - - 2 38",
+    "contextMoves": [
+      "Kg3",
+      "Kf6",
+      "Kf4",
+      "e3",
+      "Nxe3",
+      "Bxe3+",
+      "Kxe3",
+      "Ke5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/004b0",
+    "gameUrl": "https://lichess.org/game/CJKIi1QJ#95",
+    "theme": "advancedPawn, bishopEndgame, crushing, deflection, endgame, promotion, quietMove, veryLong",
+    "startFen": "5kB1/4b3/4P3/2p2P2/2b5/8/p7/B6K w - - 4 48",
+    "moves": [
+      "Bf7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "5k2/4bB2/4P3/2p2P2/2b5/8/p7/B6K b - - 5 48",
+      "solution": [
+        "Bg5",
+        "f6",
+        "Be3",
+        "Be5",
+        "Bf4",
+        "Bxf4",
+        "a1=Q+"
+      ]
+    },
+    "contextFen": "4k3/4b2B/2p1P3/1b6/3B1p2/p5P1/8/7K w - - 0 44",
+    "contextMoves": [
+      "gxf4",
+      "a2",
+      "f5",
+      "c5",
+      "Ba1",
+      "Bc4",
+      "Bg8",
+      "Kf8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/004sg",
+    "gameUrl": "https://lichess.org/game/pSRIvt7K#75",
+    "theme": "advantage, clearance, endgame, hangingPiece, long, quietMove",
+    "startFen": "6k1/p3b2p/1p1pP3/2p3P1/1Pnp3B/P6P/3Q3K/8 w - - 0 38",
+    "moves": [
+      "bxc5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "6k1/p3b2p/1p1pP3/2P3P1/2np3B/P6P/3Q3K/8 b - - 0 38",
+      "solution": [
+        "Nxd2",
+        "c6",
+        "d5",
+        "g6",
+        "Bd6+"
+      ]
+    },
+    "contextFen": "6k1/p4qbp/1p1p4/2pPnBP1/1PPp3B/P5KP/4Q3/8 w - - 3 34",
+    "contextMoves": [
+      "Be6",
+      "Qxe6",
+      "dxe6",
+      "Bf8",
+      "Kh2",
+      "Be7",
+      "Qd2",
+      "Nxc4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/004zh",
+    "gameUrl": "https://lichess.org/game/sYeKSrqj/black#76",
+    "theme": "advancedPawn, attraction, crushing, endgame, exposedKing, intermezzo, pin, promotion, quietMove, veryLong",
+    "startFen": "4b1k1/4Pr2/3R2pp/1ppBP1q1/8/PP4P1/2P4P/3R3K b - - 2 38",
+    "moves": [
+      "Qh5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "4b1k1/4Pr2/3R2pp/1ppBP2q/8/PP4P1/2P4P/3R3K w - - 3 39",
+      "solution": [
+        "Rf1",
+        "Kg7",
+        "Bxf7",
+        "Bxf7",
+        "Rd8",
+        "Qxe5",
+        "Rxf7+",
+        "Kxf7",
+        "e8=Q+",
+        "Qxe8",
+        "Rxe8"
+      ]
+    },
+    "contextFen": "4brk1/8/3RP1pp/1pp2q2/8/PP2P1P1/2P3BP/3R3K b - - 0 34",
+    "contextMoves": [
+      "Rf6",
+      "e4",
+      "Qg5",
+      "e5",
+      "Rf8",
+      "e7",
+      "Rf7",
+      "Bd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/005ws",
+    "gameUrl": "https://lichess.org/game/LOwACSXb#123",
+    "theme": "crushing, endgame, knightEndgame, master, masterVsMaster, quietMove, veryLong",
+    "startFen": "8/8/5pp1/3K3p/3N2kP/8/8/8 w - - 2 62",
+    "moves": [
+      "Ke6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/4Kpp1/7p/3N2kP/8/8/8 b - - 3 62",
+      "solution": [
+        "g5",
+        "hxg5",
+        "fxg5",
+        "Kd5",
+        "h4",
+        "Ke4",
+        "h3",
+        "Nf3",
+        "Kg3"
+      ]
+    },
+    "contextFen": "8/1K3pk1/6p1/7p/3N3P/8/8/8 w - - 1 58",
+    "contextMoves": [
+      "Nf3",
+      "Kf6",
+      "Kc6",
+      "Kf5",
+      "Kd5",
+      "f6",
+      "Nd4+",
+      "Kg4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/005yO",
+    "gameUrl": "https://lichess.org/game/j65YI8hC/black#48",
+    "theme": "advantage, exposedKing, middlegame, quietMove, veryLong",
+    "startFen": "r1r3k1/ppq3bQ/4p2p/4n3/3p4/2P5/PBB2PPP/4R1K1 b - - 2 24",
+    "moves": [
+      "Kf8"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "r1r2k2/ppq3bQ/4p2p/4n3/3p4/2P5/PBB2PPP/4R1K1 w - - 3 25",
+      "solution": [
+        "Ba3+",
+        "Kf7",
+        "Bd1",
+        "Rh8",
+        "Bh5+",
+        "Kf6",
+        "Qe4"
+      ]
+    },
+    "contextFen": "r1r1b1k1/ppq2pb1/2n1p1pp/4p3/3P3N/2PQ2R1/PBB2PPP/4R1K1 b - - 3 20",
+    "contextMoves": [
+      "exd4",
+      "Nxg6",
+      "fxg6",
+      "Rxg6",
+      "Bxg6",
+      "Qxg6",
+      "Ne5",
+      "Qh7+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/007OE",
+    "gameUrl": "https://lichess.org/game/1c7uOUzp#57",
+    "theme": "advantage, endgame, hangingPiece, long, quietMove",
+    "startFen": "8/pkp5/2p1p3/3p4/N2q4/1n4Q1/PPP3Pr/K2R4 w - - 2 29",
+    "moves": [
+      "axb3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/pkp5/2p1p3/3p4/N2q4/1P4Q1/1PP3Pr/K2R4 b - - 0 29",
+      "solution": [
+        "Qxd1+",
+        "Ka2",
+        "Rh1",
+        "Nc5+",
+        "Kb6"
+      ]
+    },
+    "contextFen": "4Q3/pkp5/1np1p3/3p4/3P4/2N1q3/PPP3Pr/1K1R4 w - - 4 25",
+    "contextMoves": [
+      "Qg6",
+      "Nc4",
+      "Na4",
+      "Nd2+",
+      "Ka1",
+      "Qxd4",
+      "Qg3",
+      "Nb3+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00A5m",
+    "gameUrl": "https://lichess.org/game/Y4Ftfosz/black#120",
+    "theme": "bishopEndgame, crushing, endgame, quietMove, veryLong",
+    "startFen": "8/1p6/p1p2p2/P3b3/1PK3P1/2PBk3/8/8 b - - 3 60",
+    "moves": [
+      "Kd2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/1p6/p1p2p2/P3b3/1PK3P1/2PB4/3k4/8 w - - 4 61",
+      "solution": [
+        "Bf5",
+        "Bc7",
+        "Bc8",
+        "b6",
+        "axb6",
+        "Bxb6",
+        "Bxa6"
+      ]
+    },
+    "contextFen": "8/1p6/p1pbpp2/P5k1/1P1P2P1/2PK1B2/8/8 b - - 1 56",
+    "contextMoves": [
+      "Kf4",
+      "Be2",
+      "e5",
+      "dxe5",
+      "Bxe5",
+      "Kc4",
+      "Ke3",
+      "Bd3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Aul",
+    "gameUrl": "https://lichess.org/game/WWumMDnF/black#66",
+    "theme": "crushing, endgame, long, quietMove",
+    "startFen": "4r3/1p3R1p/1pb2R1B/7k/6P1/8/r6P/6K1 b - - 0 33",
+    "moves": [
+      "Kxg4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "4r3/1p3R1p/1pb2R1B/8/6k1/8/r6P/6K1 w - - 0 34",
+      "solution": [
+        "Rg7+",
+        "Kh4",
+        "Bd2",
+        "Re1+",
+        "Bxe1+"
+      ]
+    },
+    "contextFen": "r3r3/1pR2RBp/1pb5/5k2/8/6P1/P6P/6K1 b - - 2 29",
+    "contextMoves": [
+      "Kg6",
+      "Rf6+",
+      "Kg5",
+      "Rcf7",
+      "Rxa2",
+      "Bh6+",
+      "Kh5",
+      "g4+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Bg0",
+    "gameUrl": "https://lichess.org/game/Kh8jUvEa#113",
+    "theme": "advancedPawn, crushing, endgame, quietMove, rookEndgame, veryLong",
+    "startFen": "8/3k4/3P1K2/p2R4/5r2/5P2/8/8 w - - 1 57",
+    "moves": [
+      "Rf5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/3k4/3P1K2/p4R2/5r2/5P2/8/8 b - - 2 57",
+      "solution": [
+        "Rxf5+",
+        "Kxf5",
+        "a4",
+        "Ke4",
+        "a3",
+        "Kd3",
+        "a2"
+      ]
+    },
+    "contextFen": "8/3k4/3P1p2/p1r4p/P2RK1P1/5P2/8/8 w - - 0 53",
+    "contextMoves": [
+      "gxh5",
+      "Rxh5",
+      "Rd5",
+      "Rh4+",
+      "Kf5",
+      "Rxa4",
+      "Kxf6",
+      "Rf4+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00E4Z",
+    "gameUrl": "https://lichess.org/game/YRE2uOtG#49",
+    "theme": "advantage, endgame, long, master, masterVsMaster, quietMove",
+    "startFen": "1r4k1/p4p1p/6p1/3rb3/K7/2PpB3/1P1R1PPP/7R w - - 1 25",
+    "moves": [
+      "Rhd1"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "1r4k1/p4p1p/6p1/3rb3/K7/2PpB3/1P1R1PPP/3R4 b - - 2 25",
+      "solution": [
+        "Rd6",
+        "b4",
+        "Bxc3",
+        "Bc5",
+        "Ra6+"
+      ]
+    },
+    "contextFen": "2r3k1/pp3p1p/6p1/3rb1B1/P2p4/2P5/1PK2PPP/3R3R w - - 2 21",
+    "contextMoves": [
+      "Kb3",
+      "d3",
+      "Rd2",
+      "b5",
+      "Be3",
+      "bxa4+",
+      "Kxa4",
+      "Rb8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00H2L",
+    "gameUrl": "https://lichess.org/game/UMoEkwn0#77",
+    "theme": "crushing, endgame, long, pawnEndgame, quietMove",
+    "startFen": "8/8/2p2p2/p4P1p/Pk5P/4K1P1/8/8 w - - 1 39",
+    "moves": [
+      "Kd3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/2p2p2/p4P1p/Pk5P/3K2P1/8/8 b - - 2 39",
+      "solution": [
+        "c5",
+        "Ke2",
+        "c4",
+        "g4",
+        "hxg4"
+      ]
+    },
+    "contextFen": "8/8/1kp2p2/p3pp1p/P1K1P2P/6P1/8/8 w - - 0 35",
+    "contextMoves": [
+      "exf5",
+      "e4",
+      "Kd4",
+      "e3",
+      "Ke4",
+      "Kc5",
+      "Kxe3",
+      "Kb4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00H5n",
+    "gameUrl": "https://lichess.org/game/84oSZ8O3/black#70",
+    "theme": "advantage, endgame, pin, quietMove, veryLong",
+    "startFen": "8/5Rpk/3p3p/p1qPp3/P3n3/5N1P/1Q3PPK/2r5 b - - 0 35",
+    "moves": [
+      "Nxf2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/5Rpk/3p3p/p1qPp3/P7/5N1P/1Q3nPK/2r5 w - - 0 36",
+      "solution": [
+        "Qb7",
+        "Rh1+",
+        "Kg3",
+        "Ne4+",
+        "Kg4",
+        "Nf6+",
+        "Rxf6",
+        "Qb4+",
+        "Qxb4"
+      ]
+    },
+    "contextFen": "1R4k1/3q1pp1/3p3p/p2Pp3/P3n3/Q1r2N1P/5PP1/6K1 b - - 2 31",
+    "contextMoves": [
+      "Kh7",
+      "Qb2",
+      "Qc7",
+      "Rb7",
+      "Rc1+",
+      "Kh2",
+      "Qc5",
+      "Rxf7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00IDw",
+    "gameUrl": "https://lichess.org/game/KmTVU8Fo#59",
+    "theme": "advantage, endgame, quietMove, short",
+    "startFen": "4r3/pN3kpp/2N1b3/2R5/5b2/P7/1P3PPP/7K w - - 1 30",
+    "moves": [
+      "g3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "4r3/pN3kpp/2N1b3/2R5/5b2/P5P1/1P3P1P/7K b - - 0 30",
+      "solution": [
+        "Bh3",
+        "Rc1",
+        "Bxc1"
+      ]
+    },
+    "contextFen": "r3k3/p3b1pp/2p1b3/N1p1N3/8/P7/1P3PPP/2n2R1K w - - 0 26",
+    "contextMoves": [
+      "Rxc1",
+      "Bd6",
+      "Nexc6",
+      "Kf7",
+      "Nb7",
+      "Bf4",
+      "Rxc5",
+      "Re8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00IDz",
+    "gameUrl": "https://lichess.org/game/saSpYsAv#125",
+    "theme": "crushing, endgame, long, master, quietMove",
+    "startFen": "8/8/2p2P2/K2b3p/7N/P1k5/8/8 w - - 0 63",
+    "moves": [
+      "f7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/5P2/2p5/K2b3p/7N/P1k5/8/8 b - - 0 63",
+      "solution": [
+        "Bxf7",
+        "Kb6",
+        "Bd5",
+        "Kc5",
+        "Kb3"
+      ]
+    },
+    "contextFen": "8/8/2p5/p1Pk3p/5P1N/PKP5/8/7b w - - 13 59",
+    "contextMoves": [
+      "Ka4",
+      "Kxc5",
+      "Kxa5",
+      "Kc4",
+      "f5",
+      "Bd5",
+      "f6",
+      "Kxc3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00IbM",
+    "gameUrl": "https://lichess.org/game/u2FmrsSU#67",
+    "theme": "advantage, endgame, long, quietMove",
+    "startFen": "6k1/5rp1/p2B3p/P1Pp4/1P6/2q1P2P/4Q1P1/6K1 w - - 0 34",
+    "moves": [
+      "Qxa6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "6k1/5rp1/Q2B3p/P1Pp4/1P6/2q1P2P/6P1/6K1 b - - 0 34",
+      "solution": [
+        "Qe1+",
+        "Kh2",
+        "Rf1",
+        "Qxf1",
+        "Qxf1"
+      ]
+    },
+    "contextFen": "3q2k1/r5p1/p2Bp2p/P1Pp4/1P2P3/4P2P/3Q2P1/5rK1 w - - 0 30",
+    "contextMoves": [
+      "Kxf1",
+      "Qf6+",
+      "Kg1",
+      "Rf7",
+      "Qe2",
+      "Qc3",
+      "exd5",
+      "exd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00JzT",
+    "gameUrl": "https://lichess.org/game/Zk86Dja7#87",
+    "theme": "crushing, defensiveMove, endgame, pawnEndgame, quietMove, short",
+    "startFen": "8/7p/6pK/5p2/4p3/1k4P1/5P1P/8 w - - 2 44",
+    "moves": [
+      "Kxh7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/7K/6p1/5p2/4p3/1k4P1/5P1P/8 b - - 0 44",
+      "solution": [
+        "g5",
+        "g4",
+        "f4"
+      ]
+    },
+    "contextFen": "8/7p/6p1/2k2p2/4p3/6P1/P3KP1P/8 w - - 4 40",
+    "contextMoves": [
+      "Ke3",
+      "Kb4",
+      "Kf4",
+      "Ka3",
+      "Kg5",
+      "Kxa2",
+      "Kh6",
+      "Kb3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00KgF",
+    "gameUrl": "https://lichess.org/game/o4AD9loc/black#84",
+    "theme": "advancedPawn, crushing, endgame, quietMove, sacrifice, veryLong",
+    "startFen": "4r3/p5k1/1p5P/1P2P1K1/8/5N2/8/8 b - - 0 42",
+    "moves": [
+      "Kh7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "4r3/p6k/1p5P/1P2P1K1/8/5N2/8/8 w - - 1 43",
+      "solution": [
+        "Kh5",
+        "Kg8",
+        "Ng5",
+        "Rxe5",
+        "Kg6",
+        "Rxb5",
+        "h7+"
+      ]
+    },
+    "contextFen": "8/p4k1r/1p2p3/1P2PR2/4K2P/5N2/8/8 b - - 0 38",
+    "contextMoves": [
+      "exf5+",
+      "Kxf5",
+      "Kg7",
+      "Kg5",
+      "Rh8",
+      "h5",
+      "Re8",
+      "h6+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Kip",
+    "gameUrl": "https://lichess.org/game/hcNxh7C3#99",
+    "theme": "crushing, endgame, long, pawnEndgame, quietMove",
+    "startFen": "8/6pp/8/3k4/2p2PPP/2K5/8/8 w - - 1 50",
+    "moves": [
+      "f5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/6pp/8/3k1P2/2p3PP/2K5/8/8 b - - 0 50",
+      "solution": [
+        "Ke5",
+        "h5",
+        "h6",
+        "g5",
+        "hxg5"
+      ]
+    },
+    "contextFen": "8/2p3pp/8/1k2K3/6P1/7P/5P2/8 w - - 0 46",
+    "contextMoves": [
+      "Kd4",
+      "c5+",
+      "Kc3",
+      "c4",
+      "f4",
+      "Kc5",
+      "h4",
+      "Kd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Ksk",
+    "gameUrl": "https://lichess.org/game/zzo4tACK/black#68",
+    "theme": "crushing, endgame, long, quietMove",
+    "startFen": "6B1/ppp3p1/7k/7p/6q1/8/Pb1Q1P1P/5K2 b - - 7 34",
+    "moves": [
+      "g5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "6B1/ppp5/7k/6pp/6q1/8/Pb1Q1P1P/5K2 w - - 0 35",
+      "solution": [
+        "Qd3",
+        "Kg7",
+        "Qh7+",
+        "Kf6",
+        "Qf7+"
+      ]
+    },
+    "contextFen": "3Q4/ppp2Bpk/7p/8/6q1/8/Pb3P1P/5K2 b - - 1 28",
+    "contextMoves": [
+      "Qh3+",
+      "Kg1",
+      "Qg4+",
+      "Kf1",
+      "h5",
+      "Bg8+",
+      "Kh6",
+      "Qd2+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00L53",
+    "gameUrl": "https://lichess.org/game/nSpAg1ZO#69",
+    "theme": "clearance, crushing, defensiveMove, endgame, quietMove, veryLong",
+    "startFen": "3q2k1/Qp4pp/3r4/P7/8/1P6/3p1PPP/3R2K1 w - - 0 35",
+    "moves": [
+      "Qxb7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "3q2k1/1Q4pp/3r4/P7/8/1P6/3p1PPP/3R2K1 b - - 0 35",
+      "solution": [
+        "Re6",
+        "Qb4",
+        "Qd4",
+        "Qb8+",
+        "Kf7",
+        "Qb7+",
+        "Kg6",
+        "g3",
+        "Re1+"
+      ]
+    },
+    "contextFen": "6k1/pp4pp/2rq4/P5Q1/3p4/1P6/5PPP/4R1K1 w - - 0 31",
+    "contextMoves": [
+      "Qf5",
+      "Qd8",
+      "Rd1",
+      "Rd6",
+      "Qc5",
+      "d3",
+      "Qxa7",
+      "d2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00MBF",
+    "gameUrl": "https://lichess.org/game/qknEpIjx/black#58",
+    "theme": "advantage, middlegame, quietMove, veryLong",
+    "startFen": "7k/np2b1pp/p1b2p2/2P1pq2/PPQ4P/5PP1/1B5K/3BN3 b - - 0 29",
+    "moves": [
+      "Bd7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "7k/np1bb1pp/p4p2/2P1pq2/PPQ4P/5PP1/1B5K/3BN3 w - - 1 30",
+      "solution": [
+        "Bb3",
+        "Qh3+",
+        "Kg1",
+        "Be6",
+        "Qxe6",
+        "Qxe6",
+        "Bxe6"
+      ]
+    },
+    "contextFen": "r6k/npq1b1pp/p1b2p2/2P1p3/PPQ5/1B4P1/1B3P1P/3RN1K1 b - - 0 25",
+    "contextMoves": [
+      "Rd8",
+      "h4",
+      "Qc8",
+      "Kh2",
+      "Rxd1",
+      "Bxd1",
+      "Qf5",
+      "f3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00MWz",
+    "gameUrl": "https://lichess.org/game/1sHbVvW6/black#114",
+    "theme": "crushing, endgame, quietMove, short",
+    "startFen": "8/8/2B5/4pK2/3k1pPp/5n1P/8/8 b - - 3 57",
+    "moves": [
+      "Ng1"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/2B5/4pK2/3k1pPp/7P/8/6n1 w - - 4 58",
+      "solution": [
+        "g5",
+        "Ne2",
+        "g6"
+      ]
+    },
+    "contextFen": "4B3/8/8/2k1p1p1/4KpPp/4nP1P/8/8 b - - 5 53",
+    "contextMoves": [
+      "Nc4",
+      "Kf5",
+      "Nd2",
+      "Kxg5",
+      "Nxf3+",
+      "Kf5",
+      "Kd4",
+      "Bc6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Mei",
+    "gameUrl": "https://lichess.org/game/xvCSyLc3/black#72",
+    "theme": "advantage, endgame, long, master, quietMove",
+    "startFen": "8/6rk/6p1/1R3b1p/2pQ1P2/2P3P1/qP4PK/8 b - - 0 36",
+    "moves": [
+      "Bd3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/6rk/6p1/1R5p/2pQ1P2/2Pb2P1/qP4PK/8 w - - 1 37",
+      "solution": [
+        "Qd8",
+        "Qa7",
+        "Rb8",
+        "Qxb8",
+        "Qxb8"
+      ]
+    },
+    "contextFen": "8/6rk/3q2p1/1p1pRb1p/2pQ1P2/2P3P1/PP4PK/8 b - - 3 32",
+    "contextMoves": [
+      "Rd7",
+      "Re8",
+      "Rg7",
+      "Re5",
+      "Qa6",
+      "Rxd5",
+      "Qxa2",
+      "Rxb5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Mf0",
+    "gameUrl": "https://lichess.org/game/rkMC42R8/black#38",
+    "theme": "advantage, long, master, middlegame, quietMove",
+    "startFen": "2kr3r/pp1b1pq1/2n1p3/2Pp4/5Np1/1QP3P1/P4PBP/R4RK1 b - - 4 19",
+    "moves": [
+      "Qh6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "2kr3r/pp1b1p2/2n1p2q/2Pp4/5Np1/1QP3P1/P4PBP/R4RK1 w - - 5 20",
+      "solution": [
+        "Rfb1",
+        "Qxh2+",
+        "Kf1",
+        "Na5",
+        "Qb4"
+      ]
+    },
+    "contextFen": "r3k1r1/pp1bbpq1/2n1p3/3p2p1/NP6/2P3P1/P3NPBP/R2Q1RK1 b q - 0 15",
+    "contextMoves": [
+      "g4",
+      "Nc5",
+      "Bxc5",
+      "bxc5",
+      "Rh8",
+      "Nf4",
+      "O-O-O",
+      "Qb3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00NKk",
+    "gameUrl": "https://lichess.org/game/eKEoNNem/black#50",
+    "theme": "advantage, endgame, quietMove, short",
+    "startFen": "2r2rk1/pp4q1/4Q3/3p4/3P4/P1P5/1P3PPP/4R1K1 b - - 0 25",
+    "moves": [
+      "Kh8"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "2r2r1k/pp4q1/4Q3/3p4/3P4/P1P5/1P3PPP/4R1K1 w - - 1 26",
+      "solution": [
+        "Re3",
+        "Rc7",
+        "Rh3+"
+      ]
+    },
+    "contextFen": "2r2rk1/pp1nqp2/4p2Q/3pNb2/3P4/P1P5/1P2RPPP/4R1K1 b - - 2 21",
+    "contextMoves": [
+      "Nxe5",
+      "Rxe5",
+      "Bg6",
+      "Rxe6",
+      "fxe6",
+      "Qxg6+",
+      "Qg7",
+      "Qxe6+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Nay",
+    "gameUrl": "https://lichess.org/game/wMvkJfcA/black#38",
+    "theme": "crushing, deflection, long, middlegame, quietMove",
+    "startFen": "r2q1r2/ppp2pk1/3p1n2/4p1p1/2B1P3/2NP2Q1/PPP5/2K4R b - - 0 19",
+    "moves": [
+      "Kg6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "r2q1r2/ppp2p2/3p1nk1/4p1p1/2B1P3/2NP2Q1/PPP5/2K4R w - - 1 20",
+      "solution": [
+        "Qh3",
+        "Rh8",
+        "Qf5+",
+        "Kg7",
+        "Qxg5+"
+      ]
+    },
+    "contextFen": "r2q1rk1/ppp2p2/3p1n1p/2b1p1B1/2B1P3/2NP4/PPP2PP1/2Kb1Q1R b - - 0 15",
+    "contextMoves": [
+      "hxg5",
+      "Qxd1",
+      "Kg7",
+      "g3",
+      "Bxf2",
+      "Qf3",
+      "Bxg3",
+      "Qxg3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00OR6",
+    "gameUrl": "https://lichess.org/game/kMLJ7GPV/black#68",
+    "theme": "advantage, endgame, long, quietMove",
+    "startFen": "2r4k/5Q1p/p7/1pq5/4p2N/2P3bP/PP4P1/4R2K b - - 0 34",
+    "moves": [
+      "Bxe1"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "2r4k/5Q1p/p7/1pq5/4p2N/2P4P/PP4P1/4b2K w - - 0 35",
+      "solution": [
+        "Qf6+",
+        "Kg8",
+        "Nf5",
+        "Qxf5",
+        "Qxf5"
+      ]
+    },
+    "contextFen": "2r2r1k/2q3bp/p3Q2N/1p6/4p2N/2P4P/PP4P1/4R1K1 b - - 0 30",
+    "contextMoves": [
+      "Qc5+",
+      "Kh2",
+      "Be5+",
+      "Kh1",
+      "Bg3",
+      "Nf7+",
+      "Rxf7",
+      "Qxf7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00QyM",
+    "gameUrl": "https://lichess.org/game/DcRRuwOx/black#70",
+    "theme": "crushing, endgame, long, pawnEndgame, quietMove, zugzwang",
+    "startFen": "8/3k4/1pp3p1/4Pp1p/2PK1P1P/pP6/P7/8 b - - 1 35",
+    "moves": [
+      "Ke6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/1pp1k1p1/4Pp1p/2PK1P1P/pP6/P7/8 w - - 2 36",
+      "solution": [
+        "b4",
+        "Ke7",
+        "b5",
+        "cxb5",
+        "cxb5"
+      ]
+    },
+    "contextFen": "2r5/2p1k3/1p4p1/3RPp1p/2P2P1P/pP2K3/P7/8 b - - 0 31",
+    "contextMoves": [
+      "Rd8",
+      "Rxd8",
+      "Kxd8",
+      "Kd4",
+      "Kd7",
+      "Kd5",
+      "c6+",
+      "Kd4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00SPy",
+    "gameUrl": "https://lichess.org/game/b7nzWOyx/black#68",
+    "theme": "advantage, endgame, quietMove, short",
+    "startFen": "4r3/5pk1/pp3p2/7q/1P3P1p/P6P/4R1P1/3Q1R1K b - - 0 34",
+    "moves": [
+      "Rxe2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/5pk1/pp3p2/7q/1P3P1p/P6P/4r1P1/3Q1R1K w - - 0 35",
+      "solution": [
+        "f5",
+        "Kh6",
+        "Qd8"
+      ]
+    },
+    "contextFen": "4r3/3qNpk1/pp1P1p2/2b2p2/1P2rP1p/P6P/3R2P1/3Q1R1K b - - 0 30",
+    "contextMoves": [
+      "Bxd6",
+      "Nxf5+",
+      "Qxf5",
+      "Rxd6",
+      "Re2",
+      "Rd2",
+      "Qh5",
+      "Rxe2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00U2C",
+    "gameUrl": "https://lichess.org/game/ZQ9GNX6h#95",
+    "theme": "crushing, defensiveMove, endgame, master, quietMove, veryLong",
+    "startFen": "8/8/6RP/2p5/p1k1pP2/4P3/np1K4/8 w - - 0 48",
+    "moves": [
+      "Rb6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/1R5P/2p5/p1k1pP2/4P3/np1K4/8 b - - 1 48",
+      "solution": [
+        "Nb4",
+        "Rxb4+",
+        "Kxb4",
+        "Kc2",
+        "Ka3",
+        "h7",
+        "Ka2"
+      ]
+    },
+    "contextFen": "8/8/6p1/1pp5/p1k1pPpP/2n1P3/P2K4/6R1 w - - 0 44",
+    "contextMoves": [
+      "Rxg4",
+      "Nxa2",
+      "Rxg6",
+      "b4",
+      "h5",
+      "b3",
+      "h6",
+      "b2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Vof",
+    "gameUrl": "https://lichess.org/game/0OQsWX0N#59",
+    "theme": "advancedPawn, crushing, endgame, pawnEndgame, quietMove, veryLong",
+    "startFen": "6k1/6p1/1pp4p/p3p3/1PP1P3/3Pp2P/2P3P1/5K2 w - - 0 30",
+    "moves": [
+      "bxa5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "6k1/6p1/1pp4p/P3p3/2P1P3/3Pp2P/2P3P1/5K2 b - - 0 30",
+      "solution": [
+        "bxa5",
+        "Ke2",
+        "a4",
+        "Kxe3",
+        "a3",
+        "Kd2",
+        "a2"
+      ]
+    },
+    "contextFen": "6k1/1p4p1/p1p4p/4p3/1PbpP3/1P1P2qP/2P1Q1P1/7K w - - 0 26",
+    "contextMoves": [
+      "bxc4",
+      "b6",
+      "Kg1",
+      "Qe3+",
+      "Qxe3",
+      "dxe3",
+      "Kf1",
+      "a5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00WoW",
+    "gameUrl": "https://lichess.org/game/cuQl3aZ8#57",
+    "theme": "advancedPawn, advantage, endgame, long, master, quietMove, sacrifice",
+    "startFen": "8/4kppR/r1p1p2p/p3P2P/4P1P1/1pP1KP2/6B1/8 w - - 0 29",
+    "moves": [
+      "Kd2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/4kppR/r1p1p2p/p3P2P/4P1P1/1pP2P2/3K2B1/8 b - - 1 29",
+      "solution": [
+        "a4",
+        "Bf1",
+        "a3",
+        "Bxa6",
+        "a2"
+      ]
+    },
+    "contextFen": "5k2/2R2ppb/r1p1p2p/pp2P2P/2p1P1P1/2P1KP2/P5B1/8 w - - 1 25",
+    "contextMoves": [
+      "Rc8+",
+      "Ke7",
+      "Rh8",
+      "b4",
+      "Rxh7",
+      "b3",
+      "axb3",
+      "cxb3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00Wqc",
+    "gameUrl": "https://lichess.org/game/dR2Wb2zs#65",
+    "theme": "crushing, endgame, master, quietMove, short",
+    "startFen": "4k3/5p2/3P4/p5p1/6Pp/1P1K3n/P7/2B5 w - - 0 33",
+    "moves": [
+      "Ke3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "4k3/5p2/3P4/p5p1/6Pp/1P2K2n/P7/2B5 b - - 1 33",
+      "solution": [
+        "Nf4",
+        "Kf3",
+        "h3"
+      ]
+    },
+    "contextFen": "4r1k1/5p2/3P4/p2N2p1/6Pp/BP3n1P/P2K4/8 w - - 0 29",
+    "contextMoves": [
+      "Kd3",
+      "Ng1",
+      "Nf6+",
+      "Kf8",
+      "Nxe8",
+      "Kxe8",
+      "Bc1",
+      "Nxh3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00WzB",
+    "gameUrl": "https://lichess.org/game/VEqrGfJg#91",
+    "theme": "advancedPawn, bishopEndgame, crushing, endgame, promotion, quietMove, veryLong",
+    "startFen": "8/8/8/P1K1p3/5k1p/5b1B/5P2/8 w - - 3 46",
+    "moves": [
+      "Bf1"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/8/P1K1p3/5k1p/5b2/5P2/5B2 b - - 4 46",
+      "solution": [
+        "Ba8",
+        "Kd6",
+        "e4",
+        "Bg2",
+        "Kg4",
+        "a6",
+        "h3",
+        "Bh1",
+        "e3",
+        "Bxa8",
+        "exf2",
+        "Bf3+",
+        "Kg3",
+        "a7",
+        "f1=Q",
+        "a8=Q",
+        "Qxf3"
+      ]
+    },
+    "contextFen": "2B5/8/5k2/2K1p1pp/P7/5bp1/5P1P/8 w - - 0 42",
+    "contextMoves": [
+      "hxg3",
+      "h4",
+      "gxh4",
+      "gxh4",
+      "a5",
+      "Kg5",
+      "Bh3",
+      "Kf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00YjD",
+    "gameUrl": "https://lichess.org/game/LDzUjuLQ#75",
+    "theme": "crushing, endgame, long, quietMove, rookEndgame",
+    "startFen": "8/8/2p5/5k2/3R2p1/1P1P2K1/2r5/8 w - - 0 38",
+    "moves": [
+      "Rc4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/2p5/5k2/2R3p1/1P1P2K1/2r5/8 b - - 1 38",
+      "solution": [
+        "Rxc4",
+        "dxc4",
+        "c5",
+        "b4",
+        "cxb4"
+      ]
+    },
+    "contextFen": "8/2R5/r1p5/p4k2/3p2p1/1P1P1K2/P1P5/8 w - - 0 34",
+    "contextMoves": [
+      "Kg3",
+      "a4",
+      "Rd7",
+      "axb3",
+      "axb3",
+      "Ra2",
+      "Rxd4",
+      "Rxc2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00aG8",
+    "gameUrl": "https://lichess.org/game/pXBkYLxJ#45",
+    "theme": "advantage, endgame, long, pin, quietMove",
+    "startFen": "1r3k2/p4ppp/2rN4/8/P2P4/8/2P2PPP/3Q2K1 w - - 3 23",
+    "moves": [
+      "Nf5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "1r3k2/p4ppp/2r5/5N2/P2P4/8/2P2PPP/3Q2K1 b - - 4 23",
+      "solution": [
+        "Rcb6",
+        "Kf1",
+        "Rb1",
+        "Qxb1",
+        "Rxb1+"
+      ]
+    },
+    "contextFen": "1r2k2r/p3qppp/8/8/P1bP4/B4N2/2P2PPP/3Q2K1 w k - 0 19",
+    "contextMoves": [
+      "Bxe7",
+      "Kxe7",
+      "Ne5",
+      "Rhc8",
+      "Nxc4",
+      "Kf8",
+      "Nd6",
+      "Rc6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00aNB",
+    "gameUrl": "https://lichess.org/game/yR9wiOTR#87",
+    "theme": "crushing, endgame, pawnEndgame, quietMove, veryLong",
+    "startFen": "8/8/pp3k1K/2p4P/P7/2P5/8/8 w - - 0 44",
+    "moves": [
+      "Kh7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/7K/pp3k2/2p4P/P7/2P5/8/8 b - - 1 44",
+      "solution": [
+        "c4",
+        "Kg8",
+        "Kg5",
+        "Kf7",
+        "b5",
+        "axb5",
+        "axb5",
+        "Ke6",
+        "b4"
+      ]
+    },
+    "contextFen": "5r2/p3k3/1p5R/2p2K2/P6P/2P5/8/8 w - - 3 40",
+    "contextMoves": [
+      "Kg6",
+      "Rf6+",
+      "Kg5",
+      "Rxh6",
+      "Kxh6",
+      "Kf6",
+      "h5",
+      "a6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00aZ3",
+    "gameUrl": "https://lichess.org/game/0yMvFk5C/black#72",
+    "theme": "advancedPawn, crushing, endgame, hangingPiece, quietMove, veryLong",
+    "startFen": "8/6k1/1n6/1K2p1p1/P5P1/1B3r2/1PP5/8 b - - 1 36",
+    "moves": [
+      "Nd5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/6k1/8/1K1np1p1/P5P1/1B3r2/1PP5/8 w - - 2 37",
+      "solution": [
+        "Bxd5",
+        "Rf4",
+        "a5",
+        "e4",
+        "a6",
+        "e3",
+        "a7"
+      ]
+    },
+    "contextFen": "8/1R6/1p4k1/4p1p1/6P1/1BK1nP2/PPP2r2/8 b - - 2 32",
+    "contextMoves": [
+      "Rxf3",
+      "Rxb6+",
+      "Kg7",
+      "a4",
+      "Nd5+",
+      "Kc4",
+      "Nxb6+",
+      "Kb5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00gbj",
+    "gameUrl": "https://lichess.org/game/TwMT1En7/black#114",
+    "theme": "crushing, defensiveMove, endgame, knightEndgame, long, quietMove",
+    "startFen": "8/8/8/3k2K1/6nP/6P1/8/8 b - - 4 57",
+    "moves": [
+      "Ne5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/8/3kn1K1/7P/6P1/8/8 w - - 5 58",
+      "solution": [
+        "Kf5",
+        "Nc4",
+        "h5",
+        "Nd6+",
+        "Kg6"
+      ]
+    },
+    "contextFen": "8/8/6K1/5p2/2k5/6P1/5n1P/8 b - - 0 53",
+    "contextMoves": [
+      "Ng4",
+      "h4",
+      "Kd5",
+      "Kxf5",
+      "Ne3+",
+      "Kf6",
+      "Ng4+",
+      "Kg5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00gy1",
+    "gameUrl": "https://lichess.org/game/E5BBvr3Q#71",
+    "theme": "crushing, endgame, long, pawnEndgame, quietMove, zugzwang",
+    "startFen": "8/1p6/8/3kp2p/4p1p1/4K1P1/PP4PP/8 w - - 0 36",
+    "moves": [
+      "h4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/1p6/8/3kp2p/4p1pP/4K1P1/PP4P1/8 b - h3 0 36",
+      "solution": [
+        "b5",
+        "a3",
+        "Kc4",
+        "Kxe4",
+        "Kb3"
+      ]
+    },
+    "contextFen": "8/1p2k3/4pp1p/3bN3/2P1p1p1/6P1/PP4PP/6K1 w - - 0 32",
+    "contextMoves": [
+      "cxd5",
+      "fxe5",
+      "dxe6",
+      "Kxe6",
+      "Kf2",
+      "Kd5",
+      "Ke3",
+      "h5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00gyK",
+    "gameUrl": "https://lichess.org/game/LK8qER3u#65",
+    "theme": "crushing, endgame, quietMove, short",
+    "startFen": "5rk1/5pp1/3p3p/4p1N1/8/PR6/1p3PPP/6K1 w - - 0 33",
+    "moves": [
+      "Ne4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "5rk1/5pp1/3p3p/4p3/4N3/PR6/1p3PPP/6K1 b - - 1 33",
+      "solution": [
+        "Rc8",
+        "g3",
+        "Rc1+"
+      ]
+    },
+    "contextFen": "1r3rk1/5ppp/3p4/4p1N1/2p5/P2n4/2B2PPP/1R4K1 w - - 5 29",
+    "contextMoves": [
+      "Rd1",
+      "Rb3",
+      "Bxb3",
+      "cxb3",
+      "Rxd3",
+      "b2",
+      "Rb3",
+      "h6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00gzu",
+    "gameUrl": "https://lichess.org/game/8Zxft2wh/black#72",
+    "theme": "crushing, endgame, long, quietMove",
+    "startFen": "8/p1p3p1/1p3r1p/1P2P2P/6K1/P2B4/1kP5/8 b - - 0 36",
+    "moves": [
+      "Rf2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/p1p3p1/1p5p/1P2P2P/6K1/P2B4/1kP2r2/8 w - - 1 37",
+      "solution": [
+        "e6",
+        "Rf6",
+        "Bf5",
+        "g6",
+        "hxg6"
+      ]
+    },
+    "contextFen": "8/p1p3p1/1p2kr1p/1P6/4P3/P2B2KP/2P5/8 b - - 2 32",
+    "contextMoves": [
+      "Ke5",
+      "h4",
+      "Kd4",
+      "Kg4",
+      "Kc3",
+      "h5",
+      "Kb2",
+      "e5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00i6P",
+    "gameUrl": "https://lichess.org/game/HxIkxV0Q/black#68",
+    "theme": "advantage, endgame, long, quietMove",
+    "startFen": "1r2R2k/3P2p1/p4q1p/8/2P5/5P2/P4P1P/6K1 b - - 1 34",
+    "moves": [
+      "Qf8"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "1r2Rq1k/3P2p1/p6p/8/2P5/5P2/P4P1P/6K1 w - - 2 35",
+      "solution": [
+        "Rxf8+",
+        "Rxf8",
+        "c5",
+        "Rd8",
+        "c6"
+      ]
+    },
+    "contextFen": "1r4k1/3P1pp1/p1Q1Rn1p/8/2P5/5P2/Pq3P1P/4R1K1 b - - 0 30",
+    "contextMoves": [
+      "fxe6",
+      "Qxe6+",
+      "Kh7",
+      "Qf5+",
+      "Kh8",
+      "Qxf6",
+      "Qxf6",
+      "Re8+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00iQC",
+    "gameUrl": "https://lichess.org/game/Yg1J59NW/black#56",
+    "theme": "crushing, discoveredAttack, exposedKing, middlegame, queensideAttack, quietMove, veryLong",
+    "startFen": "1k1r1b1r/4q3/QBpp4/4p3/4P2p/5p2/P5PP/4R1K1 b - - 0 28",
+    "moves": [
+      "Rd7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "1k3b1r/3rq3/QBpp4/4p3/4P2p/5p2/P5PP/4R1K1 w - - 1 29",
+      "solution": [
+        "Rb1",
+        "Rb7",
+        "Ba7+",
+        "Kc8",
+        "Qxc6+",
+        "Qc7",
+        "Qe8+"
+      ]
+    },
+    "contextFen": "1k1r1b1r/1pp1q3/2Np1n2/3Pp3/Q3P2p/5p2/P4BPP/R3R1K1 b - - 3 24",
+    "contextMoves": [
+      "bxc6",
+      "Qa6",
+      "Nxd5",
+      "Rab1+",
+      "Nb6",
+      "Rxb6+",
+      "cxb6",
+      "Bxb6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00iQD",
+    "gameUrl": "https://lichess.org/game/dDMWuoiZ#99",
+    "theme": "advancedPawn, crushing, endgame, pawnEndgame, promotion, quietMove, veryLong",
+    "startFen": "8/8/8/3K2kp/8/2P1P3/8/8 w - - 0 50",
+    "moves": [
+      "c4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/8/3K2kp/2P5/4P3/8/8 b - - 0 50",
+      "solution": [
+        "h4",
+        "Ke4",
+        "Kg4",
+        "c5",
+        "h3",
+        "Ke5",
+        "h2",
+        "c6",
+        "h1=Q"
+      ]
+    },
+    "contextFen": "8/8/K6p/3p1k1P/6p1/2P1PP2/8/8 w - - 0 46",
+    "contextMoves": [
+      "fxg4+",
+      "Kxg4",
+      "Kb5",
+      "Kxh5",
+      "Kc5",
+      "Kg5",
+      "Kxd5",
+      "h5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00ieR",
+    "gameUrl": "https://lichess.org/game/TiKjdMLp/black#66",
+    "theme": "advantage, endgame, long, quietMove, rookEndgame",
+    "startFen": "6k1/1p3p1p/4p1p1/1P1pP3/P7/4r3/7P/1R4K1 b - - 0 33",
+    "moves": [
+      "Rxe5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "6k1/1p3p1p/4p1p1/1P1pr3/P7/8/7P/1R4K1 w - - 0 34",
+      "solution": [
+        "a5",
+        "d4",
+        "a6",
+        "Rxb5",
+        "Rxb5"
+      ]
+    },
+    "contextFen": "6k1/1p3p1p/4p1p1/3pP3/P7/1P3P2/2r2Q1P/3R3K b - - 0 29",
+    "contextMoves": [
+      "Rxf2",
+      "Kg1",
+      "Rxf3",
+      "Rb1",
+      "Rc3",
+      "b4",
+      "Re3",
+      "b5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00jmD",
+    "gameUrl": "https://lichess.org/game/KmRwxrg3/black#82",
+    "theme": "bishopEndgame, crushing, endgame, quietMove, veryLong",
+    "startFen": "8/1pp5/8/PP4p1/3k1pP1/8/1bbBB3/5K2 b - - 2 41",
+    "moves": [
+      "Bd3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/1pp5/8/PP4p1/3k1pP1/3b4/1b1BB3/5K2 w - - 3 42",
+      "solution": [
+        "Bxd3",
+        "Kxd3",
+        "Be1",
+        "Kc4",
+        "a6",
+        "bxa6",
+        "bxa6",
+        "Bd4",
+        "Bf2"
+      ]
+    },
+    "contextFen": "8/1pp5/p3k3/1P4p1/P1P1bpP1/8/1b1BB3/5K2 b - - 0 37",
+    "contextMoves": [
+      "axb5",
+      "cxb5",
+      "Bc2",
+      "Bc4+",
+      "Ke5",
+      "a5",
+      "Kd4",
+      "Be2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00lRC",
+    "gameUrl": "https://lichess.org/game/TLhjLF8g/black#72",
+    "theme": "bishopEndgame, crushing, endgame, quietMove, short",
+    "startFen": "8/3k1p1p/8/3Pp3/4K3/3P2P1/1pB4P/b7 b - - 1 36",
+    "moves": [
+      "Kd6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/5p1p/3k4/3Pp3/4K3/3P2P1/1pB4P/b7 w - - 2 37",
+      "solution": [
+        "Bb1",
+        "f5+",
+        "Kxf5"
+      ]
+    },
+    "contextFen": "r7/3k1p1p/8/3Pp3/1p2K3/2bP2P1/4B2P/rR5R b - - 7 32",
+    "contextMoves": [
+      "b3",
+      "Rxa1",
+      "Rxa1",
+      "Rxa1",
+      "Bxa1",
+      "Bd1",
+      "b2",
+      "Bc2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00m5H",
+    "gameUrl": "https://lichess.org/game/P8apABHK/black#86",
+    "theme": "crushing, endgame, master, queenEndgame, quietMove, veryLong",
+    "startFen": "8/1p5p/6p1/2P2k2/1P6/P3qp1Q/8/5K2 b - - 5 43",
+    "moves": [
+      "Ke4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/1p5p/6p1/2P5/1P2k3/P3qp1Q/8/5K2 w - - 6 44",
+      "solution": [
+        "Qe6+",
+        "Kd4",
+        "Qxe3+",
+        "Kxe3",
+        "b5",
+        "g5",
+        "c6"
+      ]
+    },
+    "contextFen": "8/1pQ4p/6pk/2P5/1P3p2/P6q/5K2/8 b - - 1 39",
+    "contextMoves": [
+      "Qe3+",
+      "Kf1",
+      "f3",
+      "Qh2+",
+      "Kg5",
+      "Qg3+",
+      "Kf5",
+      "Qh3+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00pWF",
+    "gameUrl": "https://lichess.org/game/ToFAnFTM#105",
+    "theme": "advancedPawn, crushing, endgame, pawnEndgame, quietMove, veryLong",
+    "startFen": "8/8/p3k3/1p1pP3/5P2/1P6/6K1/8 w - - 0 53",
+    "moves": [
+      "Kf3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/p3k3/1p1pP3/5P2/1P3K2/8/8 b - - 1 53",
+      "solution": [
+        "a5",
+        "Ke3",
+        "a4",
+        "bxa4",
+        "bxa4",
+        "Kd4",
+        "a3",
+        "Kc3",
+        "d4+",
+        "Kxd4",
+        "a2"
+      ]
+    },
+    "contextFen": "8/1p6/p1k5/3pP1p1/8/1P3P2/6PK/8 w - - 0 49",
+    "contextMoves": [
+      "g3",
+      "Kd7",
+      "Kg2",
+      "Ke6",
+      "f4",
+      "gxf4",
+      "gxf4",
+      "b5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00pqF",
+    "gameUrl": "https://lichess.org/game/lQ3NULlh#85",
+    "theme": "advantage, defensiveMove, endgame, master, quietMove, veryLong",
+    "startFen": "4R3/R6p/Pp1q2pk/1Pp2r2/3r4/3P1p1P/2P2PK1/4Q3 w - - 0 43",
+    "moves": [
+      "Kh1"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "4R3/R6p/Pp1q2pk/1Pp2r2/3r4/3P1p1P/2P2P2/4Q2K b - - 1 43",
+      "solution": [
+        "Rh4",
+        "Qe3+",
+        "Qf4",
+        "Qxf4+",
+        "Rfxf4",
+        "Kg1",
+        "Rxh3",
+        "Re4",
+        "Rf5",
+        "Rg4",
+        "Re5",
+        "Kf1",
+        "Re2",
+        "Rg3",
+        "Rh1+"
+      ]
+    },
+    "contextFen": "7k/p6p/Pp1q2p1/1Pp1pr2/3rR3/3P1P1P/2P1RPK1/4Q3 w - - 5 39",
+    "contextMoves": [
+      "f4",
+      "exf4",
+      "Re8+",
+      "Kg7",
+      "R2e7+",
+      "Kh6",
+      "Rxa7",
+      "f3+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00q7m",
+    "gameUrl": "https://lichess.org/game/Upkn0VQ1#123",
+    "theme": "advancedPawn, crushing, endgame, queenEndgame, quietMove, veryLong",
+    "startFen": "5k2/7q/4Q3/1p6/6P1/8/6K1/8 w - - 1 62",
+    "moves": [
+      "Qf5+"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "5k2/7q/8/1p3Q2/6P1/8/6K1/8 b - - 2 62",
+      "solution": [
+        "Qxf5",
+        "gxf5",
+        "b4",
+        "Kf1",
+        "b3",
+        "Ke1",
+        "b2"
+      ]
+    },
+    "contextFen": "6k1/8/1p5Q/1q6/8/6P1/7K/8 w - - 1 58",
+    "contextMoves": [
+      "Qg6+",
+      "Kf8",
+      "Qe6",
+      "Qh5+",
+      "Kg2",
+      "b5",
+      "g4",
+      "Qh7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00qFT",
+    "gameUrl": "https://lichess.org/game/TQpdTR2b#81",
+    "theme": "crushing, endgame, quietMove, veryLong",
+    "startFen": "8/8/2B4p/3nk1p1/P3p3/7P/8/6K1 w - - 0 41",
+    "moves": [
+      "Bxd5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/7p/3Bk1p1/P3p3/7P/8/6K1 b - - 0 41",
+      "solution": [
+        "Kxd5",
+        "Kf2",
+        "h5",
+        "Ke3",
+        "g4",
+        "hxg4",
+        "h4",
+        "a5",
+        "h3",
+        "a6",
+        "Kc6",
+        "a7",
+        "Kb7",
+        "a8=R",
+        "Kxa8"
+      ]
+    },
+    "contextFen": "8/B2B4/3b1k1p/3P1np1/4p3/7P/P7/6K1 w - - 6 37",
+    "contextMoves": [
+      "a4",
+      "Ne7",
+      "Bd4+",
+      "Be5",
+      "Bxe5+",
+      "Kxe5",
+      "Bc6",
+      "Nxd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00rFc",
+    "gameUrl": "https://lichess.org/game/evWDUDoX/black#100",
+    "theme": "crushing, defensiveMove, endgame, pawnEndgame, quietMove, short",
+    "startFen": "8/1p6/1k4K1/7p/7P/5P2/8/8 b - - 0 50",
+    "moves": [
+      "Kc5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/1p6/6K1/2k4p/7P/5P2/8/8 w - - 1 51",
+      "solution": [
+        "f4",
+        "Kd6",
+        "f5"
+      ]
+    },
+    "contextFen": "8/1p6/1P2k1p1/5q1p/2Q4P/5PK1/8/8 b - - 2 46",
+    "contextMoves": [
+      "Qd5",
+      "Qxd5+",
+      "Kxd5",
+      "Kf4",
+      "Kc6",
+      "Kg5",
+      "Kxb6",
+      "Kxg6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00sKJ",
+    "gameUrl": "https://lichess.org/game/fldTxHoO/black#80",
+    "theme": "crushing, endgame, fork, quietMove, sacrifice, veryLong",
+    "startFen": "8/1P2pk2/R7/N1b2pp1/8/3K2P1/1r4P1/8 b - - 2 40",
+    "moves": [
+      "Bd6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/1P2pk2/R2b4/N4pp1/8/3K2P1/1r4P1/8 w - - 3 41",
+      "solution": [
+        "Rxd6",
+        "exd6",
+        "Nc6",
+        "Rxb7",
+        "Nd8+",
+        "Kf6",
+        "Nxb7"
+      ]
+    },
+    "contextFen": "7r/4pk2/R7/NPP2pp1/3b4/6P1/6P1/5K2 b - - 2 36",
+    "contextMoves": [
+      "Bxc5",
+      "b6",
+      "Rh1+",
+      "Ke2",
+      "Rb1",
+      "b7",
+      "Rb2+",
+      "Kd3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00tlr",
+    "gameUrl": "https://lichess.org/game/DFxAKFNR/black#48",
+    "theme": "crushing, endgame, quietMove, short",
+    "startFen": "r2r2k1/p3Rp1p/5Qp1/8/8/2P4P/q4PP1/4R1K1 b - - 1 24",
+    "moves": [
+      "a5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "r2r2k1/4Rp1p/5Qp1/p7/8/2P4P/q4PP1/4R1K1 w - - 0 25",
+      "solution": [
+        "h4",
+        "Qd5",
+        "R1e5"
+      ]
+    },
+    "contextFen": "rr4k1/p4ppp/5p2/3Qn3/2q5/2P1RB1P/P4PP1/R5K1 b - - 3 20",
+    "contextMoves": [
+      "Nxf3+",
+      "Qxf3",
+      "Rd8",
+      "Rae1",
+      "g6",
+      "Qxf6",
+      "Qxa2",
+      "Re7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00uGS",
+    "gameUrl": "https://lichess.org/game/MZR5SMrp#81",
+    "theme": "crushing, discoveredAttack, discoveredCheck, endgame, long, quietMove",
+    "startFen": "2K5/1pr5/pk6/2bB4/8/8/PP6/5R2 w - - 4 41",
+    "moves": [
+      "Kb8"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "1K6/1pr5/pk6/2bB4/8/8/PP6/5R2 b - - 5 41",
+      "solution": [
+        "Bd6",
+        "Rf6",
+        "Rc6+",
+        "Rxd6",
+        "Rxd6"
+      ]
+    },
+    "contextFen": "8/1p3B2/pk1pK3/8/8/8/PP2rbR1/5R2 w - - 3 37",
+    "contextMoves": [
+      "Kxd6",
+      "Bc5+",
+      "Kd7",
+      "Rxg2",
+      "Bd5",
+      "Rg7+",
+      "Kc8",
+      "Rc7+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00vCE",
+    "gameUrl": "https://lichess.org/game/5lDULF3r/black#78",
+    "theme": "crushing, endgame, quietMove, rookEndgame, veryLong",
+    "startFen": "6k1/4P1p1/3R1r2/3R2Kp/8/6Pr/8/8 b - - 0 39",
+    "moves": [
+      "Kf7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/4Pkp1/3R1r2/3R2Kp/8/6Pr/8/8 w - - 1 40",
+      "solution": [
+        "Re5",
+        "Rxg3+",
+        "Kh4",
+        "Rg4+",
+        "Kxh5",
+        "Rf5+",
+        "Rxf5+"
+      ]
+    },
+    "contextFen": "6k1/6p1/3RP2p/3R4/6K1/6P1/1r5r/8 b - - 1 35",
+    "contextMoves": [
+      "h5+",
+      "Kf5",
+      "Rbf2+",
+      "Kg6",
+      "Rf6+",
+      "Kg5",
+      "Rh3",
+      "e7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00vZ1",
+    "gameUrl": "https://lichess.org/game/PwiyhVrB#71",
+    "theme": "advancedPawn, advantage, endgame, pin, quietMove, rookEndgame, short",
+    "startFen": "2r3k1/6p1/R3p1r1/8/3PPp2/2P2P1p/P1R3P1/6K1 w - - 0 36",
+    "moves": [
+      "a4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "2r3k1/6p1/R3p1r1/8/P2PPp2/2P2P1p/2R3P1/6K1 b - - 0 36",
+      "solution": [
+        "Rb8",
+        "Kh2",
+        "hxg2"
+      ]
+    },
+    "contextFen": "2r3k1/6p1/R3p1r1/8/3PPp1p/2P2PqP/P1R1Q1P1/6K1 w - - 1 32",
+    "contextMoves": [
+      "Qf2",
+      "Qxh3",
+      "Kf1",
+      "Qh1+",
+      "Qg1",
+      "Qxg1+",
+      "Kxg1",
+      "h3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00xxi",
+    "gameUrl": "https://lichess.org/game/XrLtoaW5/black#136",
+    "theme": "advancedPawn, crushing, defensiveMove, endgame, promotion, quietMove, rookEndgame, veryLong",
+    "startFen": "6r1/7P/5K2/8/2P2k2/P7/8/8 b - - 0 68",
+    "moves": [
+      "Rf8+"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "5r2/7P/5K2/8/2P2k2/P7/8/8 w - - 1 69",
+      "solution": [
+        "Kg7",
+        "Rd8",
+        "h8=Q",
+        "Rxh8",
+        "Kxh8",
+        "Ke4",
+        "a4",
+        "Kd4",
+        "a5"
+      ]
+    },
+    "contextFen": "8/8/1r6/7P/2P2PK1/P3k3/8/8 b - - 3 64",
+    "contextMoves": [
+      "Ke4",
+      "Kg5",
+      "Rb8",
+      "h6",
+      "Rg8+",
+      "Kf6",
+      "Kxf4",
+      "h7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00yYi",
+    "gameUrl": "https://lichess.org/game/15WcPt98#35",
+    "theme": "crushing, middlegame, pin, quietMove, short",
+    "startFen": "2k3rr/ppp2p1p/2b5/4Nn2/3p1Q2/1P2P1Pq/P1PP1P1P/RN3RK1 w - - 0 18",
+    "moves": [
+      "e4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "2k3rr/ppp2p1p/2b5/4Nn2/3pPQ2/1P4Pq/P1PP1P1P/RN3RK1 b - - 0 18",
+      "solution": [
+        "Nh4",
+        "Qxh4",
+        "Qxh4"
+      ]
+    },
+    "contextFen": "2k3rr/pppq1pQp/2b3n1/3p4/8/1P2PN2/P1PP1PPP/RN3RK1 w - - 1 14",
+    "contextMoves": [
+      "Qd4",
+      "Ne7",
+      "Ne5",
+      "Qh3",
+      "g3",
+      "Nf5",
+      "Qf4",
+      "d4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00zOQ",
+    "gameUrl": "https://lichess.org/game/SQjfd0KV#69",
+    "theme": "advantage, deflection, endgame, long, quietMove",
+    "startFen": "2r3k1/p7/7p/1p4p1/6R1/3B1q1P/2P4P/2B3RK w - - 6 35",
+    "moves": [
+      "R1g2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "2r3k1/p7/7p/1p4p1/6R1/3B1q1P/2P3RP/2B4K b - - 7 35",
+      "solution": [
+        "Re8",
+        "Bd2",
+        "Qd1+",
+        "Rg1",
+        "Qxd2"
+      ]
+    },
+    "contextFen": "2r3k1/p6p/8/1p1q2p1/5R2/3B3P/2P4P/2B2RK1 w - - 0 31",
+    "contextMoves": [
+      "Rg4",
+      "h6",
+      "Rd1",
+      "Qc5+",
+      "Kh1",
+      "Qf2",
+      "Rdg1",
+      "Qf3+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/00zu9",
+    "gameUrl": "https://lichess.org/game/N8dGqspE#85",
+    "theme": "crushing, endgame, long, master, pawnEndgame, quietMove, zugzwang",
+    "startFen": "8/1p3p2/4p1k1/P2pPpPp/1p1P3K/1P5P/5P2/8 w - - 8 43",
+    "moves": [
+      "f3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/1p3p2/4p1k1/P2pPpPp/1p1P3K/1P3P1P/8/8 b - - 0 43",
+      "solution": [
+        "f4",
+        "a6",
+        "f6",
+        "exf6",
+        "bxa6"
+      ]
+    },
+    "contextFen": "5k2/1p3p2/4p3/P2pPpPp/1p1P4/1P5P/3K1P2/8 w - - 0 39",
+    "contextMoves": [
+      "Ke3",
+      "Ke7",
+      "Kf4",
+      "Kf8",
+      "Kg3",
+      "Kg7",
+      "Kh4",
+      "Kg6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/010p7",
+    "gameUrl": "https://lichess.org/game/lOnXhRq8/black#72",
+    "theme": "endgame, equality, quietMove, short",
+    "startFen": "3R2k1/4r2p/pp2r1p1/1p2P1P1/2p5/P3n3/1P5P/5RK1 b - - 1 36",
+    "moves": [
+      "Kg7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "3R4/4r1kp/pp2r1p1/1p2P1P1/2p5/P3n3/1P5P/5RK1 w - - 2 37",
+      "solution": [
+        "Rff8",
+        "Ra7",
+        "Rg8+"
+      ]
+    },
+    "contextFen": "2r3k1/6np/pp2r1p1/1p1RP3/2p3P1/P3B3/1P5P/5RK1 b - - 2 32",
+    "contextMoves": [
+      "Rce8",
+      "Bd4",
+      "R8e7",
+      "g5",
+      "Nf5",
+      "Be3",
+      "Nxe3",
+      "Rd8+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/010rQ",
+    "gameUrl": "https://lichess.org/game/vbymThWp/black#38",
+    "theme": "advantage, long, middlegame, pin, quietMove",
+    "startFen": "r3kb1r/1p1b1p2/p2ppp1p/n1q2P1B/3NP3/2N3R1/P1PQ2PP/1R4K1 b kq - 0 19",
+    "moves": [
+      "Nc4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "r3kb1r/1p1b1p2/p2ppp1p/2q2P1B/2nNP3/2N3R1/P1PQ2PP/1R4K1 w kq - 1 20",
+      "solution": [
+        "Qf2",
+        "e5",
+        "Ne6",
+        "Qxf2+",
+        "Kxf2"
+      ]
+    },
+    "contextFen": "r1b1k2r/1p3pb1/p1nppp1p/8/1q2PP2/1NN2R2/P1PQB1PP/1R4K1 b kq - 7 15",
+    "contextMoves": [
+      "Bd7",
+      "Rg3",
+      "Bf8",
+      "Bh5",
+      "Na5",
+      "Nd4",
+      "Qc5",
+      "f5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/011N0",
+    "gameUrl": "https://lichess.org/game/Yf2OQhf9#45",
+    "theme": "advantage, defensiveMove, middlegame, quietMove, short",
+    "startFen": "r5k1/p1pN1p2/1p1b2p1/3p1n2/3P4/2P3Pq/P2Q1P1P/1R2R1K1 w - - 3 23",
+    "moves": [
+      "Re2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "r5k1/p1pN1p2/1p1b2p1/3p1n2/3P4/2P3Pq/P2QRP1P/1R4K1 b - - 4 23",
+      "solution": [
+        "Nh4",
+        "Nf6+",
+        "Kg7"
+      ]
+    },
+    "contextFen": "r2q1bk1/ppp2p2/6p1/3pNn2/3P4/2P5/P1Q2PPP/R3R1K1 w - - 3 19",
+    "contextMoves": [
+      "Rab1",
+      "b6",
+      "Qd2",
+      "Qh4",
+      "g3",
+      "Qh3",
+      "Nd7",
+      "Bd6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/012wC",
+    "gameUrl": "https://lichess.org/game/0Dqefo5O/black#24",
+    "theme": "advantage, kingsideAttack, middlegame, quietMove, short",
+    "startFen": "r2q1rk1/pbpn1p2/1p1bpn1Q/8/8/1B1P1NN1/PPP2PPP/R3K2R b KQ - 0 12",
+    "moves": [
+      "Nh7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "r2q1rk1/pbpn1p1n/1p1bp2Q/8/8/1B1P1NN1/PPP2PPP/R3K2R w KQ - 1 13",
+      "solution": [
+        "Nh5",
+        "Qf6",
+        "Nxf6+"
+      ]
+    },
+    "contextFen": "rnbq1rk1/p1p2ppp/1p1bpn2/8/8/1B1P1NN1/PPP2PPP/R1BQK2R b KQ - 0 8",
+    "contextMoves": [
+      "Bb7",
+      "Bg5",
+      "Nbd7",
+      "Qd2",
+      "h6",
+      "Bxh6",
+      "gxh6",
+      "Qxh6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/013BM",
+    "gameUrl": "https://lichess.org/game/T3u84BrZ#85",
+    "theme": "crushing, endgame, long, pawnEndgame, quietMove",
+    "startFen": "8/1p1k4/8/p1p5/P4P2/8/5PK1/8 w - - 0 43",
+    "moves": [
+      "Kf3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/1p1k4/8/p1p5/P4P2/5K2/5P2/8 b - - 1 43",
+      "solution": [
+        "b5",
+        "axb5",
+        "a4",
+        "Ke4",
+        "a3"
+      ]
+    },
+    "contextFen": "2k5/1p3R1p/8/p1pP4/PrP2P2/8/5PK1/8 w - - 3 39",
+    "contextMoves": [
+      "Rxh7",
+      "Rxc4",
+      "d6",
+      "Rd4",
+      "d7+",
+      "Rxd7",
+      "Rxd7",
+      "Kxd7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/014M7",
+    "gameUrl": "https://lichess.org/game/jzJ3xLJ4/black#104",
+    "theme": "crushing, endgame, quietMove, rookEndgame, short",
+    "startFen": "7r/6kP/6P1/p5K1/8/8/1p6/6R1 b - - 1 52",
+    "moves": [
+      "a4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "7r/6kP/6P1/6K1/p7/8/1p6/6R1 w - - 0 53",
+      "solution": [
+        "Rd1",
+        "Rxh7",
+        "Rd7+"
+      ]
+    },
+    "contextFen": "7r/p5kP/6P1/1p5R/8/6K1/8/8 b - - 4 48",
+    "contextMoves": [
+      "b4",
+      "Rg5",
+      "b3",
+      "Kh4",
+      "b2",
+      "Rg1",
+      "a5",
+      "Kg5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0177Y",
+    "gameUrl": "https://lichess.org/game/s5gEde7G/black#56",
+    "theme": "crushing, endgame, quietMove, short",
+    "startFen": "1r5k/p3p1rp/4R1p1/4Qp2/3P4/1q2P2P/6P1/5RK1 b - - 1 28",
+    "moves": [
+      "Rb7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "7k/pr2p1rp/4R1p1/4Qp2/3P4/1q2P2P/6P1/5RK1 w - - 2 29",
+      "solution": [
+        "Rc1",
+        "Qxe6",
+        "Qxe6"
+      ]
+    },
+    "contextFen": "4r2k/p1N1prbp/2R3p1/3Q1p2/3P4/1P2P2P/q5P1/5RK1 b - - 0 24",
+    "contextMoves": [
+      "Ref8",
+      "Ne6",
+      "Rb8",
+      "Nxg7",
+      "Rxg7",
+      "Qe5",
+      "Qxb3",
+      "Re6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/018Ap",
+    "gameUrl": "https://lichess.org/game/NE1w79s4/black#94",
+    "theme": "crushing, endgame, long, master, quietMove",
+    "startFen": "8/7p/k7/5Kp1/4Pp2/5B2/2r3PP/8 b - - 1 47",
+    "moves": [
+      "h6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/k6p/5Kp1/4Pp2/5B2/2r3PP/8 w - - 0 48",
+      "solution": [
+        "e5",
+        "g4",
+        "Bxg4",
+        "Rxg2",
+        "e6"
+      ]
+    },
+    "contextFen": "8/r6p/PkPp4/3Kp1p1/4Pp2/8/4B1PP/8 b - - 6 43",
+    "contextMoves": [
+      "Rc7",
+      "Kxd6",
+      "Rxc6+",
+      "Kxe5",
+      "Rc2",
+      "Bf3",
+      "Kxa6",
+      "Kf5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/018FT",
+    "gameUrl": "https://lichess.org/game/BLM9X7kk#97",
+    "theme": "crushing, defensiveMove, endgame, long, queenEndgame, quietMove",
+    "startFen": "8/6k1/p7/4PQ2/2q5/6PK/8/8 w - - 0 49",
+    "moves": [
+      "Qg4+"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/6k1/p7/4P3/2q3Q1/6PK/8/8 b - - 1 49",
+      "solution": [
+        "Qxg4+",
+        "Kxg4",
+        "a5",
+        "Kf5",
+        "a4"
+      ]
+    },
+    "contextFen": "8/8/p6k/4p3/2P1P1Q1/1P4PK/q7/8 w - - 0 45",
+    "contextMoves": [
+      "Qe6+",
+      "Kh7",
+      "Qxe5",
+      "Qxb3",
+      "Qf5+",
+      "Kg7",
+      "e5",
+      "Qxc4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/018KB",
+    "gameUrl": "https://lichess.org/game/ZRWdRJlQ/black#98",
+    "theme": "advantage, endgame, long, quietMove",
+    "startFen": "r5k1/5q1p/p1Q3p1/1p3p2/4p3/P1P4P/1P3RK1/8 b - - 7 49",
+    "moves": [
+      "Qa7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "r5k1/q6p/p1Q3p1/1p3p2/4p3/P1P4P/1P3RK1/8 w - - 8 50",
+      "solution": [
+        "Rd2",
+        "Kf8",
+        "Rd7",
+        "Qxd7",
+        "Qxd7"
+      ]
+    },
+    "contextFen": "4r1k1/6qp/p5p1/1p1p1pQ1/4R3/P1P4P/1P3RK1/8 b - - 0 45",
+    "contextMoves": [
+      "dxe4",
+      "Qe3",
+      "Rd8",
+      "Qb6",
+      "Ra8",
+      "Qe6+",
+      "Qf7",
+      "Qc6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/019Qi",
+    "gameUrl": "https://lichess.org/game/xENaK26y/black#88",
+    "theme": "crushing, endgame, long, pawnEndgame, quietMove",
+    "startFen": "3k4/p1pp3p/1p3K2/8/5P2/8/8/8 b - - 4 44",
+    "moves": [
+      "Ke8"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "4k3/p1pp3p/1p3K2/8/5P2/8/8/8 w - - 5 45",
+      "solution": [
+        "Kg7",
+        "h5",
+        "f5",
+        "h4",
+        "f6"
+      ]
+    },
+    "contextFen": "1k6/p1pp3p/1p2n3/3K4/5Br1/3N2P1/8/8 b - - 9 40",
+    "contextMoves": [
+      "Nxf4+",
+      "Nxf4",
+      "Rxf4",
+      "gxf4",
+      "Kc8",
+      "Ke5",
+      "Kd8",
+      "Kf6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01BWS",
+    "gameUrl": "https://lichess.org/game/1kSKoOLt/black#108",
+    "theme": "crushing, endgame, fork, quietMove, veryLong",
+    "startFen": "5k2/p7/6RN/6K1/1pq5/8/P7/8 b - - 12 54",
+    "moves": [
+      "Qf1"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "5k2/p7/6RN/6K1/1p6/8/P7/5q2 w - - 13 55",
+      "solution": [
+        "Rf6+",
+        "Qxf6+",
+        "Kxf6",
+        "a5",
+        "Nf5",
+        "b3",
+        "axb3"
+      ]
+    },
+    "contextFen": "7k/p7/6R1/5N2/1p3K2/2q5/P7/8 b - - 4 50",
+    "contextMoves": [
+      "Kh7",
+      "Rh6+",
+      "Kg8",
+      "Kg5",
+      "Qc4",
+      "Rg6+",
+      "Kf8",
+      "Nh6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Epj",
+    "gameUrl": "https://lichess.org/game/oXYJR89c#91",
+    "theme": "advancedPawn, crushing, endgame, master, masterVsMaster, promotion, queenRookEndgame, quietMove, veryLong",
+    "startFen": "5r2/1p2Q3/8/pk3rK1/5P2/3P3P/8/8 w - - 2 46",
+    "moves": [
+      "Kg6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "5r2/1p2Q3/6K1/pk3r2/5P2/3P3P/8/8 b - - 3 46",
+      "solution": [
+        "R8f6+",
+        "Qxf6",
+        "Rxf6+",
+        "Kxf6",
+        "a4",
+        "f5",
+        "a3",
+        "Kg6",
+        "a2",
+        "f6",
+        "a1=Q"
+      ]
+    },
+    "contextFen": "5r2/1p6/5r2/pPk5/P4PQ1/3P2KP/8/8 w - - 5 42",
+    "contextMoves": [
+      "Qd7",
+      "Kb4",
+      "Qe7+",
+      "Kxa4",
+      "Kg4",
+      "Kxb5",
+      "Kg5",
+      "Rf5+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01G5k",
+    "gameUrl": "https://lichess.org/game/1wwwMKcH/black#98",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, quietMove, trappedPiece, veryLong, zugzwang",
+    "startFen": "8/b6p/P1K2k2/2p3p1/6P1/8/1P3P2/8 b - - 1 49",
+    "moves": [
+      "Ke5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/b6p/P1K5/2p1k1p1/6P1/8/1P3P2/8 w - - 2 50",
+      "solution": [
+        "Kb7",
+        "Kd6",
+        "Kxa7",
+        "Kc7",
+        "b3",
+        "h6",
+        "f3"
+      ]
+    },
+    "contextFen": "1b4k1/6pp/P7/2p5/6P1/8/1P1K1P2/8 b - - 0 45",
+    "contextMoves": [
+      "Kf7",
+      "Kc3",
+      "Kf6",
+      "Kc4",
+      "Ba7",
+      "Kb5",
+      "g5",
+      "Kc6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01ImN",
+    "gameUrl": "https://lichess.org/game/K6ka82c8#85",
+    "theme": "advancedPawn, crushing, endgame, pawnEndgame, promotion, quietMove, veryLong",
+    "startFen": "8/8/p6p/2K2p1P/P3k3/2P5/8/8 w - - 0 43",
+    "moves": [
+      "Kd6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/p2K3p/5p1P/P3k3/2P5/8/8 b - - 1 43",
+      "solution": [
+        "f4",
+        "c4",
+        "f3",
+        "c5",
+        "f2",
+        "c6",
+        "f1=Q"
+      ]
+    },
+    "contextFen": "8/5p2/p4k1p/5PpP/P1p1KP2/2P5/8/8 w - - 1 39",
+    "contextMoves": [
+      "fxg5+",
+      "Kxg5",
+      "Kd5",
+      "Kxf5",
+      "Kxc4",
+      "Ke4",
+      "Kc5",
+      "f5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01JJc",
+    "gameUrl": "https://lichess.org/game/beTqPTep/black#84",
+    "theme": "endgame, mate, mateIn2, quietMove, short",
+    "startFen": "4k3/4P3/2p1KP2/2N5/7r/8/p7/8 b - - 4 42",
+    "moves": [
+      "Rh6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "4k3/4P3/2p1KP1r/2N5/8/8/p7/8 w - - 5 43",
+      "solution": [
+        "Ne4",
+        "c5",
+        "Nd6#"
+      ]
+    },
+    "contextFen": "8/4k3/2p1P3/4KP2/4N2r/p7/8/8 b - - 1 38",
+    "contextMoves": [
+      "a2",
+      "f6+",
+      "Kd8",
+      "e7+",
+      "Kd7",
+      "Nc5+",
+      "Ke8",
+      "Ke6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Jnn",
+    "gameUrl": "https://lichess.org/game/KEEL5ALC/black#80",
+    "theme": "crushing, endgame, pawnEndgame, quietMove, short",
+    "startFen": "8/1Pk5/5p1p/1P4p1/4p3/7P/5PP1/5K2 b - - 2 40",
+    "moves": [
+      "Kxb7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/1k6/5p1p/1P4p1/4p3/7P/5PP1/5K2 w - - 0 41",
+      "solution": [
+        "g4",
+        "f5",
+        "gxf5"
+      ]
+    },
+    "contextFen": "8/RP6/5p1p/5kp1/1rP1p3/7P/5PP1/6K1 b - - 0 36",
+    "contextMoves": [
+      "Ke5",
+      "Ra5+",
+      "Kd6",
+      "Rb5",
+      "Rxb5",
+      "cxb5",
+      "Kc7",
+      "Kf1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01JtE",
+    "gameUrl": "https://lichess.org/game/Fhnb6tRp#105",
+    "theme": "crushing, endgame, master, quietMove, rookEndgame, short",
+    "startFen": "8/8/R7/8/6P1/1k5K/p3r3/8 w - - 1 53",
+    "moves": [
+      "Kh4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/R7/8/6PK/1k6/p3r3/8 b - - 2 53",
+      "solution": [
+        "Re1",
+        "Rxa2",
+        "Kxa2"
+      ]
+    },
+    "contextFen": "8/8/2R5/2N5/1r6/p5PK/1k2r3/8 w - - 2 49",
+    "contextMoves": [
+      "Nd3+",
+      "Kb3",
+      "Nxb4",
+      "Kxb4",
+      "Ra6",
+      "a2",
+      "g4",
+      "Kb3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01LSB",
+    "gameUrl": "https://lichess.org/game/5JrKbdvP#75",
+    "theme": "crushing, endgame, master, masterVsMaster, quietMove, short",
+    "startFen": "8/8/p3k1p1/Pp1pB3/3PnK2/1P6/6P1/8 w - - 2 38",
+    "moves": [
+      "b4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/p3k1p1/Pp1pB3/1P1PnK2/8/6P1/8 b - - 0 38",
+      "solution": [
+        "Nf2",
+        "Bc7",
+        "Nd3+"
+      ]
+    },
+    "contextFen": "4k3/8/p1pB1np1/Pp1p4/3P4/1P2K3/2P3P1/8 w - - 0 34",
+    "contextMoves": [
+      "Be5",
+      "Ne4",
+      "c4",
+      "Kf7",
+      "cxb5",
+      "cxb5",
+      "Kf4",
+      "Ke6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Lik",
+    "gameUrl": "https://lichess.org/game/GVXtmuNP/black#98",
+    "theme": "crushing, defensiveMove, endgame, quietMove, rookEndgame, short",
+    "startFen": "2K5/2P5/8/8/3r1kp1/8/8/6R1 b - - 0 49",
+    "moves": [
+      "g3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "2K5/2P5/8/8/3r1k2/6p1/8/6R1 w - - 0 50",
+      "solution": [
+        "Rc1",
+        "g2",
+        "Kb8"
+      ]
+    },
+    "contextFen": "8/2p5/2K5/2P2k2/3P2p1/1Pr5/8/6R1 b - - 0 45",
+    "contextMoves": [
+      "Rxb3",
+      "Kxc7",
+      "Rd3",
+      "c6",
+      "Rxd4",
+      "Kc8",
+      "Kf4",
+      "c7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01LtT",
+    "gameUrl": "https://lichess.org/game/JR4SbCjt#113",
+    "theme": "advantage, endgame, quietMove, rookEndgame, short",
+    "startFen": "8/8/5kp1/1P2p1Rp/7P/1K4P1/P7/1r6 w - - 3 57",
+    "moves": [
+      "Ka4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/5kp1/1P2p1Rp/K6P/6P1/P7/1r6 b - - 4 57",
+      "solution": [
+        "e4",
+        "Rc5",
+        "e3"
+      ]
+    },
+    "contextFen": "8/8/4pkp1/R6p/2K4P/6P1/PP6/1r6 w - - 3 53",
+    "contextMoves": [
+      "b4",
+      "Rd1",
+      "Rg5",
+      "e5",
+      "b5",
+      "Ra1",
+      "Kb3",
+      "Rb1+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01NAY",
+    "gameUrl": "https://lichess.org/game/bM8MJCNV/black#110",
+    "theme": "crushing, endgame, pawnEndgame, quietMove, short",
+    "startFen": "8/pk1K4/1p6/1P6/8/P7/8/8 b - - 4 55",
+    "moves": [
+      "a6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/1k1K4/pp6/1P6/8/P7/8/8 w - - 0 56",
+      "solution": [
+        "a4",
+        "axb5",
+        "axb5"
+      ]
+    },
+    "contextFen": "8/ppk5/8/1PK5/8/8/P7/8 b - - 0 51",
+    "contextMoves": [
+      "b6+",
+      "Kd5",
+      "Kd7",
+      "a3",
+      "Kc7",
+      "Ke6",
+      "Kb7",
+      "Kd7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01OFL",
+    "gameUrl": "https://lichess.org/game/UquBiCsy/black#102",
+    "theme": "advancedPawn, advantage, endgame, long, quietMove",
+    "startFen": "8/8/KPk5/2rp1p1P/4p1p1/2n5/2R3B1/8 b - - 0 51",
+    "moves": [
+      "e3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/KPk5/2rp1p1P/6p1/2n1p3/2R3B1/8 w - - 0 52",
+      "solution": [
+        "Bf1",
+        "Ne4",
+        "Bb5+",
+        "Kd6",
+        "b7"
+      ]
+    },
+    "contextFen": "8/2r5/3k4/KP1p1p2/4p1pP/2P3n1/6B1/2R5 b - - 1 47",
+    "contextMoves": [
+      "Ne2",
+      "Rc2",
+      "Nxc3",
+      "b6",
+      "Rc5+",
+      "Ka6",
+      "Kc6",
+      "h5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01OkZ",
+    "gameUrl": "https://lichess.org/game/7YyhD0TT/black#84",
+    "theme": "crushing, defensiveMove, endgame, master, masterVsMaster, quietMove, sacrifice, veryLong",
+    "startFen": "8/p7/8/2p3P1/3k1N1P/6K1/8/3b4 b - - 4 42",
+    "moves": [
+      "a5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/8/p1p3P1/3k1N1P/6K1/8/3b4 w - - 0 43",
+      "solution": [
+        "h5",
+        "Ke5",
+        "h6",
+        "Bc2",
+        "Kg4",
+        "Bf5+",
+        "Kh5",
+        "Kxf4",
+        "g6"
+      ]
+    },
+    "contextFen": "8/p7/6p1/2p3Pb/2P4P/1k1N4/5K2/8 b - - 3 38",
+    "contextMoves": [
+      "Kxc4",
+      "Nf4",
+      "Bg4",
+      "Nxg6",
+      "Kd4",
+      "Kg3",
+      "Bd1",
+      "Nf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Pn6",
+    "gameUrl": "https://lichess.org/game/QWOXzXkT/black#70",
+    "theme": "advantage, endgame, long, quietMove",
+    "startFen": "3r3k/p5qp/Qp1bPp2/3P2p1/1P4N1/P6P/6P1/2B3K1 b - - 2 35",
+    "moves": [
+      "f5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "3r3k/p5qp/Qp1bP3/3P1pp1/1P4N1/P6P/6P1/2B3K1 w - - 0 36",
+      "solution": [
+        "Qe2",
+        "Qa1",
+        "Qb2+",
+        "Qxb2",
+        "Bxb2+"
+      ]
+    },
+    "contextFen": "5r1k/p3b2p/1p2Pp2/3p1Qpq/1P1P2N1/P6P/6P1/2B3K1 b - - 0 31",
+    "contextMoves": [
+      "Qg6",
+      "Qxd5",
+      "Rd8",
+      "Qb7",
+      "Qg7",
+      "d5",
+      "Bd6",
+      "Qa6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01QcW",
+    "gameUrl": "https://lichess.org/game/UwsZhZ4i#87",
+    "theme": "advancedPawn, crushing, endgame, promotion, quietMove, veryLong",
+    "startFen": "5R2/8/8/p1p5/PbP3p1/1P3pk1/8/5K2 w - - 4 44",
+    "moves": [
+      "Rb8"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "1R6/8/8/p1p5/PbP3p1/1P3pk1/8/5K2 b - - 5 44",
+      "solution": [
+        "Bc3",
+        "Rf8",
+        "Kh3",
+        "Rf7",
+        "g3",
+        "Rxf3",
+        "Kh2",
+        "Ke2",
+        "g2",
+        "Rxc3",
+        "g1=Q"
+      ]
+    },
+    "contextFen": "8/8/8/pRp2k2/P1P2pp1/1P3K2/3b4/8 w - - 0 40",
+    "contextMoves": [
+      "Kg2",
+      "Bb4",
+      "Rb8",
+      "f3+",
+      "Kf1",
+      "Kf4",
+      "Rf8+",
+      "Kg3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01RvJ",
+    "gameUrl": "https://lichess.org/game/cB5tNFFr#101",
+    "theme": "crushing, endgame, quietMove, veryLong, zugzwang",
+    "startFen": "8/8/2pp2kb/p3p3/P1P3NK/2P2P2/8/8 w - - 0 51",
+    "moves": [
+      "Nxh6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/2pp2kN/p3p3/P1P4K/2P2P2/8/8 b - - 0 51",
+      "solution": [
+        "Kxh6",
+        "f4",
+        "Kg6",
+        "c5",
+        "d5",
+        "Kg4",
+        "d4",
+        "cxd4",
+        "exd4"
+      ]
+    },
+    "contextFen": "8/8/1bpp2kP/p3p3/P1P2pN1/2P2P2/6PK/8 w - - 1 47",
+    "contextMoves": [
+      "Kh3",
+      "Bd8",
+      "g3",
+      "Bg5",
+      "gxf4",
+      "Bxf4",
+      "Kh4",
+      "Bxh6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01RxX",
+    "gameUrl": "https://lichess.org/game/Td18XdCn/black#42",
+    "theme": "advantage, endgame, long, pin, quietMove",
+    "startFen": "3r3r/2k2ppp/p1n1p3/8/PpR5/3P4/1P2NPPP/4R1K1 b - - 2 21",
+    "moves": [
+      "Rxd3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "7r/2k2ppp/p1n1p3/8/PpR5/3r4/1P2NPPP/4R1K1 w - - 0 22",
+      "solution": [
+        "Rec1",
+        "Rd6",
+        "Nd4",
+        "Rxd4",
+        "Rxd4"
+      ]
+    },
+    "contextFen": "3r3r/4kppp/p1n1p3/1pp5/8/P1PP4/1P2NPPP/3RR1K1 b - - 4 17",
+    "contextMoves": [
+      "b4",
+      "cxb4",
+      "cxb4",
+      "Rc1",
+      "Kd6",
+      "a4",
+      "Kc7",
+      "Rc4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01SWp",
+    "gameUrl": "https://lichess.org/game/f4WRPAU5/black#44",
+    "theme": "advantage, long, master, middlegame, quietMove",
+    "startFen": "r1b5/5pk1/1p1qpnp1/2ppN2r/1p1P3P/1B1Q4/PPP2P2/2K3RR b - - 1 22",
+    "moves": [
+      "c4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "r1b5/5pk1/1p1qpnp1/3pN2r/1ppP3P/1B1Q4/PPP2P2/2K3RR w - - 0 23",
+      "solution": [
+        "Rxg6+",
+        "Kf8",
+        "Qg3",
+        "cxb3",
+        "Rxf6"
+      ]
+    },
+    "contextFen": "r1bq1r2/5pk1/1pp1pnp1/3pN2p/1p1P3P/1B2Q3/PPP2PP1/2KR3R b - - 1 18",
+    "contextMoves": [
+      "Qd6",
+      "g4",
+      "Rh8",
+      "gxh5",
+      "Rxh5",
+      "Rdg1",
+      "c5",
+      "Qd3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01UHL",
+    "gameUrl": "https://lichess.org/game/iXrBAEpV#67",
+    "theme": "crushing, discoveredAttack, long, middlegame, quietMove",
+    "startFen": "r6k/1p3Q2/p4b2/P4bqp/5Rp1/1P3P2/5P2/3R1BK1 w - - 1 34",
+    "moves": [
+      "Rd7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "r6k/1p1R1Q2/p4b2/P4bqp/5Rp1/1P3P2/5P2/5BK1 b - - 2 34",
+      "solution": [
+        "gxf3+",
+        "Kh1",
+        "Rg8",
+        "Rg4",
+        "hxg4"
+      ]
+    },
+    "contextFen": "r6k/1pQ3bp/p4r2/P4bp1/R4p1q/BP3P2/5P2/3R1BK1 w - - 2 30",
+    "contextMoves": [
+      "Bb2",
+      "h5",
+      "Bxf6",
+      "Bxf6",
+      "Qf7",
+      "g4",
+      "Rxf4",
+      "Qg5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01UPC",
+    "gameUrl": "https://lichess.org/game/3liE0X18#61",
+    "theme": "crushing, middlegame, quietMove, veryLong",
+    "startFen": "3r1k2/1b3ppQ/p2q3p/1p2b3/8/P2p2P1/1P3P1P/1BR1R1K1 w - - 0 31",
+    "moves": [
+      "Rcd1"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "3r1k2/1b3ppQ/p2q3p/1p2b3/8/P2p2P1/1P3P1P/1B1RR1K1 b - - 1 31",
+      "solution": [
+        "Qd5",
+        "Qh8+",
+        "Ke7",
+        "Rxe5+",
+        "Qxe5",
+        "Qxd8+",
+        "Kxd8"
+      ]
+    },
+    "contextFen": "3r2k1/1b3pp1/p2q1b1p/1p6/2np4/P2Q1N2/1P3PPP/1BRR2K1 w - - 5 27",
+    "contextMoves": [
+      "Qh7+",
+      "Kf8",
+      "Re1",
+      "Ne5",
+      "Nxe5",
+      "Bxe5",
+      "g3",
+      "d3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01UwU",
+    "gameUrl": "https://lichess.org/game/nPGl3BeO/black#82",
+    "theme": "crushing, endgame, pawnEndgame, quietMove, veryLong",
+    "startFen": "8/5ppp/4p3/4PPP1/2k1K2P/8/8/8 b - - 0 41",
+    "moves": [
+      "exf5+"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/5ppp/8/4PpP1/2k1K2P/8/8/8 w - - 0 42",
+      "solution": [
+        "Kxf5",
+        "Kd5",
+        "h5",
+        "h6",
+        "gxh6",
+        "gxh6",
+        "Kf6",
+        "Ke4",
+        "Kg7",
+        "Kxe5",
+        "Kxh6"
+      ]
+    },
+    "contextFen": "8/5ppp/4p3/2BkP3/5PP1/4K3/7P/8 b - - 0 37",
+    "contextMoves": [
+      "Kxc5",
+      "Ke4",
+      "Kc4",
+      "f5",
+      "Kc5",
+      "h4",
+      "Kc4",
+      "g5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01WIW",
+    "gameUrl": "https://lichess.org/game/BVIP7qtt#89",
+    "theme": "crushing, endgame, master, pawnEndgame, quietMove, short, zugzwang",
+    "startFen": "8/p7/1p3p2/4pP1p/kP2P2P/P1K5/8/8 w - - 6 45",
+    "moves": [
+      "Kb2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/p7/1p3p2/4pP1p/kP2P2P/P7/1K6/8 b - - 7 45",
+      "solution": [
+        "a6",
+        "Kc3",
+        "Kxa3"
+      ]
+    },
+    "contextFen": "8/p7/1p1k1p1p/4pP2/1P2P2P/P3K3/8/8 w - - 0 41",
+    "contextMoves": [
+      "Kf3",
+      "h5",
+      "Ke3",
+      "Kc6",
+      "Kd3",
+      "Kb5",
+      "Kc3",
+      "Ka4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01Wbh",
+    "gameUrl": "https://lichess.org/game/SEynvJja#41",
+    "theme": "advantage, discoveredAttack, discoveredCheck, middlegame, quietMove, short",
+    "startFen": "5r1k/ppp1q2p/8/3BnQ2/4p1n1/2N3K1/PPP2PP1/R4R2 w - - 1 21",
+    "moves": [
+      "Qxe4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "5r1k/ppp1q2p/8/3Bn3/4Q1n1/2N3K1/PPP2PP1/R4R2 b - - 0 21",
+      "solution": [
+        "Qg7",
+        "f3",
+        "Nf6+"
+      ]
+    },
+    "contextFen": "3r3k/ppp1q1pp/2n5/3B1b2/4p1n1/2N3K1/PPP2PP1/R1BQ1R2 w - - 3 17",
+    "contextMoves": [
+      "Bf4",
+      "g5",
+      "Qd2",
+      "gxf4+",
+      "Qxf4",
+      "Nce5",
+      "Qxf5",
+      "Rf8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01abk",
+    "gameUrl": "https://lichess.org/game/2CRW7uvj#83",
+    "theme": "bishopEndgame, crushing, defensiveMove, endgame, quietMove, veryLong",
+    "startFen": "8/6pp/2p2p2/7P/1k6/p2K4/B4P2/8 w - - 1 42",
+    "moves": [
+      "Kd4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/6pp/2p2p2/7P/1k1K4/p7/B4P2/8 b - - 2 42",
+      "solution": [
+        "g5",
+        "hxg6",
+        "hxg6",
+        "Kd3",
+        "g5",
+        "Kc2",
+        "f5"
+      ]
+    },
+    "contextFen": "8/5ppp/2p3b1/k7/p5PP/1B1pK3/5P2/8 w - - 0 38",
+    "contextMoves": [
+      "Ba2",
+      "a3",
+      "h5",
+      "Bxh5",
+      "gxh5",
+      "f6",
+      "Kxd3",
+      "Kb4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01bQH",
+    "gameUrl": "https://lichess.org/game/8yfQlfqF/black#76",
+    "theme": "crushing, endgame, quietMove, rookEndgame, veryLong",
+    "startFen": "4k3/3r2pp/3P1p2/2PK1P2/1P6/7P/8/8 b - - 2 38",
+    "moves": [
+      "Kd8"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "3k4/3r2pp/3P1p2/2PK1P2/1P6/7P/8/8 w - - 3 39",
+      "solution": [
+        "c6",
+        "Ra7",
+        "b5",
+        "Ra5",
+        "Kc4",
+        "Ra2",
+        "b6"
+      ]
+    },
+    "contextFen": "6k1/4r1pp/3Ppp2/8/1PP1KPP1/7P/8/8 b - - 0 34",
+    "contextMoves": [
+      "Rd7",
+      "c5",
+      "Kf8",
+      "f5",
+      "exf5+",
+      "gxf5",
+      "Ke8",
+      "Kd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01bWU",
+    "gameUrl": "https://lichess.org/game/aUFPa2OM/black#90",
+    "theme": "advantage, endgame, pawnEndgame, quietMove, veryLong, zugzwang",
+    "startFen": "8/4kp2/7p/p2Pp1pP/2p3P1/5K2/PP3P2/8 b - - 2 45",
+    "moves": [
+      "Kd6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/5p2/3k3p/p2Pp1pP/2p3P1/5K2/PP3P2/8 w - - 3 46",
+      "solution": [
+        "Ke4",
+        "a4",
+        "a3",
+        "f6",
+        "Kf5",
+        "Kxd5",
+        "Kg6",
+        "Kd4",
+        "Kxh6"
+      ]
+    },
+    "contextFen": "8/5pk1/4p2p/p1q3pP/2pQ4/2P3P1/PP3PK1/8 b - - 3 41",
+    "contextMoves": [
+      "Qxd4",
+      "cxd4",
+      "Kf6",
+      "g4",
+      "e5",
+      "d5",
+      "Ke7",
+      "Kf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01cVL",
+    "gameUrl": "https://lichess.org/game/ejlfRa6r#101",
+    "theme": "crushing, endgame, pawnEndgame, quietMove, veryLong",
+    "startFen": "8/8/5p2/1p1p1k1p/p1pP3P/P1P2KP1/1P6/8 w - - 0 51",
+    "moves": [
+      "Ke3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/5p2/1p1p1k1p/p1pP3P/P1P1K1P1/1P6/8 b - - 1 51",
+      "solution": [
+        "Kg4",
+        "Kf2",
+        "f5",
+        "Kg2",
+        "f4",
+        "gxf4",
+        "Kxf4"
+      ]
+    },
+    "contextFen": "8/8/5pp1/pp1p1k1p/2pP3P/P1P1KPP1/1P6/8 w - - 2 47",
+    "contextMoves": [
+      "Kf2",
+      "g5",
+      "Ke3",
+      "g4",
+      "Kf2",
+      "gxf3",
+      "Kxf3",
+      "a4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01dX4",
+    "gameUrl": "https://lichess.org/game/IWu7R4jW/black#58",
+    "theme": "advantage, long, middlegame, quietMove",
+    "startFen": "3rr3/4qpk1/5np1/p2p4/3Q4/P1P5/2B2R1P/3R3K b - - 0 29",
+    "moves": [
+      "Qe6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "3rr3/5pk1/4qnp1/p2p4/3Q4/P1P5/2B2R1P/3R3K w - - 1 30",
+      "solution": [
+        "Rdf1",
+        "Rd6",
+        "Rxf6",
+        "Qxf6",
+        "Rxf6"
+      ]
+    },
+    "contextFen": "3rr3/4qpkp/5np1/pp1p1P2/3Q4/P1P1p3/1PB2P1P/3R2RK b - - 1 25",
+    "contextMoves": [
+      "exf2",
+      "Rgf1",
+      "b4",
+      "fxg6",
+      "hxg6",
+      "Rxf2",
+      "bxc3",
+      "bxc3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01dm7",
+    "gameUrl": "https://lichess.org/game/x7l8hJvH#27",
+    "theme": "advantage, capturingDefender, long, middlegame, quietMove",
+    "startFen": "r2k3r/1bpp1Qpn/p1n4p/1pb1P3/3N3q/1B5P/PPP2PP1/RNB1R1K1 w - - 1 14",
+    "moves": [
+      "e6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "r2k3r/1bpp1Qpn/p1n1P2p/1pb5/3N3q/1B5P/PPP2PP1/RNB1R1K1 b - - 0 14",
+      "solution": [
+        "Ne7",
+        "Qf4",
+        "Qxf4",
+        "Bxf4",
+        "Bxd4"
+      ]
+    },
+    "contextFen": "r3k1nr/1bpp1pp1/p1nb3p/1p6/3NP2q/1B6/PPP2PPP/RNBQR1K1 w kq - 3 10",
+    "contextMoves": [
+      "h3",
+      "Bc5",
+      "Qf3",
+      "Nf6",
+      "e5",
+      "Nh7",
+      "Qxf7+",
+      "Kd8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01eV6",
+    "gameUrl": "https://lichess.org/game/6ZRWqWm8/black#78",
+    "theme": "crushing, endgame, master, pawnEndgame, quietMove, veryLong",
+    "startFen": "8/8/8/p2k3p/P1p4P/2K2P2/8/8 b - - 0 39",
+    "moves": [
+      "Kc5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/8/p1k4p/P1p4P/2K2P2/8/8 w - - 1 40",
+      "solution": [
+        "f4",
+        "Kd5",
+        "f5",
+        "Ke5",
+        "Kxc4",
+        "Kxf5",
+        "Kb5",
+        "Ke6",
+        "Kxa5"
+      ]
+    },
+    "contextFen": "8/7p/6p1/p1k5/P1p5/2K4P/5PP1/8 b - - 0 35",
+    "contextMoves": [
+      "g5",
+      "g3",
+      "h5",
+      "f3",
+      "Kd5",
+      "h4",
+      "gxh4",
+      "gxh4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01gA2",
+    "gameUrl": "https://lichess.org/game/COyuMP7G#29",
+    "theme": "advantage, clearance, middlegame, quietMove, short",
+    "startFen": "2kr1nQ1/ppp2p2/2n1pq2/3p4/3P4/4P3/PPPN1PPP/R4RK1 w - - 5 15",
+    "moves": [
+      "c4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "2kr1nQ1/ppp2p2/2n1pq2/3p4/2PP4/4P3/PP1N1PPP/R4RK1 b - - 0 15",
+      "solution": [
+        "Ng6",
+        "Qh7",
+        "Rh8"
+      ]
+    },
+    "contextFen": "r2qk1r1/pppn1pBp/2n1p3/3p4/3P4/3QP3/PPPN1PPP/R3K2R w KQq - 1 11",
+    "contextMoves": [
+      "Qxh7",
+      "Rxg7",
+      "Qxg7",
+      "Qf6",
+      "Qg8+",
+      "Nf8",
+      "O-O",
+      "O-O-O"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01gGh",
+    "gameUrl": "https://lichess.org/game/BDZyAtZz/black#74",
+    "theme": "advancedPawn, crushing, endgame, pawnEndgame, quietMove, veryLong",
+    "startFen": "8/7p/3p1p2/2pP4/P3k3/1P1p4/6P1/4K3 b - - 3 37",
+    "moves": [
+      "c4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/7p/3p1p2/3P4/P1p1k3/1P1p4/6P1/4K3 w - - 0 38",
+      "solution": [
+        "bxc4",
+        "Kd4",
+        "a5",
+        "Kxc4",
+        "a6",
+        "Kxd5",
+        "a7"
+      ]
+    },
+    "contextFen": "8/7p/3p1pk1/2pP1Q2/P2pq1P1/1P6/6P1/7K b - - 3 33",
+    "contextMoves": [
+      "Qxf5",
+      "gxf5+",
+      "Kxf5",
+      "Kg1",
+      "d3",
+      "Kf1",
+      "Ke4",
+      "Ke1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01hYA",
+    "gameUrl": "https://lichess.org/game/LLQAp4HH/black#102",
+    "theme": "crushing, endgame, master, quietMove, short",
+    "startFen": "8/r1P4p/3K2p1/3p1p2/pP5P/Rbk1P1P1/8/8 b - - 0 51",
+    "moves": [
+      "Ra8"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "r7/2P4p/3K2p1/3p1p2/pP5P/Rbk1P1P1/8/8 w - - 1 52",
+      "solution": [
+        "b5",
+        "Kb4",
+        "b6"
+      ]
+    },
+    "contextFen": "8/r6p/6p1/2Pp1p2/pPk2K1P/R1B1P1P1/8/5b2 b - - 4 47",
+    "contextMoves": [
+      "Bd3",
+      "Ke5",
+      "Bc2",
+      "c6",
+      "Bb3",
+      "Kd6",
+      "Kxc3",
+      "c7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01iEd",
+    "gameUrl": "https://lichess.org/game/4GyeUC25#61",
+    "theme": "crushing, endgame, long, pin, quietMove",
+    "startFen": "6k1/1p6/p1p3bp/1P2b3/P5P1/2P2p1P/1B1r1P2/R4BK1 w - - 1 31",
+    "moves": [
+      "Bc1"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "6k1/1p6/p1p3bp/1P2b3/P5P1/2P2p1P/3r1P2/R1B2BK1 b - - 2 31",
+      "solution": [
+        "Rd1",
+        "Bb2",
+        "Bb1",
+        "bxc6",
+        "bxc6"
+      ]
+    },
+    "contextFen": "3r1rk1/1p6/p1p4p/4b3/PP3p2/2Pb2PP/1B3PB1/R2R2K1 w - - 0 27",
+    "contextMoves": [
+      "g4",
+      "f3",
+      "Bf1",
+      "Bg6",
+      "Rxd8",
+      "Rxd8",
+      "b5",
+      "Rd2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01iEi",
+    "gameUrl": "https://lichess.org/game/FMV2YNpv#75",
+    "theme": "crushing, defensiveMove, endgame, pawnEndgame, quietMove, veryLong, zugzwang",
+    "startFen": "8/8/4pk2/p1p4p/Pp1pKp2/1P1P2PP/2P5/8 w - - 0 38",
+    "moves": [
+      "gxf4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/4pk2/p1p4p/Pp1pKP2/1P1P3P/2P5/8 b - - 0 38",
+      "solution": [
+        "h4",
+        "f5",
+        "e5",
+        "Kd5",
+        "Kxf5",
+        "Kxc5",
+        "Kf4"
+      ]
+    },
+    "contextFen": "8/8/pp2pk2/2p3pp/3pK3/3P1PPP/PPP5/8 w - - 0 34",
+    "contextMoves": [
+      "a3",
+      "b5",
+      "b3",
+      "a5",
+      "a4",
+      "b4",
+      "f4",
+      "gxf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01iTa",
+    "gameUrl": "https://lichess.org/game/4tsVozin#95",
+    "theme": "advancedPawn, crushing, defensiveMove, endgame, hangingPiece, master, masterVsMaster, quietMove, veryLong",
+    "startFen": "8/4R3/3p4/5k2/2r4B/3p4/6PK/8 w - - 0 48",
+    "moves": [
+      "Re3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/3p4/5k2/2r4B/3pR3/6PK/8 b - - 1 48",
+      "solution": [
+        "Rxh4+",
+        "Kg3",
+        "Rd4",
+        "Re1",
+        "d2",
+        "Rd1",
+        "Ke4",
+        "Kf2",
+        "Kd3"
+      ]
+    },
+    "contextFen": "6k1/4p1b1/3pN3/5P2/2rp4/R5B1/6PK/8 w - - 0 44",
+    "contextMoves": [
+      "Nxg7",
+      "Kxg7",
+      "Ra7",
+      "Kf6",
+      "Bh4+",
+      "Kxf5",
+      "Rxe7",
+      "d3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01jKd",
+    "gameUrl": "https://lichess.org/game/phhI7L7I/black#82",
+    "theme": "advantage, endgame, pawnEndgame, quietMove, short, zugzwang",
+    "startFen": "8/8/2p3p1/p1k4p/P3Pp1P/3K1P2/8/8 b - - 1 41",
+    "moves": [
+      "Kb4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/2p3p1/p6p/Pk2Pp1P/3K1P2/8/8 w - - 2 42",
+      "solution": [
+        "e5",
+        "Kc5",
+        "Ke4"
+      ]
+    },
+    "contextFen": "8/6p1/2p2p2/p1k1p2p/P3P2P/2K5/5PP1/8 b - - 0 37",
+    "contextMoves": [
+      "g6",
+      "f3",
+      "f5",
+      "g3",
+      "f4",
+      "gxf4",
+      "exf4",
+      "Kd3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01kUF",
+    "gameUrl": "https://lichess.org/game/WeIgVUdT/black#66",
+    "theme": "advantage, discoveredAttack, endgame, quietMove, short",
+    "startFen": "6k1/R2RBp1p/2p1p1p1/p3b3/5P1P/8/P4PK1/1rr5 b - - 0 33",
+    "moves": [
+      "Bxf4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "6k1/R2RBp1p/2p1p1p1/p7/5b1P/8/P4PK1/1rr5 w - - 0 34",
+      "solution": [
+        "Bf6",
+        "Rb8",
+        "Rxf7"
+      ]
+    },
+    "contextFen": "4r1k1/1R1R1p1p/2p1p1p1/p3b1B1/2r4P/5P2/P4P2/6K1 b - - 1 29",
+    "contextMoves": [
+      "Rf8",
+      "Be7",
+      "Rb8",
+      "Ra7",
+      "Rb1+",
+      "Kg2",
+      "Rcc1",
+      "f4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01luH",
+    "gameUrl": "https://lichess.org/game/or0dJAaA#87",
+    "theme": "advantage, endgame, queenEndgame, quietMove, veryLong",
+    "startFen": "2k5/p7/8/4P2p/5Q2/1PPqP1PK/7P/8 w - - 3 44",
+    "moves": [
+      "Qc4+"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "2k5/p7/8/4P2p/2Q5/1PPqP1PK/7P/8 b - - 4 44",
+      "solution": [
+        "Qxc4",
+        "bxc4",
+        "a5",
+        "Kh4",
+        "a4",
+        "Kxh5",
+        "a3"
+      ]
+    },
+    "contextFen": "4k3/p7/2pQ4/4P1pp/8/1PP1P1PK/2q4P/8 w - - 2 40",
+    "contextMoves": [
+      "Qxc6+",
+      "Kd8",
+      "Qf6+",
+      "Kc8",
+      "Qxg5",
+      "Qe4",
+      "Qf4",
+      "Qd3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01mGb",
+    "gameUrl": "https://lichess.org/game/ydvpvAgz#85",
+    "theme": "bishopEndgame, crushing, deflection, endgame, long, master, quietMove",
+    "startFen": "8/8/8/2k1pB1p/2Pp4/3K2p1/8/8 w - - 0 43",
+    "moves": [
+      "Be4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/8/2k1p2p/2PpB3/3K2p1/8/8 b - - 1 43",
+      "solution": [
+        "h4",
+        "Bg2",
+        "e4+",
+        "Ke2",
+        "Kxc4"
+      ]
+    },
+    "contextFen": "8/7p/3k4/3Bp1p1/2PpK3/8/8/8 w - - 0 39",
+    "contextMoves": [
+      "Bg8",
+      "h5",
+      "Bh7",
+      "g4",
+      "Kd3",
+      "Kc5",
+      "Bf5",
+      "g3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01mH1",
+    "gameUrl": "https://lichess.org/game/0Sy81sko/black#72",
+    "theme": "crushing, endgame, knightEndgame, long, quietMove",
+    "startFen": "8/n5pp/P1pk1p2/5P2/1PPK2P1/7P/8/8 b - - 0 36",
+    "moves": [
+      "g6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/n6p/P1pk1pp1/5P2/1PPK2P1/7P/8/8 w - - 0 37",
+      "solution": [
+        "fxg6",
+        "hxg6",
+        "h4",
+        "c5+",
+        "bxc5+"
+      ]
+    },
+    "contextFen": "5k2/5ppp/P1p5/1n3P2/1PP5/7P/6P1/6K1 b - - 0 32",
+    "contextMoves": [
+      "Na7",
+      "Kf2",
+      "Ke7",
+      "Ke3",
+      "Kd6",
+      "Kd4",
+      "f6",
+      "g4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01mWH",
+    "gameUrl": "https://lichess.org/game/PfmR5OJ8#89",
+    "theme": "crushing, endgame, master, pawnEndgame, quietMove, short",
+    "startFen": "8/8/8/ppp1k1K1/3p4/3P4/PPP5/8 w - - 0 45",
+    "moves": [
+      "a3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/8/ppp1k1K1/3p4/P2P4/1PP5/8 b - - 0 45",
+      "solution": [
+        "a4",
+        "Kg4",
+        "c4"
+      ]
+    },
+    "contextFen": "8/p4k2/8/1pp1P1Kp/3p4/3P4/PPP5/8 w - - 3 41",
+    "contextMoves": [
+      "Kxh5",
+      "Ke6",
+      "Kg5",
+      "Kxe5",
+      "Kg4",
+      "a6",
+      "Kg5",
+      "a5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01nyk",
+    "gameUrl": "https://lichess.org/game/332ya2H6#95",
+    "theme": "crushing, endgame, pawnEndgame, quietMove, short",
+    "startFen": "8/1k6/1P2p1p1/2KpP3/7P/8/8/8 w - - 1 48",
+    "moves": [
+      "Kd6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/1k6/1P1Kp1p1/3pP3/7P/8/8/8 b - - 2 48",
+      "solution": [
+        "d4",
+        "Kxe6",
+        "d3"
+      ]
+    },
+    "contextFen": "8/2k3p1/4pp2/1PKpP1p1/5P2/6P1/7P/8 w - - 0 44",
+    "contextMoves": [
+      "h4",
+      "fxe5",
+      "fxe5",
+      "gxh4",
+      "gxh4",
+      "g6",
+      "b6+",
+      "Kb7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01pSj",
+    "gameUrl": "https://lichess.org/game/WNAGgVqn#73",
+    "theme": "advancedPawn, crushing, endgame, fork, long, quietMove",
+    "startFen": "8/5k2/8/2N1p1p1/1P2Pn1p/2P2P1P/5RP1/1r4K1 w - - 4 37",
+    "moves": [
+      "Kh2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/5k2/8/2N1p1p1/1P2Pn1p/2P2P1P/5RPK/1r6 b - - 5 37",
+      "solution": [
+        "Nh5",
+        "g3",
+        "hxg3+",
+        "Kg2",
+        "gxf2"
+      ]
+    },
+    "contextFen": "6k1/R4r2/6n1/4p1p1/1P2P2p/2P2P1P/1P1r2P1/2N2RK1 w - - 3 33",
+    "contextMoves": [
+      "Rxf7",
+      "Kxf7",
+      "Nb3",
+      "Rxb2",
+      "Nc5",
+      "Nf4",
+      "Rf2",
+      "Rb1+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01qGf",
+    "gameUrl": "https://lichess.org/game/hq3AsMAw#43",
+    "theme": "advantage, long, middlegame, quietMove",
+    "startFen": "5Bk1/pppq1r2/2n5/4p1p1/P5bb/2P1PN1B/3P2K1/R2Q1R2 w - - 0 22",
+    "moves": [
+      "Bxg4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "5Bk1/pppq1r2/2n5/4p1p1/P5Bb/2P1PN2/3P2K1/R2Q1R2 b - - 0 22",
+      "solution": [
+        "Qxg4+",
+        "Kh1",
+        "Bg3",
+        "Nh2",
+        "Qe4+"
+      ]
+    },
+    "contextFen": "r4rk1/ppp1q3/2n1b3/4p1p1/6Pb/2P1P2B/P2P2K1/R1BQ1RN1 w - - 0 18",
+    "contextMoves": [
+      "a4",
+      "Rf7",
+      "Nf3",
+      "Raf8",
+      "Ba3",
+      "Qd7",
+      "Bxf8",
+      "Bxg4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01qYN",
+    "gameUrl": "https://lichess.org/game/4XBUXVNy/black#88",
+    "theme": "advancedPawn, crushing, endgame, long, master, pawnEndgame, quietMove",
+    "startFen": "8/8/1p1p4/p2P3p/P3pPk1/4K1P1/8/8 b - - 1 44",
+    "moves": [
+      "Kxg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/1p1p4/p2P3p/P3pP2/4K1k1/8/8 w - - 0 45",
+      "solution": [
+        "f5",
+        "h4",
+        "f6",
+        "h3",
+        "f7"
+      ]
+    },
+    "contextFen": "8/2p5/1p1b4/p2P1k1p/P3pP2/2B1K1P1/8/8 b - - 0 40",
+    "contextMoves": [
+      "Bc5+",
+      "Ke2",
+      "Kg4",
+      "Be5",
+      "Bd6",
+      "Bxd6",
+      "cxd6",
+      "Ke3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01qiV",
+    "gameUrl": "https://lichess.org/game/ZEOgK1g7/black#100",
+    "theme": "crushing, endgame, long, pawnEndgame, quietMove, zugzwang",
+    "startFen": "8/5k1p/5Pp1/5pK1/7P/8/6P1/8 b - - 0 50",
+    "moves": [
+      "h6+"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/5k2/5Ppp/5pK1/7P/8/6P1/8 w - - 0 51",
+      "solution": [
+        "Kxh6",
+        "Kxf6",
+        "g3",
+        "Kf7",
+        "Kh7"
+      ]
+    },
+    "contextFen": "8/5r1p/2k2Np1/4Pp2/8/5K2/6PP/8 b - - 0 46",
+    "contextMoves": [
+      "Rxf6",
+      "exf6",
+      "Kd6",
+      "Kf4",
+      "Ke6",
+      "Kg5",
+      "Kf7",
+      "h4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01qsT",
+    "gameUrl": "https://lichess.org/game/gNuakJrz/black#110",
+    "theme": "crushing, endgame, master, masterVsMaster, pawnEndgame, quietMove, short, zugzwang",
+    "startFen": "4K3/5p1p/5kp1/8/7P/6P1/5P2/8 b - - 2 55",
+    "moves": [
+      "h6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "4K3/5p2/5kpp/8/7P/6P1/5P2/8 w - - 0 56",
+      "solution": [
+        "f3",
+        "Kg7",
+        "Ke7"
+      ]
+    },
+    "contextFen": "4K3/5pkp/6pn/8/7P/6P1/3R1P2/8 b - - 10 51",
+    "contextMoves": [
+      "Ng4",
+      "Rd7",
+      "Nf6+",
+      "Ke7",
+      "Nxd7",
+      "Kxd7",
+      "Kf6",
+      "Ke8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01r1L",
+    "gameUrl": "https://lichess.org/game/6mlyq2pF#85",
+    "theme": "crushing, endgame, long, quietMove",
+    "startFen": "3N2k1/8/6P1/5P1p/5K2/5P2/8/6r1 w - - 0 43",
+    "moves": [
+      "Nf7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "6k1/5N2/6P1/5P1p/5K2/5P2/8/6r1 b - - 1 43",
+      "solution": [
+        "h4",
+        "Ne5",
+        "Kg7",
+        "f6+",
+        "Kxf6"
+      ]
+    },
+    "contextFen": "8/5kp1/7p/5P1P/5NK1/5P2/8/4r3 w - - 5 39",
+    "contextMoves": [
+      "Ne6",
+      "Rg1+",
+      "Kf4",
+      "g6",
+      "hxg6+",
+      "Kg8",
+      "Nd8",
+      "h5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01rSr",
+    "gameUrl": "https://lichess.org/game/xnizLU9K#91",
+    "theme": "bishopEndgame, crushing, endgame, master, quietMove, short",
+    "startFen": "8/6k1/3p2p1/p2P3p/4P3/3B4/5K2/8 w - - 0 46",
+    "moves": [
+      "Kg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/6k1/3p2p1/p2P3p/4P3/3B2K1/8/8 b - - 1 46",
+      "solution": [
+        "a4",
+        "Bc2",
+        "a3"
+      ]
+    },
+    "contextFen": "8/p5k1/1p1p2p1/2pP3p/1P2P3/P2Pr3/8/5BK1 w - - 3 42",
+    "contextMoves": [
+      "Kf2",
+      "Rxd3",
+      "Bxd3",
+      "cxb4",
+      "axb4",
+      "a5",
+      "bxa5",
+      "bxa5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01rio",
+    "gameUrl": "https://lichess.org/game/DtghQiRc/black#70",
+    "theme": "crushing, endgame, pawnEndgame, quietMove, short, zugzwang",
+    "startFen": "8/p7/8/2pp4/4kPp1/1K4P1/P1P5/8 b - - 3 35",
+    "moves": [
+      "a5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/8/p1pp4/4kPp1/1K4P1/P1P5/8 w - - 0 36",
+      "solution": [
+        "a3",
+        "Kf5",
+        "Ka4"
+      ]
+    },
+    "contextFen": "8/p7/1pp2k2/3p4/5Pp1/3K2P1/PPP5/8 b - - 0 31",
+    "contextMoves": [
+      "c5",
+      "b4",
+      "Kf5",
+      "bxc5",
+      "bxc5",
+      "Kc3",
+      "Ke4",
+      "Kb3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01tei",
+    "gameUrl": "https://lichess.org/game/DlcVV8pm#103",
+    "theme": "crushing, defensiveMove, endgame, hangingPiece, long, quietMove, rookEndgame",
+    "startFen": "8/8/8/1kr2P1R/8/6K1/8/8 w - - 0 52",
+    "moves": [
+      "f6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/5P2/1kr4R/8/6K1/8/8 b - - 0 52",
+      "solution": [
+        "Rxh5",
+        "Kg4",
+        "Rh8",
+        "Kf5",
+        "Kc6"
+      ]
+    },
+    "contextFen": "8/4r3/8/2P4R/3k4/5P2/4K3/8 w - - 1 48",
+    "contextMoves": [
+      "Kf2",
+      "Rc7",
+      "Kg3",
+      "Kc4",
+      "f4",
+      "Kb5",
+      "f5",
+      "Rxc5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01uH8",
+    "gameUrl": "https://lichess.org/game/CjFkBz3M/black#100",
+    "theme": "crushing, endgame, long, quietMove, rookEndgame",
+    "startFen": "3r4/R1R5/6pk/p2r3p/3p1P2/7P/6P1/7K b - - 5 50",
+    "moves": [
+      "g5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "3r4/R1R5/7k/p2r2pp/3p1P2/7P/6P1/7K w - - 0 51",
+      "solution": [
+        "f5",
+        "R5d7",
+        "Rxd7",
+        "Rxd7",
+        "Rxd7"
+      ]
+    },
+    "contextFen": "3r4/3r1kQ1/p5p1/7p/3p1P2/7P/6P1/2R1R2K b - - 0 46",
+    "contextMoves": [
+      "Kxg7",
+      "Re6",
+      "a5",
+      "Ra6",
+      "Rd5",
+      "Rc7+",
+      "Kh6",
+      "Raa7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01ujj",
+    "gameUrl": "https://lichess.org/game/VOofa0Hd#91",
+    "theme": "advancedPawn, crushing, endgame, pawnEndgame, promotion, quietMove, veryLong",
+    "startFen": "8/K7/8/6kp/8/8/P7/8 w - - 0 46",
+    "moves": [
+      "Kb7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/1K6/8/6kp/8/8/P7/8 b - - 1 46",
+      "solution": [
+        "h4",
+        "a4",
+        "h3",
+        "a5",
+        "h2",
+        "Kb8",
+        "h1=Q"
+      ]
+    },
+    "contextFen": "8/p4k1p/7P/8/4K3/8/P7/8 w - - 3 42",
+    "contextMoves": [
+      "Kd5",
+      "Kg6",
+      "Kc6",
+      "Kxh6",
+      "Kb7",
+      "Kg5",
+      "Kxa7",
+      "h5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01uzu",
+    "gameUrl": "https://lichess.org/game/yHuaUKKZ/black#84",
+    "theme": "crushing, endgame, quietMove, rookEndgame, short",
+    "startFen": "1r6/3k4/3p1p2/2p1p1p1/2PBP1Pp/Pp1P1P1P/1K6/1R6 b - - 0 42",
+    "moves": [
+      "cxd4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "1r6/3k4/3p1p2/4p1p1/2PpP1Pp/Pp1P1P1P/1K6/1R6 w - - 0 43",
+      "solution": [
+        "a4",
+        "Rb7",
+        "Ka3"
+      ]
+    },
+    "contextFen": "1r6/4k3/3p1p2/2p1p1p1/2P1PbPp/PpB2P1P/3P4/1R1K4 b - - 3 38",
+    "contextMoves": [
+      "Bg3",
+      "Kc1",
+      "Bf2",
+      "Kb2",
+      "Bd4",
+      "d3",
+      "Kd7",
+      "Bxd4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01vQy",
+    "gameUrl": "https://lichess.org/game/o3NZT9Aj#85",
+    "theme": "crushing, endgame, master, pawnEndgame, quietMove, short",
+    "startFen": "8/8/1Pk2p2/4p2p/2K5/5P2/6P1/8 w - - 0 43",
+    "moves": [
+      "g3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/1Pk2p2/4p2p/2K5/5PP1/8/8 b - - 0 43",
+      "solution": [
+        "f5",
+        "b7",
+        "Kxb7"
+      ]
+    },
+    "contextFen": "8/6R1/4kp1p/1P2p3/8/5P2/1K4P1/3r4 w - - 3 39",
+    "contextMoves": [
+      "b6",
+      "Rd7",
+      "Rxd7",
+      "Kxd7",
+      "Kc3",
+      "Kc6",
+      "Kc4",
+      "h5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01vys",
+    "gameUrl": "https://lichess.org/game/1c1XWvJg#187",
+    "theme": "crushing, defensiveMove, endgame, master, masterVsMaster, queenEndgame, quietMove, veryLong, zugzwang",
+    "startFen": "8/8/4p1k1/5qp1/8/6QP/5PK1/8 w - - 13 94",
+    "moves": [
+      "Qd6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/3Qp1k1/5qp1/8/7P/5PK1/8 b - - 14 94",
+      "solution": [
+        "Qd5+",
+        "Qxd5",
+        "exd5",
+        "Kf3",
+        "Kf5",
+        "Ke3",
+        "Ke5",
+        "Kd3",
+        "d4",
+        "f3",
+        "Kd5"
+      ]
+    },
+    "contextFen": "8/8/4pk2/5qpQ/8/7P/5PK1/8 w - - 5 90",
+    "contextMoves": [
+      "Qh8+",
+      "Kf7",
+      "Qb8",
+      "Qf6",
+      "Qc7+",
+      "Kg6",
+      "Qg3",
+      "Qf5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01wap",
+    "gameUrl": "https://lichess.org/game/AlDmSKUJ#111",
+    "theme": "crushing, endgame, long, master, pawnEndgame, quietMove, zugzwang",
+    "startFen": "8/5p2/4k3/6p1/3KP1P1/8/8/8 w - - 5 56",
+    "moves": [
+      "Kd3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/5p2/4k3/6p1/4P1P1/3K4/8/8 b - - 6 56",
+      "solution": [
+        "Ke5",
+        "Ke3",
+        "f6",
+        "Kf3",
+        "Kd4"
+      ]
+    },
+    "contextFen": "6k1/2K2p2/1n6/6pp/4P1P1/7P/8/8 w - - 0 52",
+    "contextMoves": [
+      "Kxb6",
+      "hxg4",
+      "hxg4",
+      "Kg7",
+      "Kc5",
+      "Kf6",
+      "Kd4",
+      "Ke6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/01zXC",
+    "gameUrl": "https://lichess.org/game/msR18GoF#103",
+    "theme": "crushing, defensiveMove, endgame, long, pawnEndgame, quietMove",
+    "startFen": "8/8/4kpp1/8/5PP1/5K2/8/8 w - - 1 52",
+    "moves": [
+      "Kg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/4kpp1/8/5PP1/6K1/8/8 b - - 2 52",
+      "solution": [
+        "Kd5",
+        "f5",
+        "g5",
+        "Kf3",
+        "Kd4"
+      ]
+    },
+    "contextFen": "8/8/5ppp/6k1/8/6KP/5PP1/8 w - - 0 48",
+    "contextMoves": [
+      "f4+",
+      "Kf5",
+      "Kf3",
+      "h5",
+      "g4+",
+      "hxg4+",
+      "hxg4+",
+      "Ke6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/020IV",
+    "gameUrl": "https://lichess.org/game/SvyPh2kA/black#64",
+    "theme": "advantage, endgame, pawnEndgame, quietMove, short",
+    "startFen": "8/4kp1p/p7/1p1K2p1/2pP2P1/2P4P/P7/8 b - - 1 32",
+    "moves": [
+      "Kf6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/5p1p/p4k2/1p1K2p1/2pP2P1/2P4P/P7/8 w - - 2 33",
+      "solution": [
+        "a3",
+        "a5",
+        "Kc5"
+      ]
+    },
+    "contextFen": "5k2/1p3p1p/p7/3p1pp1/2NP4/2P1KP1P/P5P1/8 b - - 0 28",
+    "contextMoves": [
+      "dxc4",
+      "g4",
+      "fxg4",
+      "fxg4",
+      "Ke7",
+      "Ke4",
+      "b5",
+      "Kd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/021N7",
+    "gameUrl": "https://lichess.org/game/XlFo1Llo#47",
+    "theme": "crushing, defensiveMove, endgame, long, quietMove",
+    "startFen": "6k1/2p2p1p/2Qb4/p7/P2P1ppq/1NP2P2/1P4PP/4rRK1 w - - 0 24",
+    "moves": [
+      "Nxa5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "6k1/2p2p1p/2Qb4/N7/P2P1ppq/2P2P2/1P4PP/4rRK1 b - - 0 24",
+      "solution": [
+        "Qe7",
+        "Qa8+",
+        "Kg7",
+        "Qe4",
+        "Rxe4"
+      ]
+    },
+    "contextFen": "r5k1/1pp2p1p/2nb4/p6q/P2P1pp1/1NPQrP2/1P4PP/R3NRK1 w - - 1 20",
+    "contextMoves": [
+      "Qb5",
+      "Qh4",
+      "Qxb7",
+      "Rae8",
+      "Qxc6",
+      "Rxe1",
+      "Raxe1",
+      "Rxe1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0226P",
+    "gameUrl": "https://lichess.org/game/VChG2g0Y/black#56",
+    "theme": "crushing, middlegame, quietMove, veryLong",
+    "startFen": "r4r1k/5p1P/5Pp1/qp1Q3b/p7/P1P1P3/1P1N1P2/K6R b - - 0 28",
+    "moves": [
+      "Rad8"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "3r1r1k/5p1P/5Pp1/qp1Q3b/p7/P1P1P3/1P1N1P2/K6R w - - 1 29",
+      "solution": [
+        "Qg5",
+        "Qa6",
+        "Ne4",
+        "Bf3",
+        "Qh6",
+        "Qxf6",
+        "Nxf6"
+      ]
+    },
+    "contextFen": "r4r1k/3b1ppP/4pb2/qp1p4/p2P2p1/P1PQP3/1P1N1P2/K5RR b - - 1 24",
+    "contextMoves": [
+      "g6",
+      "Rxg4",
+      "e5",
+      "dxe5",
+      "Bxg4",
+      "exf6",
+      "Bh5",
+      "Qxd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/023BQ",
+    "gameUrl": "https://lichess.org/game/IL0qq9RU#47",
+    "theme": "endgame, mate, mateIn2, quietMove, short",
+    "startFen": "1r5k/Np3p1p/4pp2/6r1/2P5/P3P3/5P2/R4R1K w - - 1 24",
+    "moves": [
+      "Nb5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "1r5k/1p3p1p/4pp2/1N4r1/2P5/P3P3/5P2/R4R1K b - - 2 24",
+      "solution": [
+        "Rbg8",
+        "f3",
+        "Rh5#"
+      ]
+    },
+    "contextFen": "1qr2rk1/pp3p1p/4pp2/1N6/2P5/P3P1b1/4QP2/R4R1K w - - 0 20",
+    "contextMoves": [
+      "Qg4+",
+      "Kh8",
+      "Qxg3",
+      "Rg8",
+      "Qxb8",
+      "Rxb8",
+      "Nxa7",
+      "Rg5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/0248u",
+    "gameUrl": "https://lichess.org/game/oW1HIbhI/black#74",
+    "theme": "crushing, defensiveMove, endgame, pawnEndgame, quietMove, veryLong",
+    "startFen": "8/8/8/p2k1p2/2pP1P2/2K5/1P6/8 b - - 0 37",
+    "moves": [
+      "Ke4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/8/p4p2/2pPkP2/2K5/1P6/8 w - - 1 38",
+      "solution": [
+        "Kxc4",
+        "Kxf4",
+        "d5",
+        "Ke5",
+        "Kc5",
+        "f4",
+        "d6",
+        "Ke6",
+        "Kc6"
+      ]
+    },
+    "contextFen": "8/7p/6p1/p2k1p2/2pP4/2K2PPP/1P6/8 b - - 0 33",
+    "contextMoves": [
+      "g5",
+      "h4",
+      "h6",
+      "hxg5",
+      "hxg5",
+      "f4",
+      "gxf4",
+      "gxf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02551",
+    "gameUrl": "https://lichess.org/game/Rpgf8vXm/black#68",
+    "theme": "advantage, endgame, quietMove, rookEndgame, veryLong",
+    "startFen": "3r2k1/pp3p2/6pR/6P1/8/P1P1r3/2P5/1KR5 b - - 1 34",
+    "moves": [
+      "Rxc3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "3r2k1/pp3p2/6pR/6P1/8/P1r5/2P5/1KR5 w - - 0 35",
+      "solution": [
+        "Rch1",
+        "Kf8",
+        "Rh8+",
+        "Ke7",
+        "Re1+",
+        "Kd7",
+        "Rd1+"
+      ]
+    },
+    "contextFen": "3rr1k1/pp3p1p/2q3p1/6PP/8/PQ2P3/1PP5/1KR4R b - - 0 30",
+    "contextMoves": [
+      "Re5",
+      "hxg6",
+      "hxg6",
+      "Qc3",
+      "Qxc3",
+      "bxc3",
+      "Rxe3",
+      "Rh6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/025r3",
+    "gameUrl": "https://lichess.org/game/mdjZ21t2/black#64",
+    "theme": "advancedPawn, advantage, clearance, endgame, promotion, quietMove, veryLong",
+    "startFen": "8/N1P1kp2/1p3p2/2b5/4P1B1/P3r1P1/1P3r2/R2K4 b - - 5 32",
+    "moves": [
+      "Rxg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/N1P1kp2/1p3p2/2b5/4P1B1/P5r1/1P3r2/R2K4 w - - 0 33",
+      "solution": [
+        "Nc8+",
+        "Kf8",
+        "Be2",
+        "Kg7",
+        "Nxb6",
+        "Bxb6",
+        "c8=Q",
+        "Rg1+",
+        "Kd2",
+        "Rxa1",
+        "Qg4+"
+      ]
+    },
+    "contextFen": "3k4/N1P2pp1/1p3n2/2b1B3/4P3/P2r1BP1/1P5r/R4K2 b - - 0 28",
+    "contextMoves": [
+      "Ke7",
+      "Bxf6+",
+      "gxf6",
+      "Bg4",
+      "Rf2+",
+      "Ke1",
+      "Re3+",
+      "Kd1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/026PG",
+    "gameUrl": "https://lichess.org/game/ioa8uI7p/black#128",
+    "theme": "crushing, defensiveMove, endgame, master, quietMove, short",
+    "startFen": "8/1r6/1PkP1P2/2B1K2p/8/5p2/5P2/8 b - - 0 64",
+    "moves": [
+      "h4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/1r6/1PkP1P2/2B1K3/7p/5p2/5P2/8 w - - 0 65",
+      "solution": [
+        "Be3",
+        "h3",
+        "Bf4"
+      ]
+    },
+    "contextFen": "8/1r3k2/1P1P3p/2B2P2/7K/5p2/5P2/8 b - - 0 60",
+    "contextMoves": [
+      "Ke8",
+      "Kg4",
+      "Kd7",
+      "Kf4",
+      "Kc6",
+      "Ke5",
+      "h5",
+      "f6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02758",
+    "gameUrl": "https://lichess.org/game/SRKGTiY9#109",
+    "theme": "crushing, endgame, quietMove, veryLong",
+    "startFen": "2Q5/8/NK6/3p4/P2kp3/1q6/7P/8 w - - 5 55",
+    "moves": [
+      "Ka5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "2Q5/8/N7/K2p4/P2kp3/1q6/7P/8 b - - 6 55",
+      "solution": [
+        "Qc3+",
+        "Qxc3+",
+        "Kxc3",
+        "Nc7",
+        "d4",
+        "Nd5+",
+        "Kc4"
+      ]
+    },
+    "contextFen": "8/8/N1P5/3p4/PK1kp3/8/3p3P/8 w - - 0 51",
+    "contextMoves": [
+      "c7",
+      "d1=Q",
+      "c8=Q",
+      "Qd2+",
+      "Kb5",
+      "Qd3+",
+      "Kb6",
+      "Qb3+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/027QT",
+    "gameUrl": "https://lichess.org/game/fiJfghJ4#43",
+    "theme": "advantage, long, middlegame, quietMove",
+    "startFen": "rnb5/pp5p/1kp3p1/8/P2q2r1/2Q2P2/1P4PP/R1B2RK1 w - - 0 22",
+    "moves": [
+      "Qxd4+"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "rnb5/pp5p/1kp3p1/8/P2Q2r1/5P2/1P4PP/R1B2RK1 b - - 0 22",
+      "solution": [
+        "Rxd4",
+        "Be3",
+        "c5",
+        "Bxd4",
+        "cxd4"
+      ]
+    },
+    "contextFen": "rnbq4/pp5p/1kp3p1/8/1nBPr3/6Q1/PP3PPP/R1B2RK1 w - - 0 18",
+    "contextMoves": [
+      "Qc3",
+      "Nd5",
+      "Bxd5",
+      "Qxd5",
+      "a4",
+      "Rg4",
+      "f3",
+      "Qxd4+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/027Wr",
+    "gameUrl": "https://lichess.org/game/lI0kg3cl/black#78",
+    "theme": "bishopEndgame, clearance, crushing, endgame, exposedKing, quietMove, veryLong",
+    "startFen": "5k2/8/1b2P3/p2K4/1p3P1p/2p4P/P7/2B5 b - - 0 39",
+    "moves": [
+      "Ke7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/4k3/1b2P3/p2K4/1p3P1p/2p4P/P7/2B5 w - - 1 40",
+      "solution": [
+        "f5",
+        "Bd8",
+        "Bg5+",
+        "Ke8",
+        "f6",
+        "Bxf6",
+        "Bxf6"
+      ]
+    },
+    "contextFen": "8/5p1k/8/p1b1PP2/1pK4p/2p2P1P/P7/2B5 b - - 2 35",
+    "contextMoves": [
+      "Bb6",
+      "Kd5",
+      "Kg7",
+      "e6",
+      "fxe6+",
+      "fxe6",
+      "Kf8",
+      "f4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/027cG",
+    "gameUrl": "https://lichess.org/game/erT3eyg5#99",
+    "theme": "crushing, endgame, quietMove, rookEndgame, veryLong",
+    "startFen": "7r/5p2/3kp1p1/p2pR1P1/K2P1P1r/2P5/1P3R2/8 w - - 1 50",
+    "moves": [
+      "Kxa5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "7r/5p2/3kp1p1/K2pR1P1/3P1P1r/2P5/1P3R2/8 b - - 0 50",
+      "solution": [
+        "Rh1",
+        "Ka4",
+        "Rb8",
+        "b4",
+        "Rb1",
+        "Rb2",
+        "Rxb2"
+      ]
+    },
+    "contextFen": "8/5p2/3kp1p1/pp1p2Pr/3P1P1r/PKP5/1P2R1R1/8 w - - 7 46",
+    "contextMoves": [
+      "Rgf2",
+      "Rh3",
+      "Re5",
+      "R3h4",
+      "a4",
+      "bxa4+",
+      "Kxa4",
+      "Rh8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/029K1",
+    "gameUrl": "https://lichess.org/game/VrbQCgVu/black#86",
+    "theme": "crushing, endgame, quietMove, short",
+    "startFen": "8/R7/3p1rp1/2p1p1kp/1pPnP3/1P3P1P/5KP1/3B4 b - - 1 43",
+    "moves": [
+      "Kf4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/R7/3p1rp1/2p1p2p/1pPnPk2/1P3P1P/5KP1/3B4 w - - 2 44",
+      "solution": [
+        "h4",
+        "Nf5",
+        "exf5"
+      ]
+    },
+    "contextFen": "r4r2/7p/1p1p2p1/P1p1p1k1/1pPnP3/1P3P1P/R5P1/R2B2K1 b - - 0 39",
+    "contextMoves": [
+      "bxa5",
+      "Rxa5",
+      "Rxa5",
+      "Rxa5",
+      "Rf6",
+      "Ra7",
+      "h5",
+      "Kf2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02BWG",
+    "gameUrl": "https://lichess.org/game/elu1UymC#71",
+    "theme": "crushing, endgame, pawnEndgame, quietMove, veryLong, zugzwang",
+    "startFen": "8/8/1p4p1/p2p4/3k4/5PP1/PP1K4/8 w - - 0 36",
+    "moves": [
+      "b3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/1p4p1/p2p4/3k4/1P3PP1/P2K4/8 b - - 0 36",
+      "solution": [
+        "b5",
+        "a3",
+        "b4",
+        "a4",
+        "g5",
+        "Ke2",
+        "Kc3"
+      ]
+    },
+    "contextFen": "8/p6p/1p4p1/3p4/3k4/8/PP2KPPP/8 w - - 0 32",
+    "contextMoves": [
+      "Kd2",
+      "h5",
+      "f3",
+      "h4",
+      "g3",
+      "hxg3",
+      "hxg3",
+      "a5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02BXF",
+    "gameUrl": "https://lichess.org/game/3ji3p5TA#107",
+    "theme": "crushing, defensiveMove, endgame, quietMove, rookEndgame, veryLong",
+    "startFen": "7R/8/5pk1/8/4p1p1/2K4p/1P6/8 w - - 0 54",
+    "moves": [
+      "Rh4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/5pk1/8/4p1pR/2K4p/1P6/8 b - - 1 54",
+      "solution": [
+        "f5",
+        "Kd2",
+        "Kg5",
+        "Rh8",
+        "Kf4",
+        "b4",
+        "g3",
+        "Rh4+",
+        "Kf3"
+      ]
+    },
+    "contextFen": "8/8/5pR1/4pkp1/8/1pK4p/1P6/8 w - - 2 50",
+    "contextMoves": [
+      "Rh6",
+      "g4",
+      "Kxb3",
+      "Kg5",
+      "Rh8",
+      "Kg6",
+      "Kc3",
+      "e4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02Dij",
+    "gameUrl": "https://lichess.org/game/TvQZZel6/black#96",
+    "theme": "crushing, endgame, knightEndgame, quietMove, veryLong",
+    "startFen": "8/1k1n4/3p1p1p/K2PpPp1/N3P1P1/7P/8/8 b - - 2 48",
+    "moves": [
+      "Ka7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/k2n4/3p1p1p/K2PpPp1/N3P1P1/7P/8/8 w - - 3 49",
+      "solution": [
+        "Nc3",
+        "Kb8",
+        "Nb5",
+        "Nc5",
+        "Nxd6",
+        "Kc7",
+        "Ne8+"
+      ]
+    },
+    "contextFen": "4k3/3n4/3p1p1p/3PpPp1/N1B1P3/n1K3PP/8/8 b - - 0 44",
+    "contextMoves": [
+      "Nxc4",
+      "Kxc4",
+      "Kd8",
+      "Kb5",
+      "Kc7",
+      "g4",
+      "Kb7",
+      "Ka5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02Ef9",
+    "gameUrl": "https://lichess.org/game/l4cmWKAY/black#92",
+    "theme": "crushing, endgame, long, pawnEndgame, quietMove, zugzwang",
+    "startFen": "8/8/pp2k2p/4p3/PP2K2P/6P1/8/8 b - - 0 46",
+    "moves": [
+      "a5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/1p2k2p/p3p3/PP2K2P/6P1/8/8 w - - 0 47",
+      "solution": [
+        "bxa5",
+        "bxa5",
+        "g4",
+        "Kf6",
+        "Kd5"
+      ]
+    },
+    "contextFen": "8/1p6/p2nkp1p/4p3/PP2N3/3K1P2/6PP/8 b - - 6 42",
+    "contextMoves": [
+      "Nxe4",
+      "fxe4",
+      "f5",
+      "g3",
+      "fxe4+",
+      "Kxe4",
+      "b6",
+      "h4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02EhX",
+    "gameUrl": "https://lichess.org/game/Vu1Mbuuk/black#38",
+    "theme": "crushing, discoveredAttack, discoveredCheck, exposedKing, long, middlegame, quietMove",
+    "startFen": "r1b1r3/ppkn3p/5n2/1B6/4p3/2R2N2/2PP1PPP/5RK1 b - - 1 19",
+    "moves": [
+      "Kb6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "r1b1r3/pp1n3p/1k3n2/1B6/4p3/2R2N2/2PP1PPP/5RK1 w - - 2 20",
+      "solution": [
+        "Rb1",
+        "a6",
+        "Bxd7+",
+        "Ka7",
+        "Bxe8"
+      ]
+    },
+    "contextFen": "r1b1q1r1/pp1n1Q1p/3kpn2/1B6/8/3R4/2PP1PPP/4K1NR b K - 5 15",
+    "contextMoves": [
+      "Kc7",
+      "Qxe8",
+      "Rxe8",
+      "Nf3",
+      "e5",
+      "O-O",
+      "e4",
+      "Rc3+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02EmD",
+    "gameUrl": "https://lichess.org/game/zlmR4sJt/black#92",
+    "theme": "crushing, defensiveMove, endgame, queenRookEndgame, quietMove, veryLong",
+    "startFen": "8/6p1/R5Rp/pp2kp2/1qp1p2P/6P1/PP3PK1/8 b - - 5 46",
+    "moves": [
+      "Qxb2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/6p1/R5Rp/pp2kp2/2p1p2P/6P1/Pq3PK1/8 w - - 0 47",
+      "solution": [
+        "Rad6",
+        "f4",
+        "g4",
+        "f3+",
+        "Kg3",
+        "Qxf2+",
+        "Kxf2"
+      ]
+    },
+    "contextFen": "8/1q4p1/p2Rk2p/1p3p2/2p1p2P/6P1/PP3P2/3R2K1 b - - 7 42",
+    "contextMoves": [
+      "Ke5",
+      "Rg6",
+      "a5",
+      "Rdd6",
+      "Qe7",
+      "Ra6",
+      "Qb4",
+      "Kg2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02FuR",
+    "gameUrl": "https://lichess.org/game/aPJeHnrs#89",
+    "theme": "advantage, defensiveMove, endgame, long, master, quietMove, rookEndgame",
+    "startFen": "8/8/5k2/3P1ppp/2R5/5PP1/2p3PK/2r5 w - - 2 45",
+    "moves": [
+      "f4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/5k2/3P1ppp/2R2P2/6P1/2p3PK/2r5 b - - 0 45",
+      "solution": [
+        "gxf4",
+        "gxf4",
+        "h4",
+        "Rc7",
+        "Kg6"
+      ]
+    },
+    "contextFen": "8/6k1/8/3pNppp/2bP4/5PP1/3R2PK/2r5 w - - 2 41",
+    "contextMoves": [
+      "Nxc4",
+      "dxc4",
+      "d5",
+      "c3",
+      "Rd4",
+      "c2",
+      "Rc4",
+      "Kf6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02H8O",
+    "gameUrl": "https://lichess.org/game/8N1kOgDV#111",
+    "theme": "crushing, endgame, long, queenEndgame, quietMove",
+    "startFen": "8/p7/3Pk3/1p2P2q/2p5/6Q1/PP4PK/8 w - - 5 56",
+    "moves": [
+      "Qh3+"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/p7/3Pk3/1p2P2q/2p5/7Q/PP4PK/8 b - - 6 56",
+      "solution": [
+        "Qxh3+",
+        "Kxh3",
+        "b4",
+        "Kg4",
+        "c3"
+      ]
+    },
+    "contextFen": "8/p3k3/8/1p1PPq2/2p5/8/PP2Q1P1/6K1 w - - 1 52",
+    "contextMoves": [
+      "Qe1",
+      "Qc2",
+      "d6+",
+      "Ke6",
+      "Qg3",
+      "Qd1+",
+      "Kh2",
+      "Qh5+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02Jyd",
+    "gameUrl": "https://lichess.org/game/S1e5lzGu#67",
+    "theme": "crushing, endgame, quietMove, rookEndgame, veryLong",
+    "startFen": "4rk2/5p2/3R4/3P2R1/2p1r2p/2P4P/5KP1/8 w - - 0 34",
+    "moves": [
+      "Rc6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "4rk2/5p2/2R5/3P2R1/2p1r2p/2P4P/5KP1/8 b - - 1 34",
+      "solution": [
+        "Rf4+",
+        "Kg1",
+        "Re1+",
+        "Kh2",
+        "Rff1",
+        "Rc8+",
+        "Ke7",
+        "Re5+",
+        "Rxe5"
+      ]
+    },
+    "contextFen": "5rk1/5pp1/3R4/3P3p/2p1r3/2P2RK1/6PP/8 w - - 0 30",
+    "contextMoves": [
+      "Kf2",
+      "g5",
+      "Rf5",
+      "Rfe8",
+      "Rxg5+",
+      "Kf8",
+      "h3",
+      "h4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02M6N",
+    "gameUrl": "https://lichess.org/game/S4o9HvtZ/black#154",
+    "theme": "crushing, endgame, long, quietMove, rookEndgame",
+    "startFen": "8/p5r1/1p6/1PkP4/4P2K/8/8/R7 b - - 7 77",
+    "moves": [
+      "Kxb5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/p5r1/1p6/1k1P4/4P2K/8/8/R7 w - - 0 78",
+      "solution": [
+        "e5",
+        "Re7",
+        "Re1",
+        "Kc5",
+        "d6"
+      ]
+    },
+    "contextFen": "8/p7/1p6/1P1Pk3/2R1PrP1/8/7K/8 b - - 2 73",
+    "contextMoves": [
+      "Rxg4",
+      "Kh3",
+      "Rg7",
+      "Ra4",
+      "Kd6",
+      "Kh4",
+      "Kc5",
+      "Ra1"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02Mow",
+    "gameUrl": "https://lichess.org/game/Wu477GgT/black#24",
+    "theme": "advantage, hangingPiece, long, middlegame, quietMove",
+    "startFen": "r1b2rk1/p1p2ppp/2pp4/2b3B1/3Nq3/2P4P/PP3PP1/R2Q1RK1 b - - 0 12",
+    "moves": [
+      "Bxh3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "r4rk1/p1p2ppp/2pp4/2b3B1/3Nq3/2P4b/PP3PP1/R2Q1RK1 w - - 0 13",
+      "solution": [
+        "gxh3",
+        "Qg6",
+        "Qg4",
+        "Bxd4",
+        "cxd4"
+      ]
+    },
+    "contextFen": "r1bq1rk1/p1p2ppp/2pp1n2/2b1p3/3PP3/2N2N1P/PPP2PP1/R1BQ1RK1 b - - 0 8",
+    "contextMoves": [
+      "exd4",
+      "Nxd4",
+      "Qe8",
+      "Bg5",
+      "Nxe4",
+      "Nxe4",
+      "Qxe4",
+      "c3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02NAh",
+    "gameUrl": "https://lichess.org/game/G7Lcbu9W/black#66",
+    "theme": "crushing, defensiveMove, endgame, master, quietMove, short",
+    "startFen": "5Q2/p1p4k/2b4p/4q1pP/2Pppp2/1P4P1/P4PB1/6K1 b - - 3 33",
+    "moves": [
+      "fxg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "5Q2/p1p4k/2b4p/4q1pP/2Ppp3/1P4p1/P4PB1/6K1 w - - 0 34",
+      "solution": [
+        "Bh3",
+        "gxf2+",
+        "Kf1"
+      ]
+    },
+    "contextFen": "8/pbp4k/6pp/2p1qp2/2PRp2P/1P4P1/P3QPB1/6K1 b - - 0 29",
+    "contextMoves": [
+      "cxd4",
+      "h5",
+      "g5",
+      "Qd2",
+      "f4",
+      "Qb4",
+      "Bc6",
+      "Qf8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02PHm",
+    "gameUrl": "https://lichess.org/game/Vjcmkhlj#67",
+    "theme": "crushing, defensiveMove, endgame, quietMove, veryLong",
+    "startFen": "5k2/5pp1/p7/1p1p2p1/2bP2P1/4RPK1/PR5P/6r1 w - - 4 34",
+    "moves": [
+      "Rg2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "5k2/5pp1/p7/1p1p2p1/2bP2P1/4RPK1/P5RP/6r1 b - - 5 34",
+      "solution": [
+        "Rxg2+",
+        "Kxg2",
+        "b4",
+        "a4",
+        "b3",
+        "Re1",
+        "Bd3"
+      ]
+    },
+    "contextFen": "5k2/5pp1/p5p1/1p1p4/1R1P2P1/3b1PK1/PR5P/6r1 w - - 5 30",
+    "contextMoves": [
+      "Kf4",
+      "Rf1",
+      "Kg3",
+      "g5",
+      "R4b3",
+      "Bc4",
+      "Re3",
+      "Rg1+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02PbT",
+    "gameUrl": "https://lichess.org/game/A2HOiM52/black#80",
+    "theme": "crushing, endgame, quietMove, veryLong",
+    "startFen": "8/8/4k3/4p3/3p2P1/4PK2/r4R1P/8 b - - 7 40",
+    "moves": [
+      "Rxf2+"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/4k3/4p3/3p2P1/4PK2/5r1P/8 w - - 0 41",
+      "solution": [
+        "Kxf2",
+        "d3",
+        "e4",
+        "d2",
+        "Ke2",
+        "d1=R",
+        "Kxd1"
+      ]
+    },
+    "contextFen": "8/8/5k2/3pp2R/6P1/4P3/r6P/5K2 b - - 0 36",
+    "contextMoves": [
+      "d4",
+      "Rf5+",
+      "Ke6",
+      "Rf2",
+      "Ra1+",
+      "Ke2",
+      "Ra2+",
+      "Kf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02Q9P",
+    "gameUrl": "https://lichess.org/game/6Tc80ZZG/black#68",
+    "theme": "crushing, endgame, quietMove, short",
+    "startFen": "2k4r/pp2Rpp1/2p4q/3p4/1P1NbP2/2P3Q1/P6P/6K1 b - - 7 34",
+    "moves": [
+      "Qh5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "2k4r/pp2Rpp1/2p5/3p3q/1P1NbP2/2P3Q1/P6P/6K1 w - - 8 35",
+      "solution": [
+        "f5",
+        "Qxh2+",
+        "Qxh2"
+      ]
+    },
+    "contextFen": "2k4r/pp3pp1/2p2q2/3p1b2/1P3P2/1NP2Q2/P3R2P/1B4K1 b - - 1 30",
+    "contextMoves": [
+      "Bxb1",
+      "Nd4",
+      "Qg6+",
+      "Qg3",
+      "Qh6",
+      "Re5",
+      "Be4",
+      "Re7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02Qq3",
+    "gameUrl": "https://lichess.org/game/12ZVsGrl#81",
+    "theme": "crushing, endgame, pawnEndgame, quietMove, veryLong",
+    "startFen": "8/1p6/8/p5pp/Pk6/1P4PP/2K5/8 w - - 0 41",
+    "moves": [
+      "g4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/1p6/8/p5pp/Pk4P1/1P5P/2K5/8 b - - 0 41",
+      "solution": [
+        "h4",
+        "Kb2",
+        "Kc5",
+        "Kc3",
+        "Kd5",
+        "b4",
+        "axb4+"
+      ]
+    },
+    "contextFen": "8/1p6/2k4p/p5p1/P1K1p3/1P4PP/8/8 w - - 0 37",
+    "contextMoves": [
+      "Kd4",
+      "e3",
+      "Kxe3",
+      "Kc5",
+      "Kd3",
+      "Kb4",
+      "Kc2",
+      "h5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02Rzn",
+    "gameUrl": "https://lichess.org/game/Ta7npLSD#95",
+    "theme": "crushing, endgame, pawnEndgame, quietMove, veryLong, zugzwang",
+    "startFen": "8/7p/7p/4p2k/4P2P/5KP1/8/8 w - - 1 48",
+    "moves": [
+      "Kg2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/7p/7p/4p2k/4P2P/6P1/6K1/8 b - - 2 48",
+      "solution": [
+        "Kg4",
+        "Kf2",
+        "Kh3",
+        "Kf3",
+        "h5",
+        "Kf2",
+        "Kh2"
+      ]
+    },
+    "contextFen": "8/5rkp/7p/4p3/4P3/6PP/1R4K1/8 w - - 3 44",
+    "contextMoves": [
+      "Rb6",
+      "Rf6",
+      "Rxf6",
+      "Kxf6",
+      "Kf3",
+      "Kg5",
+      "h4+",
+      "Kh5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02SQO",
+    "gameUrl": "https://lichess.org/game/epjwWUlC#65",
+    "theme": "crushing, endgame, fork, long, quietMove",
+    "startFen": "k1r5/1p3pQ1/4p2p/p1q4P/5P2/6P1/PP6/1K1R4 w - - 1 33",
+    "moves": [
+      "Qh7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "k1r5/1p3p1Q/4p2p/p1q4P/5P2/6P1/PP6/1K1R4 b - - 2 33",
+      "solution": [
+        "f5",
+        "a3",
+        "Qc2+",
+        "Ka2",
+        "Qxd1"
+      ]
+    },
+    "contextFen": "k1r4r/1p3pp1/1q2p2p/p6P/1bP2PQ1/1N4P1/PP6/1KRR4 w - - 0 29",
+    "contextMoves": [
+      "c5",
+      "Bxc5",
+      "Nxc5",
+      "Rxc5",
+      "Rxc5",
+      "Qxc5",
+      "Qxg7",
+      "Rc8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02TLp",
+    "gameUrl": "https://lichess.org/game/DyHiMp0u#71",
+    "theme": "advancedPawn, crushing, endgame, pawnEndgame, promotion, quietMove, veryLong",
+    "startFen": "8/8/5p2/1p5p/2k1Kp2/P5P1/7P/8 w - - 0 36",
+    "moves": [
+      "gxf4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/5p2/1p5p/2k1KP2/P7/7P/8 b - - 0 36",
+      "solution": [
+        "Kb3",
+        "Kf5",
+        "Kxa3",
+        "Kxf6",
+        "b4",
+        "Ke7",
+        "b3",
+        "f5",
+        "b2",
+        "f6",
+        "b1=Q"
+      ]
+    },
+    "contextFen": "8/1p6/5p2/2kP2pp/8/P5P1/5P1P/6K1 w - - 1 32",
+    "contextMoves": [
+      "f4",
+      "Kxd5",
+      "Kf2",
+      "Kc4",
+      "Ke3",
+      "b5",
+      "Ke4",
+      "gxf4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02TvL",
+    "gameUrl": "https://lichess.org/game/AKOqTJ2s#55",
+    "theme": "crushing, endgame, exposedKing, quietMove, veryLong",
+    "startFen": "2k4r/p1p3q1/P4p2/2p5/Q1NP4/2P2K1P/6p1/R7 w - - 0 28",
+    "moves": [
+      "Rg1"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "2k4r/p1p3q1/P4p2/2p5/Q1NP4/2P2K1P/6p1/6R1 b - - 1 28",
+      "solution": [
+        "Rxh3+",
+        "Ke2",
+        "Qg6",
+        "Nd6+",
+        "Kd8",
+        "Qe8+",
+        "Qxe8+",
+        "Nxe8",
+        "Kxe8",
+        "Rxg2",
+        "Rxc3"
+      ]
+    },
+    "contextFen": "b1k2r2/p1p3q1/P1p2p2/8/Q1NP4/2P3pr/6P1/R4RK1 w - - 0 24",
+    "contextMoves": [
+      "gxh3",
+      "Rh8",
+      "Kg2",
+      "c5+",
+      "Rf3",
+      "Bxf3+",
+      "Kxf3",
+      "g2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02Y5F",
+    "gameUrl": "https://lichess.org/game/dgdWuck4/black#88",
+    "theme": "crushing, endgame, long, quietMove",
+    "startFen": "8/6p1/5pNk/r4P1p/3b3P/6P1/3R3K/8 b - - 4 44",
+    "moves": [
+      "Be5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/6p1/5pNk/r3bP1p/7P/6P1/3R3K/8 w - - 5 45",
+      "solution": [
+        "Rd8",
+        "Bxg3+",
+        "Kxg3",
+        "Rxf5",
+        "Ne7"
+      ]
+    },
+    "contextFen": "8/r5p1/5pNk/5P1p/8/6PP/2R4K/b7 b - - 4 40",
+    "contextMoves": [
+      "Kg5",
+      "Rf2",
+      "Bd4",
+      "h4+",
+      "Kh6",
+      "Rc2",
+      "Ra5",
+      "Rd2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02Yzg",
+    "gameUrl": "https://lichess.org/game/ajxIaD2f/black#88",
+    "theme": "bishopEndgame, crushing, endgame, quietMove, short",
+    "startFen": "8/8/2P1k3/8/8/p2P2Bp/Kb6/8 b - - 5 44",
+    "moves": [
+      "Bc1"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/2P1k3/8/8/p2P2Bp/K7/2b5 w - - 6 45",
+      "solution": [
+        "d4",
+        "Bb2",
+        "d5+"
+      ]
+    },
+    "contextFen": "8/8/2P1k3/7p/8/pK1P4/1b5B/8 b - - 2 40",
+    "contextMoves": [
+      "h4",
+      "Bf4",
+      "h3",
+      "Ka2",
+      "Bc1",
+      "Bh2",
+      "Bb2",
+      "Bg3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02ZzV",
+    "gameUrl": "https://lichess.org/game/b41IbQK9/black#116",
+    "theme": "endgame, mate, mateIn2, quietMove, short",
+    "startFen": "8/7b/8/p7/2BNpn2/k1K1p3/P7/8 b - - 9 58",
+    "moves": [
+      "Nd3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/7b/8/p7/2BNp3/k1Knp3/P7/8 w - - 10 59",
+      "solution": [
+        "Bb3",
+        "e2",
+        "Nc2#"
+      ]
+    },
+    "contextFen": "8/8/8/p4b2/1k1Np3/3np3/P1K1B3/8 b - - 1 54",
+    "contextMoves": [
+      "Bh7",
+      "Nc6+",
+      "Ka4",
+      "Kc3",
+      "Nf4",
+      "Nd4",
+      "Ka3",
+      "Bc4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02a1D",
+    "gameUrl": "https://lichess.org/game/THj1HQlR/black#68",
+    "theme": "crushing, endgame, long, pawnEndgame, quietMove",
+    "startFen": "8/8/p1p2p1p/3pk1p1/PPP5/3KP1P1/6P1/8 b - - 0 34",
+    "moves": [
+      "dxc4+"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/p1p2p1p/4k1p1/PPp5/3KP1P1/6P1/8 w - - 0 35",
+      "solution": [
+        "Kxc4",
+        "Kd6",
+        "g4",
+        "f5",
+        "gxf5"
+      ]
+    },
+    "contextFen": "8/2p2k2/p1p2p1p/3P2p1/P7/1P2P1P1/2P3P1/5K2 b - - 0 30",
+    "contextMoves": [
+      "cxd5",
+      "Ke2",
+      "Ke6",
+      "Kd3",
+      "Ke5",
+      "b4",
+      "c6",
+      "c4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02aCK",
+    "gameUrl": "https://lichess.org/game/XBIUOv2a/black#82",
+    "theme": "advancedPawn, crushing, endgame, master, masterVsMaster, quietMove, sacrifice, veryLong",
+    "startFen": "8/5p1p/K3p1p1/2k5/Pp2PP2/1P6/2B4n/8 b - - 1 41",
+    "moves": [
+      "Nf3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/5p1p/K3p1p1/2k5/Pp2PP2/1P3n2/2B5/8 w - - 2 42",
+      "solution": [
+        "Kb7",
+        "Nd4",
+        "a5",
+        "Nxc2",
+        "a6",
+        "Nd4",
+        "a7"
+      ]
+    },
+    "contextFen": "8/5p1p/3kp1p1/K7/PpB1nP2/1P2P3/5P1P/8 b - - 0 37",
+    "contextMoves": [
+      "Kc5",
+      "Bd3",
+      "Nxf2",
+      "Bc2",
+      "Ng4",
+      "e4",
+      "Nxh2",
+      "Ka6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02aR9",
+    "gameUrl": "https://lichess.org/game/ERAHVTmr/black#84",
+    "theme": "crushing, endgame, long, queenEndgame, quietMove",
+    "startFen": "8/3Q4/5kp1/1p6/2p2P2/4PK1P/1q6/8 b - - 2 42",
+    "moves": [
+      "c3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/3Q4/5kp1/1p6/5P2/2p1PK1P/1q6/8 w - - 0 43",
+      "solution": [
+        "e4",
+        "c2",
+        "e5+",
+        "Qxe5",
+        "fxe5+"
+      ]
+    },
+    "contextFen": "8/8/4k1p1/1pq5/2p1Q3/4PP1P/5K2/8 b - - 3 38",
+    "contextMoves": [
+      "Qe5",
+      "Qc6+",
+      "Kf7",
+      "Qd7+",
+      "Kf6",
+      "f4",
+      "Qb2+",
+      "Kf3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02b7o",
+    "gameUrl": "https://lichess.org/game/d9XtpOvR/black#58",
+    "theme": "clearance, crushing, endgame, pin, quietMove, short",
+    "startFen": "6k1/3n2pp/p4p2/2q1p3/3p4/PQ1P3P/1B3PP1/6K1 b - - 3 29",
+    "moves": [
+      "Kf8"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "5k2/3n2pp/p4p2/2q1p3/3p4/PQ1P3P/1B3PP1/6K1 w - - 4 30",
+      "solution": [
+        "a4",
+        "Ke7",
+        "Ba3"
+      ]
+    },
+    "contextFen": "2r3k1/3n1ppp/p1q5/4p3/3p4/P2P3P/1B1Q1PP1/4R1K1 b - - 3 25",
+    "contextMoves": [
+      "f6",
+      "Rc1",
+      "Qb7",
+      "Rxc8+",
+      "Qxc8",
+      "Qb4",
+      "Qc5",
+      "Qb3+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02bsl",
+    "gameUrl": "https://lichess.org/game/Gel7SkZm/black#72",
+    "theme": "crushing, defensiveMove, deflection, endgame, exposedKing, quietMove, sacrifice, veryLong",
+    "startFen": "6rk/2R1R3/1p5p/3N2p1/8/3b4/Pr6/4K3 b - - 1 36",
+    "moves": [
+      "Rf8"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "5r1k/2R1R3/1p5p/3N2p1/8/3b4/Pr6/4K3 w - - 2 37",
+      "solution": [
+        "Nf6",
+        "Rb1+",
+        "Kd2",
+        "Rd8",
+        "Re8+",
+        "Rxe8",
+        "Kxd3",
+        "Rd1+",
+        "Kc2",
+        "Rc1+",
+        "Kxc1",
+        "Rc8",
+        "Rxc8+"
+      ]
+    },
+    "contextFen": "2r4k/2R1R1pp/1p6/8/6PP/2Nb4/Pr6/4K3 b - - 6 32",
+    "contextMoves": [
+      "Rg8",
+      "h5",
+      "h6",
+      "g5",
+      "hxg5",
+      "h6",
+      "gxh6",
+      "Nd5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02cZW",
+    "gameUrl": "https://lichess.org/game/nYa1mad8/black#86",
+    "theme": "crushing, endgame, long, master, quietMove",
+    "startFen": "6k1/6p1/3p1p2/4nQP1/1q2P3/8/5RK1/8 b - - 0 43",
+    "moves": [
+      "fxg5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "6k1/6p1/3p4/4nQp1/1q2P3/8/5RK1/8 w - - 0 44",
+      "solution": [
+        "Rc2",
+        "Qb7",
+        "Rc8+",
+        "Qxc8",
+        "Qxc8+"
+      ]
+    },
+    "contextFen": "6k1/5np1/3p1p1p/1p2nQ2/2qBP1PP/2P5/5RK1/8 b - - 0 39",
+    "contextMoves": [
+      "b4",
+      "Bxe5",
+      "Nxe5",
+      "cxb4",
+      "Qxb4",
+      "g5",
+      "hxg5",
+      "hxg5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02cha",
+    "gameUrl": "https://lichess.org/game/JE7A8fgq#61",
+    "theme": "advantage, middlegame, quietMove, short",
+    "startFen": "1r4k1/1p4p1/2rBp2p/1p2P3/4QPPn/4P3/3q4/R4RK1 w - - 0 31",
+    "moves": [
+      "Bxb8"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "1B4k1/1p4p1/2r1p2p/1p2P3/4QPPn/4P3/3q4/R4RK1 b - - 0 31",
+      "solution": [
+        "Rc2",
+        "Qxc2",
+        "Qxc2"
+      ]
+    },
+    "contextFen": "1r1q1rk1/1p4p1/2p1p2p/1PP1P3/4pPPn/4P3/2Q5/R1B2RK1 w - - 0 27",
+    "contextMoves": [
+      "Qxe4",
+      "cxb5",
+      "Ba3",
+      "Qd2",
+      "c6",
+      "Rfc8",
+      "Bd6",
+      "Rxc6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02dWV",
+    "gameUrl": "https://lichess.org/game/Dw81hRCl/black#94",
+    "theme": "crushing, endgame, quietMove, short, zugzwang",
+    "startFen": "8/4k3/r5p1/2NPKp2/2P4P/p7/P7/8 b - - 1 47",
+    "moves": [
+      "Ra5"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/4k3/6p1/r1NPKp2/2P4P/p7/P7/8 w - - 2 48",
+      "solution": [
+        "Ne6",
+        "f4",
+        "Nxf4"
+      ]
+    },
+    "contextFen": "8/5pk1/r2p2p1/2pPP3/2P1K1NP/p7/P7/8 b - - 2 43",
+    "contextMoves": [
+      "dxe5",
+      "Nxe5",
+      "Kf8",
+      "Nd7+",
+      "Ke7",
+      "Nxc5",
+      "f5+",
+      "Ke5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02eAu",
+    "gameUrl": "https://lichess.org/game/puOlDSQo/black#96",
+    "theme": "advancedPawn, crushing, endgame, knightEndgame, quietMove, veryLong",
+    "startFen": "8/n1k4K/8/8/6P1/8/7P/8 b - - 0 48",
+    "moves": [
+      "Kd7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/n2k3K/8/8/6P1/8/7P/8 w - - 1 49",
+      "solution": [
+        "h4",
+        "Ke6",
+        "Kg7",
+        "Nc6",
+        "h5",
+        "Ne5",
+        "h6",
+        "Nxg4",
+        "h7"
+      ]
+    },
+    "contextFen": "3n4/2P4p/8/3k1K2/8/8/6PP/8 b - - 0 44",
+    "contextMoves": [
+      "Nc6",
+      "Kf6",
+      "Na7",
+      "Kg7",
+      "Kd6",
+      "Kxh7",
+      "Kxc7",
+      "g4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02g0i",
+    "gameUrl": "https://lichess.org/game/tchKBiXQ/black#72",
+    "theme": "advancedPawn, crushing, endgame, master, quietMove, rookEndgame, veryLong",
+    "startFen": "4k3/pp4p1/3PKp2/6pr/8/P2R1P2/8/8 b - - 2 36",
+    "moves": [
+      "g4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "4k3/pp4p1/3PKp2/7r/6p1/P2R1P2/8/8 w - - 0 37",
+      "solution": [
+        "d7+",
+        "Kd8",
+        "Rc3",
+        "Re5+",
+        "Kd6",
+        "Rd5+",
+        "Kxd5"
+      ]
+    },
+    "contextFen": "6k1/pp4p1/2p2p2/5KpP/2PP4/P2R1P2/7r/8 b - - 0 32",
+    "contextMoves": [
+      "Rxh5",
+      "d5",
+      "cxd5",
+      "cxd5",
+      "Kf7",
+      "d6",
+      "Ke8",
+      "Ke6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02gol",
+    "gameUrl": "https://lichess.org/game/l0zZYkD9/black#92",
+    "theme": "advancedPawn, crushing, defensiveMove, endgame, promotion, quietMove, sacrifice, veryLong",
+    "startFen": "4k3/1K3p2/4pPp1/1P2N2p/5P2/8/7P/2r5 b - - 10 46",
+    "moves": [
+      "Rb1"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "4k3/1K3p2/4pPp1/1P2N2p/5P2/8/7P/1r6 w - - 11 47",
+      "solution": [
+        "b6",
+        "Rh1",
+        "Kc6",
+        "Rxh2",
+        "Nc4",
+        "Rc2",
+        "b7",
+        "Rxc4+",
+        "Kb5",
+        "Kd7",
+        "b8=Q"
+      ]
+    },
+    "contextFen": "6k1/5p2/4pPp1/1P5p/3K1P2/3N4/7P/6r1 b - - 2 42",
+    "contextMoves": [
+      "Rb1",
+      "Kc5",
+      "Kf8",
+      "Kc6",
+      "Ke8",
+      "Ne5",
+      "Rc1+",
+      "Kb7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02gpk",
+    "gameUrl": "https://lichess.org/game/A6GMJz2C#23",
+    "theme": "crushing, intermezzo, long, middlegame, quietMove",
+    "startFen": "r3kb1r/pp1qnppp/4p3/4P3/3n4/4B3/PP3PPP/RN1Q1RK1 w kq - 0 12",
+    "moves": [
+      "Bxd4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "r3kb1r/pp1qnppp/4p3/4P3/3B4/8/PP3PPP/RN1Q1RK1 b kq - 0 12",
+      "solution": [
+        "Rd8",
+        "Nc3",
+        "Qxd4",
+        "Qxd4",
+        "Rxd4"
+      ]
+    },
+    "contextFen": "rnbqkb1r/pp2nppp/4p3/4P3/2BN4/8/PP3PPP/RNBQK2R w KQkq - 1 8",
+    "contextMoves": [
+      "Be3",
+      "Nbc6",
+      "Bb5",
+      "Bd7",
+      "O-O",
+      "Nxd4",
+      "Bxd7+",
+      "Qxd7"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02hgm",
+    "gameUrl": "https://lichess.org/game/lQb4Sp4b#97",
+    "theme": "crushing, endgame, intermezzo, quietMove, rookEndgame, veryLong",
+    "startFen": "8/4r3/5pp1/5k1p/5P1R/6PK/7P/8 w - - 0 49",
+    "moves": [
+      "g4+"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/4r3/5pp1/5k1p/5PPR/7K/7P/8 b - - 0 49",
+      "solution": [
+        "hxg4+",
+        "Rxg4",
+        "Rh7+",
+        "Kg3",
+        "Rxh2",
+        "Rxg6",
+        "Rh1",
+        "Kg2",
+        "Kxg6",
+        "Kxh1",
+        "Kf5"
+      ]
+    },
+    "contextFen": "8/4r1p1/5p1p/3k4/5PR1/6P1/6KP/8 w - - 3 45",
+    "contextMoves": [
+      "Rg6",
+      "Ke4",
+      "Kh3",
+      "Kf5",
+      "Rg4",
+      "h5",
+      "Rh4",
+      "g6"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02jSd",
+    "gameUrl": "https://lichess.org/game/wS1nikGx#99",
+    "theme": "crushing, endgame, long, pawnEndgame, quietMove",
+    "startFen": "6k1/5p2/p4P2/1p1pP3/2pP4/P7/1P4P1/7K w - - 0 50",
+    "moves": [
+      "g4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "6k1/5p2/p4P2/1p1pP3/2pP2P1/P7/1P6/7K b - - 0 50",
+      "solution": [
+        "a5",
+        "Kg2",
+        "b4",
+        "axb4",
+        "axb4"
+      ]
+    },
+    "contextFen": "r7/5p2/p4P1k/1p1pP3/2pP4/P7/1P4P1/5R1K w - - 0 46",
+    "contextMoves": [
+      "Rf3",
+      "Rg8",
+      "Rh3+",
+      "Kg6",
+      "Rg3+",
+      "Kh7",
+      "Rxg8",
+      "Kxg8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02jzH",
+    "gameUrl": "https://lichess.org/game/TZfWCq6x/black#86",
+    "theme": "crushing, defensiveMove, endgame, quietMove, veryLong",
+    "startFen": "4R3/R5pk/1p3b1p/7P/8/P2n2K1/r4P2/8 b - - 2 43",
+    "moves": [
+      "Nxf2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "4R3/R5pk/1p3b1p/7P/8/P5K1/r4n2/8 w - - 0 44",
+      "solution": [
+        "Raa8",
+        "Nh1+",
+        "Kf3",
+        "g5",
+        "Ra7+",
+        "Bg7",
+        "Ree7"
+      ]
+    },
+    "contextFen": "4R3/p4npk/1p3b1p/7P/8/P5R1/r4PK1/8 b - - 8 39",
+    "contextMoves": [
+      "Ng5",
+      "Rd3",
+      "Nf7",
+      "Rd7",
+      "Ne5",
+      "Rxa7",
+      "Nd3",
+      "Kg3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02k6q",
+    "gameUrl": "https://lichess.org/game/GqQonkYs#41",
+    "theme": "advantage, middlegame, quietMove, short",
+    "startFen": "2k4r/1ppqnp2/1b3B1p/pP1p4/P2P4/2NBPprb/5P1P/2RQR1K1 w - - 0 21",
+    "moves": [
+      "hxg3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "2k4r/1ppqnp2/1b3B1p/pP1p4/P2P4/2NBPpPb/5P2/2RQR1K1 b - - 0 21",
+      "solution": [
+        "Bg2",
+        "Qxf3",
+        "Bxf3"
+      ]
+    },
+    "contextFen": "2k3rr/1ppqnp2/1b2bn1p/pP1p2p1/P2P4/2NBPNB1/5PPP/2RQ1RK1 w - - 2 17",
+    "contextMoves": [
+      "Be5",
+      "g4",
+      "Bxf6",
+      "gxf3",
+      "g3",
+      "Bh3",
+      "Re1",
+      "Rxg3+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02kQm",
+    "gameUrl": "https://lichess.org/game/CleDTYpC#105",
+    "theme": "crushing, endgame, pawnEndgame, quietMove, short, zugzwang",
+    "startFen": "8/8/8/pp6/4k1p1/P1P3P1/1P3K2/8 w - - 2 53",
+    "moves": [
+      "Ke2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/8/pp6/4k1p1/P1P3P1/1P2K3/8 b - - 3 53",
+      "solution": [
+        "a4",
+        "b3",
+        "axb3"
+      ]
+    },
+    "contextFen": "8/8/5R2/pp1q2kp/6p1/P1P2RPP/1P4K1/8 w - - 2 49",
+    "contextMoves": [
+      "Rf5+",
+      "Qxf5",
+      "Rxf5+",
+      "Kxf5",
+      "hxg4+",
+      "hxg4",
+      "Kf2",
+      "Ke4"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02kZu",
+    "gameUrl": "https://lichess.org/game/ItIbtHc9/black#86",
+    "theme": "bishopEndgame, crushing, endgame, exposedKing, long, quietMove",
+    "startFen": "8/3k4/8/pp1PPKb1/6P1/8/P7/8 b - - 1 43",
+    "moves": [
+      "Bh4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/3k4/8/pp1PPK2/6Pb/8/P7/8 w - - 2 44",
+      "solution": [
+        "g5",
+        "a4",
+        "e6+",
+        "Ke8",
+        "d6"
+      ]
+    },
+    "contextFen": "2k5/8/pp6/4P3/3P4/5KP1/P7/2b5 b - - 1 39",
+    "contextMoves": [
+      "Kd7",
+      "Ke4",
+      "Bg5",
+      "g4",
+      "b5",
+      "d5",
+      "a5",
+      "Kf5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02l4q",
+    "gameUrl": "https://lichess.org/game/TJKSKzw3/black#42",
+    "theme": "crushing, defensiveMove, middlegame, quietMove, short",
+    "startFen": "r4rk1/ppp2p1p/2n2Pp1/4p3/q7/P3P1BR/1PPQ1P2/2KR4 b - - 0 21",
+    "moves": [
+      "Qg4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "r4rk1/ppp2p1p/2n2Pp1/4p3/6q1/P3P1BR/1PPQ1P2/2KR4 w - - 1 22",
+      "solution": [
+        "Rdh1",
+        "h5",
+        "e4"
+      ]
+    },
+    "contextFen": "rnb2rk1/ppp2pbp/5Np1/4p1P1/6q1/4P1B1/PPPQ1P2/2KR1B1R b - - 3 17",
+    "contextMoves": [
+      "Bxf6",
+      "gxf6",
+      "Nc6",
+      "Bh3",
+      "Qa4",
+      "a3",
+      "Bxh3",
+      "Rxh3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02lqK",
+    "gameUrl": "https://lichess.org/game/ylghV5mG#59",
+    "theme": "crushing, long, middlegame, quietMove",
+    "startFen": "6rr/pp2kp2/2pp4/4nK2/2P1PN2/4B3/PP3P1p/3R3R w - - 3 30",
+    "moves": [
+      "Bd4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "6rr/pp2kp2/2pp4/4nK2/2PBPN2/8/PP3P1p/3R3R b - - 4 30",
+      "solution": [
+        "f6",
+        "Ng6+",
+        "Rxg6",
+        "Bxe5",
+        "Rg5+"
+      ]
+    },
+    "contextFen": "r1bk3r/pp3p2/2pp4/3N4/2P1PNp1/4BnK1/PP3P1p/3R3R w - - 0 26",
+    "contextMoves": [
+      "Nf6",
+      "Ke7",
+      "Nxg4",
+      "Bxg4",
+      "Kxg4",
+      "Ne5+",
+      "Kf5",
+      "Rag8"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02oHh",
+    "gameUrl": "https://lichess.org/game/EUxHqmdy/black#50",
+    "theme": "crushing, endgame, exposedKing, long, quietMove, rookEndgame",
+    "startFen": "r6k/ppp2p1P/3p4/6R1/5r2/8/PPP5/2K4R b - - 1 25",
+    "moves": [
+      "Rf2"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "r6k/ppp2p1P/3p4/6R1/8/8/PPP2r2/2K4R w - - 2 26",
+      "solution": [
+        "Rhg1",
+        "a5",
+        "Rg8+",
+        "Kxh7",
+        "Rxa8"
+      ]
+    },
+    "contextFen": "r5k1/ppp2pbp/3p2p1/3R3P/4rP2/8/PPPB4/2K4R b - - 1 21",
+    "contextMoves": [
+      "Bh6",
+      "hxg6",
+      "Bxf4",
+      "gxh7+",
+      "Kh8",
+      "Bxf4",
+      "Rxf4",
+      "Rg5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02pht",
+    "gameUrl": "https://lichess.org/game/usaAuAPs/black#104",
+    "theme": "crushing, endgame, master, quietMove, rookEndgame, short",
+    "startFen": "8/8/5pk1/4p2p/2P1P3/2R1KPrP/8/8 b - - 2 52",
+    "moves": [
+      "Rxh3"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/8/5pk1/4p2p/2P1P3/2R1KP1r/8/8 w - - 0 53",
+      "solution": [
+        "c5",
+        "Rh1",
+        "c6"
+      ]
+    },
+    "contextFen": "8/8/2r2pk1/4p2p/4P3/2PRKP1P/6P1/8 b - - 1 48",
+    "contextMoves": [
+      "Ra6",
+      "Kd2",
+      "Ra2+",
+      "Ke3",
+      "Rxg2",
+      "c4",
+      "Rg3",
+      "Rc3"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02qNQ",
+    "gameUrl": "https://lichess.org/game/uR1RwwBf/black#64",
+    "theme": "crushing, defensiveMove, endgame, long, quietMove",
+    "startFen": "5rk1/1p4p1/1q3pP1/p6R/2r4P/1Pp5/K1Q5/7R b - - 2 32",
+    "moves": [
+      "Rcc8"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "2r2rk1/1p4p1/1q3pP1/p6R/7P/1Pp5/K1Q5/7R w - - 3 33",
+      "solution": [
+        "Qf5",
+        "Rfd8",
+        "Re1",
+        "Rd2+",
+        "Ka1"
+      ]
+    },
+    "contextFen": "2r2rk1/1p3pp1/1q4P1/p6p/7P/1PpB4/2Q5/1K3R1R b - - 0 28",
+    "contextMoves": [
+      "f6",
+      "Bc4+",
+      "Kh8",
+      "Rf5",
+      "Rxc4",
+      "Rxh5+",
+      "Kg8",
+      "Ka2"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02qob",
+    "gameUrl": "https://lichess.org/game/Q1B5bjWD/black#78",
+    "theme": "crushing, endgame, quietMove, short",
+    "startFen": "3Q2k1/3bBp2/2p3p1/1p3q2/p2P4/7P/2P3P1/6K1 b - - 4 39",
+    "moves": [
+      "Kh7"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "3Q4/3bBp1k/2p3p1/1p3q2/p2P4/7P/2P3P1/6K1 w - - 5 40",
+      "solution": [
+        "Bf6",
+        "Qxf6",
+        "Qxf6"
+      ]
+    },
+    "contextFen": "6k1/1b1q1p2/2p3p1/ppB1Q3/3P4/8/2P3PP/6K1 b - - 0 35",
+    "contextMoves": [
+      "a4",
+      "Be7",
+      "Bc8",
+      "h3",
+      "Qf5",
+      "Qc7",
+      "Bd7",
+      "Qd8+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02tM3",
+    "gameUrl": "https://lichess.org/game/6XUHkplP#111",
+    "theme": "advancedPawn, crushing, endgame, long, master, pawnEndgame, quietMove",
+    "startFen": "6k1/5p2/5P2/K5p1/P7/8/8/8 w - - 0 56",
+    "moves": [
+      "Kb6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "6k1/5p2/1K3P2/6p1/P7/8/8/8 b - - 1 56",
+      "solution": [
+        "g4",
+        "Kc5",
+        "g3",
+        "Kd4",
+        "g2"
+      ]
+    },
+    "contextFen": "3B2k1/5p2/5Pp1/p7/P7/2K1b3/8/8 w - - 1 52",
+    "contextMoves": [
+      "Kc4",
+      "Bf2",
+      "Kb5",
+      "Be1",
+      "Bxa5",
+      "Bxa5",
+      "Kxa5",
+      "g5"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02ti8",
+    "gameUrl": "https://lichess.org/game/L7u9w6T1/black#68",
+    "theme": "crushing, endgame, long, quietMove",
+    "startFen": "8/2r2pkp/p4Qp1/1q6/1P6/7P/2r3P1/4RR1K b - - 9 34",
+    "moves": [
+      "Kh6"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "8/2r2p1p/p4Qpk/1q6/1P6/7P/2r3P1/4RR1K w - - 10 35",
+      "solution": [
+        "Rf4",
+        "R2c4",
+        "Re5",
+        "Qxe5",
+        "Qxe5"
+      ]
+    },
+    "contextFen": "2r3k1/5p1p/p5p1/8/1P2Q3/7P/2r2qP1/1R3R1K b - - 1 30",
+    "contextMoves": [
+      "Qe2",
+      "Qd5",
+      "R8c7",
+      "Rbe1",
+      "Qb5",
+      "Qd8+",
+      "Kg7",
+      "Qf6+"
+    ]
+  },
+  {
+    "site": "https://lichess.org/training/02uIX",
+    "gameUrl": "https://lichess.org/game/XcgohB7X#67",
+    "theme": "crushing, endgame, master, quietMove, rookEndgame, veryLong",
+    "startFen": "2r5/8/p7/3R2pk/1P3pp1/8/PP3PKP/8 w - - 0 34",
+    "moves": [
+      "a4"
+    ],
+    "puzzle": {
+      "prompt": "Find the quiet move.",
+      "fen": "2r5/8/p7/3R2pk/PP3pp1/8/1P3PKP/8 b - - 0 34",
+      "solution": [
+        "f3+",
+        "Kg3",
+        "Rc1",
+        "h3",
+        "Rg1+",
+        "Kh2",
+        "Rg2+"
+      ]
+    },
+    "contextFen": "2r5/7p/p2R4/2B2p1k/1P4p1/5n2/PP3P1P/7K w - - 4 30",
+    "contextMoves": [
+      "Kg2",
+      "f4",
+      "Rd5+",
+      "Ng5",
+      "Be7",
+      "h6",
+      "Bxg5",
+      "hxg5"
+    ]
+  }
+]
